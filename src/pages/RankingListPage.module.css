@@ -1,0 +1,63 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.title {
+  margin-bottom: 2rem;
+}
+
+.yearHeading {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.rankingList {
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  max-width: 600px;
+}
+
+.rankingItem {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.rank {
+  font-weight: bold;
+  min-width: 2rem;
+  text-align: right;
+}
+
+.songLink {
+  text-decoration: none;
+  color: #333;
+}
+
+.songLink:hover {
+  text-decoration: underline;
+}
+
+.songTitle {
+  font-weight: bold;
+}
+
+.artistName {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.loading {
+  margin-top: 2rem;
+}
+
+.error {
+  margin-top: 2rem;
+  color: #666;
+}
