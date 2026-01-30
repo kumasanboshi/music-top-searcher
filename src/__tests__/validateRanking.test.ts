@@ -1,3 +1,5 @@
+import { readFileSync } from 'fs'
+import { resolve } from 'path'
 import { validateRanking } from '../utils/validateRanking'
 import type { Ranking } from '../types'
 
@@ -179,6 +181,28 @@ describe('validateRanking', () => {
       const result = validateRanking(data)
       expect(result.valid).toBe(false)
       expect(result.errors).toContain('invalid genre: rock')
+    })
+  })
+
+  describe('サンプルデータの検証', () => {
+    const dataDir = resolve(__dirname, '../../public/data/rankings')
+
+    it('2024年邦楽データが有効', () => {
+      const raw = readFileSync(resolve(dataDir, '2024-jpop.json'), 'utf-8')
+      const data: Ranking = JSON.parse(raw)
+      const result = validateRanking(data)
+      expect(result.valid).toBe(true)
+      expect(result.errors).toHaveLength(0)
+      expect(data.entries).toHaveLength(10)
+    })
+
+    it('2024年洋楽データが有効', () => {
+      const raw = readFileSync(resolve(dataDir, '2024-western.json'), 'utf-8')
+      const data: Ranking = JSON.parse(raw)
+      const result = validateRanking(data)
+      expect(result.valid).toBe(true)
+      expect(result.errors).toHaveLength(0)
+      expect(data.entries).toHaveLength(10)
     })
   })
 })
