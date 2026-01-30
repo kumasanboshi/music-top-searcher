@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import TopPage from './pages/TopPage'
 
 function App() {
   return (
     <BrowserRouter>
-      <h1>Music Top Searcher</h1>
       <Routes>
-        <Route path="/" element={<div>Home</div>} />
+        <Route path="/" element={<TopPage />} />
       </Routes>
     </BrowserRouter>
   )
