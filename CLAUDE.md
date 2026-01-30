@@ -1,23 +1,24 @@
 # CLAUDE.md
 
 ## Project
-<!-- プロジェクト名と簡単な説明 -->
-PROJECT_NAME - 説明
+Music Top Searcher - 音楽トップサーチャー
 
 ## Tech Stack
-<!-- 使用技術を記載 -->
-- Frontend:
-- Backend:
-- Database:
-- API:
+- Frontend: React 19, TypeScript, Vite 7
+- Testing: Vitest, React Testing Library
+- Routing: React Router v7
+- Linting/Formatting: ESLint, Prettier
 
 ## Key Commands
 ```bash
-# よく使うコマンドを記載
-npm start          # 開発サーバー起動
+npm run dev        # 開発サーバー起動
 npm run build      # ビルド
-npm run test       # テスト実行
+npm test           # テスト実行
+npm run test:watch # テスト（watchモード）
 npm run lint       # リンター実行
+npm run typecheck  # 型チェック
+npm run format     # フォーマット実行
+npm run format:check # フォーマットチェック
 ```
 
 ## Project Structure
