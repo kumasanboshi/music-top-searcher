@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import TopPage from './pages/TopPage'
 import YearSelectPage from './pages/YearSelectPage'
+import RankingListPage from './pages/RankingListPage'
 
 function App() {
   return (
@@ -8,6 +9,11 @@ function App() {
       <Routes>
         <Route path="/" element={<TopPage />} />
         <Route path="/rankings/:genre" element={<YearSelectPage />} />
+        <Route path="/rankings/:genre/:year" element={<RankingListPage />} />
+        <Route
+          path="/rankings/:genre/decade/:decade"
+          element={<RankingListPage />}
+        />
       </Routes>
     </BrowserRouter>
   )
