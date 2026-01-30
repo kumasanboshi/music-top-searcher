@@ -1,15 +1,13 @@
 # CLAUDE.md
 
 ## Project
-<!-- プロジェクト名と簡単な説明 -->
-PROJECT_NAME - 説明
+Music Top Searcher - 過去50年分の邦楽・洋楽 年間売上TOP100検索Webアプリ
 
 ## Tech Stack
-<!-- 使用技術を記載 -->
-- Frontend:
-- Backend:
-- Database:
-- API:
+- Frontend: React + TypeScript
+- Hosting: Cloudflare Pages or Vercel（静的サイト）
+- Data: ローカルJSON（アプリ内バンドル）
+- PWA: オフライン対応
 
 ## Key Commands
 ```bash
@@ -38,9 +36,9 @@ src/
 - `docs/CONTRIBUTING.md` - コーディング規約・開発フロー
 
 ## Domain Terms
-<!-- プロジェクト固有の用語を記載 -->
-- **Term1**: 説明
-- **Term2**: 説明
+- **邦楽**: 日本国内アーティストの楽曲
+- **洋楽**: 海外アーティストの楽曲
+- **ランクイン曲**: 年間TOP100に入った曲
 
 ## Guidelines
 - 不明点は確認してから実装
