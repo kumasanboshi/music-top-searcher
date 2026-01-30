@@ -1,55 +1,73 @@
-# Project Template
+# React + TypeScript + Vite
 
-AIエージェント対応のプロジェクトテンプレート。
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 含まれるファイル
+Currently, two official plugins are available:
 
-| ファイル | 用途 |
-|----------|------|
-| `CLAUDE.md` | Claude Code用の設定（要カスタマイズ） |
-| `AGENTS.md` | 他AIエージェント用（Codex, Cursor等） |
-| `WORKFLOW_SETUP.md` | Issue + worktree + PR のワークフロー説明 |
-| `.gitignore` | 汎用的な除外設定 |
-| `.claude/settings.local.json` | Claude Code権限設定 |
-| `docs/CONTRIBUTING.md` | Git規約・開発フロー |
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## 使い方
+## React Compiler
 
-### 1. このテンプレートから新規リポジトリ作成
-```bash
-gh repo create my-new-project --template kumasanboshi/project-template
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+
+```js
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+
+      // Remove tseslint.configs.recommended and replace with this
+      tseslint.configs.recommendedTypeChecked,
+      // Alternatively, use this for stricter rules
+      tseslint.configs.strictTypeChecked,
+      // Optionally, add this for stylistic rules
+      tseslint.configs.stylisticTypeChecked,
+
+      // Other configs...
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
 
-または GitHub上で「Use this template」ボタン
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-### 2. CLAUDE.md / AGENTS.md をカスタマイズ
-プロジェクト固有の情報を記入：
-- プロジェクト名・説明
-- 技術スタック
-- コマンド
-- ディレクトリ構造
-- ドメイン用語
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
 
-### 3. 必要に応じてdocsを追加
-- `docs/PROJECT.md` - プロジェクト詳細
-- `docs/ARCHITECTURE.md` - 技術設計
-
-## AIエージェント対応
-
-### Claude Code
-`CLAUDE.md` を自動で読み込み
-
-### OpenAI Codex
-`AGENTS.md` を自動で読み込み
-
-### Cursor / Zed / その他
-`AGENTS.md` または同等のファイルを参照
-
-## CodeRabbit設定（推奨）
-
-1. https://www.coderabbit.ai でサインアップ
-2. リポジトリにインストール
-3. PR作成時に自動レビュー
-
-## ライセンス
-MIT
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+      // Enable lint rules for React
+      reactX.configs['recommended-typescript'],
+      // Enable lint rules for React DOM
+      reactDom.configs.recommended,
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
+```
