@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.title {
+  margin-bottom: 2rem;
+}
+
+.genreButtons {
+  display: flex;
+  gap: 1rem;
+}
+
+.genreButton {
+  display: inline-block;
+  padding: 1rem 2rem;
+  border: 2px solid #333;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #333;
+  font-size: 1.25rem;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.genreButton:hover {
+  background-color: #f0f0f0;
+}
