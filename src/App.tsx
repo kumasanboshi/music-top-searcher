@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import TopPage from './pages/TopPage'
 import YearSelectPage from './pages/YearSelectPage'
 import RankingListPage from './pages/RankingListPage'
+import SongDetailPage from './pages/SongDetailPage'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           path="/rankings/:genre/decade/:decade"
           element={<RankingListPage />}
         />
+        <Route path="/songs/:genre/:songId" element={<SongDetailPage />} />
       </Routes>
     </BrowserRouter>
   )
