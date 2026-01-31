@@ -29,6 +29,16 @@ export interface Song {
 export interface RankingEntry {
   rank: number
   song: Song
+  year?: number
+}
+
+export interface SongDetail {
+  song: Song
+  rankingYear: number
+  rank: number
+  cdInfo?: CdInfo[]
+  externalLinks?: ExternalLinks
+  artistSongs?: RankingEntry[]
 }
 
 export interface Ranking {
