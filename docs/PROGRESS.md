@@ -41,3 +41,150 @@
 
 - Vite v7 + Vitest v4 の組み合わせでは `vite.config.ts` に `test` プロパティを直接書けないため、`vitest.config.ts` を別ファイルとして作成
 - git config はリポジトリローカルに設定（name: kumasanboshi, email: kumasanboshi@users.noreply.github.com）
+
+## Issue #4: トップページの実装 ✅
+
+### 実施内容
+
+- `src/pages/TopPage.tsx`: トップページコンポーネントを作成
+  - アプリタイトル「Music Top Searcher」を `<h1>` で表示
+  - 「邦楽」「洋楽」の2つのジャンル選択リンクボタンを表示
+  - 邦楽 → `/rankings/jpop`、洋楽 → `/rankings/western` へ遷移
+- `src/pages/TopPage.module.css`: CSS Modulesでスタイリング
+- `src/App.tsx`: ルーティング更新（ルートパスにTopPageを設定、h1をTopPageに移動）
+- `src/__tests__/TopPage.test.tsx`: 5つのテストケース
+  - アプリタイトル表示、邦楽/洋楽ボタン表示、各リンク先の検証
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 29 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ⚠️ 既存ファイル(validateRanking.test.ts)のNode.js型エラーのみ（今回の変更とは無関係） |
+
+### コミット履歴
+
+| コミット | メッセージ |
+|---------|-----------|
+| `f0e61ed` | test: TopPageのテストを追加 |
+| `a89a7e8` | feat: TopPageコンポーネントを実装 |
+| `ee2ad40` | feat: App.tsxにTopPageルーティングを設定 |
+
+### 備考
+
+- 検証サブエージェントにより、ジャンルのルートパス・ラベルを定数ファイルに抽出すると保守性が向上するとの指摘あり（今後の改善候補）
+
+## Issue #5: 年・年代選択ページの実装 ✅
+
+### 実施内容
+
+- `src/pages/YearSelectPage.tsx`: 年・年代選択ページコンポーネントを作成
+  - URLパラメータ `genre` から邦楽/洋楽を判定しタイトル表示（例:「邦楽 - 年を選択」）
+  - 年代別セクション: 6つのボタン（70年代後半〜20年代）→ `/rankings/:genre/decade/:decade`
+  - 年別セクション: 1975〜2025の51個のボタン → `/rankings/:genre/:year`
+- `src/pages/YearSelectPage.module.css`: CSS Modulesでスタイリング（flex-wrap対応）
+- `src/App.tsx`: ルート追加（`/rankings/:genre` → YearSelectPage）
+- `src/__tests__/YearSelectPage.test.tsx`: 6つのテストケース
+  - 邦楽/洋楽タイトル表示、年代別ボタン表示(6つ)、年別ボタン表示(1975〜2025)、年代別/年別リンク先検証
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 35 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ⚠️ 既存ファイル(validateRanking.test.ts)のNode.js型エラーのみ（今回の変更とは無関係） |
+
+### コミット履歴
+
+| コミット | メッセージ |
+|---------|-----------|
+| `ee95717` | test: YearSelectPageのテストを追加 |
+| `f111f59` | feat: YearSelectPageを実装 |
+| `b28cda2` | feat: App.tsxにYearSelectPageルーティングを設定 |
+
+### 備考
+
+- 検証サブエージェントにより、不正ジャンルのフォールバック動作（genre値をそのまま表示）のテストが未カバーとの指摘あり（今後の改善候補）
+
+## Issue #6: ランキング一覧ページの実装 ✅
+
+### 実施内容
+
+- `src/services/rankingService.ts`: ランキングデータ取得サービスを作成
+  - `fetchRankingByYear(year, genre)`: 年別ランキングJSON取得（404/エラー時はnull）
+  - `fetchRankingsByDecade(decade, genre)`: 年代の各年データを取得・結合
+- `src/pages/RankingListPage.tsx`: ランキング一覧ページコンポーネントを作成
+  - 年別（`/rankings/:genre/:year`）と年代別（`/rankings/:genre/decade/:decade`）の両対応
+  - ローディング・エラー・データ表示の状態管理
+  - 各曲は `/songs/:genre/:songId` へのリンク付き
+- `src/pages/RankingListPage.module.css`: CSS Modulesでスタイリング
+- `src/App.tsx`: 2つのルート追加
+- `src/__tests__/rankingService.test.ts`: 8つのテストケース
+  - 正常取得、404エラー、ネットワークエラー、年代→年範囲変換、複数年結合、データなしスキップ
+- `src/__tests__/RankingListPage.test.tsx`: 9つのテストケース
+  - タイトル表示（邦楽/洋楽）、エントリ表示、リンク先検証、ローディング、エラー、年代別表示
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 52 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ⚠️ 既存ファイル(validateRanking.test.ts)のNode.js型エラーのみ（今回の変更とは無関係） |
+
+### コミット履歴
+
+| コミット | メッセージ |
+|---------|-----------|
+| `7ccc132` | test: RankingListPageのテストを追加 |
+| `df5d5b8` | feat: RankingListPageを実装 |
+| `555c0f6` | feat: App.tsxにRankingListPageルーティングを設定 |
+
+### 備考
+
+- 検証サブエージェントにより、loading/errorの状態管理をenum型に統合する改善案、useRankingData カスタムフック抽出の提案あり（今後の改善候補）
+
+## Issue #7: 曲の詳細ページの実装 ✅
+
+### 実施内容
+
+- `src/types/index.ts`: `SongDetail` 型追加、`RankingEntry` に `year?` プロパティ追加
+- `src/services/songService.ts`: `fetchSongDetail(songId)` を作成（JSONフェッチ、404/エラー時はnull）
+- `src/pages/SongDetailPage.tsx`: 曲詳細ページコンポーネントを作成
+  - 曲名・アーティスト名・ランキング順位/年の表示
+  - CD情報セクション（cdInfoがある場合のみ表示）
+  - 外部リンクセクション（Amazon/Apple Music、リンクがある場合のみ表示）
+  - 同アーティストの他のランクイン曲セクション
+  - ローディング・エラー状態の表示
+- `src/pages/SongDetailPage.module.css`: CSS Modulesでスタイリング
+- `src/App.tsx`: ルート追加（`/songs/:genre/:songId` → SongDetailPage）
+- `public/data/songs/jpop-2024-01.json`, `jpop-2024-02.json`: サンプルデータ
+- `src/__tests__/songService.test.ts`: 3つのテストケース
+  - 正常取得、存在しない曲でnull、ネットワークエラーでnull
+- `src/__tests__/SongDetailPage.test.tsx`: 10のテストケース
+  - 曲名/アーティスト表示、順位/年表示、CD情報表示、Amazon/Apple Musicリンク、同アーティスト曲、リンクなし/CDなし時の非表示、ローディング、エラー
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 65 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| コミット | メッセージ |
+|---------|-----------|
+| `1cdc402` | test: SongDetailPageとsongServiceのテストを追加 |
+| `765fda4` | feat: SongDetailPageを実装 |
+
+### 備考
+
+- 検証サブエージェントにより以下の改善候補が指摘:
+  - テスト用mockデータの共通化（fixtures抽出）
+  - SongDetailPageのSRP改善（CD情報/外部リンク/アーティスト曲を子コンポーネントに分離）
+  - 外部リンクのURLバリデーション（`javascript:`プロトコル防止）
+  - 空配列（`cdInfo: []`, `artistSongs: []`）のテストケース追加
