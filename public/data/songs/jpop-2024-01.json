@@ -1,0 +1,29 @@
+{
+  "song": {
+    "id": "jpop-2024-01",
+    "title": "Bling-Bang-Bang-Born",
+    "artist": { "id": "a-creepy-nuts", "name": "Creepy Nuts" },
+    "genre": "jpop"
+  },
+  "rankingYear": 2024,
+  "rank": 1,
+  "cdInfo": [
+    { "title": "Bling-Bang-Bang-Born", "type": "single", "releaseDate": "2024-01-07" }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-2024-05",
+        "title": "二度寝",
+        "artist": { "id": "a-creepy-nuts", "name": "Creepy Nuts" },
+        "genre": "jpop"
+      },
+      "year": 2024
+    }
+  ]
+}
