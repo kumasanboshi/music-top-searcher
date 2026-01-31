@@ -55,7 +55,9 @@ describe('SongDetailPage', () => {
 
     renderPage('jpop', 'jpop-2024-01')
 
-    expect(await screen.findByText('Bling-Bang-Bang-Born')).toBeInTheDocument()
+    expect(
+      await screen.findByRole('heading', { level: 1, name: 'Bling-Bang-Bang-Born' }),
+    ).toBeInTheDocument()
     expect(screen.getByText('Creepy Nuts')).toBeInTheDocument()
   })
 
@@ -64,8 +66,7 @@ describe('SongDetailPage', () => {
 
     renderPage('jpop', 'jpop-2024-01')
 
-    expect(await screen.findByText(/1位/)).toBeInTheDocument()
-    expect(screen.getByText(/2024/)).toBeInTheDocument()
+    expect(await screen.findByText(/2024年 1位/)).toBeInTheDocument()
   })
 
   it('CD情報を表示する', async () => {
@@ -73,7 +74,7 @@ describe('SongDetailPage', () => {
 
     renderPage('jpop', 'jpop-2024-01')
 
-    expect(await screen.findByText(/Bling-Bang-Bang-Born/)).toBeInTheDocument()
+    expect(await screen.findByText('CD情報')).toBeInTheDocument()
     expect(screen.getByText(/single/i)).toBeInTheDocument()
     expect(screen.getByText(/2024-01-07/)).toBeInTheDocument()
   })
@@ -110,9 +111,9 @@ describe('SongDetailPage', () => {
 
     renderPage('jpop', 'jpop-2024-01')
 
-    await screen.findByText('Bling-Bang-Bang-Born')
-    expect(screen.queryByText(/Amazon/)).not.toBeInTheDocument()
-    expect(screen.queryByText(/Apple Music/)).not.toBeInTheDocument()
+    await screen.findByRole('heading', { level: 1, name: 'Bling-Bang-Bang-Born' })
+    expect(screen.queryByRole('link', { name: /Amazon/ })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: /Apple Music/ })).not.toBeInTheDocument()
   })
 
   it('CD情報がない場合はCDセクションを表示しない', async () => {
@@ -121,7 +122,7 @@ describe('SongDetailPage', () => {
 
     renderPage('jpop', 'jpop-2024-01')
 
-    await screen.findByText('Bling-Bang-Bang-Born')
+    await screen.findByRole('heading', { level: 1, name: 'Bling-Bang-Bang-Born' })
     expect(screen.queryByText(/single/i)).not.toBeInTheDocument()
   })
 
