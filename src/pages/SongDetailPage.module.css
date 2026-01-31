@@ -1,0 +1,88 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.songTitle {
+  margin-bottom: 0.5rem;
+}
+
+.artistName {
+  color: #666;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.rankingInfo {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+.section {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 2rem;
+}
+
+.sectionTitle {
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+.cdItem {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.linkList {
+  list-style: none;
+  padding: 0;
+}
+
+.linkList li {
+  padding: 0.5rem 0;
+}
+
+.linkList a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.linkList a:hover {
+  text-decoration: underline;
+}
+
+.artistSongList {
+  list-style: none;
+  padding: 0;
+}
+
+.artistSongItem {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.artistSongItem a {
+  color: #333;
+  text-decoration: none;
+}
+
+.artistSongItem a:hover {
+  text-decoration: underline;
+}
+
+.loading {
+  margin-top: 2rem;
+}
+
+.error {
+  margin-top: 2rem;
+  color: #666;
+}
