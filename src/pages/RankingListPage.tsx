@@ -73,27 +73,30 @@ function RankingListPage() {
       <h1 className={styles.title}>
         {genreLabel} TOP100 {titleSuffix}
       </h1>
-      {rankings.map((ranking) => (
-        <div key={ranking.year}>
-          {decade && <h2 className={styles.yearHeading}>{ranking.year}</h2>}
-          <ol className={styles.rankingList}>
-            {ranking.entries.map((entry) => (
-              <li key={entry.song.id} className={styles.rankingItem}>
-                <span className={styles.rank}>{entry.rank}</span>
-                <Link
-                  to={`/songs/${entry.song.genre}/${entry.song.id}`}
-                  className={styles.songLink}
-                >
-                  <span className={styles.songTitle}>{entry.song.title}</span>
-                </Link>
-                <span className={styles.artistName}>
-                  {entry.song.artist.name}
-                </span>
-              </li>
-            ))}
-          </ol>
-        </div>
-      ))}
+      <ol className={styles.rankingList}>
+        {(decade
+          ? rankings.flatMap((ranking) =>
+              ranking.entries.map((entry) => ({ ...entry, year: ranking.year })),
+            )
+          : rankings.flatMap((ranking) => ranking.entries)
+        ).map((entry) => (
+          <li key={entry.song.id} className={styles.rankingItem}>
+            <span className={styles.rank}>{entry.rank}</span>
+            <Link
+              to={`/songs/${entry.song.genre}/${entry.song.id}`}
+              className={styles.songLink}
+            >
+              <span className={styles.songTitle}>{entry.song.title}</span>
+            </Link>
+            <span className={styles.artistName}>
+              {entry.song.artist.name}
+            </span>
+            {'year' in entry && (
+              <span className={styles.entryYear}>{entry.year}</span>
+            )}
+          </li>
+        ))}
+      </ol>
     </div>
   )
 }
