@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { fetchSongDetail } from '../services/songService'
+import { useOnlineStatus } from '../hooks/useOnlineStatus'
 import type { SongDetail } from '../types'
 import styles from './SongDetailPage.module.css'
 
 function SongDetailPage() {
   const { songId } = useParams<{ genre: string; songId: string }>()
+  const isOnline = useOnlineStatus()
   const [detail, setDetail] = useState<SongDetail | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
@@ -67,7 +69,7 @@ function SongDetailPage() {
         </div>
       )}
 
-      {externalLinks && (externalLinks.amazon || externalLinks.appleMusic) && (
+      {isOnline && externalLinks && (externalLinks.amazon || externalLinks.appleMusic) && (
         <div className={styles.section}>
           <h2 className={styles.sectionTitle}>外部リンク</h2>
           <ul className={styles.linkList}>
