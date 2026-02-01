@@ -13,6 +13,9 @@ function TopPage() {
           洋楽
         </Link>
       </div>
+      <Link to="/search" className={styles.searchLink}>
+        曲を検索
+      </Link>
     </div>
   )
 }

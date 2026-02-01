@@ -3,6 +3,7 @@ import TopPage from './pages/TopPage'
 import YearSelectPage from './pages/YearSelectPage'
 import RankingListPage from './pages/RankingListPage'
 import SongDetailPage from './pages/SongDetailPage'
+import SearchPage from './pages/SearchPage'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           element={<RankingListPage />}
         />
         <Route path="/songs/:genre/:songId" element={<SongDetailPage />} />
+        <Route path="/search" element={<SearchPage />} />
       </Routes>
     </BrowserRouter>
   )

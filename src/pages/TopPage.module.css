@@ -29,3 +29,14 @@
 .genreButton:hover {
   background-color: #f0f0f0;
 }
+
+.searchLink {
+  margin-top: 2rem;
+  color: #1a73e8;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.searchLink:hover {
+  text-decoration: underline;
+}
