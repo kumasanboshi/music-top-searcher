@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-1991-09",
+    "title": "Oh! Yeah!",
+    "artist": {
+      "id": "a-oda-kazumasa",
+      "name": "小田和正"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1991,
+  "rank": 9,
+  "cdInfo": [
+    {
+      "title": "Oh! Yeah!",
+      "type": "single",
+      "releaseDate": "1991-02-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1991-02",
+        "title": "ラブ・ストーリーは突然に",
+        "artist": {
+          "id": "a-oda-kazumasa",
+          "name": "小田和正"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    }
+  ]
+}

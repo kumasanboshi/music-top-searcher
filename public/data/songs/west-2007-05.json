@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2007-05",
+    "title": "The Sweet Escape",
+    "artist": {
+      "id": "a-gwen-stefani",
+      "name": "Gwen Stefani"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2007,
+  "rank": 5,
+  "cdInfo": [
+    {
+      "title": "The Sweet Escape",
+      "type": "single",
+      "releaseDate": "2006-10-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2005-02",
+        "title": "Hollaback Girl",
+        "artist": {
+          "id": "a-gwen-stefani",
+          "name": "Gwen Stefani"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    }
+  ]
+}

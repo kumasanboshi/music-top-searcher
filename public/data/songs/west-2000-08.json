@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2000-08",
+    "title": "Bent",
+    "artist": {
+      "id": "a-matchbox-twenty",
+      "name": "Matchbox Twenty"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2000,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "Bent",
+      "type": "single",
+      "releaseDate": "2000-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2003-07",
+        "title": "Unwell",
+        "artist": {
+          "id": "a-matchbox-twenty",
+          "name": "Matchbox Twenty"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    }
+  ]
+}

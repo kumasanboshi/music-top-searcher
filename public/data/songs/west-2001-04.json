@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2001-04",
+    "title": "Drops of Jupiter (Tell Me)",
+    "artist": {
+      "id": "a-train",
+      "name": "Train"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2001,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "Drops of Jupiter (Tell Me)",
+      "type": "single",
+      "releaseDate": "2001-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2010-03",
+        "title": "Hey, Soul Sister",
+        "artist": {
+          "id": "a-train",
+          "name": "Train"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    }
+  ]
+}

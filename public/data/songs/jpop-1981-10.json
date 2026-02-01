@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "jpop-1981-10",
+    "title": "ギンギラギンにさりげなく",
+    "artist": {
+      "id": "a-kondo-masahiko",
+      "name": "近藤真彦"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1981,
+  "rank": 10,
+  "cdInfo": [
+    {
+      "title": "ギンギラギンにさりげなく",
+      "type": "single",
+      "releaseDate": "1981-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1982-07",
+        "title": "ハイティーン・ブギ",
+        "artist": {
+          "id": "a-kondo-masahiko",
+          "name": "近藤真彦"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-1982-10",
+        "title": "情熱☆熱風☆せれなーで",
+        "artist": {
+          "id": "a-kondo-masahiko",
+          "name": "近藤真彦"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-1981-06",
+        "title": "スニーカーぶる~す",
+        "artist": {
+          "id": "a-kondo-masahiko",
+          "name": "近藤真彦"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    }
+  ]
+}

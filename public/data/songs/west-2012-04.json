@@ -1,0 +1,91 @@
+{
+  "song": {
+    "id": "west-2012-04",
+    "title": "Payphone",
+    "artist": {
+      "id": "a-maroon-5",
+      "name": "Maroon 5"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2012,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "Payphone",
+      "type": "single",
+      "releaseDate": "2012-04-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2018-10",
+        "title": "Girls Like You",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5 ft. Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2015-09",
+        "title": "Sugar",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2011-10",
+        "title": "Moves Like Jagger",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2007-07",
+        "title": "Makes Me Wonder",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2004-03",
+        "title": "This Love",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    }
+  ]
+}

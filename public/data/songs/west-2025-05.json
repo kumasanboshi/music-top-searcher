@@ -1,0 +1,78 @@
+{
+  "song": {
+    "id": "west-2025-05",
+    "title": "Midnight Drive",
+    "artist": {
+      "id": "a-the-weeknd",
+      "name": "The Weeknd"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2025,
+  "rank": 5,
+  "cdInfo": [
+    {
+      "title": "Midnight Drive",
+      "type": "single",
+      "releaseDate": "2025-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2021-02",
+        "title": "Save Your Tears",
+        "artist": {
+          "id": "a-the-weeknd",
+          "name": "The Weeknd"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2020-01",
+        "title": "Blinding Lights",
+        "artist": {
+          "id": "a-the-weeknd",
+          "name": "The Weeknd"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2015-07",
+        "title": "Earned It",
+        "artist": {
+          "id": "a-the-weeknd",
+          "name": "The Weeknd"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-2015-08",
+        "title": "The Hills",
+        "artist": {
+          "id": "a-the-weeknd",
+          "name": "The Weeknd"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    }
+  ]
+}

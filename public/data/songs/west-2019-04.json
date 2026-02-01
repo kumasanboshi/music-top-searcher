@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2019-04",
+    "title": "Bad Guy",
+    "artist": {
+      "id": "a-billie-eilish",
+      "name": "Billie Eilish"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2019,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "Bad Guy",
+      "type": "single",
+      "releaseDate": "2019-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2025-02",
+        "title": "Birds of a Feather",
+        "artist": {
+          "id": "a-billie-eilish",
+          "name": "Billie Eilish"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2025-07",
+        "title": "Golden Hour",
+        "artist": {
+          "id": "a-billie-eilish",
+          "name": "Billie Eilish"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    }
+  ]
+}

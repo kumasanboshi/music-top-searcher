@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2002-08",
+    "title": "Dilemma",
+    "artist": {
+      "id": "a-nelly",
+      "name": "Nelly ft. Kelly Rowland"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2002,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "Dilemma",
+      "type": "single",
+      "releaseDate": "2002-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2002-06",
+        "title": "Hot in Herre",
+        "artist": {
+          "id": "a-nelly",
+          "name": "Nelly"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    }
+  ]
+}

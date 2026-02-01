@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2021-04",
+    "title": "Montero (Call Me By Your Name)",
+    "artist": {
+      "id": "a-lil-nas-x",
+      "name": "Lil Nas X"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2021,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "Montero (Call Me By Your Name)",
+      "type": "single",
+      "releaseDate": "2021-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2021-10",
+        "title": "Industry Baby",
+        "artist": {
+          "id": "a-lil-nas-x",
+          "name": "Lil Nas X & Jack Harlow"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2019-01",
+        "title": "Old Town Road",
+        "artist": {
+          "id": "a-lil-nas-x",
+          "name": "Lil Nas X"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    }
+  ]
+}

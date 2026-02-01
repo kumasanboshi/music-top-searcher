@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2023-08",
+    "title": "Paint the Town Red",
+    "artist": {
+      "id": "a-doja-cat",
+      "name": "Doja Cat"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2023,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "Paint the Town Red",
+      "type": "single",
+      "releaseDate": "2023-08-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2021-03",
+        "title": "Kiss Me More",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat ft. SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2020-10",
+        "title": "Say So",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    }
+  ]
+}

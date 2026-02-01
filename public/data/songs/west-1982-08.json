@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1982-08",
+    "title": "Hurts So Good",
+    "artist": {
+      "id": "a-john-cougar",
+      "name": "John Cougar"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1982,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "Hurts So Good",
+      "type": "single",
+      "releaseDate": "1982-04-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-1982-07",
+        "title": "Jack & Diane",
+        "artist": {
+          "id": "a-john-cougar",
+          "name": "John Cougar"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    }
+  ]
+}

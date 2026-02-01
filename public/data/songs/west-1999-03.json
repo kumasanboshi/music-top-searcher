@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1999-03",
+    "title": "...Baby One More Time",
+    "artist": {
+      "id": "a-britney-spears",
+      "name": "Britney Spears"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1999,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "...Baby One More Time",
+      "type": "single",
+      "releaseDate": "1999-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-2004-08",
+        "title": "Toxic",
+        "artist": {
+          "id": "a-britney-spears",
+          "name": "Britney Spears"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    }
+  ]
+}

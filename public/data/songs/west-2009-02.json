@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2009-02",
+    "title": "Poker Face",
+    "artist": {
+      "id": "a-lady-gaga",
+      "name": "Lady Gaga"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2009,
+  "rank": 2,
+  "cdInfo": [
+    {
+      "title": "Poker Face",
+      "type": "single",
+      "releaseDate": "2008-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2011-07",
+        "title": "Born This Way",
+        "artist": {
+          "id": "a-lady-gaga",
+          "name": "Lady Gaga"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2009-03",
+        "title": "Just Dance",
+        "artist": {
+          "id": "a-lady-gaga",
+          "name": "Lady Gaga"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    }
+  ]
+}

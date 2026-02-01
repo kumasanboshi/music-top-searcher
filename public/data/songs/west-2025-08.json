@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2025-08",
+    "title": "Daydream",
+    "artist": {
+      "id": "a-ariana-grande",
+      "name": "Ariana Grande"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2025,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "Daydream",
+      "type": "single",
+      "releaseDate": "2025-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-2019-05",
+        "title": "7 Rings",
+        "artist": {
+          "id": "a-ariana-grande",
+          "name": "Ariana Grande"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-2018-08",
+        "title": "No Tears Left to Cry",
+        "artist": {
+          "id": "a-ariana-grande",
+          "name": "Ariana Grande"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    }
+  ]
+}

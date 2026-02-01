@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2020-06",
+    "title": "Adore You",
+    "artist": {
+      "id": "a-harry-styles",
+      "name": "Harry Styles"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2020,
+  "rank": 6,
+  "cdInfo": [
+    {
+      "title": "Adore You",
+      "type": "single",
+      "releaseDate": "2020-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2022-01",
+        "title": "As It Was",
+        "artist": {
+          "id": "a-harry-styles",
+          "name": "Harry Styles"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2020-09",
+        "title": "Watermelon Sugar",
+        "artist": {
+          "id": "a-harry-styles",
+          "name": "Harry Styles"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    }
+  ]
+}

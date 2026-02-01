@@ -1,0 +1,104 @@
+{
+  "song": {
+    "id": "west-2010-05",
+    "title": "OMG",
+    "artist": {
+      "id": "a-usher",
+      "name": "Usher"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2010,
+  "rank": 5,
+  "cdInfo": [
+    {
+      "title": "OMG",
+      "type": "single",
+      "releaseDate": "2010-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-2008-05",
+        "title": "Love in This Club",
+        "artist": {
+          "id": "a-usher",
+          "name": "Usher"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2004-01",
+        "title": "Yeah!",
+        "artist": {
+          "id": "a-usher",
+          "name": "Usher ft. Lil Jon & Ludacris"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2004-02",
+        "title": "Burn",
+        "artist": {
+          "id": "a-usher",
+          "name": "Usher"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2004-10",
+        "title": "Confessions Part II",
+        "artist": {
+          "id": "a-usher",
+          "name": "Usher"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2002-09",
+        "title": "U Got It Bad",
+        "artist": {
+          "id": "a-usher",
+          "name": "Usher"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-1998-08",
+        "title": "Nice & Slow",
+        "artist": {
+          "id": "a-usher",
+          "name": "Usher"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    }
+  ]
+}

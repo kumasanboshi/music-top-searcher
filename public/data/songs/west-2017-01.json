@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2017-01",
+    "title": "Shape of You",
+    "artist": {
+      "id": "a-ed-sheeran",
+      "name": "Ed Sheeran"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2017,
+  "rank": 1,
+  "cdInfo": [
+    {
+      "title": "Shape of You",
+      "type": "single",
+      "releaseDate": "2017-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2018-02",
+        "title": "Perfect",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2015-03",
+        "title": "Thinking Out Loud",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    }
+  ]
+}

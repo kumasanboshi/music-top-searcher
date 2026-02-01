@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "jpop-1979-06",
+    "title": "カサブランカ・ダンディ",
+    "artist": {
+      "id": "a-sawada-kenji",
+      "name": "沢田研二"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1979,
+  "rank": 6,
+  "cdInfo": [
+    {
+      "title": "カサブランカ・ダンディ",
+      "type": "single",
+      "releaseDate": "1979-02-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-1978-10",
+        "title": "LOVE(抱きしめたい)",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1977-02",
+        "title": "勝手にしやがれ",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1975-07",
+        "title": "時の過ぎゆくままに",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1988-10",
+    "title": "One More Try",
+    "artist": {
+      "id": "a-george-michael",
+      "name": "George Michael"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1988,
+  "rank": 10,
+  "cdInfo": [
+    {
+      "title": "One More Try",
+      "type": "single",
+      "releaseDate": "1988-04-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1988-01",
+        "title": "Faith",
+        "artist": {
+          "id": "a-george-michael",
+          "name": "George Michael"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    }
+  ]
+}

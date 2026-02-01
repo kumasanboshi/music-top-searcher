@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1978-07",
+    "title": "Grease",
+    "artist": {
+      "id": "a-frankie-valli",
+      "name": "Frankie Valli"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1978,
+  "rank": 7,
+  "cdInfo": [
+    {
+      "title": "Grease",
+      "type": "single",
+      "releaseDate": "1978-05-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1975-05",
+        "title": "My Eyes Adored You",
+        "artist": {
+          "id": "a-frankie-valli",
+          "name": "Frankie Valli"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    }
+  ]
+}

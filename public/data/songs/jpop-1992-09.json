@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "jpop-1992-09",
+    "title": "決戦は金曜日",
+    "artist": {
+      "id": "a-dreams-come-true",
+      "name": "DREAMS COME TRUE"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1992,
+  "rank": 9,
+  "cdInfo": [
+    {
+      "title": "決戦は金曜日",
+      "type": "single",
+      "releaseDate": "1992-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-1995-01",
+        "title": "LOVE LOVE LOVE",
+        "artist": {
+          "id": "a-dreams-come-true",
+          "name": "DREAMS COME TRUE"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1991-07",
+        "title": "Eyes to me",
+        "artist": {
+          "id": "a-dreams-come-true",
+          "name": "DREAMS COME TRUE"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "jpop-1991-08",
+        "title": "Winter Song",
+        "artist": {
+          "id": "a-dreams-come-true",
+          "name": "DREAMS COME TRUE"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    }
+  ]
+}

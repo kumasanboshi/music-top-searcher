@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-2025-05",
+    "title": "花火の夜",
+    "artist": {
+      "id": "a-vaundy",
+      "name": "Vaundy"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2025,
+  "rank": 5,
+  "cdInfo": [
+    {
+      "title": "花火の夜",
+      "type": "single",
+      "releaseDate": "2025-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-2023-02",
+        "title": "怪獣の花唄",
+        "artist": {
+          "id": "a-vaundy",
+          "name": "Vaundy"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    }
+  ]
+}

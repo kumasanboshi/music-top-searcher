@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-2015-03",
+    "title": "トリセツ",
+    "artist": {
+      "id": "a-nishino-kana",
+      "name": "西野カナ"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2015,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "トリセツ",
+      "type": "single",
+      "releaseDate": "2015-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-2014-10",
+        "title": "Darling",
+        "artist": {
+          "id": "a-nishino-kana",
+          "name": "西野カナ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    }
+  ]
+}
