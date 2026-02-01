@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "jpop-2005-03",
+    "title": "OCEAN",
+    "artist": {
+      "id": "a-bz",
+      "name": "B'z"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2005,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "OCEAN",
+      "type": "single",
+      "releaseDate": "2005-08-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1994-07",
+        "title": "Don't Leave Me",
+        "artist": {
+          "id": "a-bz",
+          "name": "B'z"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1993-02",
+        "title": "愛のままにわがままに 僕は君だけを傷つけない",
+        "artist": {
+          "id": "a-bz",
+          "name": "B'z"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-1993-04",
+        "title": "裸足の女神",
+        "artist": {
+          "id": "a-bz",
+          "name": "B'z"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    }
+  ]
+}

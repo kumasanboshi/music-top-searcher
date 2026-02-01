@@ -1,0 +1,78 @@
+{
+  "song": {
+    "id": "jpop-1976-06",
+    "title": "横須賀ストーリー",
+    "artist": {
+      "id": "a-yamaguchi-momoe",
+      "name": "山口百恵"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1976,
+  "rank": 6,
+  "cdInfo": [
+    {
+      "title": "横須賀ストーリー",
+      "type": "single",
+      "releaseDate": "1976-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1979-05",
+        "title": "いい日旅立ち",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-1978-06",
+        "title": "プレイバックPart2",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-1978-09",
+        "title": "乙女座 宮",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1977-07",
+        "title": "秋桜",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    }
+  ]
+}

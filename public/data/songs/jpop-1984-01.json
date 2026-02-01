@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-1984-01",
+    "title": "もしも明日が…。",
+    "artist": {
+      "id": "a-warabe",
+      "name": "わらべ"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1984,
+  "rank": 1,
+  "cdInfo": [
+    {
+      "title": "もしも明日が…。",
+      "type": "single",
+      "releaseDate": "1984-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1983-03",
+        "title": "めだかの兄妹",
+        "artist": {
+          "id": "a-warabe",
+          "name": "わらべ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    }
+  ]
+}

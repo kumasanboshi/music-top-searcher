@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "west-2002-10",
+    "title": "A Moment Like This",
+    "artist": {
+      "id": "a-kelly-clarkson",
+      "name": "Kelly Clarkson"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2002,
+  "rank": 10,
+  "cdInfo": [
+    {
+      "title": "A Moment Like This",
+      "type": "single",
+      "releaseDate": "2002-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-2012-05",
+        "title": "Stronger (What Doesn't Kill You)",
+        "artist": {
+          "id": "a-kelly-clarkson",
+          "name": "Kelly Clarkson"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-2005-04",
+        "title": "Since U Been Gone",
+        "artist": {
+          "id": "a-kelly-clarkson",
+          "name": "Kelly Clarkson"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2005-09",
+        "title": "Behind These Hazel Eyes",
+        "artist": {
+          "id": "a-kelly-clarkson",
+          "name": "Kelly Clarkson"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    }
+  ]
+}

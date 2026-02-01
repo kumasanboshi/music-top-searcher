@@ -1,0 +1,91 @@
+{
+  "song": {
+    "id": "jpop-1985-04",
+    "title": "あの娘とスキャンダル",
+    "artist": {
+      "id": "a-checkers",
+      "name": "チェッカーズ"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1985,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "あの娘とスキャンダル",
+      "type": "single",
+      "releaseDate": "1985-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-1985-01",
+        "title": "ジュリアに傷心",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "jpop-1985-08",
+        "title": "俺たちのロカビリーナイト",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1984-03",
+        "title": "涙のリクエスト",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-1984-04",
+        "title": "星屑のステージ",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-1984-09",
+        "title": "哀しくてジェラシー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    }
+  ]
+}

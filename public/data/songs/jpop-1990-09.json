@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-1990-09",
+    "title": "恋唄綴り",
+    "artist": {
+      "id": "a-horiuchi-takao",
+      "name": "堀内孝雄"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1990,
+  "rank": 9,
+  "cdInfo": [
+    {
+      "title": "恋唄綴り",
+      "type": "single",
+      "releaseDate": "1989-10-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1978-02",
+        "title": "君のひとみは10000ボルト",
+        "artist": {
+          "id": "a-horiuchi-takao",
+          "name": "堀内孝雄"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    }
+  ]
+}

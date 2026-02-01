@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-2016-02",
+    "title": "前前前世",
+    "artist": {
+      "id": "a-radwimps",
+      "name": "RADWIMPS"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2016,
+  "rank": 2,
+  "cdInfo": [
+    {
+      "title": "前前前世",
+      "type": "single",
+      "releaseDate": "2016-08-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-2019-10",
+        "title": "愛にできることはまだあるかい",
+        "artist": {
+          "id": "a-radwimps",
+          "name": "RADWIMPS"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    }
+  ]
+}

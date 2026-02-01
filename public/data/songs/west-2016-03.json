@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2016-03",
+    "title": "One Dance",
+    "artist": {
+      "id": "a-drake",
+      "name": "Drake"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2016,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "One Dance",
+      "type": "single",
+      "releaseDate": "2016-04-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2018-01",
+        "title": "God's Plan",
+        "artist": {
+          "id": "a-drake",
+          "name": "Drake"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2018-07",
+        "title": "Nice for What",
+        "artist": {
+          "id": "a-drake",
+          "name": "Drake"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    }
+  ]
+}

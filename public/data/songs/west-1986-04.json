@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1986-04",
+    "title": "Say You, Say Me",
+    "artist": {
+      "id": "a-lionel-richie",
+      "name": "Lionel Richie"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1986,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "Say You, Say Me",
+      "type": "single",
+      "releaseDate": "1985-10-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-1984-07",
+        "title": "Hello",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    }
+  ]
+}
