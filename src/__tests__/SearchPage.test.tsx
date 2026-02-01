@@ -1,11 +1,17 @@
-import { render, screen } from '@testing-library/react'
+import { act, render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { MemoryRouter, Routes, Route } from 'react-router-dom'
 import SearchPage from '../pages/SearchPage'
 import * as searchService from '../services/searchService'
 import type { RankingEntry } from '../types'
 
-vi.mock('../services/searchService')
+vi.mock('../services/searchService', async (importOriginal) => {
+  const actual = await importOriginal<typeof searchService>()
+  return {
+    ...actual,
+    fetchAllSongs: vi.fn(),
+  }
+})
 
 const mockSongs: RankingEntry[] = [
   {
@@ -63,11 +69,16 @@ describe('SearchPage', () => {
 
     renderPage()
 
+    const user = userEvent.setup({
+      advanceTimers: vi.advanceTimersByTime,
+    })
     const input = await screen.findByPlaceholderText(
       /曲名・アーティスト名で検索/,
     )
-    await userEvent.type(input, 'Bling')
-    vi.advanceTimersByTime(300)
+    await user.type(input, 'Bling')
+    await act(() => {
+      vi.advanceTimersByTime(300)
+    })
 
     expect(await screen.findByText('Bling-Bang-Bang-Born')).toBeInTheDocument()
   })
@@ -77,11 +88,16 @@ describe('SearchPage', () => {
 
     renderPage()
 
+    const user = userEvent.setup({
+      advanceTimers: vi.advanceTimersByTime,
+    })
     const input = await screen.findByPlaceholderText(
       /曲名・アーティスト名で検索/,
     )
-    await userEvent.type(input, 'Bling')
-    vi.advanceTimersByTime(300)
+    await user.type(input, 'Bling')
+    await act(() => {
+      vi.advanceTimersByTime(300)
+    })
 
     expect(await screen.findByText('Bling-Bang-Bang-Born')).toBeInTheDocument()
     expect(screen.getByText('Creepy Nuts')).toBeInTheDocument()
@@ -92,11 +108,16 @@ describe('SearchPage', () => {
 
     renderPage()
 
+    const user = userEvent.setup({
+      advanceTimers: vi.advanceTimersByTime,
+    })
     const input = await screen.findByPlaceholderText(
       /曲名・アーティスト名で検索/,
     )
-    await userEvent.type(input, 'Bling')
-    vi.advanceTimersByTime(300)
+    await user.type(input, 'Bling')
+    await act(() => {
+      vi.advanceTimersByTime(300)
+    })
 
     const link = await screen.findByRole('link', {
       name: /Bling-Bang-Bang-Born/,
@@ -109,11 +130,16 @@ describe('SearchPage', () => {
 
     renderPage()
 
+    const user = userEvent.setup({
+      advanceTimers: vi.advanceTimersByTime,
+    })
     const input = await screen.findByPlaceholderText(
       /曲名・アーティスト名で検索/,
     )
-    await userEvent.type(input, 'zzzznotfound')
-    vi.advanceTimersByTime(300)
+    await user.type(input, 'zzzznotfound')
+    await act(() => {
+      vi.advanceTimersByTime(300)
+    })
 
     expect(
       await screen.findByText('該当する曲が見つかりませんでした'),
