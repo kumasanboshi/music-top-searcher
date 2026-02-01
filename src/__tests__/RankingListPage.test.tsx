@@ -142,7 +142,7 @@ describe('RankingListPage', () => {
       ).toBeInTheDocument()
     })
 
-    it('複数年のデータを年ごとに表示する', async () => {
+    it('複数年のデータを統合リストで表示する', async () => {
       const ranking2020: Ranking = {
         year: 2020,
         genre: 'jpop',
@@ -180,12 +180,24 @@ describe('RankingListPage', () => {
 
       renderDecadePage('jpop', '2020s')
 
-      expect(
-        await screen.findByRole('heading', { name: '2020' }),
-      ).toBeInTheDocument()
-      expect(screen.getByRole('heading', { name: '2021' })).toBeInTheDocument()
+      await screen.findByText('Song A')
+
+      // 年見出し（h2）が表示されないことを検証
+      const headings = screen.getAllByRole('heading')
+      const yearHeadings = headings.filter(
+        (h) => h.textContent === '2020' || h.textContent === '2021',
+      )
+      expect(yearHeadings).toHaveLength(0)
+
+      // 統合リストが1つだけであることを検証
+      const lists = document.querySelectorAll('ol')
+      expect(lists).toHaveLength(1)
+
+      // 各エントリに年情報が表示されることを検証
       expect(screen.getByText('Song A')).toBeInTheDocument()
       expect(screen.getByText('Song B')).toBeInTheDocument()
+      expect(screen.getByText('2020')).toBeInTheDocument()
+      expect(screen.getByText('2021')).toBeInTheDocument()
     })
 
     it('データがない場合メッセージを表示する', async () => {
