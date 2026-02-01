@@ -284,3 +284,34 @@
   - ネットワーク状態の急速な切替（フラッピング）への対策
   - PWAアイコンのプレースホルダーを本番用画像に差し替え
   - CacheFirst戦略による古いデータの提供リスク（NetworkFirst戦略への変更検討）
+
+## Issue #10: ホスティング・デプロイ設定（Cloudflare Pages） ✅
+
+### 実施内容
+
+- `.github/workflows/deploy.yml`: GitHub Actionsワークフローを作成
+  - lint → test → `npx vite build` → Cloudflare Pagesデプロイ（mainのみ）
+  - PRではビルド検証のみ、デプロイはmainへのpush時のみ実行
+  - `npx vite build` を使用（`npm run build` は `tsc -b` を含み既存エラーで失敗するため）
+- `public/_redirects`: SPA用リダイレクト設定（`/* /index.html 200`）
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 89 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npx vite build` | ✅ 成功 |
+| Cloudflare Pagesデプロイ | ✅ 正常に表示確認済み |
+
+### コミット履歴
+
+| コミット | メッセージ |
+|---------|-----------|
+| `734d1cd` | feat: Cloudflare Pages CI/CDデプロイ設定を追加 |
+| `618486d` | Merge pull request #15 from kumasanboshi/feature/issue-10-cloudflare-deploy |
+
+### 備考
+
+- GitHub Secretsに `CLOUDFLARE_API_TOKEN` と `CLOUDFLARE_ACCOUNT_ID` の設定が必要
+- Cloudflare側のビルド設定は空欄（GitHub Actionsでビルド済みのdistを直接アップロード）
