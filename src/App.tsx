@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import OfflineBanner from './components/OfflineBanner'
 import TopPage from './pages/TopPage'
 import YearSelectPage from './pages/YearSelectPage'
 import RankingListPage from './pages/RankingListPage'
@@ -8,6 +9,7 @@ import SearchPage from './pages/SearchPage'
 function App() {
   return (
     <BrowserRouter>
+      <OfflineBanner />
       <Routes>
         <Route path="/" element={<TopPage />} />
         <Route path="/rankings/:genre" element={<YearSelectPage />} />
