@@ -188,3 +188,50 @@
   - SongDetailPageのSRP改善（CD情報/外部リンク/アーティスト曲を子コンポーネントに分離）
   - 外部リンクのURLバリデーション（`javascript:`プロトコル防止）
   - 空配列（`cdInfo: []`, `artistSongs: []`）のテストケース追加
+
+## Issue #8: 検索機能の実装 ✅
+
+### 実施内容
+
+- `src/services/searchService.ts`: 検索サービスを作成
+  - `fetchAllSongs()`: index.jsonから全ランキングファイルを取得し、全エントリを結合して返す
+  - `searchSongs(songs, query)`: 純粋関数。title, artist.name, artist.nameEnに対する部分一致検索（大文字小文字無視）
+- `src/pages/SearchPage.tsx`: 検索ページコンポーネントを作成
+  - テキスト入力欄でインクリメンタルサーチ（300msデバウンス）
+  - 結果リスト：ランク、曲名、アーティスト名を表示
+  - 各結果は `/songs/:genre/:songId` へのリンク
+  - 該当なし時のメッセージ表示、読み込み中表示
+- `src/pages/SearchPage.module.css`: CSS Modulesでスタイリング
+- `src/App.tsx`: `/search` ルート追加
+- `src/pages/TopPage.tsx`: TopPageに「曲を検索」リンクを追加
+- `src/pages/TopPage.module.css`: 検索リンクのスタイル追加
+- `src/__tests__/searchService.test.ts`: 8つのテストケース
+  - 全データ結合、データ取得失敗時空配列、曲名/アーティスト名部分一致、大文字小文字無視、空クエリ、該当なし、nameEn検索
+- `src/__tests__/SearchPage.test.tsx`: 6つのテストケース
+  - 検索入力欄表示、クエリ入力で結果表示、曲名・アーティスト名含有、詳細ページリンク、該当なしメッセージ、読み込み中表示
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 79 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ⚠️ 既存ファイル(validateRanking.test.ts)のNode.js型エラーのみ（今回の変更とは無関係） |
+
+### コミット履歴
+
+| コミット | メッセージ |
+|---------|-----------|
+| `2235dfd` | test: searchServiceのテストを追加 |
+| `517b6a9` | feat: searchServiceを実装 |
+| `421dafb` | test: SearchPageのテストを追加 |
+| `f20d6ff` | feat: SearchPageを実装し、検索ルートとTopPageからの導線を追加 |
+| `00d948b` | refactor: SearchPageのデバウンスをuseCallbackに移行してlintエラーを修正 |
+
+### 備考
+
+- 検証サブエージェントにより以下の改善候補が指摘:
+  - 重複曲の排除（同一曲が複数ランキングに含まれる場合の重複表示）
+  - データ取得失敗時のエラーUI表示（現状は空ページ）
+  - デバウンス遅延の定数化（300msマジックナンバー）
+  - テスト用mockデータの共通化（searchService.testとSearchPage.testで重複）
