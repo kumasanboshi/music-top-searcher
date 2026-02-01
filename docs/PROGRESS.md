@@ -235,3 +235,52 @@
   - データ取得失敗時のエラーUI表示（現状は空ページ）
   - デバウンス遅延の定数化（300msマジックナンバー）
   - テスト用mockデータの共通化（searchService.testとSearchPage.testで重複）
+
+## Issue #9: PWA対応（オフライン機能） ✅
+
+### 実施内容
+
+- `src/hooks/useOnlineStatus.ts`: オンライン/オフライン検知カスタムフックを作成
+  - `navigator.onLine`の初期値取得、`online`/`offline`イベントリスナーで状態更新
+- `src/components/OfflineBanner.tsx`: オフライン時警告バナーコンポーネント
+  - `role="alert"`でアクセシビリティ対応、「オフラインモード - 広告・外部リンクが利用できません」表示
+- `src/components/OfflineBanner.module.css`: バナーのスタイル（黄色背景）
+- `src/pages/SongDetailPage.tsx`: オフライン時に外部リンクセクションを非表示に変更
+- `vite.config.ts`: `vite-plugin-pwa`設定追加
+  - マニフェスト: name="Music Top Searcher", short_name="MusicSearch", theme_color="#1f2937", display="standalone"
+  - ランタイムキャッシュ: `/data/**/*.json` → CacheFirst（30日、最大1000件）
+- `index.html`: PWAメタタグ追加（theme-color, description, apple-touch-icon）
+- `src/App.tsx`: OfflineBannerをRoutes上部に組み込み
+- `public/icons/icon-192x192.png`, `icon-512x512.png`: プレースホルダーアイコン
+- テストファイル3件:
+  - `src/__tests__/useOnlineStatus.test.tsx`: 5テスト（初期値、イベント切替、クリーンアップ）
+  - `src/__tests__/OfflineBanner.test.tsx`: 3テスト（オフライン表示、オンライン非表示、role=alert）
+  - `src/__tests__/SongDetailPage.offline.test.tsx`: 2テスト（オフライン時外部リンク非表示/オンライン時表示）
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 89 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ⚠️ 既存ファイル(validateRanking.test.ts)のNode.js型エラーのみ（今回の変更とは無関係） |
+
+### コミット履歴
+
+| コミット | メッセージ |
+|---------|-----------|
+| `4988975` | test: useOnlineStatusフックのテストを追加 |
+| `ba10936` | feat: useOnlineStatusフックを実装 |
+| `0f20731` | test: OfflineBannerコンポーネントのテストを追加 |
+| `9258fce` | feat: OfflineBannerコンポーネントを実装 |
+| `7479833` | test: SongDetailPageのオフライン時外部リンク非表示テストを追加 |
+| `30de32d` | feat: SongDetailPageでオフライン時に外部リンクを非表示にする |
+| `3c9b55e` | feat: PWA対応（vite-plugin-pwa設定、マニフェスト、オフラインキャッシュ、OfflineBanner組み込み） |
+
+### 備考
+
+- 検証サブエージェントにより以下の改善候補が指摘:
+  - SSR環境対応（`navigator`未定義時のフォールバック）
+  - ネットワーク状態の急速な切替（フラッピング）への対策
+  - PWAアイコンのプレースホルダーを本番用画像に差し替え
+  - CacheFirst戦略による古いデータの提供リスク（NetworkFirst戦略への変更検討）
