@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-1983-02",
+    "title": "矢切の渡し",
+    "artist": {
+      "id": "a-hosokawa-takashi",
+      "name": "細川たかし"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1983,
+  "rank": 2,
+  "cdInfo": [
+    {
+      "title": "矢切の渡し",
+      "type": "single",
+      "releaseDate": "1983-02-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1982-03",
+        "title": "北酒場",
+        "artist": {
+          "id": "a-hosokawa-takashi",
+          "name": "細川たかし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1975-02",
+        "title": "心のこり",
+        "artist": {
+          "id": "a-hosokawa-takashi",
+          "name": "細川たかし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-1989-04",
+    "title": "世界でいちばん熱い夏",
+    "artist": {
+      "id": "a-princess-princess",
+      "name": "プリンセス プリンセス"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1989,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "世界でいちばん熱い夏",
+      "type": "single",
+      "releaseDate": "1989-07-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 8,
+      "song": {
+        "id": "jpop-1990-08",
+        "title": "OH YEAH!",
+        "artist": {
+          "id": "a-princess-princess",
+          "name": "プリンセス プリンセス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-1989-01",
+        "title": "Diamonds",
+        "artist": {
+          "id": "a-princess-princess",
+          "name": "プリンセス プリンセス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    }
+  ]
+}

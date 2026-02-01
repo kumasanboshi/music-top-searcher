@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2014-06",
+    "title": "Talk Dirty",
+    "artist": {
+      "id": "a-jason-derulo",
+      "name": "Jason Derulo"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2014,
+  "rank": 6,
+  "cdInfo": [
+    {
+      "title": "Talk Dirty",
+      "type": "single",
+      "releaseDate": "2013-08-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2009-07",
+        "title": "Whatcha Say",
+        "artist": {
+          "id": "a-jason-derulo",
+          "name": "Jason Derulo"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    }
+  ]
+}

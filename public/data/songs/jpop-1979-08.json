@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-1979-08",
+    "title": "ガンダーラ",
+    "artist": {
+      "id": "a-godiego",
+      "name": "ゴダイゴ"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1979,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "ガンダーラ",
+      "type": "single",
+      "releaseDate": "1978-10-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1979-07",
+        "title": "銀河鉄道999",
+        "artist": {
+          "id": "a-godiego",
+          "name": "ゴダイゴ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    }
+  ]
+}

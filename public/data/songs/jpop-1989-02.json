@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-1989-02",
+    "title": "淋しい熱帯魚",
+    "artist": {
+      "id": "a-wink",
+      "name": "Wink"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1989,
+  "rank": 2,
+  "cdInfo": [
+    {
+      "title": "淋しい熱帯魚",
+      "type": "single",
+      "releaseDate": "1989-07-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1989-05",
+        "title": "愛が止まらない ~Turn It Into Love~",
+        "artist": {
+          "id": "a-wink",
+          "name": "Wink"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-1989-09",
+        "title": "涙の太陽",
+        "artist": {
+          "id": "a-wink",
+          "name": "Wink"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    }
+  ]
+}

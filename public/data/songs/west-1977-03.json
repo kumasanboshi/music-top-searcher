@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1977-03",
+    "title": "Hotel California",
+    "artist": {
+      "id": "a-eagles",
+      "name": "Eagles"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1977,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "Hotel California",
+      "type": "single",
+      "releaseDate": "1977-02-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-1975-09",
+        "title": "One of These Nights",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    }
+  ]
+}

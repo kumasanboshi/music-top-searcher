@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-1980-07",
+    "title": "防人の詩",
+    "artist": {
+      "id": "a-sada-masashi",
+      "name": "さだまさし"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1980,
+  "rank": 7,
+  "cdInfo": [
+    {
+      "title": "防人の詩",
+      "type": "single",
+      "releaseDate": "1980-07-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1979-03",
+        "title": "関白宣言",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    }
+  ]
+}

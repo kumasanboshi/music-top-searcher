@@ -1,0 +1,91 @@
+{
+  "song": {
+    "id": "west-2008-09",
+    "title": "Disturbia",
+    "artist": {
+      "id": "a-rihanna",
+      "name": "Rihanna"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2008,
+  "rank": 9,
+  "cdInfo": [
+    {
+      "title": "Disturbia",
+      "type": "single",
+      "releaseDate": "2008-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-2016-04",
+        "title": "Work",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna ft. Drake"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2012-06",
+        "title": "We Found Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2010-10",
+        "title": "Rude Boy",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2007-02",
+        "title": "Umbrella",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2006-07",
+        "title": "SOS",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    }
+  ]
+}

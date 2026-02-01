@@ -1,6 +1,514 @@
 {
   "rankings": [
-    { "year": 2024, "genre": "jpop", "file": "rankings/2024-jpop.json" },
-    { "year": 2024, "genre": "western", "file": "rankings/2024-western.json" }
+    {
+      "year": 2025,
+      "genre": "jpop",
+      "file": "rankings/2025-jpop.json"
+    },
+    {
+      "year": 2025,
+      "genre": "western",
+      "file": "rankings/2025-western.json"
+    },
+    {
+      "year": 2024,
+      "genre": "jpop",
+      "file": "rankings/2024-jpop.json"
+    },
+    {
+      "year": 2024,
+      "genre": "western",
+      "file": "rankings/2024-western.json"
+    },
+    {
+      "year": 2023,
+      "genre": "jpop",
+      "file": "rankings/2023-jpop.json"
+    },
+    {
+      "year": 2023,
+      "genre": "western",
+      "file": "rankings/2023-western.json"
+    },
+    {
+      "year": 2022,
+      "genre": "jpop",
+      "file": "rankings/2022-jpop.json"
+    },
+    {
+      "year": 2022,
+      "genre": "western",
+      "file": "rankings/2022-western.json"
+    },
+    {
+      "year": 2021,
+      "genre": "jpop",
+      "file": "rankings/2021-jpop.json"
+    },
+    {
+      "year": 2021,
+      "genre": "western",
+      "file": "rankings/2021-western.json"
+    },
+    {
+      "year": 2020,
+      "genre": "jpop",
+      "file": "rankings/2020-jpop.json"
+    },
+    {
+      "year": 2020,
+      "genre": "western",
+      "file": "rankings/2020-western.json"
+    },
+    {
+      "year": 2019,
+      "genre": "jpop",
+      "file": "rankings/2019-jpop.json"
+    },
+    {
+      "year": 2019,
+      "genre": "western",
+      "file": "rankings/2019-western.json"
+    },
+    {
+      "year": 2018,
+      "genre": "jpop",
+      "file": "rankings/2018-jpop.json"
+    },
+    {
+      "year": 2018,
+      "genre": "western",
+      "file": "rankings/2018-western.json"
+    },
+    {
+      "year": 2017,
+      "genre": "jpop",
+      "file": "rankings/2017-jpop.json"
+    },
+    {
+      "year": 2017,
+      "genre": "western",
+      "file": "rankings/2017-western.json"
+    },
+    {
+      "year": 2016,
+      "genre": "jpop",
+      "file": "rankings/2016-jpop.json"
+    },
+    {
+      "year": 2016,
+      "genre": "western",
+      "file": "rankings/2016-western.json"
+    },
+    {
+      "year": 2015,
+      "genre": "jpop",
+      "file": "rankings/2015-jpop.json"
+    },
+    {
+      "year": 2015,
+      "genre": "western",
+      "file": "rankings/2015-western.json"
+    },
+    {
+      "year": 2014,
+      "genre": "jpop",
+      "file": "rankings/2014-jpop.json"
+    },
+    {
+      "year": 2014,
+      "genre": "western",
+      "file": "rankings/2014-western.json"
+    },
+    {
+      "year": 2013,
+      "genre": "jpop",
+      "file": "rankings/2013-jpop.json"
+    },
+    {
+      "year": 2013,
+      "genre": "western",
+      "file": "rankings/2013-western.json"
+    },
+    {
+      "year": 2012,
+      "genre": "jpop",
+      "file": "rankings/2012-jpop.json"
+    },
+    {
+      "year": 2012,
+      "genre": "western",
+      "file": "rankings/2012-western.json"
+    },
+    {
+      "year": 2011,
+      "genre": "jpop",
+      "file": "rankings/2011-jpop.json"
+    },
+    {
+      "year": 2011,
+      "genre": "western",
+      "file": "rankings/2011-western.json"
+    },
+    {
+      "year": 2010,
+      "genre": "jpop",
+      "file": "rankings/2010-jpop.json"
+    },
+    {
+      "year": 2010,
+      "genre": "western",
+      "file": "rankings/2010-western.json"
+    },
+    {
+      "year": 2009,
+      "genre": "jpop",
+      "file": "rankings/2009-jpop.json"
+    },
+    {
+      "year": 2009,
+      "genre": "western",
+      "file": "rankings/2009-western.json"
+    },
+    {
+      "year": 2008,
+      "genre": "jpop",
+      "file": "rankings/2008-jpop.json"
+    },
+    {
+      "year": 2008,
+      "genre": "western",
+      "file": "rankings/2008-western.json"
+    },
+    {
+      "year": 2007,
+      "genre": "jpop",
+      "file": "rankings/2007-jpop.json"
+    },
+    {
+      "year": 2007,
+      "genre": "western",
+      "file": "rankings/2007-western.json"
+    },
+    {
+      "year": 2006,
+      "genre": "jpop",
+      "file": "rankings/2006-jpop.json"
+    },
+    {
+      "year": 2006,
+      "genre": "western",
+      "file": "rankings/2006-western.json"
+    },
+    {
+      "year": 2005,
+      "genre": "jpop",
+      "file": "rankings/2005-jpop.json"
+    },
+    {
+      "year": 2005,
+      "genre": "western",
+      "file": "rankings/2005-western.json"
+    },
+    {
+      "year": 2004,
+      "genre": "jpop",
+      "file": "rankings/2004-jpop.json"
+    },
+    {
+      "year": 2004,
+      "genre": "western",
+      "file": "rankings/2004-western.json"
+    },
+    {
+      "year": 2003,
+      "genre": "jpop",
+      "file": "rankings/2003-jpop.json"
+    },
+    {
+      "year": 2003,
+      "genre": "western",
+      "file": "rankings/2003-western.json"
+    },
+    {
+      "year": 2002,
+      "genre": "jpop",
+      "file": "rankings/2002-jpop.json"
+    },
+    {
+      "year": 2002,
+      "genre": "western",
+      "file": "rankings/2002-western.json"
+    },
+    {
+      "year": 2001,
+      "genre": "jpop",
+      "file": "rankings/2001-jpop.json"
+    },
+    {
+      "year": 2001,
+      "genre": "western",
+      "file": "rankings/2001-western.json"
+    },
+    {
+      "year": 2000,
+      "genre": "jpop",
+      "file": "rankings/2000-jpop.json"
+    },
+    {
+      "year": 2000,
+      "genre": "western",
+      "file": "rankings/2000-western.json"
+    },
+    {
+      "year": 1999,
+      "genre": "jpop",
+      "file": "rankings/1999-jpop.json"
+    },
+    {
+      "year": 1999,
+      "genre": "western",
+      "file": "rankings/1999-western.json"
+    },
+    {
+      "year": 1998,
+      "genre": "jpop",
+      "file": "rankings/1998-jpop.json"
+    },
+    {
+      "year": 1998,
+      "genre": "western",
+      "file": "rankings/1998-western.json"
+    },
+    {
+      "year": 1997,
+      "genre": "jpop",
+      "file": "rankings/1997-jpop.json"
+    },
+    {
+      "year": 1997,
+      "genre": "western",
+      "file": "rankings/1997-western.json"
+    },
+    {
+      "year": 1996,
+      "genre": "jpop",
+      "file": "rankings/1996-jpop.json"
+    },
+    {
+      "year": 1996,
+      "genre": "western",
+      "file": "rankings/1996-western.json"
+    },
+    {
+      "year": 1995,
+      "genre": "jpop",
+      "file": "rankings/1995-jpop.json"
+    },
+    {
+      "year": 1995,
+      "genre": "western",
+      "file": "rankings/1995-western.json"
+    },
+    {
+      "year": 1994,
+      "genre": "jpop",
+      "file": "rankings/1994-jpop.json"
+    },
+    {
+      "year": 1994,
+      "genre": "western",
+      "file": "rankings/1994-western.json"
+    },
+    {
+      "year": 1993,
+      "genre": "jpop",
+      "file": "rankings/1993-jpop.json"
+    },
+    {
+      "year": 1993,
+      "genre": "western",
+      "file": "rankings/1993-western.json"
+    },
+    {
+      "year": 1992,
+      "genre": "jpop",
+      "file": "rankings/1992-jpop.json"
+    },
+    {
+      "year": 1992,
+      "genre": "western",
+      "file": "rankings/1992-western.json"
+    },
+    {
+      "year": 1991,
+      "genre": "jpop",
+      "file": "rankings/1991-jpop.json"
+    },
+    {
+      "year": 1991,
+      "genre": "western",
+      "file": "rankings/1991-western.json"
+    },
+    {
+      "year": 1990,
+      "genre": "jpop",
+      "file": "rankings/1990-jpop.json"
+    },
+    {
+      "year": 1990,
+      "genre": "western",
+      "file": "rankings/1990-western.json"
+    },
+    {
+      "year": 1989,
+      "genre": "jpop",
+      "file": "rankings/1989-jpop.json"
+    },
+    {
+      "year": 1989,
+      "genre": "western",
+      "file": "rankings/1989-western.json"
+    },
+    {
+      "year": 1988,
+      "genre": "jpop",
+      "file": "rankings/1988-jpop.json"
+    },
+    {
+      "year": 1988,
+      "genre": "western",
+      "file": "rankings/1988-western.json"
+    },
+    {
+      "year": 1987,
+      "genre": "jpop",
+      "file": "rankings/1987-jpop.json"
+    },
+    {
+      "year": 1987,
+      "genre": "western",
+      "file": "rankings/1987-western.json"
+    },
+    {
+      "year": 1986,
+      "genre": "jpop",
+      "file": "rankings/1986-jpop.json"
+    },
+    {
+      "year": 1986,
+      "genre": "western",
+      "file": "rankings/1986-western.json"
+    },
+    {
+      "year": 1985,
+      "genre": "jpop",
+      "file": "rankings/1985-jpop.json"
+    },
+    {
+      "year": 1985,
+      "genre": "western",
+      "file": "rankings/1985-western.json"
+    },
+    {
+      "year": 1984,
+      "genre": "jpop",
+      "file": "rankings/1984-jpop.json"
+    },
+    {
+      "year": 1984,
+      "genre": "western",
+      "file": "rankings/1984-western.json"
+    },
+    {
+      "year": 1983,
+      "genre": "jpop",
+      "file": "rankings/1983-jpop.json"
+    },
+    {
+      "year": 1983,
+      "genre": "western",
+      "file": "rankings/1983-western.json"
+    },
+    {
+      "year": 1982,
+      "genre": "jpop",
+      "file": "rankings/1982-jpop.json"
+    },
+    {
+      "year": 1982,
+      "genre": "western",
+      "file": "rankings/1982-western.json"
+    },
+    {
+      "year": 1981,
+      "genre": "jpop",
+      "file": "rankings/1981-jpop.json"
+    },
+    {
+      "year": 1981,
+      "genre": "western",
+      "file": "rankings/1981-western.json"
+    },
+    {
+      "year": 1980,
+      "genre": "jpop",
+      "file": "rankings/1980-jpop.json"
+    },
+    {
+      "year": 1980,
+      "genre": "western",
+      "file": "rankings/1980-western.json"
+    },
+    {
+      "year": 1979,
+      "genre": "jpop",
+      "file": "rankings/1979-jpop.json"
+    },
+    {
+      "year": 1979,
+      "genre": "western",
+      "file": "rankings/1979-western.json"
+    },
+    {
+      "year": 1978,
+      "genre": "jpop",
+      "file": "rankings/1978-jpop.json"
+    },
+    {
+      "year": 1978,
+      "genre": "western",
+      "file": "rankings/1978-western.json"
+    },
+    {
+      "year": 1977,
+      "genre": "jpop",
+      "file": "rankings/1977-jpop.json"
+    },
+    {
+      "year": 1977,
+      "genre": "western",
+      "file": "rankings/1977-western.json"
+    },
+    {
+      "year": 1976,
+      "genre": "jpop",
+      "file": "rankings/1976-jpop.json"
+    },
+    {
+      "year": 1976,
+      "genre": "western",
+      "file": "rankings/1976-western.json"
+    },
+    {
+      "year": 1975,
+      "genre": "jpop",
+      "file": "rankings/1975-jpop.json"
+    },
+    {
+      "year": 1975,
+      "genre": "western",
+      "file": "rankings/1975-western.json"
+    }
   ]
 }

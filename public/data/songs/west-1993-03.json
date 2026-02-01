@@ -1,0 +1,91 @@
+{
+  "song": {
+    "id": "west-1993-03",
+    "title": "Dreamlover",
+    "artist": {
+      "id": "a-mariah-carey",
+      "name": "Mariah Carey"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1993,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "Dreamlover",
+      "type": "single",
+      "releaseDate": "1993-07-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2005-01",
+        "title": "We Belong Together",
+        "artist": {
+          "id": "a-mariah-carey",
+          "name": "Mariah Carey"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1996-05",
+        "title": "Always Be My Baby",
+        "artist": {
+          "id": "a-mariah-carey",
+          "name": "Mariah Carey"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-1995-07",
+        "title": "Fantasy",
+        "artist": {
+          "id": "a-mariah-carey",
+          "name": "Mariah Carey"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-1994-04",
+        "title": "Hero",
+        "artist": {
+          "id": "a-mariah-carey",
+          "name": "Mariah Carey"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1990-05",
+        "title": "Vision of Love",
+        "artist": {
+          "id": "a-mariah-carey",
+          "name": "Mariah Carey"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    }
+  ]
+}

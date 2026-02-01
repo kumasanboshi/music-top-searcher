@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "west-1978-06",
+    "title": "How Deep Is Your Love",
+    "artist": {
+      "id": "a-bee-gees",
+      "name": "Bee Gees"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1978,
+  "rank": 6,
+  "cdInfo": [
+    {
+      "title": "How Deep Is Your Love",
+      "type": "single",
+      "releaseDate": "1977-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-1979-08",
+        "title": "Too Much Heaven",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1978-02",
+        "title": "Night Fever",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1978-03",
+        "title": "Stayin' Alive",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    }
+  ]
+}

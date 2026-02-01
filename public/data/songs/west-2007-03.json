@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2007-03",
+    "title": "Big Girls Don't Cry",
+    "artist": {
+      "id": "a-fergie",
+      "name": "Fergie"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2007,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "Big Girls Don't Cry",
+      "type": "single",
+      "releaseDate": "2007-05-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2007-10",
+        "title": "Glamorous",
+        "artist": {
+          "id": "a-fergie",
+          "name": "Fergie"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    }
+  ]
+}

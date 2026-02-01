@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1985-01",
+    "title": "Careless Whisper",
+    "artist": {
+      "id": "a-wham",
+      "name": "Wham!"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1985,
+  "rank": 1,
+  "cdInfo": [
+    {
+      "title": "Careless Whisper",
+      "type": "single",
+      "releaseDate": "1984-08-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-1985-09",
+        "title": "Everything She Wants",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    }
+  ]
+}

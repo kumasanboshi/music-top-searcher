@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-2014-02",
+    "title": "R.Y.U.S.E.I.",
+    "artist": {
+      "id": "a-sandaime-j-soul-brothers",
+      "name": "三代目 J Soul Brothers"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2014,
+  "rank": 2,
+  "cdInfo": [
+    {
+      "title": "R.Y.U.S.E.I.",
+      "type": "single",
+      "releaseDate": "2014-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-2015-07",
+        "title": "Unfair World",
+        "artist": {
+          "id": "a-sandaime-j-soul-brothers",
+          "name": "三代目 J Soul Brothers"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-2013-09",
+        "title": "R.Y.U.S.E.I.",
+        "artist": {
+          "id": "a-sandaime-j-soul-brothers",
+          "name": "三代目 J Soul Brothers"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    }
+  ]
+}

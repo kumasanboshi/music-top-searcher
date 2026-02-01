@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-2016-09",
+    "title": "ハルジオンが咲く頃",
+    "artist": {
+      "id": "a-nogizaka46",
+      "name": "乃木坂46"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2016,
+  "rank": 9,
+  "cdInfo": [
+    {
+      "title": "ハルジオンが咲く頃",
+      "type": "single",
+      "releaseDate": "2016-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2018-04",
+        "title": "ガーベラ",
+        "artist": {
+          "id": "a-nogizaka46",
+          "name": "乃木坂46"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2017-04",
+        "title": "インフルエンサー",
+        "artist": {
+          "id": "a-nogizaka46",
+          "name": "乃木坂46"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    }
+  ]
+}

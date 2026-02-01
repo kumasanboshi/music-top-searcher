@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-2025-10",
+    "title": "星屑のワルツ",
+    "artist": {
+      "id": "a-yuuri",
+      "name": "優里"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2025,
+  "rank": 10,
+  "cdInfo": [
+    {
+      "title": "星屑のワルツ",
+      "type": "single",
+      "releaseDate": "2025-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-2022-07",
+        "title": "ベテルギウス",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-2021-01",
+        "title": "ドライフラワー",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    }
+  ]
+}

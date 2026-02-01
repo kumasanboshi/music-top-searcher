@@ -1,0 +1,91 @@
+{
+  "song": {
+    "id": "jpop-2006-08",
+    "title": "ありがとう",
+    "artist": {
+      "id": "a-smap",
+      "name": "SMAP"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2006,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "ありがとう",
+      "type": "single",
+      "releaseDate": "2006-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-2016-06",
+        "title": "世界に一つだけの花",
+        "artist": {
+          "id": "a-smap",
+          "name": "SMAP"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-2003-01",
+        "title": "世界に一つだけの花",
+        "artist": {
+          "id": "a-smap",
+          "name": "SMAP"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-2003-10",
+        "title": "僕の半分",
+        "artist": {
+          "id": "a-smap",
+          "name": "SMAP"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2000-04",
+        "title": "らいおんハート",
+        "artist": {
+          "id": "a-smap",
+          "name": "SMAP"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-1998-01",
+        "title": "夜空ノムコウ",
+        "artist": {
+          "id": "a-smap",
+          "name": "SMAP"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    }
+  ]
+}

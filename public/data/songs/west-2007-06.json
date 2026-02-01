@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2007-06",
+    "title": "Girlfriend",
+    "artist": {
+      "id": "a-avril-lavigne",
+      "name": "Avril Lavigne"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2007,
+  "rank": 6,
+  "cdInfo": [
+    {
+      "title": "Girlfriend",
+      "type": "single",
+      "releaseDate": "2007-02-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2002-07",
+        "title": "Complicated",
+        "artist": {
+          "id": "a-avril-lavigne",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    }
+  ]
+}
