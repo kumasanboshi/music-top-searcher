@@ -315,3 +315,34 @@
 
 - GitHub Secretsに `CLOUDFLARE_API_TOKEN` と `CLOUDFLARE_ACCOUNT_ID` の設定が必要
 - Cloudflare側のビルド設定は空欄（GitHub Actionsでビルド済みのdistを直接アップロード）
+
+## Issue #16: 全年代のランキングデータ追加 ✅
+
+### 実施内容
+
+- 1975〜2025年（2024年除く）の邦楽・洋楽Top10ランキングデータを生成
+  - ランキングファイル: 100件 (`public/data/rankings/{year}-{genre}.json`)
+  - 楽曲詳細ファイル: 1000件 (`public/data/songs/{genre}-{year}-{NN}.json`)
+- データ生成スクリプト `scripts/generate-data.mjs` を追加
+- `public/data/index.json` を全年代分に更新
+- artistSongs（同一アーティストの他楽曲）をジャンル内で自動クロスリファレンス
+
+### 検証結果
+
+| 項目 | 結果 |
+|------|------|
+| vite build | ✅ 成功 |
+| ランキングファイル数 | 102件（既存2 + 新規100） |
+| 楽曲詳細ファイル数 | 1002件（既存2 + 新規1000） |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `2694f9b` | feat: 1975〜2025年の全年代ランキングデータを追加 |
+| `d75303a` | Merge pull request #17 from kumasanboshi/feature/issue-16-all-year-rankings |
+
+### 備考
+
+- 楽曲データは実在のヒット曲を基にしているが、ランキング順位は厳密な公式データではない
+- 2025年のデータは架空のプレースホルダー
