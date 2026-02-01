@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { fetchAllSongs, searchSongs } from '../services/searchService'
 import type { RankingEntry } from '../types'
@@ -8,8 +8,7 @@ function SearchPage() {
   const [allSongs, setAllSongs] = useState<RankingEntry[]>([])
   const [loading, setLoading] = useState(true)
   const [query, setQuery] = useState('')
-  const [results, setResults] = useState<RankingEntry[]>([])
-  const [searched, setSearched] = useState(false)
+  const [debouncedQuery, setDebouncedQuery] = useState('')
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   useEffect(() => {
@@ -29,28 +28,30 @@ function SearchPage() {
     }
   }, [])
 
-  useEffect(() => {
+  const handleChange = useCallback((value: string) => {
+    setQuery(value)
     if (timerRef.current) {
       clearTimeout(timerRef.current)
     }
-
-    if (!query.trim()) {
-      setResults([])
-      setSearched(false)
-      return
-    }
-
     timerRef.current = setTimeout(() => {
-      setResults(searchSongs(allSongs, query))
-      setSearched(true)
+      setDebouncedQuery(value)
     }, 300)
+  }, [])
 
+  useEffect(() => {
     return () => {
       if (timerRef.current) {
         clearTimeout(timerRef.current)
       }
     }
-  }, [query, allSongs])
+  }, [])
+
+  const results = useMemo(
+    () => searchSongs(allSongs, debouncedQuery),
+    [allSongs, debouncedQuery],
+  )
+
+  const searched = debouncedQuery.trim().length > 0
 
   if (loading) {
     return (
@@ -68,7 +69,7 @@ function SearchPage() {
         type="text"
         placeholder="曲名・アーティスト名で検索"
         value={query}
-        onChange={(e) => setQuery(e.target.value)}
+        onChange={(e) => handleChange(e.target.value)}
       />
       {searched && results.length === 0 && (
         <p className={styles.noResults}>該当する曲が見つかりませんでした</p>
