@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-1986-02",
+    "title": "Walk Like an Egyptian",
+    "artist": {
+      "id": "a-bangles",
+      "name": "Bangles"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1986,
+  "rank": 2,
+  "cdInfo": [
+    {
+      "title": "Walk Like an Egyptian",
+      "type": "single",
+      "releaseDate": "1986-09-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1987-01",
+        "title": "Walk Like an Egyptian",
+        "artist": {
+          "id": "a-bangles",
+          "name": "Bangles"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    }
+  ]
+}

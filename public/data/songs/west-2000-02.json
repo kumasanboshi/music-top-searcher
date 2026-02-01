@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2000-02",
+    "title": "Smooth",
+    "artist": {
+      "id": "a-santana",
+      "name": "Santana ft. Rob Thomas"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2000,
+  "rank": 2,
+  "cdInfo": [
+    {
+      "title": "Smooth",
+      "type": "single",
+      "releaseDate": "1999-06-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-2000-05",
+        "title": "Maria Maria",
+        "artist": {
+          "id": "a-santana",
+          "name": "Santana ft. The Product G&B"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1999-05",
+        "title": "Smooth",
+        "artist": {
+          "id": "a-santana",
+          "name": "Santana ft. Rob Thomas"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "song": {
+    "id": "west-1993-04",
+    "title": "That's the Way Love Goes",
+    "artist": {
+      "id": "a-janet-jackson",
+      "name": "Janet Jackson"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1993,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "That's the Way Love Goes",
+      "type": "single",
+      "releaseDate": "1993-04-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2001-03",
+        "title": "All for You",
+        "artist": {
+          "id": "a-janet-jackson",
+          "name": "Janet Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1998-05",
+        "title": "Together Again",
+        "artist": {
+          "id": "a-janet-jackson",
+          "name": "Janet Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1994-10",
+        "title": "Again",
+        "artist": {
+          "id": "a-janet-jackson",
+          "name": "Janet Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-1990-08",
+        "title": "Escapade",
+        "artist": {
+          "id": "a-janet-jackson",
+          "name": "Janet Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-1989-04",
+        "title": "Miss You Much",
+        "artist": {
+          "id": "a-janet-jackson",
+          "name": "Janet Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    }
+  ]
+}

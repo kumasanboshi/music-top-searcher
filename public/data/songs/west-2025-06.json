@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2025-06",
+    "title": "Electric Heart",
+    "artist": {
+      "id": "a-sabrina-carpenter",
+      "name": "Sabrina Carpenter"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2025,
+  "rank": 6,
+  "cdInfo": [
+    {
+      "title": "Electric Heart",
+      "type": "single",
+      "releaseDate": "2025-04-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2025-01",
+        "title": "Taste",
+        "artist": {
+          "id": "a-sabrina-carpenter",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    }
+  ]
+}

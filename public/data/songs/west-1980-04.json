@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-1980-04",
+    "title": "Rock with You",
+    "artist": {
+      "id": "a-michael-jackson",
+      "name": "Michael Jackson"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1980,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "Rock with You",
+      "type": "single",
+      "releaseDate": "1979-11-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1983-02",
+        "title": "Billie Jean",
+        "artist": {
+          "id": "a-michael-jackson",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1983-05",
+        "title": "Beat It",
+        "artist": {
+          "id": "a-michael-jackson",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "jpop-1998-07",
+    "title": "FLOWER",
+    "artist": {
+      "id": "a-larc-en-ciel",
+      "name": "L'Arc〜en〜Ciel"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1998,
+  "rank": 7,
+  "cdInfo": [
+    {
+      "title": "FLOWER",
+      "type": "single",
+      "releaseDate": "1998-07-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-2000-10",
+        "title": "NEO UNIVERSE",
+        "artist": {
+          "id": "a-larc-en-ciel",
+          "name": "L'Arc〜en〜Ciel"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1998-02",
+        "title": "HONEY",
+        "artist": {
+          "id": "a-larc-en-ciel",
+          "name": "L'Arc〜en〜Ciel"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-1998-09",
+        "title": "snow drop",
+        "artist": {
+          "id": "a-larc-en-ciel",
+          "name": "L'Arc〜en〜Ciel"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "song": {
+    "id": "west-2017-03",
+    "title": "That's What I Like",
+    "artist": {
+      "id": "a-bruno-mars",
+      "name": "Bruno Mars"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2017,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "That's What I Like",
+      "type": "single",
+      "releaseDate": "2017-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2013-07",
+        "title": "Locked Out of Heaven",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2013-09",
+        "title": "When I Was Your Man",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2011-06",
+        "title": "Grenade",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2011-09",
+        "title": "Just the Way You Are",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    }
+  ]
+}

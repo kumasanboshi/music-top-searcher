@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2021-05",
+    "title": "Peaches",
+    "artist": {
+      "id": "a-justin-bieber",
+      "name": "Justin Bieber ft. Daniel Caesar & Giveon"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2021,
+  "rank": 5,
+  "cdInfo": [
+    {
+      "title": "Peaches",
+      "type": "single",
+      "releaseDate": "2021-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2016-01",
+        "title": "Love Yourself",
+        "artist": {
+          "id": "a-justin-bieber",
+          "name": "Justin Bieber"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2016-02",
+        "title": "Sorry",
+        "artist": {
+          "id": "a-justin-bieber",
+          "name": "Justin Bieber"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    }
+  ]
+}

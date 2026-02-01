@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-1996-03",
+    "title": "Because You Loved Me",
+    "artist": {
+      "id": "a-celine-dion",
+      "name": "Celine Dion"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 1996,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "Because You Loved Me",
+      "type": "single",
+      "releaseDate": "1996-03-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-1998-07",
+        "title": "My Heart Will Go On",
+        "artist": {
+          "id": "a-celine-dion",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1994-03",
+        "title": "The Power of Love",
+        "artist": {
+          "id": "a-celine-dion",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-1992-04",
+    "title": "もう恋なんてしない",
+    "artist": {
+      "id": "a-makihara-noriyuki",
+      "name": "槇原敬之"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1992,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "もう恋なんてしない",
+      "type": "single",
+      "releaseDate": "1992-05-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-1993-10",
+        "title": "冬がはじまるよ",
+        "artist": {
+          "id": "a-makihara-noriyuki",
+          "name": "槇原敬之"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1991-03",
+        "title": "どんなときも。",
+        "artist": {
+          "id": "a-makihara-noriyuki",
+          "name": "槇原敬之"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    }
+  ]
+}

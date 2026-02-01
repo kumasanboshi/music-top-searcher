@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "jpop-1991-01",
+    "title": "SAY YES",
+    "artist": {
+      "id": "a-chage-and-aska",
+      "name": "CHAGE and ASKA"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1991,
+  "rank": 1,
+  "cdInfo": [
+    {
+      "title": "SAY YES",
+      "type": "single",
+      "releaseDate": "1991-07-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-1993-01",
+        "title": "YAH YAH YAH",
+        "artist": {
+          "id": "a-chage-and-aska",
+          "name": "CHAGE and ASKA"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1993-07",
+        "title": "if",
+        "artist": {
+          "id": "a-chage-and-aska",
+          "name": "CHAGE and ASKA"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-1992-06",
+        "title": "愛される資格",
+        "artist": {
+          "id": "a-chage-and-aska",
+          "name": "CHAGE and ASKA"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    }
+  ]
+}

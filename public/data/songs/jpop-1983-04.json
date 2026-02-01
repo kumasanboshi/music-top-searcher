@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "jpop-1983-04",
+    "title": "探偵物語",
+    "artist": {
+      "id": "a-yakushimaru-hiroko",
+      "name": "薬師丸ひろ子"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1983,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "探偵物語",
+      "type": "single",
+      "releaseDate": "1983-05-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-1982-06",
+        "title": "セーラー服と機関銃",
+        "artist": {
+          "id": "a-yakushimaru-hiroko",
+          "name": "薬師丸ひろ子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    }
+  ]
+}

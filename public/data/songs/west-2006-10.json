@@ -1,0 +1,78 @@
+{
+  "song": {
+    "id": "west-2006-10",
+    "title": "Check on It",
+    "artist": {
+      "id": "a-beyonce",
+      "name": "Beyonce"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2006,
+  "rank": 10,
+  "cdInfo": [
+    {
+      "title": "Check on It",
+      "type": "single",
+      "releaseDate": "2005-12-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2009-06",
+        "title": "Single Ladies (Put a Ring on It)",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyonce"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2007-01",
+        "title": "Irreplaceable",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyonce"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2003-02",
+        "title": "Crazy in Love",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyonce ft. Jay-Z"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2003-10",
+        "title": "Baby Boy",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyonce ft. Sean Paul"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    }
+  ]
+}

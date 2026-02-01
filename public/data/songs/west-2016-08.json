@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "west-2016-08",
+    "title": "Closer",
+    "artist": {
+      "id": "a-the-chainsmokers",
+      "name": "The Chainsmokers ft. Halsey"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2016,
+  "rank": 8,
+  "cdInfo": [
+    {
+      "title": "Closer",
+      "type": "single",
+      "releaseDate": "2016-07-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-2017-05",
+        "title": "Something Just Like This",
+        "artist": {
+          "id": "a-the-chainsmokers",
+          "name": "The Chainsmokers & Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2016-07",
+        "title": "Don't Let Me Down",
+        "artist": {
+          "id": "a-the-chainsmokers",
+          "name": "The Chainsmokers ft. Daya"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    }
+  ]
+}

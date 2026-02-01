@@ -1,0 +1,78 @@
+{
+  "song": {
+    "id": "jpop-2000-01",
+    "title": "TSUNAMI",
+    "artist": {
+      "id": "a-southern-all-stars",
+      "name": "サザンオールスターズ"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2000,
+  "rank": 1,
+  "cdInfo": [
+    {
+      "title": "TSUNAMI",
+      "type": "single",
+      "releaseDate": "2000-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-2018-07",
+        "title": "TSUNAMI",
+        "artist": {
+          "id": "a-southern-all-stars",
+          "name": "サザンオールスターズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1993-05",
+        "title": "エロティカ・セブン",
+        "artist": {
+          "id": "a-southern-all-stars",
+          "name": "サザンオールスターズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1992-05",
+        "title": "涙のキッス",
+        "artist": {
+          "id": "a-southern-all-stars",
+          "name": "サザンオールスターズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1990-05",
+        "title": "真夏の果実",
+        "artist": {
+          "id": "a-southern-all-stars",
+          "name": "サザンオールスターズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    }
+  ]
+}

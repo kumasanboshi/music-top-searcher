@@ -1,0 +1,52 @@
+{
+  "song": {
+    "id": "jpop-2001-04",
+    "title": "白い恋人達",
+    "artist": {
+      "id": "a-kuwata-keisuke",
+      "name": "桑田佳祐"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 2001,
+  "rank": 4,
+  "cdInfo": [
+    {
+      "title": "白い恋人達",
+      "type": "single",
+      "releaseDate": "2001-10-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-2007-10",
+        "title": "明日晴れるかな",
+        "artist": {
+          "id": "a-kuwata-keisuke",
+          "name": "桑田佳祐"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-2001-02",
+        "title": "波乗りジョニー",
+        "artist": {
+          "id": "a-kuwata-keisuke",
+          "name": "桑田佳祐"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "song": {
+    "id": "jpop-1999-10",
+    "title": "Winter, again",
+    "artist": {
+      "id": "a-glay",
+      "name": "GLAY"
+    },
+    "genre": "jpop"
+  },
+  "rankingYear": 1999,
+  "rank": 10,
+  "cdInfo": [
+    {
+      "title": "Winter, again",
+      "type": "single",
+      "releaseDate": "1999-02-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-2001-09",
+        "title": "GLOBAL COMMUNICATION",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1998-03",
+        "title": "誘惑",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1998-05",
+        "title": "SOUL LOVE",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-1997-04",
+        "title": "HOWEVER",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1996-07",
+        "title": "BELOVED",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    }
+  ]
+}

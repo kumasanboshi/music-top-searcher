@@ -1,0 +1,65 @@
+{
+  "song": {
+    "id": "west-2025-03",
+    "title": "Guts & Glory",
+    "artist": {
+      "id": "a-olivia-rodrigo",
+      "name": "Olivia Rodrigo"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2025,
+  "rank": 3,
+  "cdInfo": [
+    {
+      "title": "Guts & Glory",
+      "type": "single",
+      "releaseDate": "2025-02-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2023-06",
+        "title": "Vampire",
+        "artist": {
+          "id": "a-olivia-rodrigo",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2021-06",
+        "title": "Good 4 U",
+        "artist": {
+          "id": "a-olivia-rodrigo",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2021-07",
+        "title": "Drivers License",
+        "artist": {
+          "id": "a-olivia-rodrigo",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    }
+  ]
+}

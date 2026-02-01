@@ -1,0 +1,39 @@
+{
+  "song": {
+    "id": "west-2019-10",
+    "title": "Truth Hurts",
+    "artist": {
+      "id": "a-lizzo",
+      "name": "Lizzo"
+    },
+    "genre": "western"
+  },
+  "rankingYear": 2019,
+  "rank": 10,
+  "cdInfo": [
+    {
+      "title": "Truth Hurts",
+      "type": "single",
+      "releaseDate": "2019-01-01"
+    }
+  ],
+  "externalLinks": {
+    "amazon": "https://amazon.co.jp/dp/example1",
+    "appleMusic": "https://music.apple.com/jp/album/example1"
+  },
+  "artistSongs": [
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-2022-08",
+        "title": "About Damn Time",
+        "artist": {
+          "id": "a-lizzo",
+          "name": "Lizzo"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    }
+  ]
+}
