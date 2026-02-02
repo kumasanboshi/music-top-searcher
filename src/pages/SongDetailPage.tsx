@@ -70,11 +70,11 @@ function SongDetailPage() {
         </div>
       )}
 
-      {isOnline && externalLinks && (externalLinks.amazon || externalLinks.appleMusic) && (
+      {isOnline && (
         <div className={styles.section}>
           <h2 className={styles.sectionTitle}>外部リンク</h2>
           <ul className={styles.linkList}>
-            {externalLinks.amazon && (
+            {externalLinks?.amazon && (
               <li>
                 <a
                   href={externalLinks.amazon}
@@ -85,7 +85,7 @@ function SongDetailPage() {
                 </a>
               </li>
             )}
-            {externalLinks.appleMusic && (
+            {externalLinks?.appleMusic && (
               <li>
                 <a
                   href={externalLinks.appleMusic}
@@ -96,6 +96,15 @@ function SongDetailPage() {
                 </a>
               </li>
             )}
+            <li>
+              <a
+                href={`https://www.youtube.com/results?search_query=${encodeURIComponent(song.artist.name + ' ' + song.title)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                YouTube
+              </a>
+            </li>
           </ul>
         </div>
       )}
