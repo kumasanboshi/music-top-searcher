@@ -146,6 +146,30 @@ describe('SongDetailPage', () => {
     expect(screen.getByText('読み込み中...')).toBeInTheDocument()
   })
 
+  it('YouTube検索リンクを表示する', async () => {
+    vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
+
+    renderPage('jpop', 'jpop-2024-01')
+
+    const link = await screen.findByRole('link', { name: /YouTube/ })
+    expect(link).toHaveAttribute(
+      'href',
+      'https://www.youtube.com/results?search_query=Creepy%20Nuts%20Bling-Bang-Bang-Born',
+    )
+    expect(link).toHaveAttribute('target', '_blank')
+  })
+
+  it('外部リンクがない場合でもYouTube検索リンクは表示される', async () => {
+    const noLinks = { ...mockSongDetail, externalLinks: undefined }
+    vi.mocked(songService.fetchSongDetail).mockResolvedValue(noLinks)
+
+    renderPage('jpop', 'jpop-2024-01')
+
+    const link = await screen.findByRole('link', { name: /YouTube/ })
+    expect(link).toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: /Amazon/ })).not.toBeInTheDocument()
+  })
+
   it('エラー時にメッセージを表示する', async () => {
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(null)
 
