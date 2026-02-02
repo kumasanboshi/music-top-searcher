@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1987-25",
-    "title": "Golden Diamond",
+    "title": "Chasing Dawn",
     "artist": {
-      "id": "a-lionel-richie",
-      "name": "Lionel Richie"
+      "id": "a-culture-club",
+      "name": "Culture Club"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 25,
   "cdInfo": [
     {
-      "title": "Golden Diamond",
+      "title": "Chasing Dawn",
       "type": "single",
-      "releaseDate": "1987-07-15"
+      "releaseDate": "1987-08-16"
+    },
+    {
+      "title": "River Chronicles",
+      "type": "album",
+      "releaseDate": "1987-08-05"
     }
   ],
   "externalLinks": {
@@ -23,169 +28,130 @@
   },
   "artistSongs": [
     {
-      "rank": 32,
-      "song": {
-        "id": "west-1989-32",
-        "title": "Snow Lights",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1989-78",
-        "title": "Flame Love",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
       "rank": 26,
       "song": {
-        "id": "west-1988-26",
-        "title": "Golden Rain",
+        "id": "west-1989-26",
+        "title": "Thunder Forever",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1989-41",
+        "title": "Midnight Dawn",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1989-52",
+        "title": "Into the Thunder",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1989-96",
+        "title": "Sun Lights",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1989-98",
+        "title": "Lost in Gold",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1988-18",
+        "title": "Under the Dusk",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 28,
+      "rank": 88,
       "song": {
-        "id": "west-1988-28",
-        "title": "Dancing Rain",
+        "id": "west-1988-88",
+        "title": "Moon Moonlight",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 39,
+      "rank": 27,
       "song": {
-        "id": "west-1988-39",
-        "title": "Star Heart",
+        "id": "west-1987-27",
+        "title": "Fading Star",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1988-49",
-        "title": "Gold Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1988-60",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1988-70",
-        "title": "Rain Sky",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1988-81",
-        "title": "Shining Winter",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1988-86",
-        "title": "Never Crystal",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1987-14",
-        "title": "Shining Storm",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 19,
+      "rank": 30,
       "song": {
-        "id": "west-1987-19",
-        "title": "Electric Dawn",
+        "id": "west-1987-30",
+        "title": "Broken Flame",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 29,
+      "rank": 48,
       "song": {
-        "id": "west-1987-29",
-        "title": "Broken Star",
+        "id": "west-1987-48",
+        "title": "Dancing Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
@@ -195,231 +161,205 @@
       "rank": 59,
       "song": {
         "id": "west-1987-59",
-        "title": "Falling Sun",
+        "title": "Never Ocean",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 81,
+      "rank": 62,
       "song": {
-        "id": "west-1987-81",
-        "title": "Lost in Ocean",
+        "id": "west-1987-62",
+        "title": "Thunder Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 4,
+      "rank": 63,
       "song": {
-        "id": "west-1986-04",
-        "title": "Say You, Say Me",
+        "id": "west-1987-63",
+        "title": "Falling Light",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1987
     },
     {
-      "rank": 18,
+      "rank": 87,
       "song": {
-        "id": "west-1986-18",
-        "title": "Dancing Storm",
+        "id": "west-1987-87",
+        "title": "Sun Moonlight",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
-      "year": 1986
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1986-24",
-        "title": "Electric Bridge",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1986-34",
-        "title": "Rose Tears",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1986-56",
-        "title": "Lost in Winter",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1986-67",
-        "title": "Rose Fire",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1986-82",
-        "title": "Golden Crystal",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1986-83",
-        "title": "Midnight Rose",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1986-99",
-        "title": "Sun Heart",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1985-12",
-        "title": "Gold Love",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1985-16",
-        "title": "Midnight Wave",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
+      "year": 1987
     },
     {
       "rank": 39,
       "song": {
-        "id": "west-1985-39",
-        "title": "Into the Fire",
+        "id": "west-1986-39",
+        "title": "Silver Forever",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1986-45",
+        "title": "Golden Fire",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1986-50",
+        "title": "Lost in Road",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1986-65",
+        "title": "Never Fire",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1986-75",
+        "title": "Falling Sun",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1986-84",
+        "title": "Sweet Moon",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1985-43",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 47,
+      "rank": 62,
       "song": {
-        "id": "west-1985-47",
-        "title": "Last Crystal",
+        "id": "west-1985-62",
+        "title": "Sweet Diamond",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 55,
+      "rank": 69,
       "song": {
-        "id": "west-1985-55",
-        "title": "Sweet Light",
+        "id": "west-1985-69",
+        "title": "Falling Star",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 58,
+      "rank": 70,
       "song": {
-        "id": "west-1985-58",
-        "title": "Silver Night",
+        "id": "west-1985-70",
+        "title": "Dancing Storm",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 80,
+      "rank": 75,
       "song": {
-        "id": "west-1985-80",
-        "title": "Dusk Night",
+        "id": "west-1985-75",
+        "title": "Never Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1985-84",
+        "title": "Snow Fire",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
@@ -429,179 +369,244 @@
       "rank": 85,
       "song": {
         "id": "west-1985-85",
-        "title": "Wave Dreams",
+        "title": "Never River",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 93,
+      "rank": 9,
       "song": {
-        "id": "west-1985-93",
-        "title": "Fading Diamond",
+        "id": "west-1984-09",
+        "title": "Karma Chameleon",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-1984-07",
-        "title": "Hello",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 19,
+      "rank": 21,
       "song": {
-        "id": "west-1984-19",
-        "title": "Light Moonlight",
+        "id": "west-1984-21",
+        "title": "Rain Rain",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 27,
+      "rank": 37,
       "song": {
-        "id": "west-1984-27",
-        "title": "Running Thunder",
+        "id": "west-1984-37",
+        "title": "Mountain Tears",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 51,
+      "rank": 49,
       "song": {
-        "id": "west-1984-51",
-        "title": "Mountain Lights",
+        "id": "west-1984-49",
+        "title": "Falling Storm",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 62,
+      "rank": 66,
       "song": {
-        "id": "west-1984-62",
-        "title": "Never Road",
+        "id": "west-1984-66",
+        "title": "Wave Forever",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 63,
+      "rank": 76,
       "song": {
-        "id": "west-1984-63",
-        "title": "Crystal Love",
+        "id": "west-1984-76",
+        "title": "Sweet Moon",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 53,
+      "rank": 82,
       "song": {
-        "id": "west-1983-53",
-        "title": "Lost in Crystal",
+        "id": "west-1984-82",
+        "title": "Star Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1984-89",
+        "title": "Rose Forever",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1984-90",
+        "title": "Sweet Rose",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1983-14",
+        "title": "Into the Shadow",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 64,
+      "rank": 46,
       "song": {
-        "id": "west-1983-64",
-        "title": "Thunder Tears",
+        "id": "west-1983-46",
+        "title": "Ocean Forever",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 73,
+      "rank": 47,
       "song": {
-        "id": "west-1983-73",
-        "title": "Sweet Shadow",
+        "id": "west-1983-47",
+        "title": "Moon Way",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 87,
+      "rank": 56,
       "song": {
-        "id": "west-1983-87",
-        "title": "Midnight Diamond",
+        "id": "west-1983-56",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 40,
+      "rank": 66,
       "song": {
-        "id": "west-1982-40",
-        "title": "Golden Ice",
+        "id": "west-1983-66",
+        "title": "Wild River",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1983-76",
+        "title": "Dusk Moonlight",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1983-88",
+        "title": "Rose Fire",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1982-39",
+        "title": "Summer Forever",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 43,
+      "rank": 44,
       "song": {
-        "id": "west-1982-43",
-        "title": "Fading Thunder",
+        "id": "west-1982-44",
+        "title": "Lost in Flame",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
@@ -611,205 +616,192 @@
       "rank": 46,
       "song": {
         "id": "west-1982-46",
-        "title": "Storm Way",
+        "title": "Fading Fire",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 57,
+      "rank": 47,
       "song": {
-        "id": "west-1982-57",
-        "title": "Fading Ice",
+        "id": "west-1982-47",
+        "title": "Dancing Storm",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 62,
+      "rank": 63,
       "song": {
-        "id": "west-1982-62",
-        "title": "Ice Moonlight",
+        "id": "west-1982-63",
+        "title": "Never Summer",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 95,
+      "rank": 70,
       "song": {
-        "id": "west-1982-95",
-        "title": "Ocean Lights",
+        "id": "west-1982-70",
+        "title": "Light Night",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 18,
+      "rank": 32,
       "song": {
-        "id": "west-1981-18",
-        "title": "Under the Silver",
+        "id": "west-1981-32",
+        "title": "Shining Road",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1981
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1981-24",
-        "title": "Falling Fire",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1981-58",
-        "title": "Wild Mountain",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1981-64",
-        "title": "Golden Sky",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1981-99",
-        "title": "Flame Lights",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1980-12",
-        "title": "Sweet Bridge",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1980-18",
-        "title": "City Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1980-24",
-        "title": "River Fire",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1980-38",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-1980-54",
-        "title": "Moon Moonlight",
+        "id": "west-1981-54",
+        "title": "Summer Way",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1981
     },
     {
-      "rank": 74,
+      "rank": 65,
       "song": {
-        "id": "west-1980-74",
-        "title": "Falling Rain",
+        "id": "west-1981-65",
+        "title": "Mountain Moonlight",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1981
     },
     {
       "rank": 80,
       "song": {
-        "id": "west-1980-80",
-        "title": "Sweet River",
+        "id": "west-1981-80",
+        "title": "Crystal Moonlight",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1981-82",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1980-26",
+        "title": "City Soul",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1980-37",
+        "title": "Wind Rain",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1980-52",
+        "title": "Golden Gold",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1980-66",
+        "title": "River Lights",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1980-71",
+        "title": "Light Heart",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1980-84",
+        "title": "Chasing Shadow",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
@@ -819,23 +811,36 @@
       "rank": 85,
       "song": {
         "id": "west-1980-85",
-        "title": "Never Shadow",
+        "title": "Ocean Night",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 92,
+      "rank": 90,
       "song": {
-        "id": "west-1980-92",
-        "title": "Ocean Dreams",
+        "id": "west-1980-90",
+        "title": "Wave Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-culture-club",
+          "name": "Culture Club"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1980-96",
+        "title": "Storm Moonlight",
+        "artist": {
+          "id": "a-culture-club",
+          "name": "Culture Club"
         },
         "genre": "western"
       },

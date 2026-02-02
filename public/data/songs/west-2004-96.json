@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2004-96",
-    "title": "Fading Gold",
+    "title": "Road Night",
     "artist": {
-      "id": "a-fob",
-      "name": "Fall Out Boy"
+      "id": "a-linkin-park",
+      "name": "Linkin Park"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 96,
   "cdInfo": [
     {
-      "title": "Fading Gold",
+      "title": "Road Night",
       "type": "single",
-      "releaseDate": "2004-06-09"
+      "releaseDate": "2004-08-19"
+    },
+    {
+      "title": "Moon Diaries",
+      "type": "album",
+      "releaseDate": "2004-12-04"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,39 @@
   },
   "artistSongs": [
     {
-      "rank": 16,
+      "rank": 17,
       "song": {
-        "id": "west-2009-16",
-        "title": "Mountain Sky",
+        "id": "west-2009-17",
+        "title": "Wave Moonlight",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 20,
+      "rank": 61,
       "song": {
-        "id": "west-2009-20",
-        "title": "Flame Lights",
+        "id": "west-2009-61",
+        "title": "Golden Thunder",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 22,
+      "rank": 66,
       "song": {
-        "id": "west-2009-22",
-        "title": "Running Wind",
+        "id": "west-2009-66",
+        "title": "Electric River",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2009-33",
-        "title": "Flame Moonlight",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2009-70",
-        "title": "Crystal Sky",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2009-71",
-        "title": "Rain Dreams",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
@@ -104,582 +70,660 @@
       "rank": 83,
       "song": {
         "id": "west-2009-83",
-        "title": "Shadow Moonlight",
+        "title": "Golden Wind",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 15,
+      "rank": 95,
       "song": {
-        "id": "west-2008-15",
-        "title": "Falling Dusk",
+        "id": "west-2009-95",
+        "title": "Midnight Fire",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
-      "year": 2008
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2008-38",
-        "title": "Sweet Bridge",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2008-39",
-        "title": "Into the Rose",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2008-58",
-        "title": "Ocean Forever",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2008-83",
-        "title": "Fire Sky",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2008-98",
-        "title": "Electric Road",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2007-16",
-        "title": "Crystal Tears",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2007-21",
-        "title": "Never Dusk",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2007-26",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2007-38",
-        "title": "Never Thunder",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2007-43",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2007-60",
-        "title": "Falling Light",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2007-61",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2007-66",
-        "title": "Mountain Soul",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2007-78",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2007-99",
-        "title": "Falling Storm",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2007-100",
-        "title": "Ocean Soul",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2006-11",
-        "title": "Road Lights",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2006-24",
-        "title": "Dusk Heart",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2006-36",
-        "title": "Wave Tears",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2006-37",
-        "title": "Shining Star",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2006-59",
-        "title": "Diamond Sky",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2006-64",
-        "title": "Never Storm",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2006-72",
-        "title": "Wild Thunder",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2006-90",
-        "title": "Lost in Rain",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2005-17",
-        "title": "Lost in Moon",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2005
+      "year": 2009
     },
     {
       "rank": 27,
       "song": {
-        "id": "west-2005-27",
-        "title": "Broken Thunder",
+        "id": "west-2008-27",
+        "title": "Broken Rose",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2008
     },
     {
-      "rank": 54,
+      "rank": 33,
       "song": {
-        "id": "west-2005-54",
-        "title": "Broken Diamond",
+        "id": "west-2008-33",
+        "title": "Light Dreams",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2008
     },
     {
-      "rank": 90,
+      "rank": 45,
       "song": {
-        "id": "west-2005-90",
-        "title": "Sweet Summer",
+        "id": "west-2008-45",
+        "title": "Gold Soul",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2008
     },
     {
-      "rank": 59,
+      "rank": 56,
       "song": {
-        "id": "west-2004-59",
-        "title": "Dancing Ice",
+        "id": "west-2008-56",
+        "title": "Electric City",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
-      "year": 2004
+      "year": 2008
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2008-77",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2008-88",
+        "title": "Sky Moonlight",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2007-13",
+        "title": "Winter Tears",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-2007-29",
+        "title": "Star Sky",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2007-55",
+        "title": "Flame Soul",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2007-69",
+        "title": "Wild Dusk",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
     },
     {
       "rank": 70,
       "song": {
-        "id": "west-2004-70",
-        "title": "Last Fire",
+        "id": "west-2007-70",
+        "title": "Fading Summer",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-2007-83",
+        "title": "Chasing Star",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2007-85",
+        "title": "Dancing Light",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2007-91",
+        "title": "Electric Wave",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2006-17",
+        "title": "Last Shadow",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2006-31",
+        "title": "Wild Flame",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2006-82",
+        "title": "Midnight Shadow",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2006-93",
+        "title": "Lost in Gold",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2005-45",
+        "title": "Electric Thunder",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2005-56",
+        "title": "Shadow Dreams",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2005-91",
+        "title": "Chasing Silver",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2004-14",
+        "title": "Summer Forever",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
+      "rank": 23,
+      "song": {
+        "id": "west-2004-23",
+        "title": "Falling Snow",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2004-31",
+        "title": "Lost in Sun",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2004-34",
+        "title": "Broken Moon",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2004-40",
+        "title": "Summer Night",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2004-61",
+        "title": "Rose Way",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2004-69",
+        "title": "Mountain Soul",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-2004-71",
+        "title": "Gold Way",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2004-84",
+        "title": "Wild Road",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2003-36",
+        "title": "Lost in Rain",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-2003-71",
+        "title": "Electric Moon",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2003-74",
+        "title": "Wind Heart",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2003-88",
+        "title": "Broken Snow",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-2002-04",
+        "title": "In the End",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
       "rank": 19,
       "song": {
-        "id": "west-2003-19",
-        "title": "Chasing Sky",
+        "id": "west-2002-19",
+        "title": "Thunder Lights",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2003-25",
-        "title": "Moon Moonlight",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2002-20",
-        "title": "Wave Rain",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 25,
+      "rank": 53,
       "song": {
-        "id": "west-2002-25",
-        "title": "Electric Snow",
+        "id": "west-2002-53",
+        "title": "Midnight Ocean",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 41,
+      "rank": 81,
       "song": {
-        "id": "west-2002-41",
-        "title": "Lost in Dawn",
+        "id": "west-2002-81",
+        "title": "Midnight Snow",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 46,
+      "rank": 83,
       "song": {
-        "id": "west-2002-46",
-        "title": "Sweet Star",
+        "id": "west-2002-83",
+        "title": "Midnight Crystal",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 52,
+      "rank": 85,
       "song": {
-        "id": "west-2002-52",
-        "title": "Star Lights",
+        "id": "west-2002-85",
+        "title": "Dawn Love",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 76,
+      "rank": 91,
       "song": {
-        "id": "west-2002-76",
-        "title": "Shining Sun",
+        "id": "west-2002-91",
+        "title": "Dancing Dusk",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 20,
+      "rank": 97,
       "song": {
-        "id": "west-2001-20",
-        "title": "Road Love",
+        "id": "west-2002-97",
+        "title": "Last Sky",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2001-42",
+        "title": "Running Dawn",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 52,
+      "rank": 44,
       "song": {
-        "id": "west-2001-52",
-        "title": "Flame Sky",
+        "id": "west-2001-44",
+        "title": "Under the Sky",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 67,
+      "rank": 80,
       "song": {
-        "id": "west-2001-67",
-        "title": "Storm Moonlight",
+        "id": "west-2001-80",
+        "title": "Storm Sky",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 90,
+      "rank": 92,
       "song": {
-        "id": "west-2001-90",
-        "title": "Bridge Way",
+        "id": "west-2001-92",
+        "title": "Moon Rain",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 18,
+      "rank": 97,
       "song": {
-        "id": "west-2000-18",
-        "title": "Running Snow",
+        "id": "west-2001-97",
+        "title": "Fading Summer",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2000-37",
+        "title": "Dancing Gold",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2000-47",
+        "title": "Rose Lights",
+        "artist": {
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
@@ -689,62 +733,36 @@
       "rank": 59,
       "song": {
         "id": "west-2000-59",
-        "title": "Wind Way",
+        "title": "Midnight Snow",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 80,
+      "rank": 91,
       "song": {
-        "id": "west-2000-80",
-        "title": "Dancing Rain",
+        "id": "west-2000-91",
+        "title": "Into the Flame",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 83,
+      "rank": 92,
       "song": {
-        "id": "west-2000-83",
-        "title": "Into the Shadow",
+        "id": "west-2000-92",
+        "title": "Dawn Moonlight",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2000-89",
-        "title": "Broken Sun",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2000-95",
-        "title": "Chasing Flame",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-linkin-park",
+          "name": "Linkin Park"
         },
         "genre": "western"
       },

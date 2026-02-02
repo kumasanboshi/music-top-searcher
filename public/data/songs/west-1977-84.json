@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-84",
-    "title": "Sweet Snow",
+    "title": "River Sky",
     "artist": {
-      "id": "a-chicago",
-      "name": "Chicago"
+      "id": "a-abba",
+      "name": "ABBA"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 84,
   "cdInfo": [
     {
-      "title": "Sweet Snow",
+      "title": "River Sky",
       "type": "single",
-      "releaseDate": "1977-06-27"
+      "releaseDate": "1977-09-22"
+    },
+    {
+      "title": "Storm Anthology",
+      "type": "album",
+      "releaseDate": "1977-08-05"
     }
   ],
   "externalLinks": {
@@ -23,286 +28,195 @@
   },
   "artistSongs": [
     {
-      "rank": 1,
+      "rank": 67,
       "song": {
-        "id": "west-1989-01",
-        "title": "Look Away",
+        "id": "west-1979-67",
+        "title": "Dancing Shadow",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 10,
-      "song": {
-        "id": "west-1982-10",
-        "title": "Hard to Say I'm Sorry",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1979-27",
-        "title": "Crystal Way",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 35,
+      "rank": 23,
       "song": {
-        "id": "west-1979-35",
-        "title": "Electric Star",
+        "id": "west-1978-23",
+        "title": "Into the Crystal",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1979
+      "year": 1978
     },
     {
-      "rank": 39,
+      "rank": 29,
       "song": {
-        "id": "west-1979-39",
-        "title": "Never Summer",
+        "id": "west-1978-29",
+        "title": "Never Thunder",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1979
+      "year": 1978
     },
     {
-      "rank": 79,
+      "rank": 45,
       "song": {
-        "id": "west-1979-79",
-        "title": "Shining Road",
+        "id": "west-1978-45",
+        "title": "Running Ocean",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1979
+      "year": 1978
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1978-76",
+        "title": "Wind Soul",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
     },
     {
       "rank": 85,
       "song": {
-        "id": "west-1979-85",
-        "title": "Summer Love",
+        "id": "west-1978-85",
+        "title": "River Night",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1979
+      "year": 1978
     },
     {
-      "rank": 92,
+      "rank": 98,
       "song": {
-        "id": "west-1979-92",
-        "title": "Snow Heart",
+        "id": "west-1978-98",
+        "title": "Light Moonlight",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1979
+      "year": 1978
     },
     {
-      "rank": 96,
+      "rank": 6,
       "song": {
-        "id": "west-1979-96",
-        "title": "Golden Moon",
+        "id": "west-1977-06",
+        "title": "Dancing Queen",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1979
+      "year": 1977
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1977-32",
+        "title": "Wild Wind",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1977-45",
+        "title": "Wild Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1977-54",
+        "title": "Never Rain",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1977-71",
+        "title": "Midnight Ocean",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1977-89",
+        "title": "Diamond Soul",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1977-98",
+        "title": "Sun Lights",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 99,
       "song": {
-        "id": "west-1979-99",
-        "title": "Silver Heart",
+        "id": "west-1977-99",
+        "title": "Last City",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1978-19",
-        "title": "Fading Wind",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1978-36",
-        "title": "Winter Moonlight",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1978-74",
-        "title": "Ocean Love",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1977-11",
-        "title": "Shining Bridge",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1977-27",
-        "title": "Bridge Rain",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1977-31",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1977-42",
-        "title": "Chasing Rain",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1977-43",
-        "title": "Winter Lights",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1977-46",
-        "title": "Bridge Moonlight",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1977-55",
-        "title": "Dancing Sky",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1977-57",
-        "title": "Into the Crystal",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1977-86",
-        "title": "Wild Road",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -311,167 +225,37 @@
     {
       "rank": 94,
       "song": {
-        "id": "west-1977-94",
-        "title": "Ocean Soul",
+        "id": "west-1976-94",
+        "title": "Dawn Tears",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1976-15",
-        "title": "Running Mountain",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 21,
+      "rank": 97,
       "song": {
-        "id": "west-1976-21",
-        "title": "Fire Moonlight",
+        "id": "west-1976-97",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 39,
+      "rank": 22,
       "song": {
-        "id": "west-1976-39",
-        "title": "Chasing Shadow",
+        "id": "west-1975-22",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1976-44",
-        "title": "Broken Light",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1976-47",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1976-51",
-        "title": "Thunder Sky",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1976-55",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1976-67",
-        "title": "Falling Ocean",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1976-75",
-        "title": "Electric Winter",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1975-28",
-        "title": "Summer Soul",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1975-29",
-        "title": "Moon Heart",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1975-36",
-        "title": "Storm Fire",
-        "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -481,10 +265,62 @@
       "rank": 54,
       "song": {
         "id": "west-1975-54",
-        "title": "Wild Fire",
+        "title": "Midnight Road",
         "artist": {
-          "id": "a-chicago",
-          "name": "Chicago"
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1975-85",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1975-91",
+        "title": "Falling Crystal",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1975-92",
+        "title": "Golden Snow",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1975-94",
+        "title": "Last Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1990-63",
-    "title": "月物語",
+    "title": "夢の星",
     "artist": {
-      "id": "a-utada-hikaru",
-      "name": "宇多田ヒカル"
+      "id": "a-komuro",
+      "name": "小室哲哉"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 63,
   "cdInfo": [
     {
-      "title": "月物語",
+      "title": "夢の星",
       "type": "single",
-      "releaseDate": "1990-10-06"
+      "releaseDate": "1990-01-08"
+    },
+    {
+      "title": "愛コレクション",
+      "type": "album",
+      "releaseDate": "1990-04-14"
     }
   ],
   "externalLinks": {
@@ -23,1092 +28,247 @@
   },
   "artistSongs": [
     {
-      "rank": 16,
+      "rank": 45,
       "song": {
-        "id": "jpop-2009-16",
-        "title": "世界の季節",
+        "id": "jpop-1999-45",
+        "title": "空ストーリー",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 2009
+      "year": 1999
     },
     {
-      "rank": 21,
+      "rank": 60,
       "song": {
-        "id": "jpop-2009-21",
-        "title": "世界の花",
+        "id": "jpop-1999-60",
+        "title": "街の海",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 2009
+      "year": 1999
     },
     {
-      "rank": 39,
+      "rank": 22,
       "song": {
-        "id": "jpop-2009-39",
-        "title": "夏の花",
+        "id": "jpop-1998-22",
+        "title": "ミッドナイト星",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 2009
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-2009-54",
-        "title": "恋フォーエバー",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2009-81",
-        "title": "恋の世界",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-2009-89",
-        "title": "朝物語",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2009-93",
-        "title": "涙の風",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-2008-11",
-        "title": "波の季節",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-2008-34",
-        "title": "夢の森",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-2008-40",
-        "title": "君の雪",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2008-42",
-        "title": "希望の記憶",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-2008-51",
-        "title": "時間の夜",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-2008-61",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-2008-64",
-        "title": "太陽メロディ",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-2008-66",
-        "title": "未来メロディ",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-2008-69",
-        "title": "希望の街",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-2008-73",
-        "title": "虹のリズム",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-2008-77",
-        "title": "街の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-2008-89",
-        "title": "約束物語",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "jpop-2007-02",
-        "title": "Flavor Of Life",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "jpop-2007-09",
-        "title": "Beautiful World",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-2007-16",
-        "title": "月の歌",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
+      "year": 1998
     },
     {
       "rank": 25,
       "song": {
-        "id": "jpop-2007-25",
-        "title": "青い星",
+        "id": "jpop-1998-25",
+        "title": "朝の歌",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-2007-87",
-        "title": "夏の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-2007-98",
-        "title": "君の世界",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-2007-100",
-        "title": "空の季節",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-2006-15",
-        "title": "約束のかけら",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2006-21",
-        "title": "君の星",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-2006-58",
-        "title": "夢の雪",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-2006-84",
-        "title": "恋の太陽",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-2006-90",
-        "title": "星の愛",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2006-97",
-        "title": "雨フォーエバー",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-2005-14",
-        "title": "虹の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-2005-30",
-        "title": "時間の街",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-2005-37",
-        "title": "夜物語",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-2005-41",
-        "title": "ミッドナイト世界",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-2005-90",
-        "title": "星の季節",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-2004-14",
-        "title": "花のかけら",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-2004-49",
-        "title": "夜の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-2004-78",
-        "title": "影の光",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 5,
-      "song": {
-        "id": "jpop-2003-05",
-        "title": "COLORS",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-2003-35",
-        "title": "青い世界",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-2003-36",
-        "title": "真夜中の希望",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-2003-48",
-        "title": "空の夜",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2003-50",
-        "title": "雨メロディ",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-2003-54",
-        "title": "世界物語",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2003-75",
-        "title": "旅のかけら",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-2003-89",
-        "title": "時間の夜",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2003-93",
-        "title": "雪フォーエバー",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-2003-94",
-        "title": "街の花",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2003-97",
-        "title": "旅の道",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 5,
-      "song": {
-        "id": "jpop-2002-05",
-        "title": "SAKURAドロップス",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-2002-35",
-        "title": "影の街",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-2002-36",
-        "title": "夢フォーエバー",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-2002-40",
-        "title": "夢の旅",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2002-42",
-        "title": "星の光",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2002-50",
-        "title": "月サンセット",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-2002-51",
-        "title": "森の夜",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-2002-54",
-        "title": "風の旅",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-2002-99",
-        "title": "波の花",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "jpop-2001-01",
-        "title": "Can You Keep A Secret?",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "jpop-2001-07",
-        "title": "traveling",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2001-12",
-        "title": "恋の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-2001-16",
-        "title": "約束の桜",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-2001-17",
-        "title": "希望の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-2001-24",
-        "title": "桜の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-2001-58",
-        "title": "青い波",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-2001-84",
-        "title": "夢の街",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2001-86",
-        "title": "星メロディ",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "jpop-2000-03",
-        "title": "Wait & See ~リスク~",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-2000-14",
-        "title": "風の花",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-2000-40",
-        "title": "桜の街",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-2000-46",
-        "title": "夢の街",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2000-97",
-        "title": "夜の記憶",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "jpop-1999-02",
-        "title": "Automatic",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 5,
-      "song": {
-        "id": "jpop-1999-05",
-        "title": "Movin' on without you",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "jpop-1999-08",
-        "title": "First Love",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1999-61",
-        "title": "夏フォーエバー",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-1998-16",
-        "title": "森の季節",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1998
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1998-97",
-        "title": "永遠の旅",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-1997-11",
-        "title": "朝の約束",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
     },
     {
       "rank": 28,
       "song": {
-        "id": "jpop-1997-28",
-        "title": "海物語",
+        "id": "jpop-1998-28",
+        "title": "風の街",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-1998-51",
+        "title": "未来の海",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-1998-52",
+        "title": "風の夜",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-1998-66",
+        "title": "旅メロディ",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1998-71",
+        "title": "時間の海",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1998-73",
+        "title": "希望のかけら",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-1998-87",
+        "title": "旅ストーリー",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1998-90",
+        "title": "虹物語",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1998-92",
+        "title": "永遠の海",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-1997-19",
+        "title": "最後の海",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 63,
+      "rank": 21,
       "song": {
-        "id": "jpop-1997-63",
-        "title": "桜の季節",
+        "id": "jpop-1997-21",
+        "title": "虹の道",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 64,
+      "rank": 40,
       "song": {
-        "id": "jpop-1997-64",
-        "title": "星のかけら",
+        "id": "jpop-1997-40",
+        "title": "風のかけら",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-1997-53",
+        "title": "朝フォーエバー",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1997-70",
+        "title": "夢の道",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1997-72",
+        "title": "夢の森",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
@@ -1118,205 +278,166 @@
       "rank": 76,
       "song": {
         "id": "jpop-1997-76",
-        "title": "希望の街",
+        "title": "未来の花",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1997
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1997-77",
-        "title": "青い世界",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1997-79",
-        "title": "夢の風",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1997-83",
-        "title": "未来の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1997-87",
-        "title": "雪の約束",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1997-100",
-        "title": "月の記憶",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1996-18",
-        "title": "雨のかけら",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1996-57",
-        "title": "波の約束",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1996-66",
-        "title": "最後の夜",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
     },
     {
       "rank": 95,
       "song": {
-        "id": "jpop-1996-95",
-        "title": "青い桜",
+        "id": "jpop-1997-95",
+        "title": "旅サンセット",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-1996-32",
+        "title": "永遠の太陽",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 99,
+      "rank": 33,
       "song": {
-        "id": "jpop-1996-99",
-        "title": "君の風",
+        "id": "jpop-1996-33",
+        "title": "空物語",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 16,
+      "rank": 69,
       "song": {
-        "id": "jpop-1995-16",
-        "title": "森の記憶",
+        "id": "jpop-1996-69",
+        "title": "空の季節",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1996-77",
+        "title": "桜物語",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1996-81",
+        "title": "森サンセット",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1995-17",
+        "title": "波の光",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 34,
+      "rank": 71,
       "song": {
-        "id": "jpop-1995-34",
-        "title": "希望の海",
+        "id": "jpop-1995-71",
+        "title": "太陽の約束",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 56,
+      "rank": 78,
       "song": {
-        "id": "jpop-1995-56",
-        "title": "希望の道",
+        "id": "jpop-1995-78",
+        "title": "永遠の冬",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 68,
+      "rank": 21,
       "song": {
-        "id": "jpop-1995-68",
-        "title": "ミッドナイト空",
+        "id": "jpop-1994-21",
+        "title": "夢の歌",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 1995
+      "year": 1994
     },
     {
-      "rank": 15,
+      "rank": 23,
       "song": {
-        "id": "jpop-1994-15",
-        "title": "森のかけら",
+        "id": "jpop-1994-23",
+        "title": "時間のリズム",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1994-33",
+        "title": "ミッドナイト雨",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
@@ -1326,257 +447,348 @@
       "rank": 37,
       "song": {
         "id": "jpop-1994-37",
-        "title": "希望の花",
+        "title": "風の季節",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 45,
+      "rank": 47,
       "song": {
-        "id": "jpop-1994-45",
-        "title": "雪の花",
+        "id": "jpop-1994-47",
+        "title": "海ストーリー",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 73,
+      "rank": 71,
       "song": {
-        "id": "jpop-1994-73",
-        "title": "愛の海",
+        "id": "jpop-1994-71",
+        "title": "涙の雪",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 51,
+      "rank": 78,
       "song": {
-        "id": "jpop-1993-51",
-        "title": "ミッドナイト星",
+        "id": "jpop-1994-78",
+        "title": "真夜中の愛",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 1993
+      "year": 1994
     },
     {
-      "rank": 62,
+      "rank": 87,
       "song": {
-        "id": "jpop-1993-62",
-        "title": "最後の風",
+        "id": "jpop-1994-87",
+        "title": "風の海",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 1993
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1993-89",
-        "title": "真夜中の夏",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1992-13",
-        "title": "夢の時間",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1992-24",
-        "title": "海の道",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1992-43",
-        "title": "青い旅",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1992-76",
-        "title": "星の雪",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1992-82",
-        "title": "真夜中の星",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
+      "year": 1994
     },
     {
       "rank": 90,
       "song": {
-        "id": "jpop-1992-90",
-        "title": "恋の未来",
+        "id": "jpop-1994-90",
+        "title": "ミッドナイト愛",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1994-91",
+        "title": "未来の花",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1993-39",
+        "title": "月の海",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-1992-11",
+        "title": "真夜中の時間",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 19,
+      "rank": 23,
       "song": {
-        "id": "jpop-1991-19",
-        "title": "夏ストーリー",
+        "id": "jpop-1992-23",
+        "title": "桜ストーリー",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 1991
+      "year": 1992
     },
     {
-      "rank": 74,
+      "rank": 27,
       "song": {
-        "id": "jpop-1991-74",
-        "title": "夢の光",
+        "id": "jpop-1992-27",
+        "title": "風メロディ",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
-      "year": 1991
+      "year": 1992
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1992-58",
+        "title": "風の光",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1992-68",
+        "title": "ミッドナイト雪",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
     },
     {
       "rank": 80,
       "song": {
-        "id": "jpop-1991-80",
-        "title": "青い愛",
+        "id": "jpop-1992-80",
+        "title": "涙の時間",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1992-81",
+        "title": "真夜中の記憶",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1992-84",
+        "title": "虹の海",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1992-96",
+        "title": "雨の道",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1991-17",
+        "title": "真夜中の約束",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1991
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1991-100",
-        "title": "星の冬",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-1990-25",
-        "title": "君の夏",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
     },
     {
       "rank": 30,
       "song": {
-        "id": "jpop-1990-30",
-        "title": "星の朝",
+        "id": "jpop-1991-30",
+        "title": "風の旅",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-1991-32",
+        "title": "夢の街",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1991-34",
+        "title": "恋の夜",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1991-39",
+        "title": "波メロディ",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1991-75",
+        "title": "希望の空",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1991-97",
+        "title": "青い恋",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-1991-98",
+        "title": "空の花",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1990-23",
+        "title": "虹の歌",
+        "artist": {
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 74,
+      "rank": 93,
       "song": {
-        "id": "jpop-1990-74",
-        "title": "海の季節",
+        "id": "jpop-1990-93",
+        "title": "旅サンセット",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1990-80",
-        "title": "雨の歌",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-komuro",
+          "name": "小室哲哉"
         },
         "genre": "jpop"
       },

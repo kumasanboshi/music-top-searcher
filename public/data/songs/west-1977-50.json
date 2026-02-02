@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-50",
-    "title": "Light Heart",
+    "title": "Road Rain",
     "artist": {
-      "id": "a-rod-stewart",
-      "name": "Rod Stewart"
+      "id": "a-billy-joel",
+      "name": "Billy Joel"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 50,
   "cdInfo": [
     {
-      "title": "Light Heart",
+      "title": "Road Rain",
       "type": "single",
-      "releaseDate": "1977-06-28"
+      "releaseDate": "1977-06-03"
+    },
+    {
+      "title": "Rain Unplugged",
+      "type": "album",
+      "releaseDate": "1977-09-20"
     }
   ],
   "externalLinks": {
@@ -23,364 +28,390 @@
   },
   "artistSongs": [
     {
-      "rank": 4,
+      "rank": 9,
       "song": {
-        "id": "west-1979-04",
-        "title": "Da Ya Think I'm Sexy?",
+        "id": "west-1980-09",
+        "title": "It's Still Rock and Roll to Me",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1979-11",
+        "title": "Sun Soul",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1979-12",
-        "title": "Falling Summer",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1979-36",
-        "title": "Snow Tears",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1979-40",
-        "title": "Ocean Tears",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1979-45",
-        "title": "Lost in Bridge",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1979-60",
-        "title": "Diamond Rain",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1979-72",
-        "title": "Wild Crystal",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1979-83",
-        "title": "Midnight Sky",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1978-38",
-        "title": "Electric Wave",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1978-82",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1977-12",
-        "title": "Winter Sky",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1977-14",
-        "title": "Star Forever",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1977-21",
-        "title": "Wild Snow",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1977-22",
-        "title": "Under the Road",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1977-45",
-        "title": "Chasing Diamond",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1977-49",
-        "title": "Under the City",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1977-78",
-        "title": "Dancing Wind",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1977-79",
-        "title": "Wind Moonlight",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1977-83",
-        "title": "Light Night",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1976-57",
-        "title": "Star Dreams",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1976-60",
-        "title": "Light Soul",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1976-68",
-        "title": "Into the Shadow",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1976-85",
-        "title": "River Lights",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1976-100",
-        "title": "Diamond Tears",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
     },
     {
       "rank": 16,
       "song": {
-        "id": "west-1975-16",
-        "title": "Wild Sky",
+        "id": "west-1979-16",
+        "title": "Crystal Heart",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1979
     },
     {
-      "rank": 40,
+      "rank": 28,
       "song": {
-        "id": "west-1975-40",
+        "id": "west-1979-28",
         "title": "Broken Rain",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1979-30",
+        "title": "Midnight Bridge",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1979-39",
+        "title": "Wild Silver",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1979-43",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1979-87",
+        "title": "Crystal Sky",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1978-31",
+        "title": "Golden Fire",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1978-63",
+        "title": "Chasing Dusk",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1978-67",
+        "title": "Wild Ocean",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1978-91",
+        "title": "Under the Flame",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1977-13",
+        "title": "Lost in Ocean",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1977-63",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1977-77",
+        "title": "Ocean Tears",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1977-96",
+        "title": "Dancing Rain",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1976-26",
+        "title": "Fire Dreams",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1976-47",
+        "title": "Under the Sun",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1976-56",
+        "title": "Winter Soul",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1976-61",
+        "title": "Midnight Sky",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1976-73",
+        "title": "Flame Fire",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1975-27",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 44,
+      "rank": 35,
       "song": {
-        "id": "west-1975-44",
-        "title": "Never Moon",
+        "id": "west-1975-35",
+        "title": "Shining City",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 46,
+      "rank": 36,
       "song": {
-        "id": "west-1975-46",
-        "title": "Midnight Winter",
+        "id": "west-1975-36",
+        "title": "Moon Rain",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1975-48",
+        "title": "Shining Wind",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1975-55",
+        "title": "Golden Fire",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1975-69",
+        "title": "Fading Thunder",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1975-73",
+        "title": "Summer Way",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1975-83",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1975-89",
+        "title": "Lost in Rose",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },

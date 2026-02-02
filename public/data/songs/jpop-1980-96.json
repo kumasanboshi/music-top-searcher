@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1980-96",
-    "title": "夢の朝",
+    "title": "記憶の道",
     "artist": {
-      "id": "a-tm-network",
-      "name": "TM NETWORK"
+      "id": "a-hikaru-genji",
+      "name": "光GENJI"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 96,
   "cdInfo": [
     {
-      "title": "夢の朝",
+      "title": "記憶の道",
       "type": "single",
-      "releaseDate": "1980-05-10"
+      "releaseDate": "1980-08-25"
+    },
+    {
+      "title": "空コレクション",
+      "type": "album",
+      "releaseDate": "1980-09-12"
     }
   ],
   "externalLinks": {
@@ -23,611 +28,624 @@
   },
   "artistSongs": [
     {
-      "rank": 23,
+      "rank": 7,
       "song": {
-        "id": "jpop-1989-23",
-        "title": "夢の影",
+        "id": "jpop-1989-07",
+        "title": "太陽がいっぱい",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1989
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1989-46",
-        "title": "旅の約束",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1989-51",
-        "title": "永遠の影",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-1989-54",
-        "title": "涙の雪",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1989-57",
-        "title": "恋の星",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1989-60",
-        "title": "約束サンセット",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1989-70",
-        "title": "君の光",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1989-95",
-        "title": "旅のリズム",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-1988-34",
-        "title": "桜の街",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-1988-40",
-        "title": "涙の夜",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1988-51",
-        "title": "希望サンセット",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1988-66",
-        "title": "約束の恋",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1988-77",
-        "title": "虹のかけら",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1988-87",
-        "title": "星のリズム",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1988-90",
-        "title": "雨の海",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "jpop-1987-03",
-        "title": "Get Wild",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1987-18",
-        "title": "恋の星",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "jpop-1987-29",
-        "title": "世界の空",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-1987-38",
-        "title": "ミッドナイト未来",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1987-50",
-        "title": "虹の約束",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1987-67",
-        "title": "月の歌",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1987-86",
-        "title": "雪の夜",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-1986-42",
-        "title": "星の花",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1986-45",
-        "title": "君の旅",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1986-90",
-        "title": "最後の花",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1985-31",
-        "title": "風の森",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1985-36",
-        "title": "星の空",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1985-43",
-        "title": "恋の影",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-1985-54",
-        "title": "海の海",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1985-58",
-        "title": "雪の花",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1985-71",
-        "title": "愛フォーエバー",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1985-72",
-        "title": "希望ストーリー",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-1985-93",
-        "title": "夏の街",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
     },
     {
       "rank": 19,
       "song": {
-        "id": "jpop-1984-19",
-        "title": "波の街",
+        "id": "jpop-1989-19",
+        "title": "影物語",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1989
     },
     {
-      "rank": 31,
+      "rank": 30,
       "song": {
-        "id": "jpop-1984-31",
-        "title": "海の花",
+        "id": "jpop-1989-30",
+        "title": "真夜中の花",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1989
     },
     {
-      "rank": 37,
+      "rank": 65,
       "song": {
-        "id": "jpop-1984-37",
-        "title": "光の花",
+        "id": "jpop-1989-65",
+        "title": "街メロディ",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1989
     },
     {
-      "rank": 51,
+      "rank": 66,
       "song": {
-        "id": "jpop-1984-51",
-        "title": "記憶ストーリー",
+        "id": "jpop-1989-66",
+        "title": "冬のかけら",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1989
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1989-76",
+        "title": "風の海",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-1989-98",
+        "title": "君の波",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-1988-01",
+        "title": "パラダイス銀河",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1988-02",
+        "title": "ガラスの十代",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-1988-04",
+        "title": "Diamondハリケーン",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1988-07",
+        "title": "剣の舞",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1988-26",
+        "title": "永遠の花",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1988-50",
+        "title": "虹の海",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
     },
     {
       "rank": 70,
       "song": {
-        "id": "jpop-1984-70",
-        "title": "愛の歌",
+        "id": "jpop-1988-70",
+        "title": "君の海",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1988
     },
     {
-      "rank": 90,
+      "rank": 82,
       "song": {
-        "id": "jpop-1984-90",
-        "title": "愛の約束",
+        "id": "jpop-1988-82",
+        "title": "青い希望",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1988
     },
     {
-      "rank": 15,
+      "rank": 83,
       "song": {
-        "id": "jpop-1983-15",
-        "title": "夜のリズム",
+        "id": "jpop-1988-83",
+        "title": "約束の雪",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
-      "year": 1983
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1983-36",
-        "title": "永遠の桜",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1983-49",
-        "title": "ミッドナイト海",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
+      "year": 1988
     },
     {
       "rank": 85,
       "song": {
-        "id": "jpop-1983-85",
-        "title": "朝メロディ",
+        "id": "jpop-1988-85",
+        "title": "真夜中の記憶",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-1987-04",
+        "title": "STAR LIGHT",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1987-47",
+        "title": "虹フォーエバー",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-1987-51",
+        "title": "冬の光",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-1987-64",
+        "title": "空物語",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1987-78",
+        "title": "時間のリズム",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1987-80",
+        "title": "ミッドナイト森",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1987-90",
+        "title": "未来の季節",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1986-20",
+        "title": "太陽サンセット",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1986-23",
+        "title": "君の森",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1986-34",
+        "title": "青い朝",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1986-57",
+        "title": "旅サンセット",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1986-80",
+        "title": "街の約束",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1986-84",
+        "title": "未来の記憶",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1986-95",
+        "title": "時間の夜",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1985-17",
+        "title": "光の街",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1985-63",
+        "title": "未来の季節",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1985-73",
+        "title": "未来物語",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1984-42",
+        "title": "真夜中の影",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-1984-52",
+        "title": "桜の夜",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1984-80",
+        "title": "真夜中の街",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1984-100",
+        "title": "恋の光",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1983-16",
+        "title": "風の道",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 37,
+      "rank": 35,
       "song": {
-        "id": "jpop-1982-37",
-        "title": "愛メロディ",
+        "id": "jpop-1983-35",
+        "title": "時間物語",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1983-72",
+        "title": "夏の空",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1983-83",
+        "title": "夢の街",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1983-86",
+        "title": "恋の世界",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-1983-98",
+        "title": "青い海",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-1982-24",
+        "title": "恋の季節",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 44,
+      "rank": 40,
       "song": {
-        "id": "jpop-1982-44",
-        "title": "恋の光",
+        "id": "jpop-1982-40",
+        "title": "桜の約束",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 47,
+      "rank": 62,
       "song": {
-        "id": "jpop-1982-47",
-        "title": "記憶の季節",
+        "id": "jpop-1982-62",
+        "title": "風の恋",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 69,
+      "rank": 65,
       "song": {
-        "id": "jpop-1982-69",
-        "title": "恋の雪",
+        "id": "jpop-1982-65",
+        "title": "星の森",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
@@ -637,244 +655,231 @@
       "rank": 79,
       "song": {
         "id": "jpop-1982-79",
-        "title": "朝フォーエバー",
+        "title": "ミッドナイト街",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 80,
+      "rank": 11,
       "song": {
-        "id": "jpop-1982-80",
-        "title": "永遠の旅",
+        "id": "jpop-1981-11",
+        "title": "夢の花",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1982-82",
-        "title": "ミッドナイト旅",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1981-18",
-        "title": "記憶のリズム",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 22,
+      "rank": 15,
       "song": {
-        "id": "jpop-1981-22",
-        "title": "星の花",
+        "id": "jpop-1981-15",
+        "title": "花の夜",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 25,
+      "rank": 19,
       "song": {
-        "id": "jpop-1981-25",
-        "title": "虹物語",
+        "id": "jpop-1981-19",
+        "title": "花の記憶",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1981
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1981-41",
-        "title": "ミッドナイト月",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1981-66",
-        "title": "夢の夏",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1981-68",
-        "title": "月の約束",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1981-94",
-        "title": "ミッドナイト太陽",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1981-97",
-        "title": "青い愛",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1980-17",
-        "title": "君の約束",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
     },
     {
       "rank": 21,
       "song": {
-        "id": "jpop-1980-21",
-        "title": "月のかけら",
+        "id": "jpop-1981-21",
+        "title": "雨フォーエバー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1981-38",
+        "title": "森物語",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-1981-44",
+        "title": "夢の虹",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1981-82",
+        "title": "涙の夜",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-1981-89",
+        "title": "夜の歌",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1981-91",
+        "title": "夜の道",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-1981-93",
+        "title": "夏の花",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1980-13",
+        "title": "記憶のかけら",
+        "artist": {
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 23,
+      "rank": 20,
       "song": {
-        "id": "jpop-1980-23",
-        "title": "太陽の道",
+        "id": "jpop-1980-20",
+        "title": "光ストーリー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 35,
+      "rank": 25,
       "song": {
-        "id": "jpop-1980-35",
-        "title": "未来の歌",
+        "id": "jpop-1980-25",
+        "title": "波の街",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 42,
+      "rank": 66,
       "song": {
-        "id": "jpop-1980-42",
-        "title": "桜の記憶",
+        "id": "jpop-1980-66",
+        "title": "虹のかけら",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 47,
+      "rank": 79,
       "song": {
-        "id": "jpop-1980-47",
-        "title": "旅物語",
+        "id": "jpop-1980-79",
+        "title": "青い雨",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 86,
+      "rank": 94,
       "song": {
-        "id": "jpop-1980-86",
-        "title": "青い記憶",
+        "id": "jpop-1980-94",
+        "title": "愛サンセット",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 100,
+      "rank": 97,
       "song": {
-        "id": "jpop-1980-100",
-        "title": "ミッドナイト未来",
+        "id": "jpop-1980-97",
+        "title": "恋フォーエバー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-hikaru-genji",
+          "name": "光GENJI"
         },
         "genre": "jpop"
       },

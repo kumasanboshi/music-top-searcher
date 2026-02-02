@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-43",
-    "title": "Snow Dreams",
+    "title": "Gold Rain",
     "artist": {
-      "id": "a-fleetwood-mac",
-      "name": "Fleetwood Mac"
+      "id": "a-wings",
+      "name": "Paul McCartney & Wings"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 43,
   "cdInfo": [
     {
-      "title": "Snow Dreams",
+      "title": "Gold Rain",
       "type": "single",
-      "releaseDate": "1978-10-01"
+      "releaseDate": "1978-12-26"
+    },
+    {
+      "title": "Winter Chronicles",
+      "type": "album",
+      "releaseDate": "1978-09-21"
     }
   ],
   "externalLinks": {
@@ -23,377 +28,338 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 38,
       "song": {
-        "id": "west-1979-14",
-        "title": "Winter Soul",
+        "id": "west-1979-38",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 55,
+      "rank": 44,
       "song": {
-        "id": "west-1979-55",
-        "title": "Wave Love",
+        "id": "west-1979-44",
+        "title": "Sweet Winter",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1979-69",
-        "title": "Falling Bridge",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1979-73",
-        "title": "Golden Star",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1978-13",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1978-14",
-        "title": "Running Snow",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1978-31",
-        "title": "Shadow Rain",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1978-40",
-        "title": "Dancing Gold",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1978-62",
-        "title": "Golden Dusk",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1978-64",
-        "title": "Wave Moonlight",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1978-75",
-        "title": "Moon Lights",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1978-81",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1978-90",
-        "title": "Rose Heart",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "west-1977-08",
-        "title": "Dreams",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1977-19",
-        "title": "Moon Fire",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1977-41",
-        "title": "Wild Dawn",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1977-52",
-        "title": "Dancing Moon",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
     },
     {
       "rank": 59,
       "song": {
-        "id": "west-1977-59",
-        "title": "Light Dreams",
+        "id": "west-1979-59",
+        "title": "Moon Tears",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1979-89",
+        "title": "Fire Way",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1979-92",
+        "title": "Never Shadow",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1978-25",
+        "title": "Never Ice",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1978-48",
+        "title": "Lost in Wave",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1978-54",
+        "title": "Midnight Moon",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1978-93",
+        "title": "Under the City",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1977-25",
+        "title": "Chasing Thunder",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1977
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1977-69",
-        "title": "Sky Forever",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1977-96",
-        "title": "River Night",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1976-31",
-        "title": "Sweet Rose",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1976-59",
-        "title": "Lost in Snow",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1976-62",
-        "title": "Golden Storm",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1976-76",
-        "title": "Golden River",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
     },
     {
       "rank": 34,
       "song": {
-        "id": "west-1975-34",
-        "title": "Running Sun",
+        "id": "west-1977-34",
+        "title": "Into the Bridge",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1977-35",
+        "title": "Never Bridge",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1977-76",
+        "title": "Wild Summer",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1976-01",
+        "title": "Silly Love Songs",
+        "artist": {
+          "id": "a-wings",
+          "name": "Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1976-19",
+        "title": "Rain Way",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1976-20",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1976-27",
+        "title": "Running Diamond",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1976-36",
+        "title": "Rain Forever",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1976-63",
+        "title": "Shining Moon",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1976-68",
+        "title": "Golden City",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1976-83",
+        "title": "Storm Love",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1975-13",
+        "title": "Fading Mountain",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 51,
+      "rank": 37,
       "song": {
-        "id": "west-1975-51",
-        "title": "Never Summer",
+        "id": "west-1975-37",
+        "title": "Wild Sun",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 69,
+      "rank": 57,
       "song": {
-        "id": "west-1975-69",
-        "title": "Lost in Summer",
+        "id": "west-1975-57",
+        "title": "Fading City",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 80,
+      "rank": 66,
       "song": {
-        "id": "west-1975-80",
-        "title": "Midnight Rose",
+        "id": "west-1975-66",
+        "title": "Ice Love",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 95,
+      "rank": 100,
       "song": {
-        "id": "west-1975-95",
-        "title": "Thunder Soul",
+        "id": "west-1975-100",
+        "title": "Electric Light",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },

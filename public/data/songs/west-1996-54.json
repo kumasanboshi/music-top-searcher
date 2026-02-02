@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1996-54",
-    "title": "River Tears",
+    "title": "Running Fire",
     "artist": {
-      "id": "a-nirvana",
-      "name": "Nirvana"
+      "id": "a-tlc",
+      "name": "TLC"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 54,
   "cdInfo": [
     {
-      "title": "River Tears",
+      "title": "Running Fire",
       "type": "single",
-      "releaseDate": "1996-05-19"
+      "releaseDate": "1996-03-26"
+    },
+    {
+      "title": "Sky Reloaded",
+      "type": "album",
+      "releaseDate": "1996-06-12"
     }
   ],
   "externalLinks": {
@@ -23,169 +28,325 @@
   },
   "artistSongs": [
     {
-      "rank": 67,
+      "rank": 2,
       "song": {
-        "id": "west-1999-67",
-        "title": "Sweet Sun",
+        "id": "west-1999-02",
+        "title": "No Scrubs",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1999
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1999-90",
-        "title": "Sun Soul",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1998-58",
-        "title": "Star Tears",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1998-90",
-        "title": "Fire Fire",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1998-91",
-        "title": "Into the Shadow",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1998
     },
     {
       "rank": 16,
       "song": {
-        "id": "west-1997-16",
-        "title": "Light Dreams",
+        "id": "west-1999-16",
+        "title": "Light Fire",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1999-27",
+        "title": "River Moonlight",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1999-42",
+        "title": "Moon Soul",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1999-43",
+        "title": "Road Moonlight",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1999-99",
+        "title": "Fire Fire",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1998-26",
+        "title": "Running Flame",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1998-28",
+        "title": "Sweet Snow",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1998-50",
+        "title": "Silver Night",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1998-56",
+        "title": "River Moonlight",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1998-61",
+        "title": "Snow Fire",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1998-69",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1998-72",
+        "title": "Thunder Heart",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1998-82",
+        "title": "Gold Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1998-94",
+        "title": "Rain Dreams",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1997-15",
+        "title": "Shadow Way",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 23,
+      "rank": 36,
       "song": {
-        "id": "west-1997-23",
-        "title": "Golden Mountain",
+        "id": "west-1997-36",
+        "title": "Storm Fire",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 30,
+      "rank": 76,
       "song": {
-        "id": "west-1997-30",
-        "title": "Gold Lights",
+        "id": "west-1997-76",
+        "title": "Fading Light",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 41,
+      "rank": 80,
       "song": {
-        "id": "west-1997-41",
-        "title": "Fading Dusk",
+        "id": "west-1997-80",
+        "title": "Lost in Crystal",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 63,
+      "rank": 21,
       "song": {
-        "id": "west-1997-63",
-        "title": "Sun Fire",
+        "id": "west-1996-21",
+        "title": "Electric Flame",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1996-33",
-        "title": "Falling Gold",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 46,
+      "rank": 31,
       "song": {
-        "id": "west-1996-46",
-        "title": "River Love",
+        "id": "west-1996-31",
+        "title": "Lost in Star",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 71,
+      "rank": 32,
       "song": {
-        "id": "west-1996-71",
-        "title": "Into the Fire",
+        "id": "west-1996-32",
+        "title": "Summer Sky",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1996-47",
+        "title": "Ocean Forever",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1996-50",
+        "title": "Chasing Rose",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1996-58",
+        "title": "Road Lights",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
@@ -195,153 +356,309 @@
       "rank": 84,
       "song": {
         "id": "west-1996-84",
-        "title": "Running Storm",
+        "title": "Diamond Forever",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1996
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1996-94",
+        "title": "Electric Star",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1995-02",
+        "title": "Waterfalls",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1995-03",
+        "title": "Creep",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1995-11",
+        "title": "Running Ice",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1995-18",
+        "title": "Wild Rose",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1995-49",
+        "title": "Sweet Bridge",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1995-51",
+        "title": "Shining Gold",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1995-69",
+        "title": "Winter Heart",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1995-71",
+        "title": "Broken Silver",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1995-81",
+        "title": "Never Dawn",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1995-87",
+        "title": "Mountain Heart",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
     },
     {
       "rank": 100,
       "song": {
-        "id": "west-1996-100",
-        "title": "Under the Rose",
+        "id": "west-1995-100",
+        "title": "Shining Winter",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1995-26",
-        "title": "Light Tears",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1995
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1994-24",
+        "title": "Fading Ocean",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
     },
     {
       "rank": 27,
       "song": {
-        "id": "west-1995-27",
-        "title": "Star Moonlight",
+        "id": "west-1994-27",
+        "title": "Winter Dreams",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1995-68",
-        "title": "Ice Fire",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1995-76",
-        "title": "Dusk Fire",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1995-88",
-        "title": "Broken Dusk",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1995-96",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1994-42",
-        "title": "Lost in Road",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 61,
+      "rank": 30,
       "song": {
-        "id": "west-1994-61",
-        "title": "Rose Soul",
+        "id": "west-1994-30",
+        "title": "Electric Rain",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 65,
+      "rank": 32,
       "song": {
-        "id": "west-1994-65",
-        "title": "Dancing City",
+        "id": "west-1994-32",
+        "title": "Electric Mountain",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 88,
+      "rank": 37,
       "song": {
-        "id": "west-1994-88",
-        "title": "Fading Storm",
+        "id": "west-1994-37",
+        "title": "Bridge Forever",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1994-47",
+        "title": "Sweet Ice",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1994-60",
+        "title": "Rain Dreams",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1994-69",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1994-81",
+        "title": "Dusk Love",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1994-93",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1994-95",
+        "title": "Lost in Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
@@ -351,335 +668,218 @@
       "rank": 13,
       "song": {
         "id": "west-1993-13",
-        "title": "Running Ice",
+        "title": "Midnight Wind",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1993
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1993-21",
-        "title": "Thunder Moonlight",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1993-22",
-        "title": "Ice Sky",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1993-24",
-        "title": "River Soul",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1993-38",
-        "title": "Broken City",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1993-59",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1993-67",
-        "title": "Road Fire",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1993-69",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1993-73",
-        "title": "Into the Ocean",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1993-94",
-        "title": "Chasing Dawn",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1992-35",
-        "title": "Moon Soul",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1992-41",
-        "title": "Running Rain",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1992
     },
     {
       "rank": 66,
       "song": {
-        "id": "west-1992-66",
-        "title": "Running Wave",
+        "id": "west-1993-66",
+        "title": "Rain Dreams",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 68,
+      "rank": 75,
       "song": {
-        "id": "west-1992-68",
-        "title": "Diamond Dreams",
+        "id": "west-1993-75",
+        "title": "Shining Fire",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 71,
+      "rank": 76,
       "song": {
-        "id": "west-1992-71",
-        "title": "Never Sky",
+        "id": "west-1993-76",
+        "title": "Midnight Rose",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 72,
+      "rank": 87,
       "song": {
-        "id": "west-1992-72",
-        "title": "Into the Sky",
+        "id": "west-1993-87",
+        "title": "Golden Road",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1992
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1992-89",
-        "title": "Into the Rose",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1991-39",
-        "title": "Last Light",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1991-46",
-        "title": "Snow Sky",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1991-57",
-        "title": "Sun Lights",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1991-77",
-        "title": "Broken Diamond",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1991-89",
-        "title": "Midnight Bridge",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
+      "year": 1993
     },
     {
       "rank": 91,
       "song": {
-        "id": "west-1991-91",
-        "title": "Dusk Love",
+        "id": "west-1993-91",
+        "title": "Thunder Sky",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1992-05",
+        "title": "Baby-Baby-Baby",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1992-21",
+        "title": "Thunder Soul",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1992-32",
+        "title": "Silver Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1992-53",
+        "title": "Falling Snow",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1992-87",
+        "title": "Snow Fire",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1991-22",
+        "title": "Under the Road",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 18,
+      "rank": 36,
       "song": {
-        "id": "west-1990-18",
-        "title": "Falling Dawn",
+        "id": "west-1991-36",
+        "title": "Sweet Dawn",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1991-72",
+        "title": "Ocean Tears",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1990-13",
+        "title": "Golden Rose",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 33,
+      "rank": 15,
       "song": {
-        "id": "west-1990-33",
-        "title": "Storm Soul",
+        "id": "west-1990-15",
+        "title": "Golden Light",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 44,
+      "rank": 20,
       "song": {
-        "id": "west-1990-44",
-        "title": "Light Forever",
+        "id": "west-1990-20",
+        "title": "Golden Dusk",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
@@ -689,62 +889,36 @@
       "rank": 49,
       "song": {
         "id": "west-1990-49",
-        "title": "Winter Heart",
+        "title": "Wind Dreams",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 61,
+      "rank": 59,
       "song": {
-        "id": "west-1990-61",
-        "title": "Electric Ice",
+        "id": "west-1990-59",
+        "title": "Never Storm",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 78,
+      "rank": 97,
       "song": {
-        "id": "west-1990-78",
-        "title": "Wind Heart",
+        "id": "west-1990-97",
+        "title": "Rain Rain",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1990-90",
-        "title": "Fire Tears",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1990-94",
-        "title": "Mountain Forever",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },

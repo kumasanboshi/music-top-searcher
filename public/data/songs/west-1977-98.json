@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-98",
-    "title": "Into the Star",
+    "title": "Sun Lights",
     "artist": {
-      "id": "a-ewf",
-      "name": "Earth, Wind & Fire"
+      "id": "a-abba",
+      "name": "ABBA"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 98,
   "cdInfo": [
     {
-      "title": "Into the Star",
+      "title": "Sun Lights",
       "type": "single",
-      "releaseDate": "1977-08-02"
+      "releaseDate": "1977-04-25"
+    },
+    {
+      "title": "River Stories",
+      "type": "album",
+      "releaseDate": "1977-06-28"
     }
   ],
   "externalLinks": {
@@ -23,65 +28,39 @@
   },
   "artistSongs": [
     {
-      "rank": 50,
+      "rank": 67,
       "song": {
-        "id": "west-1979-50",
-        "title": "Dusk Sky",
+        "id": "west-1979-67",
+        "title": "Dancing Shadow",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 77,
+      "rank": 23,
       "song": {
-        "id": "west-1979-77",
-        "title": "Moon Lights",
+        "id": "west-1978-23",
+        "title": "Into the Crystal",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1979-97",
-        "title": "Fading Thunder",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1978-30",
-        "title": "Summer Fire",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 42,
+      "rank": 29,
       "song": {
-        "id": "west-1978-42",
-        "title": "Falling Light",
+        "id": "west-1978-29",
+        "title": "Never Thunder",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -91,101 +70,179 @@
       "rank": 45,
       "song": {
         "id": "west-1978-45",
-        "title": "Electric Gold",
+        "title": "Running Ocean",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 70,
+      "rank": 76,
       "song": {
-        "id": "west-1978-70",
-        "title": "Summer Heart",
+        "id": "west-1978-76",
+        "title": "Wind Soul",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 77,
+      "rank": 85,
       "song": {
-        "id": "west-1978-77",
-        "title": "Last Storm",
+        "id": "west-1978-85",
+        "title": "River Night",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1978-98",
+        "title": "Light Moonlight",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1977-06",
+        "title": "Dancing Queen",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1977-32",
+        "title": "Wild Wind",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1977-45",
+        "title": "Wild Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1977-54",
+        "title": "Never Rain",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1977-71",
+        "title": "Midnight Ocean",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 84,
       "song": {
-        "id": "west-1978-84",
-        "title": "Fading Road",
+        "id": "west-1977-84",
+        "title": "River Sky",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1977-39",
-        "title": "Wild Crystal",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 75,
+      "rank": 89,
       "song": {
-        "id": "west-1977-75",
-        "title": "Broken Ocean",
+        "id": "west-1977-89",
+        "title": "Diamond Soul",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 63,
+      "rank": 99,
       "song": {
-        "id": "west-1976-63",
-        "title": "Broken Road",
+        "id": "west-1977-99",
+        "title": "Last City",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1976-94",
+        "title": "Dawn Tears",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 65,
+      "rank": 97,
       "song": {
-        "id": "west-1976-65",
-        "title": "Fading City",
+        "id": "west-1976-97",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -195,62 +252,75 @@
       "rank": 22,
       "song": {
         "id": "west-1975-22",
-        "title": "Last Sky",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 25,
+      "rank": 54,
       "song": {
-        "id": "west-1975-25",
-        "title": "Fire Lights",
+        "id": "west-1975-54",
+        "title": "Midnight Road",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 43,
+      "rank": 85,
       "song": {
-        "id": "west-1975-43",
-        "title": "Chasing Summer",
+        "id": "west-1975-85",
+        "title": "Wind Sky",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 60,
+      "rank": 91,
       "song": {
-        "id": "west-1975-60",
-        "title": "Running Wave",
+        "id": "west-1975-91",
+        "title": "Falling Crystal",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 82,
+      "rank": 92,
       "song": {
-        "id": "west-1975-82",
-        "title": "Storm Tears",
+        "id": "west-1975-92",
+        "title": "Golden Snow",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1975-94",
+        "title": "Last Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },

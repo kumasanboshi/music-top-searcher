@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1992-21",
-    "title": "Sweet Light",
+    "title": "Thunder Soul",
     "artist": {
-      "id": "a-britney",
-      "name": "Britney Spears"
+      "id": "a-tlc",
+      "name": "TLC"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 21,
   "cdInfo": [
     {
-      "title": "Sweet Light",
+      "title": "Thunder Soul",
       "type": "single",
-      "releaseDate": "1992-04-09"
+      "releaseDate": "1992-05-01"
+    },
+    {
+      "title": "The Silver Album",
+      "type": "album",
+      "releaseDate": "1992-07-19"
     }
   ],
   "externalLinks": {
@@ -23,195 +28,247 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 2,
       "song": {
-        "id": "west-1999-12",
-        "title": "Rose Rain",
+        "id": "west-1999-02",
+        "title": "No Scrubs",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 23,
+      "rank": 16,
       "song": {
-        "id": "west-1999-23",
-        "title": "City Tears",
+        "id": "west-1999-16",
+        "title": "Light Fire",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 24,
+      "rank": 27,
       "song": {
-        "id": "west-1999-24",
-        "title": "Falling Snow",
+        "id": "west-1999-27",
+        "title": "River Moonlight",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 39,
+      "rank": 42,
       "song": {
-        "id": "west-1999-39",
-        "title": "Bridge Dreams",
+        "id": "west-1999-42",
+        "title": "Moon Soul",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 60,
+      "rank": 43,
       "song": {
-        "id": "west-1999-60",
+        "id": "west-1999-43",
+        "title": "Road Moonlight",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1999-99",
+        "title": "Fire Fire",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1998-26",
+        "title": "Running Flame",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1998-28",
         "title": "Sweet Snow",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1999
+      "year": 1998
     },
     {
-      "rank": 73,
+      "rank": 50,
       "song": {
-        "id": "west-1999-73",
-        "title": "Shining Crystal",
+        "id": "west-1998-50",
+        "title": "Silver Night",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1999
+      "year": 1998
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1998-56",
+        "title": "River Moonlight",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1998-61",
+        "title": "Snow Fire",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1998-69",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1998-72",
+        "title": "Thunder Heart",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1998-82",
+        "title": "Gold Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1998-94",
+        "title": "Rain Dreams",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1997-15",
+        "title": "Shadow Way",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1997-36",
+        "title": "Storm Fire",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1997-76",
+        "title": "Fading Light",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1997
     },
     {
       "rank": 80,
       "song": {
-        "id": "west-1999-80",
-        "title": "Dancing Shadow",
+        "id": "west-1997-80",
+        "title": "Lost in Crystal",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1999-97",
-        "title": "Fading Diamond",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1999-98",
-        "title": "Running Road",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1998-13",
-        "title": "Wild Rose",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1998-18",
-        "title": "Winter Fire",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1998-30",
-        "title": "Lost in Star",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1998-32",
-        "title": "Into the Fire",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1998-47",
-        "title": "River Sky",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1997-18",
-        "title": "Into the Sky",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
@@ -220,362 +277,492 @@
     {
       "rank": 21,
       "song": {
-        "id": "west-1997-21",
-        "title": "Under the Snow",
+        "id": "west-1996-21",
+        "title": "Electric Flame",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1997
+      "year": 1996
     },
     {
-      "rank": 65,
+      "rank": 31,
       "song": {
-        "id": "west-1997-65",
-        "title": "Falling Light",
+        "id": "west-1996-31",
+        "title": "Lost in Star",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1997
+      "year": 1996
     },
     {
-      "rank": 85,
+      "rank": 32,
       "song": {
-        "id": "west-1997-85",
+        "id": "west-1996-32",
         "title": "Summer Sky",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1997-94",
-        "title": "Flame Fire",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1996-35",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 64,
+      "rank": 47,
       "song": {
-        "id": "west-1996-64",
-        "title": "Falling Sun",
+        "id": "west-1996-47",
+        "title": "Ocean Forever",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 67,
+      "rank": 50,
       "song": {
-        "id": "west-1996-67",
-        "title": "Snow Dreams",
+        "id": "west-1996-50",
+        "title": "Chasing Rose",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1996
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1996-97",
-        "title": "Fading Winter",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1995-20",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1995-79",
-        "title": "Dusk Love",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1995-83",
-        "title": "Golden Gold",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1995-97",
-        "title": "Under the Diamond",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1994-16",
-        "title": "Last Rain",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1994-38",
-        "title": "Running Dawn",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1994-51",
-        "title": "Dusk Fire",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-1994-54",
-        "title": "Falling Diamond",
+        "id": "west-1996-54",
+        "title": "Running Fire",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1994
+      "year": 1996
     },
     {
       "rank": 58,
       "song": {
-        "id": "west-1994-58",
-        "title": "Golden Rose",
+        "id": "west-1996-58",
+        "title": "Road Lights",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1994
+      "year": 1996
     },
     {
-      "rank": 100,
+      "rank": 84,
       "song": {
-        "id": "west-1994-100",
-        "title": "Never Mountain",
+        "id": "west-1996-84",
+        "title": "Diamond Forever",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1994
+      "year": 1996
     },
     {
-      "rank": 17,
+      "rank": 94,
       "song": {
-        "id": "west-1993-17",
-        "title": "Wild Thunder",
+        "id": "west-1996-94",
+        "title": "Electric Star",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1996
     },
     {
-      "rank": 25,
+      "rank": 2,
       "song": {
-        "id": "west-1993-25",
-        "title": "Into the Road",
+        "id": "west-1995-02",
+        "title": "Waterfalls",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1995
     },
     {
-      "rank": 29,
+      "rank": 3,
       "song": {
-        "id": "west-1993-29",
-        "title": "Crystal Heart",
+        "id": "west-1995-03",
+        "title": "Creep",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
-      "year": 1993
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1993-33",
-        "title": "Dusk Rain",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1993-39",
-        "title": "Crystal Moonlight",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1993-49",
-        "title": "Wild River",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1993-63",
-        "title": "Snow Sky",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1993-72",
-        "title": "Star Love",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1993-86",
-        "title": "Electric Sun",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1993
+      "year": 1995
     },
     {
       "rank": 11,
       "song": {
-        "id": "west-1992-11",
-        "title": "Sun Way",
+        "id": "west-1995-11",
+        "title": "Running Ice",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1995-18",
+        "title": "Wild Rose",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1995-49",
+        "title": "Sweet Bridge",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1995-51",
+        "title": "Shining Gold",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1995-69",
+        "title": "Winter Heart",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1995-71",
+        "title": "Broken Silver",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1995-81",
+        "title": "Never Dawn",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1995-87",
+        "title": "Mountain Heart",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1995-100",
+        "title": "Shining Winter",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1994-24",
+        "title": "Fading Ocean",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1994-27",
+        "title": "Winter Dreams",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1994-30",
+        "title": "Electric Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1994-32",
+        "title": "Electric Mountain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1994-37",
+        "title": "Bridge Forever",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1994-47",
+        "title": "Sweet Ice",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1994-60",
+        "title": "Rain Dreams",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1994-69",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1994-81",
+        "title": "Dusk Love",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1994-93",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1994-95",
+        "title": "Lost in Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1993-13",
+        "title": "Midnight Wind",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1993-66",
+        "title": "Rain Dreams",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1993-75",
+        "title": "Shining Fire",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1993-76",
+        "title": "Midnight Rose",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1993-87",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1993-91",
+        "title": "Thunder Sky",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-1992-05",
+        "title": "Baby-Baby-Baby",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
@@ -585,62 +772,36 @@
       "rank": 32,
       "song": {
         "id": "west-1992-32",
-        "title": "Electric Fire",
+        "title": "Silver Rain",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 50,
+      "rank": 53,
       "song": {
-        "id": "west-1992-50",
-        "title": "Dancing Wind",
+        "id": "west-1992-53",
+        "title": "Falling Snow",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 81,
+      "rank": 87,
       "song": {
-        "id": "west-1992-81",
-        "title": "Broken Gold",
+        "id": "west-1992-87",
+        "title": "Snow Fire",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1992-82",
-        "title": "Under the Ocean",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1992-83",
-        "title": "Running Storm",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
@@ -650,49 +811,114 @@
       "rank": 22,
       "song": {
         "id": "west-1991-22",
-        "title": "Star Heart",
+        "title": "Under the Road",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 49,
+      "rank": 36,
       "song": {
-        "id": "west-1991-49",
-        "title": "Lost in Flame",
+        "id": "west-1991-36",
+        "title": "Sweet Dawn",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 40,
+      "rank": 72,
       "song": {
-        "id": "west-1990-40",
-        "title": "Under the River",
+        "id": "west-1991-72",
+        "title": "Ocean Tears",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1990-13",
+        "title": "Golden Rose",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 92,
+      "rank": 15,
       "song": {
-        "id": "west-1990-92",
-        "title": "Wind Tears",
+        "id": "west-1990-15",
+        "title": "Golden Light",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1990-20",
+        "title": "Golden Dusk",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1990-49",
+        "title": "Wind Dreams",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1990-59",
+        "title": "Never Storm",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1990-97",
+        "title": "Rain Rain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
         },
         "genre": "western"
       },

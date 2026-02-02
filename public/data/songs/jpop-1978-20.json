@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1978-20",
-    "title": "風の空",
+    "title": "青い月",
     "artist": {
-      "id": "a-yamaguchi-momoe",
-      "name": "山口百恵"
+      "id": "a-iwasaki-hiromi",
+      "name": "岩崎宏美"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 20,
   "cdInfo": [
     {
-      "title": "風の空",
+      "title": "青い月",
       "type": "single",
-      "releaseDate": "1978-10-11"
+      "releaseDate": "1978-11-14"
+    },
+    {
+      "title": "ベスト・オブ・夢",
+      "type": "album",
+      "releaseDate": "1978-04-01"
     }
   ],
   "externalLinks": {
@@ -23,325 +28,429 @@
   },
   "artistSongs": [
     {
-      "rank": 5,
+      "rank": 4,
       "song": {
-        "id": "jpop-1979-05",
-        "title": "いい日旅立ち",
+        "id": "jpop-1982-04",
+        "title": "聖母たちのララバイ",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1979-17",
+        "title": "真夜中の雨",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 48,
+      "rank": 20,
       "song": {
-        "id": "jpop-1979-48",
-        "title": "最後の未来",
+        "id": "jpop-1979-20",
+        "title": "雨物語",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
       "year": 1979
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "jpop-1978-06",
-        "title": "プレイバックPart2",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "jpop-1978-09",
-        "title": "乙女座 宮",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-1978-11",
-        "title": "朝フォーエバー",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1978-18",
-        "title": "夏サンセット",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1978-36",
-        "title": "夢の空",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1978-75",
-        "title": "青い朝",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1978-77",
-        "title": "永遠の波",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1978-78",
-        "title": "涙の夢",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1978-95",
-        "title": "永遠の虹",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "jpop-1977-07",
-        "title": "秋桜",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1977-86",
-        "title": "星の愛",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1977-90",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-1977-93",
-        "title": "世界の空",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "jpop-1976-06",
-        "title": "横須賀ストーリー",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1976-24",
-        "title": "花メロディ",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
     },
     {
       "rank": 26,
       "song": {
-        "id": "jpop-1976-26",
-        "title": "風の愛",
+        "id": "jpop-1979-26",
+        "title": "恋の朝",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1979
     },
     {
-      "rank": 30,
+      "rank": 43,
       "song": {
-        "id": "jpop-1976-30",
-        "title": "恋の夏",
+        "id": "jpop-1979-43",
+        "title": "希望の歌",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1979
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1979-49",
+        "title": "時間の記憶",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
     },
     {
       "rank": 53,
       "song": {
-        "id": "jpop-1976-53",
-        "title": "記憶のかけら",
+        "id": "jpop-1979-53",
+        "title": "約束メロディ",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-1979-60",
+        "title": "青い朝",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1979-68",
+        "title": "波の歌",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1979-82",
+        "title": "太陽のかけら",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-1978-32",
+        "title": "記憶の季節",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1978-56",
+        "title": "波の街",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-1977-41",
+        "title": "時間の空",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-1977-51",
+        "title": "約束の夢",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1977-75",
+        "title": "永遠の夢",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1977-77",
+        "title": "街物語",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1977-82",
+        "title": "夏の約束",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1977-95",
+        "title": "光の空",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1977-96",
+        "title": "風の虹",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1977-99",
+        "title": "星の雨",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-1976-40",
+        "title": "月の光",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 72,
+      "rank": 69,
       "song": {
-        "id": "jpop-1976-72",
-        "title": "約束の愛",
+        "id": "jpop-1976-69",
+        "title": "旅の季節",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 14,
+      "rank": 74,
       "song": {
-        "id": "jpop-1975-14",
-        "title": "未来の道",
+        "id": "jpop-1976-74",
+        "title": "ミッドナイト海",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1976-81",
+        "title": "ミッドナイト希望",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1975-03",
+        "title": "ロマンス",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 57,
+      "rank": 10,
       "song": {
-        "id": "jpop-1975-57",
-        "title": "永遠の虹",
+        "id": "jpop-1975-10",
+        "title": "センチメンタル",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 90,
+      "rank": 12,
       "song": {
-        "id": "jpop-1975-90",
-        "title": "風の花",
+        "id": "jpop-1975-12",
+        "title": "雨物語",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 97,
+      "rank": 32,
       "song": {
-        "id": "jpop-1975-97",
-        "title": "恋の桜",
+        "id": "jpop-1975-32",
+        "title": "最後の月",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1975-38",
+        "title": "約束の希望",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-1975-46",
+        "title": "太陽の街",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1975-63",
+        "title": "真夜中の森",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1975-69",
+        "title": "記憶の光",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1975-82",
+        "title": "愛の光",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1977-61",
-    "title": "涙の希望",
+    "title": "君の花",
     "artist": {
-      "id": "a-tulip",
-      "name": "チューリップ"
+      "id": "a-off-course",
+      "name": "オフコース"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 61,
   "cdInfo": [
     {
-      "title": "涙の希望",
+      "title": "君の花",
       "type": "single",
-      "releaseDate": "1977-09-22"
+      "releaseDate": "1977-01-28"
+    },
+    {
+      "title": "夏の世界",
+      "type": "album",
+      "releaseDate": "1977-09-27"
     }
   ],
   "externalLinks": {
@@ -23,351 +28,377 @@
   },
   "artistSongs": [
     {
-      "rank": 15,
+      "rank": 8,
       "song": {
-        "id": "jpop-1979-15",
-        "title": "世界の夜",
+        "id": "jpop-1980-08",
+        "title": "さよなら",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-1979-19",
+        "title": "波の季節",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1979
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-1979-22",
+        "title": "星の海",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1979-23",
+        "title": "夢の花",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1979-39",
+        "title": "朝サンセット",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1979-50",
+        "title": "旅の歌",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-1979-51",
+        "title": "冬の花",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1979-67",
+        "title": "約束の愛",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1978-31",
+        "title": "恋の夜",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-1978-51",
+        "title": "桜フォーエバー",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1978-76",
+        "title": "希望のリズム",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1978-79",
+        "title": "愛の約束",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1978-94",
+        "title": "約束物語",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-1977-40",
+        "title": "影の街",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-1977-45",
+        "title": "夏の街",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
     },
     {
       "rank": 25,
       "song": {
-        "id": "jpop-1979-25",
-        "title": "朝の空",
+        "id": "jpop-1976-25",
+        "title": "永遠の夜",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
-      "year": 1979
+      "year": 1976
     },
     {
-      "rank": 27,
+      "rank": 29,
       "song": {
-        "id": "jpop-1979-27",
-        "title": "冬の歌",
+        "id": "jpop-1976-29",
+        "title": "影の道",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
-      "year": 1979
+      "year": 1976
     },
     {
-      "rank": 30,
+      "rank": 34,
       "song": {
-        "id": "jpop-1979-30",
-        "title": "虹の光",
+        "id": "jpop-1976-34",
+        "title": "青い世界",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
-      "year": 1979
+      "year": 1976
     },
     {
-      "rank": 32,
+      "rank": 39,
       "song": {
-        "id": "jpop-1979-32",
-        "title": "永遠の時間",
+        "id": "jpop-1976-39",
+        "title": "雨の季節",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
-      "year": 1979
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-1979-44",
-        "title": "君の太陽",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1979-71",
-        "title": "真夜中の波",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1979-81",
-        "title": "風の花",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1978-12",
-        "title": "夜の花",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
+      "year": 1976
     },
     {
       "rank": 54,
       "song": {
-        "id": "jpop-1978-54",
-        "title": "波の約束",
+        "id": "jpop-1976-54",
+        "title": "最後の夏",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-1978-63",
-        "title": "街フォーエバー",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1978-68",
-        "title": "冬の夜",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1978-74",
-        "title": "波の歌",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1978-82",
-        "title": "影の道",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-1977-30",
-        "title": "影物語",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1977-58",
-        "title": "青い記憶",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-1977-63",
-        "title": "月の空",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1977-66",
-        "title": "真夜中の雪",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1977-95",
-        "title": "夏の記憶",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1976-61",
-        "title": "雪の道",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 74,
+      "rank": 60,
       "song": {
-        "id": "jpop-1976-74",
-        "title": "影の記憶",
+        "id": "jpop-1976-60",
+        "title": "真夜中の夢",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 81,
+      "rank": 70,
       "song": {
-        "id": "jpop-1976-81",
-        "title": "太陽の道",
+        "id": "jpop-1976-70",
+        "title": "未来の花",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1976
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1975-23",
+        "title": "世界のかけら",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-1975-25",
+        "title": "虹の歌",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
     },
     {
       "rank": 28,
       "song": {
         "id": "jpop-1975-28",
-        "title": "太陽の約束",
+        "title": "約束フォーエバー",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 33,
+      "rank": 56,
       "song": {
-        "id": "jpop-1975-33",
-        "title": "永遠の街",
+        "id": "jpop-1975-56",
+        "title": "夢の夜",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 36,
+      "rank": 71,
       "song": {
-        "id": "jpop-1975-36",
-        "title": "月の約束",
+        "id": "jpop-1975-71",
+        "title": "冬の約束",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 72,
+      "rank": 95,
       "song": {
-        "id": "jpop-1975-72",
-        "title": "風の夜",
+        "id": "jpop-1975-95",
+        "title": "光の夜",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 79,
+      "rank": 100,
       "song": {
-        "id": "jpop-1975-79",
-        "title": "風の影",
+        "id": "jpop-1975-100",
+        "title": "君の冬",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       },

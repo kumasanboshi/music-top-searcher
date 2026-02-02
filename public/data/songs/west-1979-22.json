@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1979-22",
-    "title": "Midnight Moon",
+    "title": "Sweet Rose",
     "artist": {
-      "id": "a-queen",
-      "name": "Queen"
+      "id": "a-stevie-wonder",
+      "name": "Stevie Wonder"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 22,
   "cdInfo": [
     {
-      "title": "Midnight Moon",
+      "title": "Sweet Rose",
       "type": "single",
-      "releaseDate": "1979-11-08"
+      "releaseDate": "1979-06-02"
+    },
+    {
+      "title": "River Anthology",
+      "type": "album",
+      "releaseDate": "1979-02-03"
     }
   ],
   "externalLinks": {
@@ -23,182 +28,130 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 34,
       "song": {
-        "id": "west-1980-06",
-        "title": "Crazy Little Thing Called Love",
+        "id": "west-1979-34",
+        "title": "Star Lights",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1979
     },
     {
-      "rank": 16,
+      "rank": 60,
       "song": {
-        "id": "west-1979-16",
+        "id": "west-1979-60",
+        "title": "Wave Dreams",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1979-64",
+        "title": "Sky Forever",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1979-65",
+        "title": "Dusk Rain",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1979-81",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1979-95",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1978-33",
+        "title": "Wind Love",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1978-53",
+        "title": "Electric Winter",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1978-58",
+        "title": "Into the Rain",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1978-69",
         "title": "Thunder Sky",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1979-17",
-        "title": "Shadow Rain",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1979-20",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1979-23",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1979-26",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1979-54",
-        "title": "Crystal Love",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1979-84",
-        "title": "Last Storm",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1979-100",
-        "title": "Fading Fire",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1978-22",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1978-27",
-        "title": "City Heart",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1978-72",
-        "title": "Gold Sky",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1978-85",
-        "title": "Broken Wave",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1978-92",
-        "title": "Mountain Moonlight",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
@@ -208,205 +161,192 @@
       "rank": 99,
       "song": {
         "id": "west-1978-99",
-        "title": "Broken Diamond",
+        "title": "Sweet Dusk",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 53,
+      "rank": 7,
       "song": {
-        "id": "west-1977-53",
-        "title": "Running Diamond",
+        "id": "west-1977-07",
+        "title": "I Wish",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 62,
+      "rank": 23,
       "song": {
-        "id": "west-1977-62",
-        "title": "City Tears",
+        "id": "west-1977-23",
+        "title": "Flame Forever",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 89,
+      "rank": 44,
       "song": {
-        "id": "west-1977-89",
-        "title": "Rain Heart",
+        "id": "west-1977-44",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 18,
+      "rank": 74,
       "song": {
-        "id": "west-1976-18",
-        "title": "Wild Wind",
+        "id": "west-1977-74",
+        "title": "Into the Ice",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1976-12",
+        "title": "Midnight Wave",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 22,
+      "rank": 14,
       "song": {
-        "id": "west-1976-22",
-        "title": "River Rain",
+        "id": "west-1976-14",
+        "title": "Ice Moonlight",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 26,
+      "rank": 40,
       "song": {
-        "id": "west-1976-26",
-        "title": "Wave Heart",
+        "id": "west-1976-40",
+        "title": "Shadow Forever",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 32,
+      "rank": 81,
       "song": {
-        "id": "west-1976-32",
-        "title": "Wild Diamond",
+        "id": "west-1976-81",
+        "title": "Rose Tears",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 52,
+      "rank": 91,
       "song": {
-        "id": "west-1976-52",
-        "title": "Chasing Road",
+        "id": "west-1976-91",
+        "title": "City Rain",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 61,
+      "rank": 23,
       "song": {
-        "id": "west-1976-61",
-        "title": "Into the Rain",
+        "id": "west-1975-23",
+        "title": "Fading Rose",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1976-79",
-        "title": "Diamond Dreams",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1976-80",
-        "title": "Wind Lights",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1976-90",
-        "title": "Under the Shadow",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1975-19",
-        "title": "Shining Silver",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 41,
+      "rank": 31,
       "song": {
-        "id": "west-1975-41",
-        "title": "Golden Wave",
+        "id": "west-1975-31",
+        "title": "Wild Rose",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 50,
+      "rank": 42,
       "song": {
-        "id": "west-1975-50",
-        "title": "Moon Soul",
+        "id": "west-1975-42",
+        "title": "Gold Dreams",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1975-44",
+        "title": "Under the Moon",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1975-59",
+        "title": "River Tears",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
@@ -416,62 +356,36 @@
       "rank": 63,
       "song": {
         "id": "west-1975-63",
-        "title": "Dancing Ocean",
+        "title": "Broken Snow",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 68,
+      "rank": 65,
       "song": {
-        "id": "west-1975-68",
-        "title": "Ice Heart",
+        "id": "west-1975-65",
+        "title": "Mountain Lights",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 71,
+      "rank": 96,
       "song": {
-        "id": "west-1975-71",
-        "title": "Silver Tears",
+        "id": "west-1975-96",
+        "title": "Into the Ocean",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1975-79",
-        "title": "Diamond Fire",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1975-81",
-        "title": "Wave Forever",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },

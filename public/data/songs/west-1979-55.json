@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1979-55",
-    "title": "Wave Love",
+    "title": "Last Wind",
     "artist": {
-      "id": "a-fleetwood-mac",
-      "name": "Fleetwood Mac"
+      "id": "a-rod-stewart",
+      "name": "Rod Stewart"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 55,
   "cdInfo": [
     {
-      "title": "Wave Love",
+      "title": "Last Wind",
       "type": "single",
-      "releaseDate": "1979-12-11"
+      "releaseDate": "1979-11-05"
+    },
+    {
+      "title": "Sky Sessions",
+      "type": "album",
+      "releaseDate": "1979-02-07"
     }
   ],
   "externalLinks": {
@@ -23,65 +28,104 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 4,
       "song": {
-        "id": "west-1979-14",
-        "title": "Winter Soul",
+        "id": "west-1979-04",
+        "title": "Da Ya Think I'm Sexy?",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 69,
+      "rank": 61,
       "song": {
-        "id": "west-1979-69",
-        "title": "Falling Bridge",
+        "id": "west-1979-61",
+        "title": "Broken Light",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 73,
+      "rank": 99,
       "song": {
-        "id": "west-1979-73",
-        "title": "Golden Star",
+        "id": "west-1979-99",
+        "title": "Dancing Rain",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 13,
+      "rank": 46,
       "song": {
-        "id": "west-1978-13",
-        "title": "Midnight Road",
+        "id": "west-1978-46",
+        "title": "Dancing Winter",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 14,
+      "rank": 47,
       "song": {
-        "id": "west-1978-14",
-        "title": "Running Snow",
+        "id": "west-1978-47",
+        "title": "Flame Tears",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1978-55",
+        "title": "Bridge Love",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1978-72",
+        "title": "Rain Moonlight",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1978-92",
+        "title": "Never Flame",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
@@ -90,245 +134,128 @@
     {
       "rank": 31,
       "song": {
-        "id": "west-1978-31",
-        "title": "Shadow Rain",
+        "id": "west-1977-31",
+        "title": "Last Fire",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1978-40",
-        "title": "Dancing Gold",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1978-43",
-        "title": "Snow Dreams",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1978-62",
-        "title": "Golden Dusk",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1978-64",
-        "title": "Wave Moonlight",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1978-75",
-        "title": "Moon Lights",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1978-81",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1978-90",
-        "title": "Rose Heart",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "west-1977-08",
-        "title": "Dreams",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 19,
+      "rank": 56,
       "song": {
-        "id": "west-1977-19",
-        "title": "Moon Fire",
+        "id": "west-1977-56",
+        "title": "Shining Sun",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 41,
+      "rank": 72,
       "song": {
-        "id": "west-1977-41",
-        "title": "Wild Dawn",
+        "id": "west-1977-72",
+        "title": "Dancing Fire",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1977
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1977-83",
+        "title": "Sweet Flame",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1976-38",
+        "title": "Running Gold",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 52,
       "song": {
-        "id": "west-1977-52",
-        "title": "Dancing Moon",
+        "id": "west-1976-52",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1977-59",
-        "title": "Light Dreams",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1977-69",
-        "title": "Sky Forever",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1977-96",
-        "title": "River Night",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1976-31",
-        "title": "Sweet Rose",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 59,
+      "rank": 60,
       "song": {
-        "id": "west-1976-59",
-        "title": "Lost in Snow",
+        "id": "west-1976-60",
+        "title": "Shining Star",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 62,
+      "rank": 66,
       "song": {
-        "id": "west-1976-62",
-        "title": "Golden Storm",
+        "id": "west-1976-66",
+        "title": "Wild Ocean",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 76,
+      "rank": 79,
       "song": {
-        "id": "west-1976-76",
-        "title": "Golden River",
+        "id": "west-1976-79",
+        "title": "Fading Wave",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1976-88",
+        "title": "Summer Forever",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
@@ -338,36 +265,49 @@
       "rank": 34,
       "song": {
         "id": "west-1975-34",
-        "title": "Running Sun",
+        "title": "Dawn Night",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 51,
+      "rank": 60,
       "song": {
-        "id": "west-1975-51",
-        "title": "Never Summer",
+        "id": "west-1975-60",
+        "title": "Wave Soul",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 69,
+      "rank": 61,
       "song": {
-        "id": "west-1975-69",
-        "title": "Lost in Summer",
+        "id": "west-1975-61",
+        "title": "Bridge Forever",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1975-64",
+        "title": "Lost in City",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
@@ -377,23 +317,36 @@
       "rank": 80,
       "song": {
         "id": "west-1975-80",
-        "title": "Midnight Rose",
+        "title": "Electric Rose",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 95,
+      "rank": 82,
       "song": {
-        "id": "west-1975-95",
-        "title": "Thunder Soul",
+        "id": "west-1975-82",
+        "title": "Sweet Snow",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1975-88",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2011-100",
-    "title": "Running Mountain",
+    "title": "Star Way",
     "artist": {
-      "id": "a-weeknd",
-      "name": "The Weeknd"
+      "id": "a-adele",
+      "name": "Adele"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 100,
   "cdInfo": [
     {
-      "title": "Running Mountain",
+      "title": "Star Way",
       "type": "single",
-      "releaseDate": "2011-08-24"
+      "releaseDate": "2011-09-14"
+    },
+    {
+      "title": "The Mountain Album",
+      "type": "album",
+      "releaseDate": "2011-11-07"
     }
   ],
   "externalLinks": {
@@ -23,507 +28,117 @@
   },
   "artistSongs": [
     {
-      "rank": 28,
+      "rank": 58,
       "song": {
-        "id": "west-2025-28",
-        "title": "Star Soul",
+        "id": "west-2019-58",
+        "title": "Rose Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2025-33",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2025-72",
-        "title": "Electric Flame",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2025-81",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2023-37",
-        "title": "Crystal Heart",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2023-39",
-        "title": "City Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2023-60",
-        "title": "Wind Moonlight",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2023-64",
-        "title": "Electric Crystal",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2023-80",
-        "title": "Midnight Rose",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2023-89",
-        "title": "Ice Love",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2022-31",
-        "title": "Gold Dreams",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2022-57",
-        "title": "Silver Tears",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2021-12",
-        "title": "Flame Way",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2021-14",
-        "title": "Silver Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2021-30",
-        "title": "Midnight Summer",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2020-16",
-        "title": "Wild Silver",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2020-39",
-        "title": "Gold Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2020-40",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2020-51",
-        "title": "Running Star",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2020-66",
-        "title": "Wild Moon",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2020-83",
-        "title": "Electric Bridge",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2020-87",
-        "title": "Fire Forever",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2020-96",
-        "title": "Falling Shadow",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2019-57",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2019
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2019-65",
+        "title": "Dawn Night",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2019-69",
+        "title": "Light Dreams",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2018-21",
+        "title": "Wind Lights",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-2018-39",
+        "title": "Golden Summer",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2018
     },
     {
       "rank": 61,
       "song": {
-        "id": "west-2019-61",
-        "title": "Broken Bridge",
+        "id": "west-2018-61",
+        "title": "Midnight Sun",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2019
+      "year": 2018
     },
     {
       "rank": 64,
       "song": {
-        "id": "west-2019-64",
-        "title": "Dawn Fire",
+        "id": "west-2018-64",
+        "title": "Into the Silver",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2019-82",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2018-33",
-        "title": "Rose Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 35,
+      "rank": 72,
       "song": {
-        "id": "west-2018-35",
-        "title": "Last Wave",
+        "id": "west-2018-72",
+        "title": "Shining Wave",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 43,
+      "rank": 14,
       "song": {
-        "id": "west-2018-43",
-        "title": "Sweet Shadow",
+        "id": "west-2017-14",
+        "title": "Running City",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2018-68",
-        "title": "Electric Star",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2018-80",
-        "title": "River Rain",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2018-93",
-        "title": "Midnight River",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2017-11",
-        "title": "Light Night",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2017-31",
-        "title": "Road Tears",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2017-67",
-        "title": "Ocean Dreams",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2017-73",
-        "title": "Last Wave",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2017-87",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2017-88",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
@@ -532,115 +147,102 @@
     {
       "rank": 17,
       "song": {
-        "id": "west-2016-17",
-        "title": "Running Flame",
+        "id": "west-2017-17",
+        "title": "Shadow Heart",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2016
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2016-21",
-        "title": "Silver Lights",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2016
+      "year": 2017
     },
     {
       "rank": 29,
       "song": {
-        "id": "west-2016-29",
-        "title": "Golden Rain",
+        "id": "west-2017-29",
+        "title": "Wave Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2017
     },
     {
-      "rank": 31,
+      "rank": 35,
       "song": {
-        "id": "west-2016-31",
-        "title": "Running Summer",
+        "id": "west-2017-35",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2017
     },
     {
-      "rank": 37,
+      "rank": 43,
       "song": {
-        "id": "west-2016-37",
-        "title": "Wild Wave",
+        "id": "west-2017-43",
+        "title": "Mountain Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2017
     },
     {
-      "rank": 41,
+      "rank": 70,
       "song": {
-        "id": "west-2016-41",
-        "title": "Sun Way",
+        "id": "west-2017-70",
+        "title": "Wind Night",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2017
     },
     {
-      "rank": 88,
+      "rank": 75,
       "song": {
-        "id": "west-2016-88",
-        "title": "Snow Fire",
+        "id": "west-2017-75",
+        "title": "Sweet Dusk",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2017
     },
     {
-      "rank": 90,
+      "rank": 82,
       "song": {
-        "id": "west-2016-90",
-        "title": "Into the Diamond",
+        "id": "west-2017-82",
+        "title": "Chasing Light",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2017
     },
     {
-      "rank": 99,
+      "rank": 13,
       "song": {
-        "id": "west-2016-99",
-        "title": "Snow Forever",
+        "id": "west-2016-13",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
@@ -649,128 +251,193 @@
     {
       "rank": 27,
       "song": {
-        "id": "west-2015-27",
-        "title": "Never Road",
+        "id": "west-2016-27",
+        "title": "Mountain Night",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2016
     },
     {
-      "rank": 55,
+      "rank": 33,
       "song": {
-        "id": "west-2015-55",
-        "title": "Lost in Gold",
+        "id": "west-2016-33",
+        "title": "Road Tears",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2016
     },
     {
-      "rank": 69,
+      "rank": 40,
       "song": {
-        "id": "west-2015-69",
-        "title": "Dancing Shadow",
+        "id": "west-2016-40",
+        "title": "Bridge Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2016
     },
     {
-      "rank": 78,
+      "rank": 66,
       "song": {
-        "id": "west-2015-78",
-        "title": "Thunder Forever",
+        "id": "west-2016-66",
+        "title": "Dancing Thunder",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2016
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2016-92",
+        "title": "Midnight Wind",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2016
     },
     {
       "rank": 96,
       "song": {
-        "id": "west-2015-96",
-        "title": "Into the River",
+        "id": "west-2016-96",
+        "title": "Into the Dawn",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2015-46",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 97,
+      "rank": 48,
       "song": {
-        "id": "west-2015-97",
-        "title": "Last Wave",
+        "id": "west-2015-48",
+        "title": "Dusk Forever",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2015
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2015-49",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2015-65",
+        "title": "Wild Bridge",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2015-74",
+        "title": "Lost in Light",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2015-84",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2015-85",
+        "title": "Falling Bridge",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2014-18",
+        "title": "Falling Rose",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2014
     },
     {
       "rank": 19,
       "song": {
         "id": "west-2014-19",
-        "title": "Into the Ice",
+        "title": "Never Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-2014-22",
-        "title": "Never Bridge",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2014-26",
-        "title": "Never Thunder",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2014-40",
-        "title": "Golden Wave",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
@@ -780,192 +447,244 @@
       "rank": 51,
       "song": {
         "id": "west-2014-51",
-        "title": "Chasing Road",
+        "title": "Sweet Sky",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 53,
+      "rank": 58,
       "song": {
-        "id": "west-2014-53",
-        "title": "Sun Moonlight",
+        "id": "west-2014-58",
+        "title": "Golden Mountain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 67,
+      "rank": 85,
       "song": {
-        "id": "west-2014-67",
-        "title": "Under the City",
+        "id": "west-2014-85",
+        "title": "Broken City",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 81,
+      "rank": 97,
       "song": {
-        "id": "west-2014-81",
-        "title": "Under the Dawn",
+        "id": "west-2014-97",
+        "title": "Never Dawn",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2014
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2013-14",
-        "title": "City Forever",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
     },
     {
       "rank": 18,
       "song": {
         "id": "west-2013-18",
-        "title": "Wild Moon",
+        "title": "Chasing Crystal",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 21,
+      "rank": 28,
       "song": {
-        "id": "west-2013-21",
-        "title": "Shining Flame",
+        "id": "west-2013-28",
+        "title": "Thunder Sky",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 26,
+      "rank": 31,
       "song": {
-        "id": "west-2013-26",
-        "title": "Never Diamond",
+        "id": "west-2013-31",
+        "title": "Sun Lights",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 42,
+      "rank": 47,
       "song": {
-        "id": "west-2013-42",
-        "title": "Into the Ice",
+        "id": "west-2013-47",
+        "title": "Summer Sky",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 56,
+      "rank": 48,
       "song": {
-        "id": "west-2013-56",
-        "title": "Running Star",
+        "id": "west-2013-48",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 60,
+      "rank": 49,
       "song": {
-        "id": "west-2013-60",
-        "title": "Electric Gold",
+        "id": "west-2013-49",
+        "title": "Ocean Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 81,
+      "rank": 65,
       "song": {
-        "id": "west-2013-81",
-        "title": "Fire Tears",
+        "id": "west-2013-65",
+        "title": "Summer Night",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 92,
+      "rank": 69,
       "song": {
-        "id": "west-2013-92",
-        "title": "Running Rose",
+        "id": "west-2013-69",
+        "title": "Dawn Sky",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 12,
+      "rank": 72,
       "song": {
-        "id": "west-2012-12",
-        "title": "Never Bridge",
+        "id": "west-2013-72",
+        "title": "Shining Dusk",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2013-86",
+        "title": "Last Gold",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2013-88",
+        "title": "Running Ice",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-2012-11",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 22,
+      "rank": 24,
       "song": {
-        "id": "west-2012-22",
-        "title": "Shadow Night",
+        "id": "west-2012-24",
+        "title": "Shining Summer",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2012-30",
+        "title": "Electric Wind",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2012-35",
+        "title": "Wild Silver",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
@@ -975,88 +694,166 @@
       "rank": 39,
       "song": {
         "id": "west-2012-39",
-        "title": "Sweet Sun",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 49,
+      "rank": 41,
       "song": {
-        "id": "west-2012-49",
-        "title": "Dancing Thunder",
+        "id": "west-2012-41",
+        "title": "Gold Lights",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 55,
+      "rank": 61,
       "song": {
-        "id": "west-2012-55",
-        "title": "Storm Dreams",
+        "id": "west-2012-61",
+        "title": "Never Road",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 63,
+      "rank": 67,
       "song": {
-        "id": "west-2012-63",
-        "title": "Rain Moonlight",
+        "id": "west-2012-67",
+        "title": "Ocean Fire",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 99,
+      "rank": 69,
       "song": {
-        "id": "west-2012-99",
-        "title": "Snow Rain",
+        "id": "west-2012-69",
+        "title": "Never Ocean",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 19,
+      "rank": 93,
       "song": {
-        "id": "west-2011-19",
-        "title": "Crystal Lights",
+        "id": "west-2012-93",
+        "title": "Golden Dusk",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-2011-01",
+        "title": "Rolling in the Deep",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 33,
+      "rank": 8,
       "song": {
-        "id": "west-2011-33",
-        "title": "Last Rain",
+        "id": "west-2011-08",
+        "title": "Someone Like You",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2011-14",
+        "title": "Wild River",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2011-25",
+        "title": "Into the Light",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-2011-43",
+        "title": "Fading Ocean",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2011-44",
+        "title": "Last Diamond",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2011-47",
+        "title": "Fire Soul",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
@@ -1066,88 +863,62 @@
       "rank": 53,
       "song": {
         "id": "west-2011-53",
-        "title": "Moon Soul",
+        "title": "Running Sun",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 55,
+      "rank": 74,
       "song": {
-        "id": "west-2011-55",
-        "title": "Sky Lights",
+        "id": "west-2011-74",
+        "title": "Bridge Fire",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 67,
+      "rank": 89,
       "song": {
-        "id": "west-2011-67",
-        "title": "Midnight Winter",
+        "id": "west-2011-89",
+        "title": "Summer Fire",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 79,
+      "rank": 15,
       "song": {
-        "id": "west-2011-79",
-        "title": "Running Rose",
+        "id": "west-2010-15",
+        "title": "Electric Silver",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
-      "year": 2011
+      "year": 2010
     },
     {
-      "rank": 91,
+      "rank": 18,
       "song": {
-        "id": "west-2011-91",
-        "title": "Fire Way",
+        "id": "west-2010-18",
+        "title": "Under the Sky",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2011-92",
-        "title": "Last Summer",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2010-12",
-        "title": "Sky Heart",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
@@ -1157,62 +928,75 @@
       "rank": 20,
       "song": {
         "id": "west-2010-20",
-        "title": "Wind Forever",
+        "title": "Rose Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 38,
+      "rank": 28,
       "song": {
-        "id": "west-2010-38",
-        "title": "Sweet Mountain",
+        "id": "west-2010-28",
+        "title": "Chasing Gold",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 46,
+      "rank": 48,
       "song": {
-        "id": "west-2010-46",
-        "title": "Running Moon",
+        "id": "west-2010-48",
+        "title": "Fading Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 57,
+      "rank": 51,
       "song": {
-        "id": "west-2010-57",
-        "title": "Never Dawn",
+        "id": "west-2010-51",
+        "title": "Sun Soul",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 96,
+      "rank": 55,
       "song": {
-        "id": "west-2010-96",
-        "title": "Running Crystal",
+        "id": "west-2010-55",
+        "title": "Rain Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-adele",
+          "name": "Adele"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2010-98",
+        "title": "Flame Sky",
+        "artist": {
+          "id": "a-adele",
+          "name": "Adele"
         },
         "genre": "western"
       },

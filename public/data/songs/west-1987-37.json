@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1987-37",
-    "title": "Dusk Sky",
+    "title": "Winter Tears",
     "artist": {
-      "id": "a-culture-club",
-      "name": "Culture Club"
+      "id": "a-madonna",
+      "name": "Madonna"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 37,
   "cdInfo": [
     {
-      "title": "Dusk Sky",
+      "title": "Winter Tears",
       "type": "single",
-      "releaseDate": "1987-02-10"
+      "releaseDate": "1987-11-13"
+    },
+    {
+      "title": "Sky Unplugged",
+      "type": "album",
+      "releaseDate": "1987-08-24"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,91 @@
   },
   "artistSongs": [
     {
-      "rank": 26,
+      "rank": 10,
       "song": {
-        "id": "west-1989-26",
-        "title": "Electric Sun",
+        "id": "west-2000-10",
+        "title": "Music",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-1995-08",
+        "title": "Take a Bow",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-1990-04",
+        "title": "Vogue",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1989-10",
+        "title": "Like a Prayer",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 29,
+      "rank": 21,
       "song": {
-        "id": "west-1989-29",
-        "title": "Bridge Night",
+        "id": "west-1989-21",
+        "title": "Flame Heart",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 42,
+      "rank": 30,
       "song": {
-        "id": "west-1989-42",
-        "title": "Shadow Fire",
+        "id": "west-1989-30",
+        "title": "Never Winter",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 56,
+      "rank": 55,
       "song": {
-        "id": "west-1989-56",
-        "title": "City Way",
+        "id": "west-1989-55",
+        "title": "Sun Tears",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1989-57",
-        "title": "Wild Crystal",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1989-62",
-        "title": "Lost in Winter",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -104,153 +122,101 @@
       "rank": 63,
       "song": {
         "id": "west-1989-63",
-        "title": "Shining Light",
+        "title": "Flame Fire",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 71,
+      "rank": 87,
       "song": {
-        "id": "west-1989-71",
-        "title": "Shadow Heart",
+        "id": "west-1989-87",
+        "title": "Midnight Summer",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 74,
+      "rank": 20,
       "song": {
-        "id": "west-1989-74",
-        "title": "Wild Star",
+        "id": "west-1988-20",
+        "title": "Moon Fire",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1988-43",
-        "title": "Never Ice",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 63,
+      "rank": 22,
       "song": {
-        "id": "west-1988-63",
-        "title": "Golden River",
+        "id": "west-1988-22",
+        "title": "Shining Road",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 43,
+      "rank": 55,
       "song": {
-        "id": "west-1987-43",
-        "title": "Midnight Rain",
+        "id": "west-1988-55",
+        "title": "Wild Dusk",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1988
     },
     {
-      "rank": 49,
+      "rank": 80,
       "song": {
-        "id": "west-1987-49",
-        "title": "Falling Bridge",
+        "id": "west-1988-80",
+        "title": "Under the Crystal",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1988
     },
     {
-      "rank": 64,
+      "rank": 82,
       "song": {
-        "id": "west-1987-64",
-        "title": "Electric Sky",
+        "id": "west-1988-82",
+        "title": "Summer Tears",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1988
     },
     {
-      "rank": 77,
+      "rank": 10,
       "song": {
-        "id": "west-1987-77",
-        "title": "Running Crystal",
+        "id": "west-1987-10",
+        "title": "Open Your Heart",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1987-84",
-        "title": "Light Moonlight",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1987-94",
-        "title": "Chasing Bridge",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1987-98",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -259,310 +225,388 @@
     {
       "rank": 16,
       "song": {
-        "id": "west-1986-16",
-        "title": "Sun Lights",
+        "id": "west-1987-16",
+        "title": "Shadow Fire",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1987
     },
     {
-      "rank": 37,
+      "rank": 17,
       "song": {
-        "id": "west-1986-37",
-        "title": "Never Sky",
+        "id": "west-1987-17",
+        "title": "Shadow Heart",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1987
     },
     {
-      "rank": 43,
+      "rank": 33,
       "song": {
-        "id": "west-1986-43",
-        "title": "Diamond Love",
+        "id": "west-1987-33",
+        "title": "Chasing Mountain",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1987
     },
     {
-      "rank": 14,
+      "rank": 80,
       "song": {
-        "id": "west-1985-14",
-        "title": "Road Lights",
+        "id": "west-1987-80",
+        "title": "Last Wave",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1985
+      "year": 1987
     },
     {
-      "rank": 32,
+      "rank": 97,
       "song": {
-        "id": "west-1985-32",
-        "title": "Dawn Tears",
+        "id": "west-1987-97",
+        "title": "Rose Lights",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1985
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1985-88",
-        "title": "Fading Crystal",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1985
+      "year": 1987
     },
     {
       "rank": 9,
       "song": {
-        "id": "west-1984-09",
-        "title": "Karma Chameleon",
+        "id": "west-1986-09",
+        "title": "Papa Don't Preach",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1986
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1986-10",
+        "title": "Live to Tell",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
     },
     {
       "rank": 13,
       "song": {
-        "id": "west-1984-13",
-        "title": "Road Tears",
+        "id": "west-1986-13",
+        "title": "Last Star",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1986
     },
     {
-      "rank": 31,
+      "rank": 21,
       "song": {
-        "id": "west-1984-31",
-        "title": "Running Ice",
+        "id": "west-1986-21",
+        "title": "Chasing Mountain",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1986
     },
     {
-      "rank": 47,
+      "rank": 61,
       "song": {
-        "id": "west-1984-47",
-        "title": "Road Way",
+        "id": "west-1986-61",
+        "title": "Fading Storm",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1986
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1986-66",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1986-94",
+        "title": "Falling River",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1985-02",
+        "title": "Like a Virgin",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1985-40",
+        "title": "Never Flame",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1985
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-1984-54",
-        "title": "Star Soul",
+        "id": "west-1985-54",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1985-90",
+        "title": "Into the Mountain",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1985-91",
+        "title": "Wild Flame",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1984-35",
+        "title": "Fire Soul",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 59,
+      "rank": 36,
       "song": {
-        "id": "west-1984-59",
-        "title": "Chasing Fire",
+        "id": "west-1984-36",
+        "title": "Winter Dreams",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 83,
+      "rank": 75,
       "song": {
-        "id": "west-1984-83",
-        "title": "Dusk Rain",
+        "id": "west-1984-75",
+        "title": "Crystal Fire",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 85,
+      "rank": 77,
       "song": {
-        "id": "west-1984-85",
-        "title": "Chasing Sky",
+        "id": "west-1984-77",
+        "title": "Dawn Fire",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1984-86",
-        "title": "Broken Dusk",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1983-28",
-        "title": "Last Fire",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1983-29",
-        "title": "Under the Dawn",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1983-30",
-        "title": "Silver Dreams",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1983-71",
-        "title": "Flame Lights",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1983
     },
     {
       "rank": 100,
       "song": {
-        "id": "west-1983-100",
-        "title": "Flame Sky",
+        "id": "west-1984-100",
+        "title": "Dancing Dusk",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1983-24",
+        "title": "Light Tears",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 14,
+      "rank": 37,
       "song": {
-        "id": "west-1982-14",
-        "title": "Broken Wind",
+        "id": "west-1983-37",
+        "title": "Road Dreams",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1983-75",
+        "title": "Dancing Crystal",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1983-91",
+        "title": "Chasing Diamond",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1982-11",
+        "title": "Chasing Wind",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 63,
+      "rank": 30,
       "song": {
-        "id": "west-1982-63",
-        "title": "Ice Lights",
+        "id": "west-1982-30",
+        "title": "Shining Road",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 67,
+      "rank": 43,
       "song": {
-        "id": "west-1982-67",
-        "title": "Midnight Moon",
+        "id": "west-1982-43",
+        "title": "Electric Winter",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 76,
+      "rank": 55,
       "song": {
-        "id": "west-1982-76",
-        "title": "Winter Tears",
+        "id": "west-1982-55",
+        "title": "Midnight Wave",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -572,127 +616,192 @@
       "rank": 80,
       "song": {
         "id": "west-1982-80",
-        "title": "Silver Soul",
+        "title": "Last Rose",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 92,
+      "rank": 84,
       "song": {
-        "id": "west-1982-92",
-        "title": "Falling River",
+        "id": "west-1982-84",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1982
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1981-16",
-        "title": "Light Soul",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1981-17",
-        "title": "Snow Tears",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1981-43",
-        "title": "Dancing Shadow",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1981-79",
-        "title": "Silver Love",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1981
     },
     {
       "rank": 96,
       "song": {
-        "id": "west-1981-96",
-        "title": "Gold Sky",
+        "id": "west-1982-96",
+        "title": "Dusk Sky",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1981-15",
+        "title": "Golden Rain",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 42,
+      "rank": 21,
       "song": {
-        "id": "west-1980-42",
-        "title": "Rose Dreams",
+        "id": "west-1981-21",
+        "title": "Falling Summer",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1981
     },
     {
-      "rank": 55,
+      "rank": 33,
       "song": {
-        "id": "west-1980-55",
-        "title": "Dancing Mountain",
+        "id": "west-1981-33",
+        "title": "Fading Snow",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1981
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1981-52",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
     },
     {
       "rank": 90,
       "song": {
-        "id": "west-1980-90",
-        "title": "Light Moonlight",
+        "id": "west-1981-90",
+        "title": "Chasing City",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1981-97",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1980-22",
+        "title": "Road Forever",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1980-28",
+        "title": "Broken Crystal",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1980-34",
+        "title": "Under the Star",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1980-75",
+        "title": "Rose Love",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1980-76",
+        "title": "Running Thunder",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1980-89",
+        "title": "Running Light",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },

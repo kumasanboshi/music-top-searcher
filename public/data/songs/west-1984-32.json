@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1984-32",
-    "title": "Shining Wind",
+    "title": "Flame Lights",
     "artist": {
       "id": "a-tina-turner",
       "name": "Tina Turner"
@@ -12,9 +12,14 @@
   "rank": 32,
   "cdInfo": [
     {
-      "title": "Shining Wind",
+      "title": "Flame Lights",
       "type": "single",
-      "releaseDate": "1984-03-13"
+      "releaseDate": "1984-03-22"
+    },
+    {
+      "title": "Crystal Chronicles",
+      "type": "album",
+      "releaseDate": "1984-04-25"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,88 @@
   },
   "artistSongs": [
     {
-      "rank": 22,
+      "rank": 17,
       "song": {
-        "id": "west-1989-22",
-        "title": "Rain Lights",
+        "id": "west-1989-17",
+        "title": "Midnight Wind",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1989-18",
+        "title": "Running Dawn",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1989-24",
+        "title": "Shining Flame",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1989-34",
+        "title": "Storm Soul",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1989-54",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1989-58",
+        "title": "Ice Way",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1989-80",
+        "title": "Electric City",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -38,73 +121,8 @@
     {
       "rank": 23,
       "song": {
-        "id": "west-1989-23",
-        "title": "Chasing Winter",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1989-38",
-        "title": "Wind Dreams",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1989-76",
-        "title": "Fire Rain",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1989-81",
-        "title": "Fading Ocean",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1989-98",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1988-17",
-        "title": "Golden Wind",
+        "id": "west-1988-23",
+        "title": "Storm Love",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -114,10 +132,10 @@
       "year": 1988
     },
     {
-      "rank": 29,
+      "rank": 30,
       "song": {
-        "id": "west-1988-29",
-        "title": "Shining Diamond",
+        "id": "west-1988-30",
+        "title": "Dusk Lights",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -127,10 +145,10 @@
       "year": 1988
     },
     {
-      "rank": 50,
+      "rank": 39,
       "song": {
-        "id": "west-1988-50",
-        "title": "Never Storm",
+        "id": "west-1988-39",
+        "title": "Golden Light",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -140,10 +158,10 @@
       "year": 1988
     },
     {
-      "rank": 56,
+      "rank": 43,
       "song": {
-        "id": "west-1988-56",
-        "title": "Summer Rain",
+        "id": "west-1988-43",
+        "title": "Into the Star",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -153,10 +171,10 @@
       "year": 1988
     },
     {
-      "rank": 58,
+      "rank": 46,
       "song": {
-        "id": "west-1988-58",
-        "title": "City Dreams",
+        "id": "west-1988-46",
+        "title": "Wild Sky",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -166,10 +184,10 @@
       "year": 1988
     },
     {
-      "rank": 85,
+      "rank": 53,
       "song": {
-        "id": "west-1988-85",
-        "title": "Storm Rain",
+        "id": "west-1988-53",
+        "title": "Ice Moonlight",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -179,10 +197,10 @@
       "year": 1988
     },
     {
-      "rank": 96,
+      "rank": 65,
       "song": {
-        "id": "west-1988-96",
-        "title": "Flame Heart",
+        "id": "west-1988-65",
+        "title": "Shining Star",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -192,10 +210,36 @@
       "year": 1988
     },
     {
-      "rank": 12,
+      "rank": 79,
       "song": {
-        "id": "west-1987-12",
-        "title": "Lost in Gold",
+        "id": "west-1988-79",
+        "title": "Crystal Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1988-90",
+        "title": "Star Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1987-21",
+        "title": "Midnight Crystal",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -205,10 +249,36 @@
       "year": 1987
     },
     {
-      "rank": 18,
+      "rank": 34,
       "song": {
-        "id": "west-1987-18",
-        "title": "Into the Moon",
+        "id": "west-1987-34",
+        "title": "Bridge Forever",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1987-51",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1987-54",
+        "title": "Electric Dusk",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -221,7 +291,7 @@
       "rank": 65,
       "song": {
         "id": "west-1987-65",
-        "title": "Ocean Dreams",
+        "title": "Sky Night",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -231,10 +301,10 @@
       "year": 1987
     },
     {
-      "rank": 66,
+      "rank": 68,
       "song": {
-        "id": "west-1987-66",
-        "title": "Fading Sun",
+        "id": "west-1987-68",
+        "title": "Dancing Flame",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -244,10 +314,10 @@
       "year": 1987
     },
     {
-      "rank": 76,
+      "rank": 74,
       "song": {
-        "id": "west-1987-76",
-        "title": "Golden Ocean",
+        "id": "west-1987-74",
+        "title": "Sun Sky",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -257,23 +327,10 @@
       "year": 1987
     },
     {
-      "rank": 83,
+      "rank": 14,
       "song": {
-        "id": "west-1987-83",
-        "title": "Golden Rose",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1986-42",
-        "title": "Electric Winter",
+        "id": "west-1986-14",
+        "title": "Into the Gold",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -283,10 +340,10 @@
       "year": 1986
     },
     {
-      "rank": 44,
+      "rank": 20,
       "song": {
-        "id": "west-1986-44",
-        "title": "Broken Sky",
+        "id": "west-1986-20",
+        "title": "Electric Fire",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -296,10 +353,10 @@
       "year": 1986
     },
     {
-      "rank": 49,
+      "rank": 28,
       "song": {
-        "id": "west-1986-49",
-        "title": "Fading River",
+        "id": "west-1986-28",
+        "title": "Midnight City",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -309,10 +366,10 @@
       "year": 1986
     },
     {
-      "rank": 51,
+      "rank": 32,
       "song": {
-        "id": "west-1986-51",
-        "title": "Moon Love",
+        "id": "west-1986-32",
+        "title": "Wild Mountain",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -325,7 +382,7 @@
       "rank": 52,
       "song": {
         "id": "west-1986-52",
-        "title": "Broken Ocean",
+        "title": "Mountain Heart",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -335,10 +392,10 @@
       "year": 1986
     },
     {
-      "rank": 57,
+      "rank": 77,
       "song": {
-        "id": "west-1986-57",
-        "title": "Rose Love",
+        "id": "west-1986-77",
+        "title": "Wild Gold",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -348,10 +405,10 @@
       "year": 1986
     },
     {
-      "rank": 62,
+      "rank": 88,
       "song": {
-        "id": "west-1986-62",
-        "title": "Shadow Sky",
+        "id": "west-1986-88",
+        "title": "Moon Rain",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -361,23 +418,10 @@
       "year": 1986
     },
     {
-      "rank": 63,
+      "rank": 39,
       "song": {
-        "id": "west-1986-63",
-        "title": "Running Light",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1985-22",
-        "title": "Sky Lights",
+        "id": "west-1985-39",
+        "title": "Winter Love",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -387,10 +431,10 @@
       "year": 1985
     },
     {
-      "rank": 26,
+      "rank": 59,
       "song": {
-        "id": "west-1985-26",
-        "title": "Chasing Wind",
+        "id": "west-1985-59",
+        "title": "Electric Storm",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -400,10 +444,10 @@
       "year": 1985
     },
     {
-      "rank": 94,
+      "rank": 65,
       "song": {
-        "id": "west-1985-94",
-        "title": "Wild Ocean",
+        "id": "west-1985-65",
+        "title": "Dancing Wave",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -413,10 +457,10 @@
       "year": 1985
     },
     {
-      "rank": 96,
+      "rank": 83,
       "song": {
-        "id": "west-1985-96",
-        "title": "Wave Night",
+        "id": "west-1985-83",
+        "title": "Never Silver",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -442,7 +486,7 @@
       "rank": 11,
       "song": {
         "id": "west-1984-11",
-        "title": "Wild Ocean",
+        "title": "Mountain Soul",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -452,10 +496,10 @@
       "year": 1984
     },
     {
-      "rank": 14,
+      "rank": 13,
       "song": {
-        "id": "west-1984-14",
-        "title": "Sweet Snow",
+        "id": "west-1984-13",
+        "title": "Never Bridge",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -465,10 +509,10 @@
       "year": 1984
     },
     {
-      "rank": 15,
+      "rank": 17,
       "song": {
-        "id": "west-1984-15",
-        "title": "Chasing Dusk",
+        "id": "west-1984-17",
+        "title": "Sky Sky",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -478,10 +522,10 @@
       "year": 1984
     },
     {
-      "rank": 23,
+      "rank": 31,
       "song": {
-        "id": "west-1984-23",
-        "title": "Chasing Dawn",
+        "id": "west-1984-31",
+        "title": "Rose Heart",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -491,10 +535,23 @@
       "year": 1984
     },
     {
-      "rank": 35,
+      "rank": 38,
       "song": {
-        "id": "west-1984-35",
-        "title": "Midnight Dusk",
+        "id": "west-1984-38",
+        "title": "Dawn Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1984-41",
+        "title": "Star Lights",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -507,7 +564,7 @@
       "rank": 43,
       "song": {
         "id": "west-1984-43",
-        "title": "Fading Fire",
+        "title": "Moon Love",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -515,64 +572,116 @@
         "genre": "western"
       },
       "year": 1984
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1984-44",
+        "title": "Dawn Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1984-46",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1984-84",
+        "title": "Snow Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1984-91",
+        "title": "Running Bridge",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1984-92",
+        "title": "Under the Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1983-25",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1983-36",
+        "title": "Lost in Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1983-38",
+        "title": "Rain Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
     },
     {
       "rank": 52,
       "song": {
-        "id": "west-1984-52",
-        "title": "Thunder Fire",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1984-64",
-        "title": "Fading Snow",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1984-76",
-        "title": "Flame Soul",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1984-97",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1983-24",
-        "title": "Electric Mountain",
+        "id": "west-1983-52",
+        "title": "Crystal Love",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -582,23 +691,10 @@
       "year": 1983
     },
     {
-      "rank": 34,
+      "rank": 53,
       "song": {
-        "id": "west-1983-34",
-        "title": "Under the Flame",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1983-37",
-        "title": "Running Wind",
+        "id": "west-1983-53",
+        "title": "Flame Night",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -611,7 +707,7 @@
       "rank": 58,
       "song": {
         "id": "west-1983-58",
-        "title": "Never River",
+        "title": "Fading Mountain",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -621,10 +717,10 @@
       "year": 1983
     },
     {
-      "rank": 80,
+      "rank": 77,
       "song": {
-        "id": "west-1983-80",
-        "title": "Dancing Ice",
+        "id": "west-1983-77",
+        "title": "Thunder Way",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -634,10 +730,10 @@
       "year": 1983
     },
     {
-      "rank": 91,
+      "rank": 83,
       "song": {
-        "id": "west-1983-91",
-        "title": "Dancing Storm",
+        "id": "west-1983-83",
+        "title": "Moon Rain",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -647,10 +743,10 @@
       "year": 1983
     },
     {
-      "rank": 15,
+      "rank": 13,
       "song": {
-        "id": "west-1982-15",
-        "title": "Silver Moonlight",
+        "id": "west-1982-13",
+        "title": "Falling Sky",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -660,10 +756,10 @@
       "year": 1982
     },
     {
-      "rank": 18,
+      "rank": 48,
       "song": {
-        "id": "west-1982-18",
-        "title": "Sun Sky",
+        "id": "west-1982-48",
+        "title": "Lost in Mountain",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -673,10 +769,10 @@
       "year": 1982
     },
     {
-      "rank": 22,
+      "rank": 51,
       "song": {
-        "id": "west-1982-22",
-        "title": "Last Fire",
+        "id": "west-1982-51",
+        "title": "Chasing Sun",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -686,10 +782,10 @@
       "year": 1982
     },
     {
-      "rank": 53,
+      "rank": 72,
       "song": {
-        "id": "west-1982-53",
-        "title": "Snow Rain",
+        "id": "west-1982-72",
+        "title": "Rose Love",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -699,49 +795,10 @@
       "year": 1982
     },
     {
-      "rank": 65,
+      "rank": 93,
       "song": {
-        "id": "west-1982-65",
-        "title": "Dancing Summer",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1982-68",
-        "title": "Silver Forever",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1982-89",
-        "title": "Winter Soul",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1982-91",
-        "title": "Midnight Storm",
+        "id": "west-1982-93",
+        "title": "Midnight City",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -754,7 +811,7 @@
       "rank": 19,
       "song": {
         "id": "west-1981-19",
-        "title": "Star Tears",
+        "title": "Storm Tears",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -764,10 +821,10 @@
       "year": 1981
     },
     {
-      "rank": 22,
+      "rank": 63,
       "song": {
-        "id": "west-1981-22",
-        "title": "Winter Moonlight",
+        "id": "west-1981-63",
+        "title": "Wave Night",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -775,90 +832,25 @@
         "genre": "western"
       },
       "year": 1981
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1981-27",
-        "title": "Never Sky",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1981-29",
-        "title": "Gold Way",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1981-45",
-        "title": "Never Moon",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1981-65",
-        "title": "Sweet Shadow",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1980-23",
-        "title": "Light Night",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1980-69",
-        "title": "Never Rain",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1980
     },
     {
       "rank": 88,
       "song": {
-        "id": "west-1980-88",
-        "title": "Road Moonlight",
+        "id": "west-1981-88",
+        "title": "Last Winter",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1980-49",
+        "title": "Snow Tears",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -868,10 +860,10 @@
       "year": 1980
     },
     {
-      "rank": 89,
+      "rank": 51,
       "song": {
-        "id": "west-1980-89",
-        "title": "Rose Soul",
+        "id": "west-1980-51",
+        "title": "Falling Winter",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"
@@ -881,10 +873,23 @@
       "year": 1980
     },
     {
-      "rank": 91,
+      "rank": 62,
       "song": {
-        "id": "west-1980-91",
-        "title": "Into the Sun",
+        "id": "west-1980-62",
+        "title": "Under the Dusk",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1980-87",
+        "title": "Moon Love",
         "artist": {
           "id": "a-tina-turner",
           "name": "Tina Turner"

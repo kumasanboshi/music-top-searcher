@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2008-36",
-    "title": "Broken Light",
+    "title": "Dawn Soul",
     "artist": {
-      "id": "a-coldplay",
-      "name": "Coldplay"
+      "id": "a-bep",
+      "name": "Black Eyed Peas"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 36,
   "cdInfo": [
     {
-      "title": "Broken Light",
+      "title": "Dawn Soul",
       "type": "single",
-      "releaseDate": "2008-12-23"
+      "releaseDate": "2008-11-12"
+    },
+    {
+      "title": "Star Collection",
+      "type": "album",
+      "releaseDate": "2008-12-12"
     }
   ],
   "externalLinks": {
@@ -23,130 +28,247 @@
   },
   "artistSongs": [
     {
-      "rank": 50,
+      "rank": 16,
       "song": {
-        "id": "west-2009-50",
-        "title": "Last Dusk",
+        "id": "west-2009-16",
+        "title": "Wind Night",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2009
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2009-57",
-        "title": "Golden Sky",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2009-60",
-        "title": "Shining Star",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2009-63",
-        "title": "Sweet Moon",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2009-85",
-        "title": "Diamond Dreams",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "west-2008-08",
-        "title": "Viva la Vida",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2008-21",
-        "title": "Electric Gold",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2008-50",
-        "title": "Chasing Road",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2008-56",
-        "title": "Chasing Gold",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2008
     },
     {
       "rank": 24,
       "song": {
-        "id": "west-2007-24",
-        "title": "Sweet Winter",
+        "id": "west-2009-24",
+        "title": "Fading Diamond",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2009-53",
+        "title": "Ocean Dreams",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2009-64",
+        "title": "Midnight Sky",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2009-69",
+        "title": "Silver Sky",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2009-81",
+        "title": "Ice Night",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2009-88",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2009-97",
+        "title": "Broken Sun",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2008-17",
+        "title": "Wild Star",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2008-22",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2008-28",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2008-34",
+        "title": "Lost in Dusk",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2008-48",
+        "title": "Fire Tears",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2008-54",
+        "title": "Midnight Dusk",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2008-75",
+        "title": "Star Way",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2008-87",
+        "title": "Thunder Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-2007-12",
+        "title": "Summer Fire",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2007-20",
+        "title": "Dawn Rain",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2007-47",
+        "title": "Fading Ocean",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -156,179 +278,140 @@
       "rank": 50,
       "song": {
         "id": "west-2007-50",
-        "title": "Fire Way",
+        "title": "Road Sky",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 81,
+      "rank": 64,
       "song": {
-        "id": "west-2007-81",
-        "title": "Lost in Moon",
+        "id": "west-2007-64",
+        "title": "Into the Thunder",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 17,
+      "rank": 18,
       "song": {
-        "id": "west-2006-17",
-        "title": "Snow Heart",
+        "id": "west-2006-18",
+        "title": "Fading Snow",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2006
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2006-28",
-        "title": "Bridge Forever",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2006-29",
-        "title": "Road Moonlight",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2006-30",
-        "title": "Chasing Moon",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2006-31",
-        "title": "Winter Sky",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2006-48",
-        "title": "Mountain Night",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2006-60",
-        "title": "Fading Light",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2006-67",
-        "title": "Lost in Mountain",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2006-94",
-        "title": "Never River",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2005-13",
-        "title": "Never Diamond",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2005
     },
     {
       "rank": 25,
       "song": {
-        "id": "west-2005-25",
-        "title": "Dancing Rain",
+        "id": "west-2006-25",
+        "title": "River Forever",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2006-32",
+        "title": "Ocean Way",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-2006-51",
+        "title": "Bridge Moonlight",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2006-77",
+        "title": "Running Silver",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2006-79",
+        "title": "Gold Way",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2005-14",
+        "title": "Dancing Star",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 38,
+      "rank": 48,
       "song": {
-        "id": "west-2005-38",
-        "title": "Golden Sky",
+        "id": "west-2005-48",
+        "title": "Falling Fire",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2005-54",
+        "title": "Dancing Summer",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -338,413 +421,296 @@
       "rank": 59,
       "song": {
         "id": "west-2005-59",
-        "title": "Last Rain",
+        "title": "Wild Snow",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 11,
+      "rank": 75,
       "song": {
-        "id": "west-2004-11",
-        "title": "Lost in Light",
+        "id": "west-2005-75",
+        "title": "Sweet Sky",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2004
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2004-14",
-        "title": "Dawn Rain",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2004-19",
-        "title": "Snow Forever",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2004-20",
-        "title": "Chasing City",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2004-29",
-        "title": "Shining Snow",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2004-67",
-        "title": "Falling Rose",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2004-69",
-        "title": "Sweet Thunder",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2004-77",
-        "title": "Sweet Sun",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2004-79",
-        "title": "River Way",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2004-81",
-        "title": "Wind Night",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2003-28",
-        "title": "Dancing Ocean",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2003-47",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2003-52",
-        "title": "Falling Silver",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2003-66",
-        "title": "Under the Sun",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2003-71",
-        "title": "Silver Way",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2003-96",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2003-97",
-        "title": "Midnight Snow",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
+      "year": 2005
     },
     {
       "rank": 18,
       "song": {
-        "id": "west-2002-18",
-        "title": "Broken Rain",
+        "id": "west-2004-18",
+        "title": "Midnight Summer",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2004
     },
     {
       "rank": 24,
       "song": {
-        "id": "west-2002-24",
-        "title": "Star Forever",
+        "id": "west-2004-24",
+        "title": "Sun Love",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2002
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2002-35",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2002
+      "year": 2004
     },
     {
       "rank": 44,
       "song": {
-        "id": "west-2002-44",
-        "title": "Last Rose",
+        "id": "west-2004-44",
+        "title": "Wave Heart",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2004-48",
+        "title": "Shadow Love",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2003-46",
+        "title": "Wave Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2003-48",
+        "title": "Chasing Bridge",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2003-92",
+        "title": "Light Fire",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2003-99",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2002-21",
+        "title": "Sky Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 75,
+      "rank": 26,
       "song": {
-        "id": "west-2002-75",
-        "title": "Bridge Tears",
+        "id": "west-2002-26",
+        "title": "Falling Moon",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 94,
+      "rank": 47,
       "song": {
-        "id": "west-2002-94",
-        "title": "Summer Sky",
+        "id": "west-2002-47",
+        "title": "Sky Sky",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 19,
+      "rank": 84,
       "song": {
-        "id": "west-2001-19",
-        "title": "Flame Soul",
+        "id": "west-2002-84",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-2001-11",
+        "title": "Golden City",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 28,
+      "rank": 16,
       "song": {
-        "id": "west-2001-28",
-        "title": "Wave Lights",
+        "id": "west-2001-16",
+        "title": "Snow Sky",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 44,
+      "rank": 47,
       "song": {
-        "id": "west-2001-44",
-        "title": "Never Moon",
+        "id": "west-2001-47",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 88,
+      "rank": 59,
       "song": {
-        "id": "west-2001-88",
-        "title": "Fading Mountain",
+        "id": "west-2001-59",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 13,
+      "rank": 60,
       "song": {
-        "id": "west-2000-13",
-        "title": "Summer Lights",
+        "id": "west-2001-60",
+        "title": "Sweet Fire",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2001-61",
+        "title": "Mountain Night",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2000-26",
+        "title": "Golden Dusk",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 32,
+      "rank": 58,
       "song": {
-        "id": "west-2000-32",
-        "title": "Broken Ocean",
+        "id": "west-2000-58",
+        "title": "Summer Soul",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 62,
+      "rank": 95,
       "song": {
-        "id": "west-2000-62",
-        "title": "City Soul",
+        "id": "west-2000-95",
+        "title": "Rose Heart",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2000-70",
-        "title": "Never Road",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },

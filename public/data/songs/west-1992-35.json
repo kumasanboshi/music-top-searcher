@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1992-35",
-    "title": "Moon Soul",
+    "title": "Mountain Soul",
     "artist": {
-      "id": "a-nirvana",
-      "name": "Nirvana"
+      "id": "a-rkelly",
+      "name": "R. Kelly"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 35,
   "cdInfo": [
     {
-      "title": "Moon Soul",
+      "title": "Mountain Soul",
       "type": "single",
-      "releaseDate": "1992-10-25"
+      "releaseDate": "1992-12-16"
+    },
+    {
+      "title": "Rain Sessions",
+      "type": "album",
+      "releaseDate": "1992-09-20"
     }
   ],
   "externalLinks": {
@@ -23,13 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 67,
+      "rank": 18,
       "song": {
-        "id": "west-1999-67",
-        "title": "Sweet Sun",
+        "id": "west-1999-18",
+        "title": "Dancing Summer",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1999-28",
+        "title": "Midnight Light",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -39,23 +57,75 @@
       "rank": 90,
       "song": {
         "id": "west-1999-90",
-        "title": "Sun Soul",
+        "title": "Running Thunder",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 58,
+      "rank": 94,
       "song": {
-        "id": "west-1998-58",
-        "title": "Star Tears",
+        "id": "west-1999-94",
+        "title": "Midnight Fire",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1999-97",
+        "title": "Electric Star",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1998-59",
+        "title": "Running Wind",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1998-73",
+        "title": "Fading Bridge",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1998-76",
+        "title": "Shining River",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -65,231 +135,257 @@
       "rank": 90,
       "song": {
         "id": "west-1998-90",
-        "title": "Fire Fire",
+        "title": "Snow Love",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 91,
+      "rank": 44,
       "song": {
-        "id": "west-1998-91",
-        "title": "Into the Shadow",
+        "id": "west-1997-44",
+        "title": "Rose Moonlight",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1997-16",
-        "title": "Light Dreams",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 23,
+      "rank": 47,
       "song": {
-        "id": "west-1997-23",
-        "title": "Golden Mountain",
+        "id": "west-1997-47",
+        "title": "Dawn Moonlight",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 30,
+      "rank": 50,
       "song": {
-        "id": "west-1997-30",
-        "title": "Gold Lights",
+        "id": "west-1997-50",
+        "title": "Fire Love",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 41,
+      "rank": 54,
       "song": {
-        "id": "west-1997-41",
-        "title": "Fading Dusk",
+        "id": "west-1997-54",
+        "title": "Last Wind",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 63,
+      "rank": 66,
       "song": {
-        "id": "west-1997-63",
-        "title": "Sun Fire",
+        "id": "west-1997-66",
+        "title": "Road Tears",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1997
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1997-92",
+        "title": "Wild City",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1996-24",
+        "title": "Sun Moonlight",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1996
     },
     {
       "rank": 33,
       "song": {
         "id": "west-1996-33",
-        "title": "Falling Gold",
+        "title": "Ice Way",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 46,
+      "rank": 34,
       "song": {
-        "id": "west-1996-46",
-        "title": "River Love",
+        "id": "west-1996-34",
+        "title": "Sky Love",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 54,
+      "rank": 62,
       "song": {
-        "id": "west-1996-54",
-        "title": "River Tears",
+        "id": "west-1996-62",
+        "title": "Shadow Dreams",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 71,
+      "rank": 67,
       "song": {
-        "id": "west-1996-71",
-        "title": "Into the Fire",
+        "id": "west-1996-67",
+        "title": "Last River",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 84,
+      "rank": 78,
       "song": {
-        "id": "west-1996-84",
-        "title": "Running Storm",
+        "id": "west-1996-78",
+        "title": "Electric Road",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 100,
+      "rank": 87,
       "song": {
-        "id": "west-1996-100",
-        "title": "Under the Rose",
+        "id": "west-1996-87",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 26,
+      "rank": 97,
       "song": {
-        "id": "west-1995-26",
-        "title": "Light Tears",
+        "id": "west-1996-97",
+        "title": "Under the Road",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1995-17",
+        "title": "Moon Night",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 27,
+      "rank": 31,
       "song": {
-        "id": "west-1995-27",
-        "title": "Star Moonlight",
+        "id": "west-1995-31",
+        "title": "Into the Ice",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 68,
+      "rank": 32,
       "song": {
-        "id": "west-1995-68",
-        "title": "Ice Fire",
+        "id": "west-1995-32",
+        "title": "Midnight Rose",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 76,
+      "rank": 35,
       "song": {
-        "id": "west-1995-76",
-        "title": "Dusk Fire",
+        "id": "west-1995-35",
+        "title": "Electric Bridge",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 88,
+      "rank": 95,
       "song": {
-        "id": "west-1995-88",
-        "title": "Broken Dusk",
+        "id": "west-1995-95",
+        "title": "Midnight Sky",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -299,179 +395,153 @@
       "rank": 96,
       "song": {
         "id": "west-1995-96",
-        "title": "Running Ocean",
+        "title": "Shadow Night",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 42,
+      "rank": 20,
       "song": {
-        "id": "west-1994-42",
-        "title": "Lost in Road",
+        "id": "west-1994-20",
+        "title": "Gold Heart",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 61,
+      "rank": 23,
       "song": {
-        "id": "west-1994-61",
-        "title": "Rose Soul",
+        "id": "west-1994-23",
+        "title": "Into the Shadow",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 65,
+      "rank": 26,
       "song": {
-        "id": "west-1994-65",
-        "title": "Dancing City",
+        "id": "west-1994-26",
+        "title": "Shadow Love",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 88,
+      "rank": 74,
       "song": {
-        "id": "west-1994-88",
-        "title": "Fading Storm",
+        "id": "west-1994-74",
+        "title": "Lost in Diamond",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 13,
+      "rank": 86,
       "song": {
-        "id": "west-1993-13",
-        "title": "Running Ice",
+        "id": "west-1994-86",
+        "title": "Last Storm",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1994-97",
+        "title": "Broken Silver",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1993-11",
+        "title": "Shining Thunder",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 21,
+      "rank": 30,
       "song": {
-        "id": "west-1993-21",
-        "title": "Thunder Moonlight",
+        "id": "west-1993-30",
+        "title": "Flame Way",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 22,
+      "rank": 36,
       "song": {
-        "id": "west-1993-22",
-        "title": "Ice Sky",
+        "id": "west-1993-36",
+        "title": "River Lights",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 24,
+      "rank": 39,
       "song": {
-        "id": "west-1993-24",
-        "title": "River Soul",
+        "id": "west-1993-39",
+        "title": "Lost in Silver",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 38,
+      "rank": 56,
       "song": {
-        "id": "west-1993-38",
-        "title": "Broken City",
+        "id": "west-1993-56",
+        "title": "Electric Ocean",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1993-59",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1993-67",
-        "title": "Road Fire",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1993-69",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1993-73",
-        "title": "Into the Ocean",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -481,23 +551,49 @@
       "rank": 94,
       "song": {
         "id": "west-1993-94",
-        "title": "Chasing Dawn",
+        "title": "Lost in Road",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 41,
+      "rank": 95,
       "song": {
-        "id": "west-1992-41",
-        "title": "Running Rain",
+        "id": "west-1993-95",
+        "title": "Lost in Bridge",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1992-24",
+        "title": "Sweet Sky",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1992-40",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -507,244 +603,179 @@
       "rank": 66,
       "song": {
         "id": "west-1992-66",
-        "title": "Running Wave",
+        "title": "Electric Thunder",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 68,
+      "rank": 81,
       "song": {
-        "id": "west-1992-68",
-        "title": "Diamond Dreams",
+        "id": "west-1992-81",
+        "title": "Dancing Dawn",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 71,
+      "rank": 82,
       "song": {
-        "id": "west-1992-71",
-        "title": "Never Sky",
+        "id": "west-1992-82",
+        "title": "Dancing River",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 72,
+      "rank": 88,
       "song": {
-        "id": "west-1992-72",
-        "title": "Into the Sky",
+        "id": "west-1992-88",
+        "title": "Star Rain",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 89,
+      "rank": 16,
       "song": {
-        "id": "west-1992-89",
-        "title": "Into the Rose",
+        "id": "west-1991-16",
+        "title": "Broken Thunder",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1991-39",
-        "title": "Last Light",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 46,
+      "rank": 20,
       "song": {
-        "id": "west-1991-46",
-        "title": "Snow Sky",
+        "id": "west-1991-20",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 57,
+      "rank": 58,
       "song": {
-        "id": "west-1991-57",
-        "title": "Sun Lights",
+        "id": "west-1991-58",
+        "title": "Storm Dreams",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1991
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1991-60",
+        "title": "Electric Diamond",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1991-62",
+        "title": "Under the City",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1991-66",
+        "title": "Storm Fire",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1990-29",
+        "title": "Dusk Sky",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1990
     },
     {
       "rank": 77,
       "song": {
-        "id": "west-1991-77",
-        "title": "Broken Diamond",
+        "id": "west-1990-77",
+        "title": "Running Diamond",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1991-89",
-        "title": "Midnight Bridge",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1991-91",
-        "title": "Dusk Love",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1990-18",
-        "title": "Falling Dawn",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 33,
+      "rank": 80,
       "song": {
-        "id": "west-1990-33",
-        "title": "Storm Soul",
+        "id": "west-1990-80",
+        "title": "Wave Lights",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 44,
+      "rank": 98,
       "song": {
-        "id": "west-1990-44",
-        "title": "Light Forever",
+        "id": "west-1990-98",
+        "title": "Last Light",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1990-49",
-        "title": "Winter Heart",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1990-61",
-        "title": "Electric Ice",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1990-78",
-        "title": "Wind Heart",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1990-90",
-        "title": "Fire Tears",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1990-94",
-        "title": "Mountain Forever",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-26",
-    "title": "Light Love",
+    "title": "Sweet Dusk",
     "artist": {
-      "id": "a-carpenters",
-      "name": "The Carpenters"
+      "id": "a-elton-john",
+      "name": "Elton John"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 26,
   "cdInfo": [
     {
-      "title": "Light Love",
+      "title": "Sweet Dusk",
       "type": "single",
-      "releaseDate": "1975-08-06"
+      "releaseDate": "1975-12-15"
+    },
+    {
+      "title": "Dusk Collection",
+      "type": "album",
+      "releaseDate": "1975-12-23"
     }
   ],
   "externalLinks": {
@@ -23,455 +28,429 @@
   },
   "artistSongs": [
     {
-      "rank": 21,
+      "rank": 6,
       "song": {
-        "id": "west-1979-21",
-        "title": "Lost in Star",
+        "id": "west-2022-06",
+        "title": "Cold Heart",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John & Dua Lipa"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1997-01",
+        "title": "Candle in the Wind 1997",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1979-12",
+        "title": "Falling City",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 32,
+      "rank": 35,
       "song": {
-        "id": "west-1979-32",
-        "title": "Sweet Thunder",
+        "id": "west-1979-35",
+        "title": "Fading Wave",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 58,
+      "rank": 52,
       "song": {
-        "id": "west-1979-58",
-        "title": "Fire Rain",
+        "id": "west-1979-52",
+        "title": "Sweet Sun",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 65,
+      "rank": 53,
       "song": {
-        "id": "west-1979-65",
-        "title": "Broken Star",
+        "id": "west-1979-53",
+        "title": "Dusk Soul",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 68,
+      "rank": 75,
       "song": {
-        "id": "west-1979-68",
-        "title": "Lost in Flame",
+        "id": "west-1979-75",
+        "title": "Never River",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 82,
+      "rank": 77,
       "song": {
-        "id": "west-1979-82",
-        "title": "Dawn Tears",
+        "id": "west-1979-77",
+        "title": "River Rain",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1979-78",
+        "title": "Star Heart",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1979-91",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1978-14",
+        "title": "Diamond Fire",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1978-38",
+        "title": "City Moonlight",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1978-41",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1978-44",
+        "title": "Lost in Sky",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1978-78",
+        "title": "Wild Crystal",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
     },
     {
       "rank": 87,
       "song": {
-        "id": "west-1979-87",
-        "title": "Chasing Ice",
+        "id": "west-1978-87",
+        "title": "Running Storm",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1978-11",
-        "title": "Chasing Summer",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 21,
+      "rank": 18,
       "song": {
-        "id": "west-1978-21",
-        "title": "Broken Fire",
+        "id": "west-1977-18",
+        "title": "Midnight River",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
-      "year": 1978
+      "year": 1977
     },
     {
       "rank": 28,
       "song": {
-        "id": "west-1978-28",
-        "title": "Sweet Rose",
+        "id": "west-1977-28",
+        "title": "Shining Silver",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1978-49",
-        "title": "Wild Moon",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1978-57",
-        "title": "Running Winter",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1978-60",
-        "title": "Wind Lights",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1978-63",
-        "title": "Broken Ice",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1978-88",
-        "title": "River Forever",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1978-94",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1977-25",
-        "title": "Sky Sky",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 32,
+      "rank": 29,
       "song": {
-        "id": "west-1977-32",
-        "title": "Ice Moonlight",
+        "id": "west-1977-29",
+        "title": "Road Tears",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 73,
+      "rank": 51,
       "song": {
-        "id": "west-1977-73",
-        "title": "Rose Rain",
+        "id": "west-1977-51",
+        "title": "City Sky",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 90,
+      "rank": 67,
       "song": {
-        "id": "west-1977-90",
-        "title": "Chasing Shadow",
+        "id": "west-1977-67",
+        "title": "Never Dawn",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 97,
+      "rank": 87,
       "song": {
-        "id": "west-1977-97",
-        "title": "Flame Tears",
+        "id": "west-1977-87",
+        "title": "Never Snow",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 23,
+      "rank": 15,
       "song": {
-        "id": "west-1976-23",
-        "title": "Lost in River",
+        "id": "west-1976-15",
+        "title": "Falling Wave",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 28,
+      "rank": 42,
       "song": {
-        "id": "west-1976-28",
-        "title": "Summer Lights",
+        "id": "west-1976-42",
+        "title": "Summer Heart",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 33,
+      "rank": 50,
       "song": {
-        "id": "west-1976-33",
-        "title": "Star Night",
+        "id": "west-1976-50",
+        "title": "Fading Mountain",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 45,
+      "rank": 58,
       "song": {
-        "id": "west-1976-45",
-        "title": "Never Star",
+        "id": "west-1976-58",
+        "title": "Never Snow",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 72,
+      "rank": 80,
       "song": {
-        "id": "west-1976-72",
-        "title": "Chasing Summer",
+        "id": "west-1976-80",
+        "title": "Rose Lights",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 73,
+      "rank": 3,
       "song": {
-        "id": "west-1976-73",
-        "title": "Star Sky",
+        "id": "west-1975-03",
+        "title": "Philadelphia Freedom",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1975
     },
     {
       "rank": 17,
       "song": {
         "id": "west-1975-17",
-        "title": "Light Forever",
+        "title": "Shining Ice",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 33,
+      "rank": 19,
       "song": {
-        "id": "west-1975-33",
-        "title": "Snow Rain",
+        "id": "west-1975-19",
+        "title": "Running Light",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 35,
+      "rank": 32,
       "song": {
-        "id": "west-1975-35",
-        "title": "Lost in Fire",
+        "id": "west-1975-32",
+        "title": "Fading Dusk",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 48,
+      "rank": 72,
       "song": {
-        "id": "west-1975-48",
-        "title": "Ocean Lights",
+        "id": "west-1975-72",
+        "title": "Midnight Snow",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 74,
+      "rank": 97,
       "song": {
-        "id": "west-1975-74",
-        "title": "Broken Dusk",
+        "id": "west-1975-97",
+        "title": "Bridge Sky",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1975-75",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1975-83",
-        "title": "Lost in Bridge",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1975-100",
-        "title": "Into the Star",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1976-19",
-    "title": "Electric Ocean",
+    "title": "Rain Way",
     "artist": {
-      "id": "a-elton-john",
-      "name": "Elton John"
+      "id": "a-wings",
+      "name": "Paul McCartney & Wings"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 19,
   "cdInfo": [
     {
-      "title": "Electric Ocean",
+      "title": "Rain Way",
       "type": "single",
-      "releaseDate": "1976-11-13"
+      "releaseDate": "1976-09-21"
+    },
+    {
+      "title": "Summer Diaries",
+      "type": "album",
+      "releaseDate": "1976-10-09"
     }
   ],
   "externalLinks": {
@@ -23,377 +28,338 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 38,
       "song": {
-        "id": "west-2022-06",
-        "title": "Cold Heart",
+        "id": "west-1979-38",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John & Dua Lipa"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
-      "year": 2022
+      "year": 1979
     },
     {
-      "rank": 1,
+      "rank": 44,
       "song": {
-        "id": "west-1997-01",
-        "title": "Candle in the Wind 1997",
+        "id": "west-1979-44",
+        "title": "Sweet Winter",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
-      "year": 1997
+      "year": 1979
     },
     {
       "rank": 59,
       "song": {
         "id": "west-1979-59",
-        "title": "Summer Fire",
+        "title": "Moon Tears",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 61,
+      "rank": 89,
       "song": {
-        "id": "west-1979-61",
-        "title": "Under the Gold",
+        "id": "west-1979-89",
+        "title": "Fire Way",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1979-62",
-        "title": "Gold Tears",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1979-64",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1979-75",
-        "title": "Dancing Light",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1979-94",
-        "title": "Shining Snow",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1978-24",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1978-66",
-        "title": "Falling Silver",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1978-67",
-        "title": "Dancing Diamond",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1978-78",
-        "title": "Fading Bridge",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1978-96",
-        "title": "Thunder Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1977-17",
-        "title": "Shadow Heart",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1977-30",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1977-47",
-        "title": "Into the Ocean",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
     },
     {
       "rank": 92,
       "song": {
-        "id": "west-1977-92",
-        "title": "Sweet Winter",
+        "id": "west-1979-92",
+        "title": "Never Shadow",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1978-25",
+        "title": "Never Ice",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1978-43",
+        "title": "Gold Rain",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1978-48",
+        "title": "Lost in Wave",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1978-54",
+        "title": "Midnight Moon",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1978-93",
+        "title": "Under the City",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1977-25",
+        "title": "Chasing Thunder",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 29,
+      "rank": 34,
       "song": {
-        "id": "west-1976-29",
-        "title": "Shadow Soul",
+        "id": "west-1977-34",
+        "title": "Into the Bridge",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1977-35",
+        "title": "Never Bridge",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1977-76",
+        "title": "Wild Summer",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1976-01",
+        "title": "Silly Love Songs",
+        "artist": {
+          "id": "a-wings",
+          "name": "Wings"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 66,
+      "rank": 20,
       "song": {
-        "id": "west-1976-66",
-        "title": "Winter Love",
+        "id": "west-1976-20",
+        "title": "Rose Sky",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1976
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1976-70",
-        "title": "Sun Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1976-88",
-        "title": "Lost in Silver",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-1975-03",
-        "title": "Philadelphia Freedom",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1975-23",
-        "title": "Dawn Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
     },
     {
       "rank": 27,
       "song": {
-        "id": "west-1975-27",
-        "title": "Last Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1975-30",
-        "title": "Lost in Diamond",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1975-39",
-        "title": "Golden Rose",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1975-67",
-        "title": "City Moonlight",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1975-85",
+        "id": "west-1976-27",
         "title": "Running Diamond",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1976-36",
+        "title": "Rain Forever",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1976-63",
+        "title": "Shining Moon",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1976-68",
+        "title": "Golden City",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1976-83",
+        "title": "Storm Love",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1975-13",
+        "title": "Fading Mountain",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 93,
+      "rank": 37,
       "song": {
-        "id": "west-1975-93",
-        "title": "Midnight Ocean",
+        "id": "west-1975-37",
+        "title": "Wild Sun",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1975-57",
+        "title": "Fading City",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1975-66",
+        "title": "Ice Love",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1975-100",
+        "title": "Electric Light",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },

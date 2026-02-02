@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-1980-93",
-    "title": "月の空",
+    "title": "涙の時間",
     "artist": {
       "id": "a-matsuda-seiko",
       "name": "松田聖子"
@@ -12,9 +12,14 @@
   "rank": 93,
   "cdInfo": [
     {
-      "title": "月の空",
+      "title": "涙の時間",
       "type": "single",
-      "releaseDate": "1980-03-22"
+      "releaseDate": "1980-04-03"
+    },
+    {
+      "title": "希望メモリーズ",
+      "type": "album",
+      "releaseDate": "1980-01-09"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 24,
+      "rank": 18,
       "song": {
-        "id": "jpop-1989-24",
-        "title": "風の希望",
+        "id": "jpop-1989-18",
+        "title": "恋の記憶",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -36,10 +41,10 @@
       "year": 1989
     },
     {
-      "rank": 29,
+      "rank": 70,
       "song": {
-        "id": "jpop-1989-29",
-        "title": "夢の道",
+        "id": "jpop-1989-70",
+        "title": "約束の朝",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -49,10 +54,10 @@
       "year": 1989
     },
     {
-      "rank": 75,
+      "rank": 73,
       "song": {
-        "id": "jpop-1989-75",
-        "title": "愛物語",
+        "id": "jpop-1989-73",
+        "title": "恋ストーリー",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -62,10 +67,153 @@
       "year": 1989
     },
     {
-      "rank": 26,
+      "rank": 78,
       "song": {
-        "id": "jpop-1988-26",
-        "title": "波の約束",
+        "id": "jpop-1989-78",
+        "title": "恋の森",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1989-79",
+        "title": "虹のリズム",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1989-80",
+        "title": "森の海",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1989-82",
+        "title": "愛の季節",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "jpop-1988-18",
+        "title": "最後の桜",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-1988-21",
+        "title": "夢の夢",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1988-23",
+        "title": "君の夢",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "jpop-1988-43",
+        "title": "冬ストーリー",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1988-49",
+        "title": "雨のリズム",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1988-68",
+        "title": "約束の虹",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1988-76",
+        "title": "永遠の星",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1988-88",
+        "title": "波の記憶",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -77,86 +225,8 @@
     {
       "rank": 33,
       "song": {
-        "id": "jpop-1988-33",
-        "title": "旅の空",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1988-37",
-        "title": "時間フォーエバー",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1988-58",
-        "title": "旅の光",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1988-79",
-        "title": "涙の波",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1988-84",
-        "title": "ミッドナイト旅",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1988-91",
-        "title": "風の森",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1987-49",
-        "title": "約束の月",
+        "id": "jpop-1987-33",
+        "title": "風の桜",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -166,10 +236,10 @@
       "year": 1987
     },
     {
-      "rank": 95,
+      "rank": 39,
       "song": {
-        "id": "jpop-1987-95",
-        "title": "月フォーエバー",
+        "id": "jpop-1987-39",
+        "title": "月物語",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -179,62 +249,153 @@
       "year": 1987
     },
     {
-      "rank": 35,
+      "rank": 54,
       "song": {
-        "id": "jpop-1986-35",
-        "title": "波の道",
+        "id": "jpop-1987-54",
+        "title": "君の愛",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
         },
         "genre": "jpop"
       },
-      "year": 1986
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1986-46",
-        "title": "空の道",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1986-49",
-        "title": "風の道",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1986-58",
-        "title": "星の空",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
+      "year": 1987
     },
     {
       "rank": 67,
       "song": {
-        "id": "jpop-1986-67",
-        "title": "世界の光",
+        "id": "jpop-1987-67",
+        "title": "朝の道",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1987-70",
+        "title": "恋の旅",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1987-73",
+        "title": "約束の希望",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1987-96",
+        "title": "風の空",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1987-100",
+        "title": "最後の雪",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1986-16",
+        "title": "時間の海",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-1986-22",
+        "title": "涙の未来",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1986-31",
+        "title": "夢の希望",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-1986-36",
+        "title": "時間メロディ",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1986-77",
+        "title": "朝の道",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1986-91",
+        "title": "最後の波",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -257,10 +418,10 @@
       "year": 1985
     },
     {
-      "rank": 62,
+      "rank": 28,
       "song": {
-        "id": "jpop-1985-62",
-        "title": "波の空",
+        "id": "jpop-1985-28",
+        "title": "恋の旅",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -270,10 +431,10 @@
       "year": 1985
     },
     {
-      "rank": 65,
+      "rank": 49,
       "song": {
-        "id": "jpop-1985-65",
-        "title": "希望サンセット",
+        "id": "jpop-1985-49",
+        "title": "影の街",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -283,10 +444,10 @@
       "year": 1985
     },
     {
-      "rank": 83,
+      "rank": 50,
       "song": {
-        "id": "jpop-1985-83",
-        "title": "太陽のかけら",
+        "id": "jpop-1985-50",
+        "title": "永遠の時間",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -296,10 +457,10 @@
       "year": 1985
     },
     {
-      "rank": 88,
+      "rank": 52,
       "song": {
-        "id": "jpop-1985-88",
-        "title": "風の空",
+        "id": "jpop-1985-52",
+        "title": "最後の影",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -309,10 +470,62 @@
       "year": 1985
     },
     {
-      "rank": 90,
+      "rank": 64,
       "song": {
-        "id": "jpop-1985-90",
-        "title": "青い街",
+        "id": "jpop-1985-64",
+        "title": "街の記憶",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-1985-66",
+        "title": "雨の約束",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1985-75",
+        "title": "夢の記憶",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1985-86",
+        "title": "海の光",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1985-99",
+        "title": "空のリズム",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -335,10 +548,10 @@
       "year": 1984
     },
     {
-      "rank": 58,
+      "rank": 29,
       "song": {
-        "id": "jpop-1984-58",
-        "title": "涙の夜",
+        "id": "jpop-1984-29",
+        "title": "星の希望",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -348,10 +561,10 @@
       "year": 1984
     },
     {
-      "rank": 73,
+      "rank": 33,
       "song": {
-        "id": "jpop-1984-73",
-        "title": "夢の雨",
+        "id": "jpop-1984-33",
+        "title": "永遠の未来",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -361,10 +574,10 @@
       "year": 1984
     },
     {
-      "rank": 86,
+      "rank": 41,
       "song": {
-        "id": "jpop-1984-86",
-        "title": "青い時間",
+        "id": "jpop-1984-41",
+        "title": "恋の季節",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -374,10 +587,88 @@
       "year": 1984
     },
     {
-      "rank": 92,
+      "rank": 56,
       "song": {
-        "id": "jpop-1984-92",
-        "title": "ミッドナイト雪",
+        "id": "jpop-1984-56",
+        "title": "約束のかけら",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1984-57",
+        "title": "恋の夏",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-1984-59",
+        "title": "真夜中の朝",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "jpop-1984-62",
+        "title": "朝の道",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1984-81",
+        "title": "風の夏",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1984-88",
+        "title": "涙の桜",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1984-97",
+        "title": "星のリズム",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -413,10 +704,10 @@
       "year": 1983
     },
     {
-      "rank": 20,
+      "rank": 23,
       "song": {
-        "id": "jpop-1983-20",
-        "title": "恋の未来",
+        "id": "jpop-1983-23",
+        "title": "太陽の光",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -426,10 +717,10 @@
       "year": 1983
     },
     {
-      "rank": 26,
+      "rank": 55,
       "song": {
-        "id": "jpop-1983-26",
-        "title": "星の海",
+        "id": "jpop-1983-55",
+        "title": "世界の約束",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -439,10 +730,10 @@
       "year": 1983
     },
     {
-      "rank": 35,
+      "rank": 59,
       "song": {
-        "id": "jpop-1983-35",
-        "title": "雨メロディ",
+        "id": "jpop-1983-59",
+        "title": "夢の夜",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -452,10 +743,10 @@
       "year": 1983
     },
     {
-      "rank": 48,
+      "rank": 76,
       "song": {
-        "id": "jpop-1983-48",
-        "title": "涙の愛",
+        "id": "jpop-1983-76",
+        "title": "記憶フォーエバー",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -465,10 +756,10 @@
       "year": 1983
     },
     {
-      "rank": 53,
+      "rank": 79,
       "song": {
-        "id": "jpop-1983-53",
-        "title": "世界の花",
+        "id": "jpop-1983-79",
+        "title": "桜の道",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -478,10 +769,10 @@
       "year": 1983
     },
     {
-      "rank": 63,
+      "rank": 80,
       "song": {
-        "id": "jpop-1983-63",
-        "title": "雪の光",
+        "id": "jpop-1983-80",
+        "title": "星の森",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -491,88 +782,10 @@
       "year": 1983
     },
     {
-      "rank": 66,
+      "rank": 84,
       "song": {
-        "id": "jpop-1983-66",
-        "title": "記憶の海",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1983-67",
-        "title": "空物語",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1983-74",
-        "title": "夢の風",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1983-78",
-        "title": "花の季節",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1983-89",
-        "title": "光の花",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1983-97",
-        "title": "永遠の世界",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1983-99",
-        "title": "時間の約束",
+        "id": "jpop-1983-84",
+        "title": "波の光",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -621,10 +834,10 @@
       "year": 1982
     },
     {
-      "rank": 15,
+      "rank": 13,
       "song": {
-        "id": "jpop-1982-15",
-        "title": "波物語",
+        "id": "jpop-1982-13",
+        "title": "太陽の空",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -634,10 +847,10 @@
       "year": 1982
     },
     {
-      "rank": 21,
+      "rank": 57,
       "song": {
-        "id": "jpop-1982-21",
-        "title": "空の海",
+        "id": "jpop-1982-57",
+        "title": "影フォーエバー",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -647,10 +860,10 @@
       "year": 1982
     },
     {
-      "rank": 49,
+      "rank": 61,
       "song": {
-        "id": "jpop-1982-49",
-        "title": "月の道",
+        "id": "jpop-1982-61",
+        "title": "海の季節",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -660,10 +873,10 @@
       "year": 1982
     },
     {
-      "rank": 52,
+      "rank": 76,
       "song": {
-        "id": "jpop-1982-52",
-        "title": "夢の月",
+        "id": "jpop-1982-76",
+        "title": "月の花",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -673,23 +886,10 @@
       "year": 1982
     },
     {
-      "rank": 83,
+      "rank": 82,
       "song": {
-        "id": "jpop-1982-83",
-        "title": "青い未来",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1982-98",
-        "title": "涙の虹",
+        "id": "jpop-1982-82",
+        "title": "空メロディ",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -738,10 +938,10 @@
       "year": 1981
     },
     {
-      "rank": 32,
+      "rank": 45,
       "song": {
-        "id": "jpop-1981-32",
-        "title": "青い海",
+        "id": "jpop-1981-45",
+        "title": "恋の朝",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -751,10 +951,10 @@
       "year": 1981
     },
     {
-      "rank": 43,
+      "rank": 49,
       "song": {
-        "id": "jpop-1981-43",
-        "title": "涙の波",
+        "id": "jpop-1981-49",
+        "title": "雪メロディ",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -764,10 +964,10 @@
       "year": 1981
     },
     {
-      "rank": 50,
+      "rank": 74,
       "song": {
-        "id": "jpop-1981-50",
-        "title": "君の森",
+        "id": "jpop-1981-74",
+        "title": "冬の夜",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -777,10 +977,10 @@
       "year": 1981
     },
     {
-      "rank": 53,
+      "rank": 83,
       "song": {
-        "id": "jpop-1981-53",
-        "title": "星の時間",
+        "id": "jpop-1981-83",
+        "title": "永遠の森",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -790,10 +990,10 @@
       "year": 1981
     },
     {
-      "rank": 58,
+      "rank": 88,
       "song": {
-        "id": "jpop-1981-58",
-        "title": "愛の約束",
+        "id": "jpop-1981-88",
+        "title": "永遠の朝",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -803,23 +1003,10 @@
       "year": 1981
     },
     {
-      "rank": 85,
+      "rank": 96,
       "song": {
-        "id": "jpop-1981-85",
-        "title": "君の影",
-        "artist": {
-          "id": "a-matsuda-seiko",
-          "name": "松田聖子"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1981-95",
-        "title": "恋の森",
+        "id": "jpop-1981-96",
+        "title": "記憶フォーエバー",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -855,10 +1042,10 @@
       "year": 1980
     },
     {
-      "rank": 19,
+      "rank": 22,
       "song": {
-        "id": "jpop-1980-19",
-        "title": "夢の花",
+        "id": "jpop-1980-22",
+        "title": "星の愛",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -868,10 +1055,10 @@
       "year": 1980
     },
     {
-      "rank": 20,
+      "rank": 32,
       "song": {
-        "id": "jpop-1980-20",
-        "title": "桜の街",
+        "id": "jpop-1980-32",
+        "title": "影ストーリー",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -881,10 +1068,10 @@
       "year": 1980
     },
     {
-      "rank": 51,
+      "rank": 54,
       "song": {
-        "id": "jpop-1980-51",
-        "title": "星の虹",
+        "id": "jpop-1980-54",
+        "title": "希望の花",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"
@@ -894,10 +1081,23 @@
       "year": 1980
     },
     {
-      "rank": 94,
+      "rank": 56,
       "song": {
-        "id": "jpop-1980-94",
-        "title": "夢の希望",
+        "id": "jpop-1980-56",
+        "title": "約束メロディ",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1980-80",
+        "title": "未来の街",
         "artist": {
           "id": "a-matsuda-seiko",
           "name": "松田聖子"

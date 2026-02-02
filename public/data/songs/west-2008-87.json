@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2008-87",
-    "title": "Light Forever",
+    "title": "Thunder Forever",
     "artist": {
-      "id": "a-usher",
-      "name": "Usher"
+      "id": "a-bep",
+      "name": "Black Eyed Peas"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 87,
   "cdInfo": [
     {
-      "title": "Light Forever",
+      "title": "Thunder Forever",
       "type": "single",
-      "releaseDate": "2008-02-14"
+      "releaseDate": "2008-02-12"
+    },
+    {
+      "title": "The Road Album",
+      "type": "album",
+      "releaseDate": "2008-05-07"
     }
   ],
   "externalLinks": {
@@ -23,91 +28,65 @@
   },
   "artistSongs": [
     {
-      "rank": 5,
+      "rank": 16,
       "song": {
-        "id": "west-2010-05",
-        "title": "OMG",
+        "id": "west-2009-16",
+        "title": "Wind Night",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2009-15",
-        "title": "Diamond Tears",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 37,
+      "rank": 24,
       "song": {
-        "id": "west-2009-37",
-        "title": "Running Storm",
+        "id": "west-2009-24",
+        "title": "Fading Diamond",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 43,
+      "rank": 53,
       "song": {
-        "id": "west-2009-43",
-        "title": "Never Summer",
+        "id": "west-2009-53",
+        "title": "Ocean Dreams",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 49,
+      "rank": 64,
       "song": {
-        "id": "west-2009-49",
-        "title": "Under the Winter",
+        "id": "west-2009-64",
+        "title": "Midnight Sky",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 59,
+      "rank": 69,
       "song": {
-        "id": "west-2009-59",
-        "title": "Dancing Ice",
+        "id": "west-2009-69",
+        "title": "Silver Sky",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2009-78",
-        "title": "Midnight Summer",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -117,23 +96,140 @@
       "rank": 81,
       "song": {
         "id": "west-2009-81",
-        "title": "Sweet Summer",
+        "title": "Ice Night",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 5,
+      "rank": 88,
       "song": {
-        "id": "west-2008-05",
-        "title": "Love in This Club",
+        "id": "west-2009-88",
+        "title": "Sun Tears",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2009-97",
+        "title": "Broken Sun",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2008-17",
+        "title": "Wild Star",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2008-22",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2008-28",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2008-34",
+        "title": "Lost in Dusk",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2008-36",
+        "title": "Dawn Soul",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2008-48",
+        "title": "Fire Tears",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2008-54",
+        "title": "Midnight Dusk",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2008-75",
+        "title": "Star Way",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -142,63 +238,11 @@
     {
       "rank": 12,
       "song": {
-        "id": "west-2008-12",
-        "title": "Bridge Fire",
+        "id": "west-2007-12",
+        "title": "Summer Fire",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2008-88",
-        "title": "Fading Road",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2007-15",
-        "title": "Ice Night",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2007-45",
-        "title": "Midnight Bridge",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2007-71",
-        "title": "Winter Soul",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -207,11 +251,63 @@
     {
       "rank": 20,
       "song": {
-        "id": "west-2006-20",
-        "title": "Snow Sky",
+        "id": "west-2007-20",
+        "title": "Dawn Rain",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2007-47",
+        "title": "Fading Ocean",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2007-50",
+        "title": "Road Sky",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2007-64",
+        "title": "Into the Thunder",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2006-18",
+        "title": "Fading Snow",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -221,101 +317,140 @@
       "rank": 25,
       "song": {
         "id": "west-2006-25",
-        "title": "Lost in Storm",
+        "title": "River Forever",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 80,
+      "rank": 32,
       "song": {
-        "id": "west-2006-80",
-        "title": "Sun Tears",
+        "id": "west-2006-32",
+        "title": "Ocean Way",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 37,
+      "rank": 51,
       "song": {
-        "id": "west-2005-37",
-        "title": "Sun Fire",
+        "id": "west-2006-51",
+        "title": "Bridge Moonlight",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2006-77",
+        "title": "Running Silver",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2006-79",
+        "title": "Gold Way",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2005-14",
+        "title": "Dancing Star",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 84,
+      "rank": 48,
       "song": {
-        "id": "west-2005-84",
-        "title": "Fire Heart",
+        "id": "west-2005-48",
+        "title": "Falling Fire",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 92,
+      "rank": 54,
       "song": {
-        "id": "west-2005-92",
-        "title": "Rain Heart",
+        "id": "west-2005-54",
+        "title": "Dancing Summer",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 1,
+      "rank": 59,
       "song": {
-        "id": "west-2004-01",
-        "title": "Yeah!",
+        "id": "west-2005-59",
+        "title": "Wild Snow",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher ft. Lil Jon & Ludacris"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2004
+      "year": 2005
     },
     {
-      "rank": 2,
+      "rank": 75,
       "song": {
-        "id": "west-2004-02",
-        "title": "Burn",
+        "id": "west-2005-75",
+        "title": "Sweet Sky",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2004
+      "year": 2005
     },
     {
-      "rank": 10,
+      "rank": 18,
       "song": {
-        "id": "west-2004-10",
-        "title": "Confessions Part II",
+        "id": "west-2004-18",
+        "title": "Midnight Summer",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -325,218 +460,127 @@
       "rank": 24,
       "song": {
         "id": "west-2004-24",
-        "title": "Electric Light",
+        "title": "Sun Love",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2004
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2004-26",
-        "title": "Wild Winter",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2004-45",
-        "title": "Rose Fire",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2004-58",
-        "title": "Shining Ocean",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2004-62",
-        "title": "Rose Lights",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2004-74",
-        "title": "Crystal Sky",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2004-82",
-        "title": "Falling Wave",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2004-83",
-        "title": "Thunder Heart",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2004-84",
-        "title": "Golden City",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2004-92",
-        "title": "Never Diamond",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2003-11",
-        "title": "Last Sky",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2003-33",
-        "title": "Wind Sky",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2003-37",
-        "title": "Dancing Wind",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2003
     },
     {
       "rank": 44,
       "song": {
-        "id": "west-2003-44",
-        "title": "Dancing Gold",
+        "id": "west-2004-44",
+        "title": "Wave Heart",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2004-48",
+        "title": "Shadow Love",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2003-46",
+        "title": "Wave Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 9,
+      "rank": 48,
       "song": {
-        "id": "west-2002-09",
-        "title": "U Got It Bad",
+        "id": "west-2003-48",
+        "title": "Chasing Bridge",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2003-92",
+        "title": "Light Fire",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2003-99",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2002-21",
+        "title": "Sky Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 19,
+      "rank": 26,
       "song": {
-        "id": "west-2002-19",
-        "title": "Fading Silver",
+        "id": "west-2002-26",
+        "title": "Falling Moon",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 71,
+      "rank": 47,
       "song": {
-        "id": "west-2002-71",
-        "title": "Into the Winter",
+        "id": "west-2002-47",
+        "title": "Sky Sky",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -546,222 +590,131 @@
       "rank": 84,
       "song": {
         "id": "west-2002-84",
-        "title": "Midnight Sky",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 91,
+      "rank": 11,
       "song": {
-        "id": "west-2002-91",
-        "title": "Dusk Sky",
+        "id": "west-2001-11",
+        "title": "Golden City",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2001-33",
-        "title": "Gold Lights",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 55,
+      "rank": 16,
       "song": {
-        "id": "west-2001-55",
-        "title": "Dancing Rose",
+        "id": "west-2001-16",
+        "title": "Snow Sky",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 69,
+      "rank": 47,
       "song": {
-        "id": "west-2001-69",
-        "title": "Midnight Thunder",
+        "id": "west-2001-47",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 76,
+      "rank": 59,
       "song": {
-        "id": "west-2001-76",
-        "title": "Thunder Dreams",
+        "id": "west-2001-59",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 81,
+      "rank": 60,
       "song": {
-        "id": "west-2001-81",
-        "title": "Falling Flame",
+        "id": "west-2001-60",
+        "title": "Sweet Fire",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 91,
+      "rank": 61,
       "song": {
-        "id": "west-2001-91",
-        "title": "Summer Moonlight",
+        "id": "west-2001-61",
+        "title": "Mountain Night",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 97,
+      "rank": 26,
       "song": {
-        "id": "west-2001-97",
-        "title": "Wild Shadow",
+        "id": "west-2000-26",
+        "title": "Golden Dusk",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2000-17",
-        "title": "Broken Crystal",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 29,
+      "rank": 58,
       "song": {
-        "id": "west-2000-29",
-        "title": "Shadow Way",
+        "id": "west-2000-58",
+        "title": "Summer Soul",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 33,
+      "rank": 95,
       "song": {
-        "id": "west-2000-33",
-        "title": "Flame Moonlight",
+        "id": "west-2000-95",
+        "title": "Rose Heart",
         "artist": {
-          "id": "a-usher",
-          "name": "Usher"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2000
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2000-37",
-        "title": "Dancing Snow",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2000-43",
-        "title": "Running Crystal",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2000-93",
-        "title": "Thunder Love",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2000-96",
-        "title": "Ocean Moonlight",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "west-1998-08",
-        "title": "Nice & Slow",
-        "artist": {
-          "id": "a-usher",
-          "name": "Usher"
-        },
-        "genre": "western"
-      },
-      "year": 1998
     }
   ]
 }

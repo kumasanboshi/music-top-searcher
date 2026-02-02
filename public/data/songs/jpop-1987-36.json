@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1987-36",
-    "title": "夏ストーリー",
+    "title": "花の街",
     "artist": {
-      "id": "a-anzenchitai",
-      "name": "安全地帯"
+      "id": "a-checkers",
+      "name": "チェッカーズ"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 36,
   "cdInfo": [
     {
-      "title": "夏ストーリー",
+      "title": "花の街",
       "type": "single",
-      "releaseDate": "1987-07-01"
+      "releaseDate": "1987-04-27"
+    },
+    {
+      "title": "朝セレクション",
+      "type": "album",
+      "releaseDate": "1987-01-18"
     }
   ],
   "externalLinks": {
@@ -23,312 +28,455 @@
   },
   "artistSongs": [
     {
-      "rank": 50,
+      "rank": 16,
       "song": {
-        "id": "jpop-1989-50",
-        "title": "桜の道",
+        "id": "jpop-1989-16",
+        "title": "恋の太陽",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 59,
+      "rank": 32,
       "song": {
-        "id": "jpop-1989-59",
-        "title": "太陽のかけら",
+        "id": "jpop-1989-32",
+        "title": "記憶ストーリー",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 22,
+      "rank": 40,
       "song": {
-        "id": "jpop-1988-22",
-        "title": "雪ストーリー",
+        "id": "jpop-1989-40",
+        "title": "波の海",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1989-90",
+        "title": "青い雨",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1989-94",
+        "title": "約束の桜",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-1988-32",
+        "title": "朝ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 28,
+      "rank": 35,
       "song": {
-        "id": "jpop-1988-28",
-        "title": "愛の道",
+        "id": "jpop-1988-35",
+        "title": "夜ストーリー",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 85,
+      "rank": 52,
       "song": {
-        "id": "jpop-1988-85",
-        "title": "光の夜",
+        "id": "jpop-1988-52",
+        "title": "風ストーリー",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 27,
+      "rank": 57,
       "song": {
-        "id": "jpop-1987-27",
-        "title": "永遠の影",
+        "id": "jpop-1988-57",
+        "title": "星の朝",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1987
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1987-70",
-        "title": "影のリズム",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1987-89",
-        "title": "永遠の虹",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1987-96",
-        "title": "夜の空",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1987-100",
-        "title": "太陽フォーエバー",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1986-14",
-        "title": "風の旅",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-1986-19",
-        "title": "涙の愛",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-1986-26",
-        "title": "ミッドナイト空",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1986-78",
-        "title": "冬の街",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1986-99",
-        "title": "森の道",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "jpop-1985-06",
-        "title": "悲しみにさよなら",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1985-12",
-        "title": "夢の夜",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "jpop-1985-39",
-        "title": "星の星",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1985-50",
-        "title": "夏の約束",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1985-60",
-        "title": "朝のリズム",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
+      "year": 1988
     },
     {
       "rank": 74,
       "song": {
-        "id": "jpop-1985-74",
-        "title": "世界のかけら",
+        "id": "jpop-1988-74",
+        "title": "永遠の希望",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1985
+      "year": 1988
     },
     {
-      "rank": 78,
+      "rank": 80,
       "song": {
-        "id": "jpop-1985-78",
-        "title": "君の風",
+        "id": "jpop-1988-80",
+        "title": "星の記憶",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1985
+      "year": 1988
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1988-92",
+        "title": "君の冬",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-1988-98",
+        "title": "朝のかけら",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-1987-19",
+        "title": "青い冬",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1987-20",
+        "title": "夢の海",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1987-34",
+        "title": "夢の虹",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1987-35",
+        "title": "記憶の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1987-49",
+        "title": "風物語",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1987-69",
+        "title": "太陽ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1987-71",
+        "title": "永遠の月",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
     },
     {
       "rank": 86,
       "song": {
-        "id": "jpop-1985-86",
-        "title": "旅の歌",
+        "id": "jpop-1987-86",
+        "title": "風の光",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-1986-25",
+        "title": "森の海",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "jpop-1986-27",
+        "title": "夢の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-1986-30",
+        "title": "森フォーエバー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1986-33",
+        "title": "星の街",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1986-54",
+        "title": "夢の恋",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-1986-87",
+        "title": "森ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-1985-01",
+        "title": "ジュリアに傷心",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 91,
+      "rank": 4,
       "song": {
-        "id": "jpop-1985-91",
-        "title": "夏の夜",
+        "id": "jpop-1985-04",
+        "title": "あの娘とスキャンダル",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "jpop-1985-08",
+        "title": "俺たちのロカビリーナイト",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1985-20",
+        "title": "風の約束",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1985-35",
+        "title": "ミッドナイト約束",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-1985-46",
+        "title": "冬ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1985-67",
+        "title": "涙の風",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1985-83",
+        "title": "空のかけら",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -338,49 +486,88 @@
       "rank": 100,
       "song": {
         "id": "jpop-1985-100",
-        "title": "虹の光",
+        "title": "旅サンセット",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 2,
+      "rank": 3,
       "song": {
-        "id": "jpop-1984-02",
-        "title": "ワインレッドの心",
+        "id": "jpop-1984-03",
+        "title": "涙のリクエスト",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 11,
+      "rank": 4,
       "song": {
-        "id": "jpop-1984-11",
-        "title": "青い愛",
+        "id": "jpop-1984-04",
+        "title": "星屑のステージ",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 22,
+      "rank": 9,
       "song": {
-        "id": "jpop-1984-22",
-        "title": "月の季節",
+        "id": "jpop-1984-09",
+        "title": "哀しくてジェラシー",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-1984-14",
+        "title": "真夜中の約束",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-1984-24",
+        "title": "青い雪",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1984-26",
+        "title": "波の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -390,127 +577,127 @@
       "rank": 32,
       "song": {
         "id": "jpop-1984-32",
-        "title": "風の未来",
+        "title": "世界の記憶",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 17,
+      "rank": 39,
       "song": {
-        "id": "jpop-1983-17",
-        "title": "恋の雨",
+        "id": "jpop-1984-39",
+        "title": "希望の季節",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1984-67",
+        "title": "風の夢",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1984-75",
+        "title": "恋の夜",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1984-85",
+        "title": "夏の光",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1984-90",
+        "title": "雪の光",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1983-70",
+        "title": "星の夢",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 21,
+      "rank": 87,
       "song": {
-        "id": "jpop-1983-21",
-        "title": "希望メロディ",
+        "id": "jpop-1983-87",
+        "title": "光フォーエバー",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 54,
+      "rank": 96,
       "song": {
-        "id": "jpop-1983-54",
-        "title": "最後の約束",
+        "id": "jpop-1983-96",
+        "title": "旅の花",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 56,
+      "rank": 14,
       "song": {
-        "id": "jpop-1983-56",
-        "title": "未来の花",
+        "id": "jpop-1982-14",
+        "title": "未来の約束",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-1983-62",
-        "title": "涙の記憶",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1983-65",
-        "title": "約束の未来",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1983-73",
-        "title": "雪ストーリー",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-1982-16",
-        "title": "太陽の歌",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1982-22",
-        "title": "約束の道",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -520,153 +707,114 @@
       "rank": 59,
       "song": {
         "id": "jpop-1982-59",
-        "title": "夜フォーエバー",
+        "title": "星物語",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 74,
+      "rank": 93,
       "song": {
-        "id": "jpop-1982-74",
-        "title": "空のかけら",
+        "id": "jpop-1982-93",
+        "title": "青い恋",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 76,
+      "rank": 23,
       "song": {
-        "id": "jpop-1982-76",
-        "title": "恋の虹",
+        "id": "jpop-1981-23",
+        "title": "影の光",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1982-87",
-        "title": "時間のリズム",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1982-89",
-        "title": "記憶のかけら",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1982-96",
-        "title": "君の星",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-1981-38",
-        "title": "恋の愛",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 54,
+      "rank": 58,
       "song": {
-        "id": "jpop-1981-54",
-        "title": "風の光",
+        "id": "jpop-1981-58",
+        "title": "愛の記憶",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 72,
+      "rank": 66,
       "song": {
-        "id": "jpop-1981-72",
-        "title": "真夜中の約束",
+        "id": "jpop-1981-66",
+        "title": "冬の記憶",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 73,
+      "rank": 70,
       "song": {
-        "id": "jpop-1981-73",
-        "title": "約束の未来",
+        "id": "jpop-1981-70",
+        "title": "太陽ストーリー",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 25,
+      "rank": 33,
       "song": {
-        "id": "jpop-1980-25",
-        "title": "夢メロディ",
+        "id": "jpop-1980-33",
+        "title": "街の空",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 37,
+      "rank": 40,
       "song": {
-        "id": "jpop-1980-37",
-        "title": "海の夜",
+        "id": "jpop-1980-40",
+        "title": "海ストーリー",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-1980-59",
+        "title": "風の光",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -676,49 +824,23 @@
       "rank": 71,
       "song": {
         "id": "jpop-1980-71",
-        "title": "青い太陽",
+        "title": "風の雪",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 74,
+      "rank": 82,
       "song": {
-        "id": "jpop-1980-74",
-        "title": "青い夜",
+        "id": "jpop-1980-82",
+        "title": "恋の街",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1980-80",
-        "title": "涙の約束",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1980-89",
-        "title": "風の愛",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },

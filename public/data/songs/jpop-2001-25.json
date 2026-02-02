@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-2001-25",
-    "title": "愛のリズム",
+    "title": "太陽のリズム",
     "artist": {
       "id": "a-otsuka-ai",
       "name": "大塚愛"
@@ -12,9 +12,14 @@
   "rank": 25,
   "cdInfo": [
     {
-      "title": "愛のリズム",
+      "title": "太陽のリズム",
       "type": "single",
-      "releaseDate": "2001-11-23"
+      "releaseDate": "2001-04-09"
+    },
+    {
+      "title": "愛の旅",
+      "type": "album",
+      "releaseDate": "2001-11-05"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 15,
+      "rank": 13,
       "song": {
-        "id": "jpop-2009-15",
-        "title": "夏の約束",
+        "id": "jpop-2009-13",
+        "title": "街フォーエバー",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -36,9 +41,100 @@
       "year": 2009
     },
     {
-      "rank": 62,
+      "rank": 24,
       "song": {
-        "id": "jpop-2009-62",
+        "id": "jpop-2009-24",
+        "title": "影の約束",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-2009-63",
+        "title": "星の花",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-2009-66",
+        "title": "君の桜",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-2009-68",
+        "title": "森の海",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-2009-79",
+        "title": "約束のリズム",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2009-81",
+        "title": "時間の空",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-2009-91",
+        "title": "雪の道",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-2008-26",
         "title": "風の朝",
         "artist": {
           "id": "a-otsuka-ai",
@@ -46,39 +142,13 @@
         },
         "genre": "jpop"
       },
-      "year": 2009
+      "year": 2008
     },
     {
-      "rank": 69,
+      "rank": 36,
       "song": {
-        "id": "jpop-2009-69",
-        "title": "花の海",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-2009-72",
-        "title": "約束の未来",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2008-12",
-        "title": "桜の空",
+        "id": "jpop-2008-36",
+        "title": "街のリズム",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -88,10 +158,10 @@
       "year": 2008
     },
     {
-      "rank": 14,
+      "rank": 49,
       "song": {
-        "id": "jpop-2008-14",
-        "title": "真夜中の桜",
+        "id": "jpop-2008-49",
+        "title": "約束の花",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -99,272 +169,207 @@
         "genre": "jpop"
       },
       "year": 2008
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-2008-72",
-        "title": "夏の夜",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-2008-79",
-        "title": "恋の世界",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-2008-91",
-        "title": "約束の恋",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-2008-99",
-        "title": "影サンセット",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-2007-20",
-        "title": "星の朝",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-2007-27",
-        "title": "真夜中の夏",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-2007-45",
-        "title": "森メロディ",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-2007-63",
-        "title": "冬ストーリー",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-2007-65",
-        "title": "約束の虹",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-2007-84",
-        "title": "約束の恋",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-2006-19",
-        "title": "永遠の世界",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-2006-22",
-        "title": "ミッドナイト愛",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-2006-95",
-        "title": "恋フォーエバー",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-2006-98",
-        "title": "時間のリズム",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2005-18",
-        "title": "虹の記憶",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2005-25",
-        "title": "冬の海",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-2005-31",
-        "title": "夢の空",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2005-50",
-        "title": "空物語",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-2005-54",
-        "title": "雪物語",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
     },
     {
       "rank": 78,
       "song": {
-        "id": "jpop-2005-78",
-        "title": "涙の時間",
+        "id": "jpop-2008-78",
+        "title": "月の街",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
         },
         "genre": "jpop"
       },
-      "year": 2005
+      "year": 2008
     },
     {
       "rank": 86,
       "song": {
-        "id": "jpop-2005-86",
-        "title": "影の花",
+        "id": "jpop-2008-86",
+        "title": "桜の歌",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-2007-19",
+        "title": "虹の季節",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "jpop-2007-37",
+        "title": "海メロディ",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2007-48",
+        "title": "虹メロディ",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-2007-53",
+        "title": "風の月",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-2007-71",
+        "title": "桜ストーリー",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2007-100",
+        "title": "永遠の花",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2006-15",
+        "title": "海の空",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-2006-47",
+        "title": "涙の愛",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-2006-49",
+        "title": "風の風",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-2006-61",
+        "title": "ミッドナイト希望",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-2006-75",
+        "title": "涙の波",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2006-87",
+        "title": "時間物語",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-2006-99",
+        "title": "星の星",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-2005-30",
+        "title": "君の森",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -374,10 +379,10 @@
       "year": 2005
     },
     {
-      "rank": 93,
+      "rank": 85,
       "song": {
-        "id": "jpop-2005-93",
-        "title": "雪の花",
+        "id": "jpop-2005-85",
+        "title": "波の歌",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -387,10 +392,36 @@
       "year": 2005
     },
     {
-      "rank": 21,
+      "rank": 95,
       "song": {
-        "id": "jpop-2004-21",
-        "title": "時間メロディ",
+        "id": "jpop-2005-95",
+        "title": "恋の希望",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2005-100",
+        "title": "桜物語",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "jpop-2004-18",
+        "title": "恋の空",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -400,10 +431,10 @@
       "year": 2004
     },
     {
-      "rank": 40,
+      "rank": 53,
       "song": {
-        "id": "jpop-2004-40",
-        "title": "約束の世界",
+        "id": "jpop-2004-53",
+        "title": "朝フォーエバー",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -413,10 +444,10 @@
       "year": 2004
     },
     {
-      "rank": 77,
+      "rank": 89,
       "song": {
-        "id": "jpop-2004-77",
-        "title": "波の夜",
+        "id": "jpop-2004-89",
+        "title": "君の波",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -429,7 +460,7 @@
       "rank": 96,
       "song": {
         "id": "jpop-2004-96",
-        "title": "虹ストーリー",
+        "title": "空ストーリー",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -439,10 +470,10 @@
       "year": 2004
     },
     {
-      "rank": 17,
+      "rank": 12,
       "song": {
-        "id": "jpop-2003-17",
-        "title": "記憶の道",
+        "id": "jpop-2003-12",
+        "title": "雪の約束",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -455,7 +486,7 @@
       "rank": 24,
       "song": {
         "id": "jpop-2003-24",
-        "title": "世界ストーリー",
+        "title": "約束の雨",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -465,10 +496,10 @@
       "year": 2003
     },
     {
-      "rank": 30,
+      "rank": 36,
       "song": {
-        "id": "jpop-2003-30",
-        "title": "夏の光",
+        "id": "jpop-2003-36",
+        "title": "星の冬",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -478,10 +509,10 @@
       "year": 2003
     },
     {
-      "rank": 49,
+      "rank": 41,
       "song": {
-        "id": "jpop-2003-49",
-        "title": "未来サンセット",
+        "id": "jpop-2003-41",
+        "title": "街メロディ",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -491,10 +522,10 @@
       "year": 2003
     },
     {
-      "rank": 66,
+      "rank": 43,
       "song": {
-        "id": "jpop-2003-66",
-        "title": "旅の歌",
+        "id": "jpop-2003-43",
+        "title": "街の夜",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -504,10 +535,10 @@
       "year": 2003
     },
     {
-      "rank": 69,
+      "rank": 54,
       "song": {
-        "id": "jpop-2003-69",
-        "title": "世界の季節",
+        "id": "jpop-2003-54",
+        "title": "星の未来",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -517,10 +548,10 @@
       "year": 2003
     },
     {
-      "rank": 87,
+      "rank": 84,
       "song": {
-        "id": "jpop-2003-87",
-        "title": "恋の歌",
+        "id": "jpop-2003-84",
+        "title": "時間のかけら",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -530,10 +561,10 @@
       "year": 2003
     },
     {
-      "rank": 88,
+      "rank": 90,
       "song": {
-        "id": "jpop-2003-88",
-        "title": "風の星",
+        "id": "jpop-2003-90",
+        "title": "森サンセット",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -543,10 +574,49 @@
       "year": 2003
     },
     {
-      "rank": 16,
+      "rank": 96,
       "song": {
-        "id": "jpop-2002-16",
-        "title": "波の約束",
+        "id": "jpop-2003-96",
+        "title": "未来の光",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-2002-22",
+        "title": "ミッドナイト光",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-2002-45",
+        "title": "約束の希望",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2002-50",
+        "title": "君の森",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -558,112 +628,34 @@
     {
       "rank": 28,
       "song": {
-        "id": "jpop-2002-28",
-        "title": "光の夜",
+        "id": "jpop-2001-28",
+        "title": "恋のかけら",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
         },
         "genre": "jpop"
       },
-      "year": 2002
+      "year": 2001
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-2001-61",
+        "title": "君の夢",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
     },
     {
       "rank": 57,
       "song": {
-        "id": "jpop-2002-57",
-        "title": "記憶の約束",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2002-86",
-        "title": "青い星",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-2002-90",
-        "title": "街ストーリー",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "jpop-2001-39",
-        "title": "森の記憶",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-2001-48",
-        "title": "冬の海",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-2001-73",
-        "title": "最後の風",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-2001-87",
-        "title": "青い朝",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2000-21",
-        "title": "風の雨",
+        "id": "jpop-2000-57",
+        "title": "ミッドナイト記憶",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -673,10 +665,49 @@
       "year": 2000
     },
     {
-      "rank": 90,
+      "rank": 63,
       "song": {
-        "id": "jpop-2000-90",
-        "title": "君の虹",
+        "id": "jpop-2000-63",
+        "title": "永遠の雪",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-2000-65",
+        "title": "ミッドナイト波",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-2000-72",
+        "title": "波の記憶",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2000-85",
+        "title": "恋の未来",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2008-75",
-    "title": "Shining Flame",
+    "title": "Star Way",
     "artist": {
-      "id": "a-beyonce",
-      "name": "Beyoncé"
+      "id": "a-bep",
+      "name": "Black Eyed Peas"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 75,
   "cdInfo": [
     {
-      "title": "Shining Flame",
+      "title": "Star Way",
       "type": "single",
-      "releaseDate": "2008-10-18"
+      "releaseDate": "2008-01-08"
+    },
+    {
+      "title": "Moon Diaries",
+      "type": "album",
+      "releaseDate": "2008-02-28"
     }
   ],
   "externalLinks": {
@@ -23,52 +28,13 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 16,
       "song": {
-        "id": "west-2009-06",
-        "title": "Single Ladies (Put a Ring on It)",
+        "id": "west-2009-16",
+        "title": "Wind Night",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyonce"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2009-29",
-        "title": "Sweet Fire",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2009-68",
-        "title": "Electric Moon",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2009-80",
-        "title": "Flame Sky",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -77,128 +43,219 @@
     {
       "rank": 24,
       "song": {
-        "id": "west-2008-24",
-        "title": "Sky Dreams",
+        "id": "west-2009-24",
+        "title": "Fading Diamond",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2008
+      "year": 2009
     },
     {
-      "rank": 35,
+      "rank": 53,
       "song": {
-        "id": "west-2008-35",
-        "title": "River Heart",
+        "id": "west-2009-53",
+        "title": "Ocean Dreams",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2008
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2008-51",
-        "title": "Winter Lights",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2008
+      "year": 2009
     },
     {
       "rank": 64,
       "song": {
-        "id": "west-2008-64",
-        "title": "Electric Mountain",
+        "id": "west-2009-64",
+        "title": "Midnight Sky",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2009-69",
+        "title": "Silver Sky",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2009-81",
+        "title": "Ice Night",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2009-88",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2009-97",
+        "title": "Broken Sun",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2008-17",
+        "title": "Wild Star",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 76,
+      "rank": 22,
       "song": {
-        "id": "west-2008-76",
-        "title": "Broken Sky",
+        "id": "west-2008-22",
+        "title": "Falling Thunder",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 84,
+      "rank": 28,
       "song": {
-        "id": "west-2008-84",
-        "title": "Running Light",
+        "id": "west-2008-28",
+        "title": "Dancing Flame",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 1,
+      "rank": 34,
       "song": {
-        "id": "west-2007-01",
-        "title": "Irreplaceable",
+        "id": "west-2008-34",
+        "title": "Lost in Dusk",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyonce"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2008-36",
+        "title": "Dawn Soul",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2008-48",
+        "title": "Fire Tears",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2008-54",
+        "title": "Midnight Dusk",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2008-87",
+        "title": "Thunder Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-2007-12",
+        "title": "Summer Fire",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 27,
+      "rank": 20,
       "song": {
-        "id": "west-2007-27",
-        "title": "Winter Night",
+        "id": "west-2007-20",
+        "title": "Dawn Rain",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2007-33",
-        "title": "Fading Silver",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2007-37",
-        "title": "Chasing Gold",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -208,88 +265,62 @@
       "rank": 47,
       "song": {
         "id": "west-2007-47",
-        "title": "River Lights",
+        "title": "Fading Ocean",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 52,
+      "rank": 50,
       "song": {
-        "id": "west-2007-52",
-        "title": "Into the Gold",
+        "id": "west-2007-50",
+        "title": "Road Sky",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 54,
+      "rank": 64,
       "song": {
-        "id": "west-2007-54",
-        "title": "Falling Moon",
+        "id": "west-2007-64",
+        "title": "Into the Thunder",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 86,
+      "rank": 18,
       "song": {
-        "id": "west-2007-86",
-        "title": "Midnight Moon",
+        "id": "west-2006-18",
+        "title": "Fading Snow",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2007-94",
-        "title": "River Night",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 10,
-      "song": {
-        "id": "west-2006-10",
-        "title": "Check on It",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyonce"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 23,
+      "rank": 25,
       "song": {
-        "id": "west-2006-23",
-        "title": "Shining Ice",
+        "id": "west-2006-25",
+        "title": "River Forever",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -299,192 +330,140 @@
       "rank": 32,
       "song": {
         "id": "west-2006-32",
-        "title": "Diamond Lights",
+        "title": "Ocean Way",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 40,
+      "rank": 51,
       "song": {
-        "id": "west-2006-40",
-        "title": "Summer Tears",
+        "id": "west-2006-51",
+        "title": "Bridge Moonlight",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2006
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2006-56",
-        "title": "Under the Mountain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2006-63",
-        "title": "Last Light",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2006-76",
-        "title": "Ocean Forever",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2006-91",
-        "title": "Into the Rain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2006-95",
-        "title": "Wave Way",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2006-96",
-        "title": "Rain Rain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2005-26",
-        "title": "Rose Moonlight",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2005-41",
-        "title": "Dancing Dawn",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2005-60",
-        "title": "Thunder Soul",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2005-76",
-        "title": "Rose Night",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
     },
     {
       "rank": 77,
       "song": {
-        "id": "west-2005-77",
-        "title": "Fading Dusk",
+        "id": "west-2006-77",
+        "title": "Running Silver",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2006-79",
+        "title": "Gold Way",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2005-14",
+        "title": "Dancing Star",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 97,
+      "rank": 48,
       "song": {
-        "id": "west-2005-97",
-        "title": "Running Wind",
+        "id": "west-2005-48",
+        "title": "Falling Fire",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 36,
+      "rank": 54,
       "song": {
-        "id": "west-2004-36",
-        "title": "Into the Sun",
+        "id": "west-2005-54",
+        "title": "Dancing Summer",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-2005-59",
+        "title": "Wild Snow",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2005-75",
+        "title": "Sweet Sky",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2004-18",
+        "title": "Midnight Summer",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-2004-24",
+        "title": "Sun Love",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -494,75 +473,75 @@
       "rank": 44,
       "song": {
         "id": "west-2004-44",
-        "title": "Last Storm",
+        "title": "Wave Heart",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 71,
+      "rank": 48,
       "song": {
-        "id": "west-2004-71",
-        "title": "Dancing Gold",
+        "id": "west-2004-48",
+        "title": "Shadow Love",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 87,
+      "rank": 46,
       "song": {
-        "id": "west-2004-87",
-        "title": "Into the Light",
+        "id": "west-2003-46",
+        "title": "Wave Forever",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "west-2003-02",
-        "title": "Crazy in Love",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyonce ft. Jay-Z"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 10,
+      "rank": 48,
       "song": {
-        "id": "west-2003-10",
-        "title": "Baby Boy",
+        "id": "west-2003-48",
+        "title": "Chasing Bridge",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyonce ft. Sean Paul"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 13,
+      "rank": 92,
       "song": {
-        "id": "west-2003-13",
-        "title": "Wild Snow",
+        "id": "west-2003-92",
+        "title": "Light Fire",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2003-99",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -571,271 +550,115 @@
     {
       "rank": 21,
       "song": {
-        "id": "west-2003-21",
-        "title": "Chasing Wave",
+        "id": "west-2002-21",
+        "title": "Sky Forever",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2003-23",
-        "title": "Silver Rain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2003-29",
-        "title": "Ocean Moonlight",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2003-30",
-        "title": "River Night",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2003-40",
-        "title": "Storm Rain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2003-69",
-        "title": "Fire Forever",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2003-74",
-        "title": "Never Mountain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2003-86",
-        "title": "Dusk Moonlight",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2003-94",
-        "title": "Wave Moonlight",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2002-23",
-        "title": "Sweet River",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 49,
+      "rank": 26,
       "song": {
-        "id": "west-2002-49",
-        "title": "Midnight Sun",
+        "id": "west-2002-26",
+        "title": "Falling Moon",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 51,
+      "rank": 47,
       "song": {
-        "id": "west-2002-51",
-        "title": "City Moonlight",
+        "id": "west-2002-47",
+        "title": "Sky Sky",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 70,
+      "rank": 84,
       "song": {
-        "id": "west-2002-70",
-        "title": "Diamond Heart",
+        "id": "west-2002-84",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 80,
+      "rank": 11,
       "song": {
-        "id": "west-2002-80",
-        "title": "Chasing Flame",
+        "id": "west-2001-11",
+        "title": "Golden City",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
-      "year": 2002
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2002-97",
-        "title": "Light Rain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2002
+      "year": 2001
     },
     {
       "rank": 16,
       "song": {
         "id": "west-2001-16",
-        "title": "Shadow Tears",
+        "title": "Snow Sky",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 24,
+      "rank": 47,
       "song": {
-        "id": "west-2001-24",
-        "title": "Ocean Dreams",
+        "id": "west-2001-47",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 25,
+      "rank": 59,
       "song": {
-        "id": "west-2001-25",
-        "title": "Falling Moon",
+        "id": "west-2001-59",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 32,
+      "rank": 60,
       "song": {
-        "id": "west-2001-32",
-        "title": "Shining Mountain",
+        "id": "west-2001-60",
+        "title": "Sweet Fire",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2001-34",
-        "title": "Midnight Fire",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2001-39",
-        "title": "Fading Ice",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -845,166 +668,23 @@
       "rank": 61,
       "song": {
         "id": "west-2001-61",
-        "title": "Summer Dreams",
+        "title": "Mountain Night",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 79,
+      "rank": 26,
       "song": {
-        "id": "west-2001-79",
-        "title": "Fading Moon",
+        "id": "west-2000-26",
+        "title": "Golden Dusk",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2001-89",
-        "title": "Under the Summer",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2001-95",
-        "title": "Electric Crystal",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2000-15",
-        "title": "Crystal Heart",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2000-19",
-        "title": "Under the Bridge",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2000-21",
-        "title": "Wild Star",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-2000-22",
-        "title": "Into the Snow",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2000-28",
-        "title": "Into the Gold",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2000-34",
-        "title": "Road Way",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2000-38",
-        "title": "Into the Ocean",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2000-51",
-        "title": "Winter Heart",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2000-57",
-        "title": "River Way",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
@@ -1014,49 +694,23 @@
       "rank": 58,
       "song": {
         "id": "west-2000-58",
-        "title": "Moon Soul",
+        "title": "Summer Soul",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 68,
+      "rank": 95,
       "song": {
-        "id": "west-2000-68",
-        "title": "Never Star",
+        "id": "west-2000-95",
+        "title": "Rose Heart",
         "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2000-97",
-        "title": "Last City",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2000-98",
-        "title": "River Night",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
+          "id": "a-bep",
+          "name": "Black Eyed Peas"
         },
         "genre": "western"
       },

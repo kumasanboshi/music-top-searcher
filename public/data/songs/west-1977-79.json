@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-79",
-    "title": "Wind Moonlight",
+    "title": "Dawn Forever",
     "artist": {
-      "id": "a-rod-stewart",
-      "name": "Rod Stewart"
+      "id": "a-chicago",
+      "name": "Chicago"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 79,
   "cdInfo": [
     {
-      "title": "Wind Moonlight",
+      "title": "Dawn Forever",
       "type": "single",
-      "releaseDate": "1977-03-12"
+      "releaseDate": "1977-11-23"
+    },
+    {
+      "title": "Gold Collection",
+      "type": "album",
+      "releaseDate": "1977-05-01"
     }
   ],
   "externalLinks": {
@@ -23,91 +28,130 @@
   },
   "artistSongs": [
     {
-      "rank": 4,
+      "rank": 1,
       "song": {
-        "id": "west-1979-04",
-        "title": "Da Ya Think I'm Sexy?",
+        "id": "west-1989-01",
+        "title": "Look Away",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1982-10",
+        "title": "Hard to Say I'm Sorry",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1979-19",
+        "title": "Sweet Rain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 12,
+      "rank": 23,
       "song": {
-        "id": "west-1979-12",
-        "title": "Falling Summer",
+        "id": "west-1979-23",
+        "title": "Storm Dreams",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 36,
+      "rank": 25,
       "song": {
-        "id": "west-1979-36",
-        "title": "Snow Tears",
+        "id": "west-1979-25",
+        "title": "Electric Road",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 40,
+      "rank": 32,
       "song": {
-        "id": "west-1979-40",
-        "title": "Ocean Tears",
+        "id": "west-1979-32",
+        "title": "Diamond Way",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 45,
+      "rank": 41,
       "song": {
-        "id": "west-1979-45",
-        "title": "Lost in Bridge",
+        "id": "west-1979-41",
+        "title": "Rose Soul",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 60,
+      "rank": 54,
       "song": {
-        "id": "west-1979-60",
-        "title": "Diamond Rain",
+        "id": "west-1979-54",
+        "title": "Light Tears",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 72,
+      "rank": 63,
       "song": {
-        "id": "west-1979-72",
-        "title": "Wild Crystal",
+        "id": "west-1979-63",
+        "title": "Chasing Thunder",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1979-74",
+        "title": "Fading Wind",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -117,23 +161,114 @@
       "rank": 83,
       "song": {
         "id": "west-1979-83",
-        "title": "Midnight Sky",
+        "title": "Golden Wind",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 38,
+      "rank": 86,
       "song": {
-        "id": "west-1978-38",
-        "title": "Electric Wave",
+        "id": "west-1979-86",
+        "title": "Shadow Heart",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1979-97",
+        "title": "River Sky",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1978-15",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1978-30",
+        "title": "Dancing Fire",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1978-37",
+        "title": "Sun Rain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1978-42",
+        "title": "Shining Light",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1978-51",
+        "title": "Lost in Star",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1978-79",
+        "title": "Lost in Diamond",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -143,36 +278,62 @@
       "rank": 82,
       "song": {
         "id": "west-1978-82",
-        "title": "Storm Heart",
+        "title": "Wild Ice",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 12,
+      "rank": 97,
       "song": {
-        "id": "west-1977-12",
-        "title": "Winter Sky",
+        "id": "west-1978-97",
+        "title": "River Love",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1977-11",
+        "title": "Chasing Gold",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 14,
+      "rank": 16,
       "song": {
-        "id": "west-1977-14",
-        "title": "Star Forever",
+        "id": "west-1977-16",
+        "title": "Snow Moonlight",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1977-19",
+        "title": "Chasing Silver",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -182,36 +343,75 @@
       "rank": 21,
       "song": {
         "id": "west-1977-21",
-        "title": "Wild Snow",
+        "title": "Sky Heart",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 22,
+      "rank": 24,
       "song": {
-        "id": "west-1977-22",
-        "title": "Under the Road",
+        "id": "west-1977-24",
+        "title": "Mountain Way",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 45,
+      "rank": 26,
       "song": {
-        "id": "west-1977-45",
-        "title": "Chasing Diamond",
+        "id": "west-1977-26",
+        "title": "Falling Ice",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1977-27",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1977-47",
+        "title": "Wild Dusk",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1977-48",
+        "title": "Fading Summer",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -221,114 +421,75 @@
       "rank": 49,
       "song": {
         "id": "west-1977-49",
-        "title": "Under the City",
+        "title": "Sun Tears",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 50,
+      "rank": 55,
       "song": {
-        "id": "west-1977-50",
-        "title": "Light Heart",
+        "id": "west-1977-55",
+        "title": "Fading City",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1977-78",
-        "title": "Dancing Wind",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1977-83",
-        "title": "Light Night",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1976-57",
-        "title": "Star Dreams",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1976-60",
-        "title": "Light Soul",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
     },
     {
       "rank": 68,
       "song": {
-        "id": "west-1976-68",
-        "title": "Into the Shadow",
+        "id": "west-1977-68",
+        "title": "Never Winter",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1977
     },
     {
-      "rank": 85,
+      "rank": 86,
       "song": {
-        "id": "west-1976-85",
-        "title": "River Lights",
+        "id": "west-1977-86",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1977
     },
     {
-      "rank": 100,
+      "rank": 93,
       "song": {
-        "id": "west-1976-100",
-        "title": "Diamond Tears",
+        "id": "west-1977-93",
+        "title": "Rain Tears",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1976-13",
+        "title": "Into the Ice",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -337,50 +498,154 @@
     {
       "rank": 16,
       "song": {
-        "id": "west-1975-16",
-        "title": "Wild Sky",
+        "id": "west-1976-16",
+        "title": "Golden Ice",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 40,
+      "rank": 24,
       "song": {
-        "id": "west-1975-40",
-        "title": "Broken Rain",
+        "id": "west-1976-24",
+        "title": "Silver Soul",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 44,
+      "rank": 25,
       "song": {
-        "id": "west-1975-44",
-        "title": "Never Moon",
+        "id": "west-1976-25",
+        "title": "Wind Sky",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 46,
+      "rank": 29,
       "song": {
-        "id": "west-1975-46",
-        "title": "Midnight Winter",
+        "id": "west-1976-29",
+        "title": "Chasing Sun",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1976-31",
+        "title": "Snow Rain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1976-33",
+        "title": "Electric Crystal",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1976-39",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1976-43",
+        "title": "Sweet Shadow",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1976-49",
+        "title": "River Forever",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1976-70",
+        "title": "Dancing Light",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1976-89",
+        "title": "Never Winter",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1975-68",
+        "title": "Fading Bridge",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-2022-75",
-    "title": "未来の歌",
+    "title": "風物語",
     "artist": {
-      "id": "a-yuuri",
-      "name": "優里"
+      "id": "a-king-gnu",
+      "name": "King Gnu"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 75,
   "cdInfo": [
     {
-      "title": "未来の歌",
+      "title": "風物語",
       "type": "single",
-      "releaseDate": "2022-02-27"
+      "releaseDate": "2022-04-27"
+    },
+    {
+      "title": "太陽セレクション",
+      "type": "album",
+      "releaseDate": "2022-07-20"
     }
   ],
   "externalLinks": {
@@ -23,26 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 10,
+      "rank": 4,
       "song": {
-        "id": "jpop-2025-10",
-        "title": "星屑のワルツ",
+        "id": "jpop-2025-04",
+        "title": "氷の城",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 11,
+      "rank": 24,
       "song": {
-        "id": "jpop-2025-11",
-        "title": "太陽の季節",
+        "id": "jpop-2025-24",
+        "title": "夢の太陽",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
@@ -52,192 +57,127 @@
       "rank": 26,
       "song": {
         "id": "jpop-2025-26",
-        "title": "最後の希望",
+        "title": "風の花",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 31,
+      "rank": 48,
       "song": {
-        "id": "jpop-2025-31",
-        "title": "夏の約束",
+        "id": "jpop-2025-48",
+        "title": "約束の約束",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 51,
+      "rank": 58,
       "song": {
-        "id": "jpop-2025-51",
-        "title": "森の海",
+        "id": "jpop-2025-58",
+        "title": "星の夢",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 64,
+      "rank": 65,
       "song": {
-        "id": "jpop-2025-64",
-        "title": "夜サンセット",
+        "id": "jpop-2025-65",
+        "title": "星の冬",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2025
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-2025-76",
-        "title": "波フォーエバー",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2025-81",
-        "title": "旅サンセット",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-2023-19",
-        "title": "未来の夜",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2023-42",
-        "title": "希望のリズム",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-2023-47",
-        "title": "風の朝",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-2023-55",
-        "title": "星の風",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-2023-74",
-        "title": "最後の未来",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-2023-79",
-        "title": "雪の道",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2023-81",
-        "title": "星の歌",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
     },
     {
       "rank": 7,
       "song": {
-        "id": "jpop-2022-07",
-        "title": "ベテルギウス",
+        "id": "jpop-2023-07",
+        "title": "SPECIALZ",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2022
+      "year": 2023
     },
     {
-      "rank": 12,
+      "rank": 14,
       "song": {
-        "id": "jpop-2022-12",
-        "title": "世界の歌",
+        "id": "jpop-2023-14",
+        "title": "夏の街",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-2023-73",
+        "title": "光の季節",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-2023-80",
+        "title": "最後の時間",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-2023-93",
+        "title": "風の夢",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-2022-10",
+        "title": "逆夢",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
@@ -247,313 +187,898 @@
       "rank": 19,
       "song": {
         "id": "jpop-2022-19",
-        "title": "最後の森",
+        "title": "青い愛",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2022
     },
     {
-      "rank": 38,
+      "rank": 55,
       "song": {
-        "id": "jpop-2022-38",
-        "title": "風の花",
+        "id": "jpop-2022-55",
+        "title": "雨メロディ",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2022
     },
     {
-      "rank": 44,
+      "rank": 83,
       "song": {
-        "id": "jpop-2022-44",
-        "title": "涙の雪",
+        "id": "jpop-2022-83",
+        "title": "夢の街",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2022
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2021-11",
+        "title": "夢の希望",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-2021-28",
+        "title": "最後の星",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "jpop-2020-08",
+        "title": "白日",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2020-15",
+        "title": "風の記憶",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-2020-21",
+        "title": "桜の花",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
     },
     {
       "rank": 59,
       "song": {
-        "id": "jpop-2022-59",
-        "title": "時間の道",
+        "id": "jpop-2020-59",
+        "title": "影の夜",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2022
+      "year": 2020
     },
     {
-      "rank": 93,
+      "rank": 84,
       "song": {
-        "id": "jpop-2022-93",
-        "title": "夜フォーエバー",
+        "id": "jpop-2020-84",
+        "title": "風の時間",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2022
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-2022-98",
-        "title": "約束の夏",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "jpop-2021-01",
-        "title": "ドライフラワー",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2021-25",
-        "title": "君の星",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-2021-30",
-        "title": "約束の虹",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-2021-41",
-        "title": "影のかけら",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-2021-44",
-        "title": "最後の雪",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2021-50",
-        "title": "空の記憶",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-2021-56",
-        "title": "雪の海",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-2021-64",
-        "title": "約束の時間",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-2021-88",
-        "title": "希望の約束",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
+      "year": 2020
     },
     {
       "rank": 91,
       "song": {
-        "id": "jpop-2021-91",
-        "title": "最後の冬",
+        "id": "jpop-2020-91",
+        "title": "海ストーリー",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-2020-14",
-        "title": "夜の記憶",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 27,
+      "rank": 3,
       "song": {
-        "id": "jpop-2020-27",
-        "title": "恋の桜",
+        "id": "jpop-2019-03",
+        "title": "白日",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2020
+      "year": 2019
     },
     {
-      "rank": 34,
+      "rank": 18,
       "song": {
-        "id": "jpop-2020-34",
-        "title": "涙の波",
+        "id": "jpop-2019-18",
+        "title": "桜のリズム",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2020
+      "year": 2019
     },
     {
       "rank": 37,
       "song": {
-        "id": "jpop-2020-37",
-        "title": "時間の季節",
+        "id": "jpop-2019-37",
+        "title": "世界の花",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2020
+      "year": 2019
     },
     {
-      "rank": 76,
+      "rank": 40,
       "song": {
-        "id": "jpop-2020-76",
-        "title": "海サンセット",
+        "id": "jpop-2019-40",
+        "title": "約束の虹",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2020
+      "year": 2019
     },
     {
-      "rank": 89,
+      "rank": 65,
       "song": {
-        "id": "jpop-2020-89",
-        "title": "最後の街",
+        "id": "jpop-2019-65",
+        "title": "未来の記憶",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2020
+      "year": 2019
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-2018-31",
+        "title": "影の約束",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-2018-39",
+        "title": "旅の道",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2017-11",
+        "title": "影サンセット",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "jpop-2017-37",
+        "title": "恋サンセット",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-2017-49",
+        "title": "冬のリズム",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-2017-54",
+        "title": "愛の記憶",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-2017-67",
+        "title": "時間の街",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2017-82",
+        "title": "恋の花",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2017-100",
+        "title": "約束のかけら",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-2016-16",
+        "title": "未来の空",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-2016-35",
+        "title": "星の恋",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2016-38",
+        "title": "雨サンセット",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2016-48",
+        "title": "夢の未来",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2016-57",
+        "title": "希望の海",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-2016-65",
+        "title": "恋の花",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-2016-67",
+        "title": "約束のかけら",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-2016-71",
+        "title": "風の虹",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-2016-79",
+        "title": "雨の空",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2016-85",
+        "title": "恋の太陽",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
     },
     {
       "rank": 93,
       "song": {
-        "id": "jpop-2020-93",
-        "title": "ミッドナイト海",
+        "id": "jpop-2016-93",
+        "title": "夏の道",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2020
+      "year": 2016
     },
     {
-      "rank": 95,
+      "rank": 85,
       "song": {
-        "id": "jpop-2020-95",
-        "title": "海メロディ",
+        "id": "jpop-2015-85",
+        "title": "光物語",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-king-gnu",
+          "name": "King Gnu"
         },
         "genre": "jpop"
       },
-      "year": 2020
+      "year": 2015
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2015-94",
+        "title": "雪の夜",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-2014-42",
+        "title": "街の花",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-2014-51",
+        "title": "旅の季節",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2014-57",
+        "title": "未来の街",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2014-87",
+        "title": "愛の海",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-2014-90",
+        "title": "永遠の月",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-2013-45",
+        "title": "雪の夜",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-2013-59",
+        "title": "恋の花",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-2013-80",
+        "title": "風の海",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-2012-14",
+        "title": "空の歌",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-2012-31",
+        "title": "空物語",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2012-57",
+        "title": "未来の街",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-2012-74",
+        "title": "夢の冬",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-2012-86",
+        "title": "旅ストーリー",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2012-89",
+        "title": "空の花",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2012-92",
+        "title": "記憶サンセット",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-2011-21",
+        "title": "旅物語",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-2011-30",
+        "title": "空の記憶",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2011-38",
+        "title": "虹の海",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-2011-53",
+        "title": "夢の月",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-2011-59",
+        "title": "未来物語",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2011-77",
+        "title": "真夜中の夏",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2011-97",
+        "title": "世界の約束",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-2011-98",
+        "title": "太陽の海",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2010-11",
+        "title": "森のかけら",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-2010-33",
+        "title": "星物語",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-2010-41",
+        "title": "空の記憶",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-2010-42",
+        "title": "君の波",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2010-50",
+        "title": "虹メロディ",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-2010-65",
+        "title": "涙の雪",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-2010-99",
+        "title": "青い愛",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2010-100",
+        "title": "青い夏",
+        "artist": {
+          "id": "a-king-gnu",
+          "name": "King Gnu"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
     }
   ]
 }

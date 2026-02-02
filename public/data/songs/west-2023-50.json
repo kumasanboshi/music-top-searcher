@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2023-50",
-    "title": "Bridge Moonlight",
+    "title": "Sun Love",
     "artist": {
-      "id": "a-harry-styles",
-      "name": "Harry Styles"
+      "id": "a-bad-bunny",
+      "name": "Bad Bunny"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 50,
   "cdInfo": [
     {
-      "title": "Bridge Moonlight",
+      "title": "Sun Love",
       "type": "single",
-      "releaseDate": "2023-06-21"
+      "releaseDate": "2023-05-12"
+    },
+    {
+      "title": "Winter Anthology",
+      "type": "album",
+      "releaseDate": "2023-10-09"
     }
   ],
   "externalLinks": {
@@ -23,65 +28,117 @@
   },
   "artistSongs": [
     {
-      "rank": 64,
+      "rank": 11,
       "song": {
-        "id": "west-2025-64",
-        "title": "Shining Diamond",
+        "id": "west-2025-11",
+        "title": "Lost in Road",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
       "year": 2025
     },
     {
-      "rank": 75,
+      "rank": 16,
       "song": {
-        "id": "west-2025-75",
-        "title": "Star Love",
+        "id": "west-2025-16",
+        "title": "Under the Storm",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
       "year": 2025
     },
     {
-      "rank": 98,
+      "rank": 24,
       "song": {
-        "id": "west-2025-98",
-        "title": "Sweet Wind",
+        "id": "west-2025-24",
+        "title": "Crystal Moonlight",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
       "year": 2025
     },
     {
-      "rank": 41,
+      "rank": 31,
       "song": {
-        "id": "west-2023-41",
-        "title": "Wild Light",
+        "id": "west-2025-31",
+        "title": "Into the Gold",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2025-58",
+        "title": "Shining City",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2025-79",
+        "title": "Running Thunder",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2023-27",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
       "year": 2023
     },
     {
-      "rank": 44,
+      "rank": 64,
       "song": {
-        "id": "west-2023-44",
-        "title": "Never Winter",
+        "id": "west-2023-64",
+        "title": "Never Fire",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2023-75",
+        "title": "Rain Moonlight",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
@@ -91,374 +148,205 @@
       "rank": 83,
       "song": {
         "id": "west-2023-83",
-        "title": "Golden Wave",
+        "title": "Wave Sky",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
       "year": 2023
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2023-84",
-        "title": "Flame Heart",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-2022-01",
-        "title": "As It Was",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2022-15",
-        "title": "Chasing Wind",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2022-20",
-        "title": "Falling Summer",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2022-26",
-        "title": "Road Lights",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2022-30",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2022-42",
-        "title": "Diamond Fire",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2022-63",
-        "title": "Sky Heart",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2022-80",
-        "title": "Broken Gold",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2021-13",
-        "title": "Dancing Storm",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2021-17",
-        "title": "Falling Road",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2021-37",
-        "title": "Into the Rose",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2021-38",
-        "title": "Snow Night",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2021-47",
-        "title": "Golden Mountain",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2021-54",
-        "title": "Last Snow",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2021-67",
-        "title": "Thunder Love",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2021-93",
-        "title": "Electric Storm",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2021-99",
-        "title": "Fire Rain",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-2020-06",
-        "title": "Adore You",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "west-2020-09",
-        "title": "Watermelon Sugar",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2020-13",
-        "title": "Fading Summer",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2020-24",
-        "title": "Winter Dreams",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2020-29",
-        "title": "Fading Star",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2020-32",
-        "title": "Diamond Lights",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2020-33",
-        "title": "Silver Way",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      },
-      "year": 2020
     },
     {
       "rank": 41,
       "song": {
-        "id": "west-2020-41",
-        "title": "Road Rain",
+        "id": "west-2022-41",
+        "title": "Shining Moon",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
-      "year": 2020
+      "year": 2022
     },
     {
-      "rank": 76,
+      "rank": 47,
       "song": {
-        "id": "west-2020-76",
-        "title": "Golden Sky",
+        "id": "west-2022-47",
+        "title": "Wind Soul",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },
-      "year": 2020
+      "year": 2022
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2022-78",
+        "title": "Midnight Winter",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2021-23",
+        "title": "Golden Diamond",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2021-46",
+        "title": "Flame Heart",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2021-50",
+        "title": "Bridge Rain",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2021-77",
+        "title": "Midnight Winter",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2021
     },
     {
       "rank": 82,
       "song": {
-        "id": "west-2020-82",
-        "title": "Broken River",
+        "id": "west-2021-82",
+        "title": "Dusk Love",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2021-97",
+        "title": "Electric Silver",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2020-46",
+        "title": "Road Forever",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-2020-59",
+        "title": "Never Star",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2020-64",
+        "title": "Under the Mountain",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2020-66",
+        "title": "Dusk Lights",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2020-68",
+        "title": "Mountain Way",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2020-85",
+        "title": "Fading Mountain",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       },

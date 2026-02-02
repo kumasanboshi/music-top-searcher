@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1984-46",
-    "title": "Running Sun",
+    "title": "Summer Soul",
     "artist": {
-      "id": "a-prince",
-      "name": "Prince"
+      "id": "a-tina-turner",
+      "name": "Tina Turner"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 46,
   "cdInfo": [
     {
-      "title": "Running Sun",
+      "title": "Summer Soul",
       "type": "single",
-      "releaseDate": "1984-03-28"
+      "releaseDate": "1984-12-24"
+    },
+    {
+      "title": "Dawn Unplugged",
+      "type": "album",
+      "releaseDate": "1984-01-12"
     }
   ],
   "externalLinks": {
@@ -23,182 +28,195 @@
   },
   "artistSongs": [
     {
-      "rank": 8,
+      "rank": 17,
       "song": {
-        "id": "west-1991-08",
-        "title": "Cream",
+        "id": "west-1989-17",
+        "title": "Midnight Wind",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1989-11",
-        "title": "Into the Rain",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 44,
+      "rank": 18,
       "song": {
-        "id": "west-1989-44",
-        "title": "Last Fire",
+        "id": "west-1989-18",
+        "title": "Running Dawn",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 47,
+      "rank": 24,
       "song": {
-        "id": "west-1989-47",
-        "title": "Broken Star",
+        "id": "west-1989-24",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 94,
+      "rank": 34,
       "song": {
-        "id": "west-1989-94",
-        "title": "Dusk Way",
+        "id": "west-1989-34",
+        "title": "Storm Soul",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1989-95",
-        "title": "Running Rain",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1988-14",
-        "title": "Dancing Fire",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1988-27",
-        "title": "Chasing Wind",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1988-33",
-        "title": "Electric City",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1988-40",
-        "title": "Chasing Bridge",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1988-51",
-        "title": "Broken Storm",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1988
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-1988-54",
-        "title": "Lost in Wave",
+        "id": "west-1989-54",
+        "title": "Dusk Tears",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1989-58",
+        "title": "Ice Way",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1989-80",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1988-23",
+        "title": "Storm Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 55,
+      "rank": 30,
       "song": {
-        "id": "west-1988-55",
-        "title": "Wave Lights",
+        "id": "west-1988-30",
+        "title": "Dusk Lights",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 62,
+      "rank": 39,
       "song": {
-        "id": "west-1988-62",
-        "title": "Broken Shadow",
+        "id": "west-1988-39",
+        "title": "Golden Light",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1988-43",
+        "title": "Into the Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1988-46",
+        "title": "Wild Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1988-53",
+        "title": "Ice Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1988-65",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1988-79",
+        "title": "Crystal Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -208,478 +226,556 @@
       "rank": 90,
       "song": {
         "id": "west-1988-90",
-        "title": "Gold Lights",
+        "title": "Star Rain",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1988
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1988-97",
-        "title": "Never Dusk",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1988-99",
-        "title": "Dawn Heart",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1987-33",
-        "title": "Gold Sky",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1987-41",
-        "title": "Electric Bridge",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1987-61",
-        "title": "Shining Crystal",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1987-67",
-        "title": "Under the Moon",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1987-73",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1987-78",
-        "title": "Dancing Sun",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1987-96",
-        "title": "Broken Wind",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1986-26",
-        "title": "Into the Light",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1986-27",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1986-58",
-        "title": "Fading Mountain",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1986-66",
-        "title": "Never Star",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1986-68",
-        "title": "Wave Forever",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1986-80",
-        "title": "Golden Wave",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1986-93",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1985-13",
-        "title": "Light Lights",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1985-35",
-        "title": "Flame Lights",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1985-45",
-        "title": "Under the Bridge",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1985-64",
-        "title": "Wave Way",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1985-67",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1985-76",
-        "title": "Electric Bridge",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1985-91",
-        "title": "River Night",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-1984-01",
-        "title": "When Doves Cry",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1984-29",
-        "title": "Wave Rain",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1984-53",
-        "title": "Into the Crystal",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1984-87",
-        "title": "Into the Ocean",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1983-15",
-        "title": "Wave Forever",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1983-45",
-        "title": "Thunder Moonlight",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1983-56",
-        "title": "Storm Fire",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1983-60",
-        "title": "Lost in Silver",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1983-65",
-        "title": "Dancing Wave",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1983
     },
     {
       "rank": 21,
       "song": {
-        "id": "west-1982-21",
-        "title": "Shining Wind",
+        "id": "west-1987-21",
+        "title": "Midnight Crystal",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1987
     },
     {
-      "rank": 49,
+      "rank": 34,
       "song": {
-        "id": "west-1982-49",
-        "title": "Under the Diamond",
+        "id": "west-1987-34",
+        "title": "Bridge Forever",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1987
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1987-51",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1987-54",
+        "title": "Electric Dusk",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1987-65",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1987-68",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1987-74",
+        "title": "Sun Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1986-14",
+        "title": "Into the Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1986-20",
+        "title": "Electric Fire",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1986-28",
+        "title": "Midnight City",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1986-32",
+        "title": "Wild Mountain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
     },
     {
       "rank": 52,
       "song": {
-        "id": "west-1982-52",
-        "title": "Diamond Soul",
+        "id": "west-1986-52",
+        "title": "Mountain Heart",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1986-77",
+        "title": "Wild Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1986-88",
+        "title": "Moon Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1985-39",
+        "title": "Winter Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1985-59",
+        "title": "Electric Storm",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1985-65",
+        "title": "Dancing Wave",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1985-83",
+        "title": "Never Silver",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1984-02",
+        "title": "What's Love Got to Do with It",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1984-11",
+        "title": "Mountain Soul",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1984-13",
+        "title": "Never Bridge",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1984-17",
+        "title": "Sky Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1984-31",
+        "title": "Rose Heart",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1984-32",
+        "title": "Flame Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1984-38",
+        "title": "Dawn Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1984-41",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1984-43",
+        "title": "Moon Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1984-44",
+        "title": "Dawn Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1984-84",
+        "title": "Snow Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1984-91",
+        "title": "Running Bridge",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1984-92",
+        "title": "Under the Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1983-25",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1983-36",
+        "title": "Lost in Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1983-38",
+        "title": "Rain Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1983-52",
+        "title": "Crystal Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1983-53",
+        "title": "Flame Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1983-58",
+        "title": "Fading Mountain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1983-77",
+        "title": "Thunder Way",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1983-83",
+        "title": "Moon Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1982-13",
+        "title": "Falling Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 66,
+      "rank": 48,
       "song": {
-        "id": "west-1982-66",
-        "title": "City Forever",
+        "id": "west-1982-48",
+        "title": "Lost in Mountain",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1982-51",
+        "title": "Chasing Sun",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -689,257 +785,114 @@
       "rank": 72,
       "song": {
         "id": "west-1982-72",
-        "title": "Wild Sun",
+        "title": "Rose Love",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 73,
+      "rank": 93,
       "song": {
-        "id": "west-1982-73",
-        "title": "Gold Fire",
+        "id": "west-1982-93",
+        "title": "Midnight City",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1981-19",
+        "title": "Storm Tears",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1981-63",
+        "title": "Wave Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1981-88",
+        "title": "Last Winter",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1980-49",
+        "title": "Snow Tears",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1980-51",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1980-62",
+        "title": "Under the Dusk",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1980
     },
     {
       "rank": 87,
       "song": {
-        "id": "west-1982-87",
-        "title": "Midnight Silver",
+        "id": "west-1980-87",
+        "title": "Moon Love",
         "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1982-94",
-        "title": "Thunder Love",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1981-12",
-        "title": "Never Mountain",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1981-23",
-        "title": "Never Winter",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1981-46",
-        "title": "Golden Sun",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1981-48",
-        "title": "Wild Dusk",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1981-54",
-        "title": "Thunder Sky",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1981-68",
-        "title": "Electric Dusk",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1981-69",
-        "title": "City Tears",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1981-72",
-        "title": "Dawn Way",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1980-13",
-        "title": "Dancing City",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1980-17",
-        "title": "Wind Moonlight",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1980-36",
-        "title": "Shining Gold",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1980-45",
-        "title": "Fire Fire",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1980-47",
-        "title": "Crystal Way",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1980-57",
-        "title": "Falling Thunder",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1980-76",
-        "title": "Chasing Rain",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1980-98",
-        "title": "Shining Storm",
-        "artist": {
-          "id": "a-prince",
-          "name": "Prince"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },

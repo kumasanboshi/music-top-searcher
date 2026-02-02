@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2010-16",
-    "title": "Electric Summer",
+    "title": "Rose Moonlight",
     "artist": {
-      "id": "a-dua-lipa",
-      "name": "Dua Lipa"
+      "id": "a-khalid",
+      "name": "Khalid"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 16,
   "cdInfo": [
     {
-      "title": "Electric Summer",
+      "title": "Rose Moonlight",
       "type": "single",
-      "releaseDate": "2010-09-03"
+      "releaseDate": "2010-06-27"
+    },
+    {
+      "title": "Snow Stories",
+      "type": "album",
+      "releaseDate": "2010-10-26"
     }
   ],
   "externalLinks": {
@@ -23,442 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 4,
+      "rank": 6,
       "song": {
-        "id": "west-2025-04",
-        "title": "Neon Lights",
+        "id": "west-2019-06",
+        "title": "Talk",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
-      "year": 2025
+      "year": 2019
     },
     {
       "rank": 14,
       "song": {
-        "id": "west-2025-14",
-        "title": "Dawn Heart",
+        "id": "west-2019-14",
+        "title": "Crystal Forever",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2025-20",
-        "title": "Running Sun",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2025-30",
-        "title": "Star Forever",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2025-34",
-        "title": "Fading Bridge",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2025-37",
-        "title": "Snow Sky",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2025-69",
-        "title": "Golden Fire",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2025-77",
-        "title": "Wind Dreams",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2025-96",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2023-25",
-        "title": "Shadow Moonlight",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2023-28",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2023-82",
-        "title": "Dawn Night",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2022-33",
-        "title": "River Night",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2022-35",
-        "title": "Ice Tears",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2022-39",
-        "title": "Rose Love",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2022-49",
-        "title": "Broken Sky",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2022-81",
-        "title": "Dancing Ice",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2022-90",
-        "title": "Shadow Fire",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-2021-01",
-        "title": "Levitating",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2021-42",
-        "title": "Sweet City",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2021-44",
-        "title": "Last Wind",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2021-49",
-        "title": "Midnight Fire",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2021-83",
-        "title": "Shining Snow",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2021-87",
-        "title": "Never Star",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2021-89",
-        "title": "Wave Forever",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2021-95",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2021-96",
-        "title": "Wave Fire",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 4,
-      "song": {
-        "id": "west-2020-04",
-        "title": "Don't Start Now",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2020-15",
-        "title": "Wind Dreams",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2020-46",
-        "title": "Last Wave",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2020-47",
-        "title": "Fading Ice",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2020-79",
-        "title": "Sweet Bridge",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2020-95",
-        "title": "Falling Ice",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2019-12",
-        "title": "Thunder Moonlight",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -468,179 +57,205 @@
       "rank": 19,
       "song": {
         "id": "west-2019-19",
-        "title": "Never Storm",
+        "title": "Dawn Way",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 32,
+      "rank": 20,
       "song": {
-        "id": "west-2019-32",
-        "title": "Fire Dreams",
+        "id": "west-2019-20",
+        "title": "Fading Dusk",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 36,
+      "rank": 39,
       "song": {
-        "id": "west-2019-36",
-        "title": "Shadow Dreams",
+        "id": "west-2019-39",
+        "title": "Bridge Sky",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 38,
+      "rank": 44,
       "song": {
-        "id": "west-2019-38",
-        "title": "Golden Gold",
+        "id": "west-2019-44",
+        "title": "Shining Star",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 51,
+      "rank": 54,
       "song": {
-        "id": "west-2019-51",
-        "title": "Shining Diamond",
+        "id": "west-2019-54",
+        "title": "Falling Storm",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 77,
+      "rank": 72,
       "song": {
-        "id": "west-2019-77",
-        "title": "Shining Ocean",
+        "id": "west-2019-72",
+        "title": "Wind Sky",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 78,
+      "rank": 91,
       "song": {
-        "id": "west-2019-78",
-        "title": "Under the Ice",
+        "id": "west-2019-91",
+        "title": "Gold Fire",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2018-25",
-        "title": "Ocean Sky",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2018-29",
-        "title": "City Dreams",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2018-85",
-        "title": "Chasing Light",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2018-86",
-        "title": "Light Soul",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2018
     },
     {
       "rank": 92,
       "song": {
-        "id": "west-2018-92",
-        "title": "Golden Light",
+        "id": "west-2019-92",
+        "title": "Light Rain",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2018-14",
+        "title": "Flame Sky",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 10,
+      "rank": 28,
       "song": {
-        "id": "west-2017-10",
-        "title": "New Rules",
+        "id": "west-2018-28",
+        "title": "Falling Star",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2018
     },
     {
-      "rank": 27,
+      "rank": 33,
       "song": {
-        "id": "west-2017-27",
-        "title": "City Soul",
+        "id": "west-2018-33",
+        "title": "Never Wave",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2018-49",
+        "title": "Rain Rain",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2018-63",
+        "title": "Gold Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2018-90",
+        "title": "Wild City",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2018-97",
+        "title": "Chasing Ice",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-2017-15",
+        "title": "Broken City",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -650,10 +265,10 @@
       "rank": 57,
       "song": {
         "id": "west-2017-57",
-        "title": "Sweet Silver",
+        "title": "Diamond Lights",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -663,62 +278,88 @@
       "rank": 58,
       "song": {
         "id": "west-2017-58",
-        "title": "Sweet Moon",
+        "title": "Golden Road",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 60,
+      "rank": 62,
       "song": {
-        "id": "west-2017-60",
-        "title": "Wild Mountain",
+        "id": "west-2017-62",
+        "title": "Dancing Shadow",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 81,
+      "rank": 66,
       "song": {
-        "id": "west-2017-81",
-        "title": "Shadow Moonlight",
+        "id": "west-2017-66",
+        "title": "Bridge Rain",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 84,
+      "rank": 24,
       "song": {
-        "id": "west-2017-84",
-        "title": "Dawn Dreams",
+        "id": "west-2016-24",
+        "title": "Diamond Rain",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2016
     },
     {
-      "rank": 22,
+      "rank": 59,
       "song": {
-        "id": "west-2016-22",
-        "title": "Fire Dreams",
+        "id": "west-2016-59",
+        "title": "Running Bridge",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2016-76",
+        "title": "Lost in Road",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2016-79",
+        "title": "Sweet Shadow",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -727,128 +368,76 @@
     {
       "rank": 36,
       "song": {
-        "id": "west-2016-36",
-        "title": "Storm Love",
+        "id": "west-2015-36",
+        "title": "Chasing Dusk",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2015-14",
-        "title": "Light Rain",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 26,
+      "rank": 57,
       "song": {
-        "id": "west-2015-26",
-        "title": "Into the Shadow",
+        "id": "west-2015-57",
+        "title": "Shining Dusk",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 42,
+      "rank": 66,
       "song": {
-        "id": "west-2015-42",
-        "title": "Rain Tears",
+        "id": "west-2015-66",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 56,
+      "rank": 91,
       "song": {
-        "id": "west-2015-56",
-        "title": "Wind Rain",
+        "id": "west-2015-91",
+        "title": "Broken Gold",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 77,
+      "rank": 45,
       "song": {
-        "id": "west-2015-77",
-        "title": "Never Light",
+        "id": "west-2014-45",
+        "title": "Silver Way",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2014-24",
-        "title": "Bridge Moonlight",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 25,
+      "rank": 59,
       "song": {
-        "id": "west-2014-25",
-        "title": "Dancing Dawn",
+        "id": "west-2014-59",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2014-33",
-        "title": "Falling Diamond",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2014-46",
-        "title": "Never Road",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -858,283 +447,218 @@
       "rank": 66,
       "song": {
         "id": "west-2014-66",
-        "title": "Ocean Heart",
+        "title": "Star Dreams",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 70,
+      "rank": 69,
       "song": {
-        "id": "west-2014-70",
-        "title": "Golden Sky",
+        "id": "west-2014-69",
+        "title": "Fire Soul",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 24,
+      "rank": 77,
       "song": {
-        "id": "west-2013-24",
-        "title": "Never Rain",
+        "id": "west-2014-77",
+        "title": "Midnight Fire",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-2014-83",
+        "title": "Last Summer",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2014-89",
+        "title": "Thunder Moonlight",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2014-91",
+        "title": "Wild Light",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2013-36",
+        "title": "River Heart",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 30,
+      "rank": 53,
       "song": {
-        "id": "west-2013-30",
-        "title": "Into the Dawn",
+        "id": "west-2013-53",
+        "title": "Star Dreams",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 32,
+      "rank": 55,
       "song": {
-        "id": "west-2013-32",
-        "title": "City Moonlight",
+        "id": "west-2013-55",
+        "title": "Sweet Moon",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 39,
+      "rank": 62,
       "song": {
-        "id": "west-2013-39",
-        "title": "Ocean Dreams",
+        "id": "west-2013-62",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 46,
+      "rank": 97,
       "song": {
-        "id": "west-2013-46",
-        "title": "Diamond Love",
+        "id": "west-2013-97",
+        "title": "Storm Rain",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2013
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2012-14",
-        "title": "Dancing Bridge",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2012-20",
-        "title": "City Lights",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2012-52",
-        "title": "Rain Forever",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2012-57",
-        "title": "Rain Fire",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2012
     },
     {
       "rank": 71,
       "song": {
         "id": "west-2012-71",
-        "title": "Into the Diamond",
+        "title": "Wave Dreams",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 82,
+      "rank": 76,
       "song": {
-        "id": "west-2012-82",
-        "title": "Midnight Wave",
+        "id": "west-2012-76",
+        "title": "Lost in Ice",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 83,
+      "rank": 98,
       "song": {
-        "id": "west-2012-83",
-        "title": "Never Mountain",
+        "id": "west-2012-98",
+        "title": "Golden Shadow",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2012
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2012-100",
+        "title": "Dancing Summer",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2011-19",
+        "title": "River Love",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
     },
     {
       "rank": 24,
       "song": {
         "id": "west-2011-24",
-        "title": "Fire Lights",
+        "title": "Dancing Rain",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2011-31",
-        "title": "Last Silver",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2011-37",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2011-78",
-        "title": "Sun Dreams",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2011-87",
-        "title": "Falling Ocean",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2011-89",
-        "title": "Silver Forever",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2011-93",
-        "title": "Snow Heart",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2011-96",
-        "title": "Lost in Diamond",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -1143,50 +667,167 @@
     {
       "rank": 27,
       "song": {
-        "id": "west-2010-27",
-        "title": "Thunder Lights",
+        "id": "west-2011-27",
+        "title": "Mountain Heart",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2011-28",
+        "title": "Lost in Storm",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2011-33",
+        "title": "Last Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2011-49",
+        "title": "Last Sky",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2011-55",
+        "title": "Diamond Heart",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2011-62",
+        "title": "Fading Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2011-64",
+        "title": "Wild City",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2011-73",
+        "title": "Shining Silver",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2011-92",
+        "title": "Golden Gold",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2010-50",
+        "title": "Wave Sky",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 29,
+      "rank": 61,
       "song": {
-        "id": "west-2010-29",
-        "title": "Wave Love",
+        "id": "west-2010-61",
+        "title": "Chasing Light",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 39,
+      "rank": 64,
       "song": {
-        "id": "west-2010-39",
-        "title": "Thunder Tears",
+        "id": "west-2010-64",
+        "title": "Snow Soul",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 40,
+      "rank": 68,
       "song": {
-        "id": "west-2010-40",
-        "title": "Last Rose",
+        "id": "west-2010-68",
+        "title": "Lost in City",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -1196,10 +837,36 @@
       "rank": 74,
       "song": {
         "id": "west-2010-74",
-        "title": "Golden Dusk",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2010-79",
+        "title": "Midnight Road",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2010-87",
+        "title": "Wind Night",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
