@@ -17,6 +17,7 @@ const mockSongDetail: SongDetail = {
   rank: 1,
   cdInfo: [
     { title: 'Bling-Bang-Bang-Born', type: 'single', releaseDate: '2024-01-07' },
+    { title: 'Creepy Nuts Best Album', type: 'album', releaseDate: '2024-03-15' },
   ],
   externalLinks: {
     amazon: 'https://amazon.co.jp/example',
@@ -75,8 +76,19 @@ describe('SongDetailPage', () => {
     renderPage('jpop', 'jpop-2024-01')
 
     expect(await screen.findByText('CD情報')).toBeInTheDocument()
-    expect(screen.getByText(/single/i)).toBeInTheDocument()
+    expect(screen.getByText(/シングル/)).toBeInTheDocument()
     expect(screen.getByText(/2024-01-07/)).toBeInTheDocument()
+  })
+
+  it('アルバム情報を表示する', async () => {
+    vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
+
+    renderPage('jpop', 'jpop-2024-01')
+
+    expect(await screen.findByText('CD情報')).toBeInTheDocument()
+    expect(screen.getByText(/アルバム/)).toBeInTheDocument()
+    expect(screen.getByText(/Creepy Nuts Best Album/)).toBeInTheDocument()
+    expect(screen.getByText(/2024-03-15/)).toBeInTheDocument()
   })
 
   it('Amazonリンクを表示する', async () => {
@@ -123,7 +135,7 @@ describe('SongDetailPage', () => {
     renderPage('jpop', 'jpop-2024-01')
 
     await screen.findByRole('heading', { level: 1, name: 'Bling-Bang-Bang-Born' })
-    expect(screen.queryByText(/single/i)).not.toBeInTheDocument()
+    expect(screen.queryByText(/シングル/)).not.toBeInTheDocument()
   })
 
   it('ローディング中を表示する', () => {
