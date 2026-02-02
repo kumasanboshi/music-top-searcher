@@ -1,5 +1,32 @@
 # 進捗記録
 
+## Issue #25: CD情報にアルバム情報を追加する ✅
+
+### 実施内容
+
+- `src/pages/SongDetailPage.tsx` - CD種別を日本語ラベル（シングル/アルバム）で表示するよう変更
+- `src/__tests__/SongDetailPage.test.tsx` - アルバム表示テストを追加、既存テストを日本語ラベルに対応
+- `scripts/create-batch-files.mjs` - アルバムタイトルテンプレート追加、全エントリにアルバム情報を生成
+- `scripts/generate-data.mjs` - cdInfo配列にアルバムエントリを出力するよう修正
+- 全楽曲データ（約10,000件）を再生成
+
+### 検証結果
+
+- test: ✅ 90テスト全通過
+- lint: ✅ エラーなし
+- typecheck: ⚠️ 既存エラーあり（validateRanking.test.tsのfs/path import、Issue #25とは無関係）
+
+### コミット履歴
+
+- `33abbcba` test: CD情報のアルバム表示テストを追加
+- `9e447d8b` feat: CD情報にアルバム情報を追加
+- `e5f609ff` Merge pull request #30
+
+### 備考
+
+- 型定義（`type: 'single' | 'album'`）は既に対応済みだったため変更不要
+- 将来EP等の種別追加時はternary演算子をmapオブジェクトに置き換えることを推奨
+
 ## Issue #1: プロジェクト初期セットアップ（React + TypeScript） ✅
 
 ### 実施内容
