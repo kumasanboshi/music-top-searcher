@@ -1,5 +1,33 @@
 # 進捗記録
 
+## Issue #27: YouTube検索リンクを追加する ✅
+
+### 実施内容
+
+- `src/pages/SongDetailPage.tsx` - 外部リンクセクションにYouTube検索リンクを追加。表示条件を`isOnline`のみに変更し、externalLinksが未定義でもYouTubeリンクを常に表示
+- `src/__tests__/SongDetailPage.test.tsx` - YouTube検索リンクのテスト2件を追加（正常表示、externalLinks未定義時の表示）
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 92 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `70b2b1d3` | test: YouTube検索リンクのテストを追加 |
+| `c4990f56` | feat: YouTube検索リンクを楽曲詳細ページに追加 |
+| `4a6771b0` | Merge pull request #31 |
+
+### 備考
+
+- YouTube検索URLは`encodeURIComponent(artist + ' ' + title)`で動的生成（JSONデータ変更不要）
+- 検証サブエージェントにより、日本語アーティスト名・特殊文字のテストケース追加、URL生成のユーティリティ関数抽出が改善候補として指摘
+
 ## Issue #25: CD情報にアルバム情報を追加する ✅
 
 ### 実施内容
