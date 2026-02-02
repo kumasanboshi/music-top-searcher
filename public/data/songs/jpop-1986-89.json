@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1986-89",
-    "title": "花メロディ",
+    "title": "森の空",
     "artist": {
-      "id": "a-anri",
-      "name": "杏里"
+      "id": "a-rebecca",
+      "name": "レベッカ"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 89,
   "cdInfo": [
     {
-      "title": "花メロディ",
+      "title": "森の空",
       "type": "single",
-      "releaseDate": "1986-09-14"
+      "releaseDate": "1986-08-27"
+    },
+    {
+      "title": "旅アルバム",
+      "type": "album",
+      "releaseDate": "1986-11-06"
     }
   ],
   "externalLinks": {
@@ -23,377 +28,338 @@
   },
   "artistSongs": [
     {
-      "rank": 18,
+      "rank": 58,
       "song": {
-        "id": "jpop-1989-18",
-        "title": "空の季節",
+        "id": "jpop-1989-58",
+        "title": "星のリズム",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1989
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1989-33",
-        "title": "太陽ストーリー",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-1989-40",
-        "title": "桜フォーエバー",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1989-81",
-        "title": "涙の時間",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1989-87",
-        "title": "涙の空",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1989-96",
-        "title": "花の夜",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1989-100",
-        "title": "記憶の約束",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-1988-16",
-        "title": "君の街",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-1988-55",
-        "title": "森の花",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
     },
     {
       "rank": 75,
       "song": {
-        "id": "jpop-1988-75",
-        "title": "青い波",
+        "id": "jpop-1989-75",
+        "title": "風の記憶",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1989-83",
+        "title": "桜物語",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1989-85",
+        "title": "冬の海",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1989-92",
+        "title": "真夜中の桜",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1989-95",
+        "title": "夢の約束",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-1988-24",
+        "title": "雪サンセット",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 15,
+      "rank": 27,
       "song": {
-        "id": "jpop-1987-15",
-        "title": "恋の希望",
+        "id": "jpop-1988-27",
+        "title": "月の街",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
-      "year": 1987
+      "year": 1988
     },
     {
-      "rank": 19,
+      "rank": 28,
       "song": {
-        "id": "jpop-1987-19",
-        "title": "夢の影",
+        "id": "jpop-1988-28",
+        "title": "恋の約束",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
-      "year": 1987
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1987-22",
-        "title": "花の記憶",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-1987-26",
-        "title": "恋の花",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "jpop-1987-32",
-        "title": "恋の記憶",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1987-52",
-        "title": "記憶フォーエバー",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1987-85",
-        "title": "恋の夏",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1987-88",
-        "title": "夜の記憶",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1987-90",
-        "title": "花メロディ",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-1987-93",
-        "title": "恋の森",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1987-97",
-        "title": "星の街",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1987-98",
-        "title": "記憶ストーリー",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1986-12",
-        "title": "虹ストーリー",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1986-20",
-        "title": "夏ストーリー",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1986-21",
-        "title": "約束の歌",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
+      "year": 1988
     },
     {
       "rank": 33,
       "song": {
-        "id": "jpop-1986-33",
-        "title": "風の約束",
+        "id": "jpop-1988-33",
+        "title": "真夜中の花",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1988-42",
+        "title": "桜フォーエバー",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-1988-48",
+        "title": "恋の歌",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-1988-64",
+        "title": "夏物語",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1988-72",
+        "title": "風の光",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1988-90",
+        "title": "桜ストーリー",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-1987-10",
+        "title": "フレンズ",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-1987-11",
+        "title": "ミッドナイト虹",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "jpop-1987-18",
+        "title": "夢の朝",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-1987-41",
+        "title": "太陽の花",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-1987-45",
+        "title": "月の街",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-1987-65",
+        "title": "虹サンセット",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1987-68",
+        "title": "星メロディ",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1987-74",
+        "title": "永遠の未来",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1986-42",
+        "title": "世界ストーリー",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 38,
+      "rank": 48,
       "song": {
-        "id": "jpop-1986-38",
-        "title": "桜の夜",
+        "id": "jpop-1986-48",
+        "title": "星の季節",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 47,
+      "rank": 53,
       "song": {
-        "id": "jpop-1986-47",
-        "title": "青い空",
+        "id": "jpop-1986-53",
+        "title": "風の雪",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1986-52",
-        "title": "約束の風",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
@@ -403,491 +369,439 @@
       "rank": 62,
       "song": {
         "id": "jpop-1986-62",
-        "title": "星の太陽",
+        "title": "月メロディ",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 69,
+      "rank": 81,
       "song": {
-        "id": "jpop-1986-69",
-        "title": "冬の海",
+        "id": "jpop-1986-81",
+        "title": "夜の街",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 71,
+      "rank": 100,
       "song": {
-        "id": "jpop-1986-71",
-        "title": "森の夜",
+        "id": "jpop-1986-100",
+        "title": "青い希望",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 44,
+      "rank": 18,
       "song": {
-        "id": "jpop-1985-44",
-        "title": "希望の空",
+        "id": "jpop-1985-18",
+        "title": "虹の記憶",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 52,
+      "rank": 29,
       "song": {
-        "id": "jpop-1985-52",
-        "title": "冬の海",
+        "id": "jpop-1985-29",
+        "title": "夢の空",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 56,
+      "rank": 32,
       "song": {
-        "id": "jpop-1985-56",
-        "title": "君の朝",
+        "id": "jpop-1985-32",
+        "title": "桜の記憶",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 80,
+      "rank": 41,
       "song": {
-        "id": "jpop-1985-80",
-        "title": "光フォーエバー",
+        "id": "jpop-1985-41",
+        "title": "最後の太陽",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 82,
+      "rank": 43,
       "song": {
-        "id": "jpop-1985-82",
-        "title": "記憶の街",
+        "id": "jpop-1985-43",
+        "title": "君の雨",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 87,
+      "rank": 54,
       "song": {
-        "id": "jpop-1985-87",
-        "title": "朝の光",
+        "id": "jpop-1985-54",
+        "title": "朝の道",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 99,
+      "rank": 68,
       "song": {
-        "id": "jpop-1985-99",
-        "title": "旅の花",
+        "id": "jpop-1985-68",
+        "title": "星の桜",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 20,
+      "rank": 90,
       "song": {
-        "id": "jpop-1984-20",
-        "title": "冬のかけら",
+        "id": "jpop-1985-90",
+        "title": "森の空",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1985-96",
+        "title": "約束の空",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1985-97",
+        "title": "桜のリズム",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1984-58",
+        "title": "星の愛",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 44,
+      "rank": 64,
       "song": {
-        "id": "jpop-1984-44",
-        "title": "希望の空",
+        "id": "jpop-1984-64",
+        "title": "約束の冬",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 52,
+      "rank": 86,
       "song": {
-        "id": "jpop-1984-52",
-        "title": "永遠の光",
+        "id": "jpop-1984-86",
+        "title": "雪の季節",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 57,
+      "rank": 93,
       "song": {
-        "id": "jpop-1984-57",
-        "title": "影の海",
+        "id": "jpop-1984-93",
+        "title": "約束物語",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 6,
+      "rank": 17,
       "song": {
-        "id": "jpop-1983-06",
-        "title": "キャッツ・アイ",
+        "id": "jpop-1983-17",
+        "title": "約束の空",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 40,
+      "rank": 27,
       "song": {
-        "id": "jpop-1983-40",
-        "title": "光の歌",
+        "id": "jpop-1983-27",
+        "title": "約束の朝",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 45,
+      "rank": 32,
       "song": {
-        "id": "jpop-1983-45",
-        "title": "約束のかけら",
+        "id": "jpop-1983-32",
+        "title": "約束の海",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1983
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1983-61",
-        "title": "希望の光",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1983-83",
-        "title": "君の未来",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1982-24",
-        "title": "雪の海",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
     },
     {
       "rank": 36,
       "song": {
-        "id": "jpop-1982-36",
-        "title": "夢の雪",
+        "id": "jpop-1983-36",
+        "title": "海の海",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-1983-66",
+        "title": "希望の空",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1983-71",
+        "title": "星サンセット",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1983-75",
+        "title": "時間のリズム",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1983-94",
+        "title": "朝フォーエバー",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1982-23",
+        "title": "世界フォーエバー",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 55,
+      "rank": 39,
       "song": {
-        "id": "jpop-1982-55",
-        "title": "夢サンセット",
+        "id": "jpop-1982-39",
+        "title": "青い星",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1982
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1982-73",
-        "title": "ミッドナイト時間",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1982-95",
-        "title": "波のリズム",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-1981-26",
-        "title": "約束の空",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
     },
     {
       "rank": 36,
       "song": {
         "id": "jpop-1981-36",
-        "title": "街ストーリー",
+        "title": "未来物語",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 57,
+      "rank": 46,
       "song": {
-        "id": "jpop-1981-57",
-        "title": "海の季節",
+        "id": "jpop-1981-46",
+        "title": "夏の道",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 74,
+      "rank": 62,
       "song": {
-        "id": "jpop-1981-74",
-        "title": "星の約束",
+        "id": "jpop-1981-62",
+        "title": "約束の夜",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 99,
+      "rank": 72,
       "song": {
-        "id": "jpop-1981-99",
-        "title": "森の夜",
+        "id": "jpop-1981-72",
+        "title": "朝の空",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 100,
+      "rank": 27,
       "song": {
-        "id": "jpop-1981-100",
-        "title": "永遠の桜",
+        "id": "jpop-1980-27",
+        "title": "永遠の愛",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-1980-11",
-        "title": "希望のかけら",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 13,
+      "rank": 69,
       "song": {
-        "id": "jpop-1980-13",
-        "title": "永遠の月",
+        "id": "jpop-1980-69",
+        "title": "雨の約束",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 33,
+      "rank": 85,
       "song": {
-        "id": "jpop-1980-33",
-        "title": "森サンセット",
+        "id": "jpop-1980-85",
+        "title": "時間の夜",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1980-45",
-        "title": "夏のかけら",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1980-53",
-        "title": "月の季節",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1980-75",
-        "title": "桜の夜",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1980-97",
-        "title": "風の森",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1980-99",
-        "title": "夢の季節",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-rebecca",
+          "name": "レベッカ"
         },
         "genre": "jpop"
       },

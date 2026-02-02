@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2012-87",
-    "title": "Shadow Heart",
+    "title": "Falling Shadow",
     "artist": {
-      "id": "a-billie",
-      "name": "Billie Eilish"
+      "id": "a-taylor",
+      "name": "Taylor Swift"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 87,
   "cdInfo": [
     {
-      "title": "Shadow Heart",
+      "title": "Falling Shadow",
       "type": "single",
-      "releaseDate": "2012-01-13"
+      "releaseDate": "2012-03-06"
+    },
+    {
+      "title": "Light Unplugged",
+      "type": "album",
+      "releaseDate": "2012-06-28"
     }
   ],
   "externalLinks": {
@@ -23,143 +28,91 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 23,
       "song": {
-        "id": "west-2025-12",
-        "title": "Road Rain",
+        "id": "west-2025-23",
+        "title": "Sweet Star",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2025
     },
     {
-      "rank": 24,
+      "rank": 25,
       "song": {
-        "id": "west-2025-24",
-        "title": "City Way",
+        "id": "west-2025-25",
+        "title": "Falling Moon",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2025
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2025-90",
+        "title": "Thunder Heart",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2023-17",
+        "title": "Fading Summer",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2023-33",
+        "title": "Dancing Shadow",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2023-41",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2023
     },
     {
       "rank": 45,
       "song": {
-        "id": "west-2025-45",
-        "title": "Dawn Night",
+        "id": "west-2023-45",
+        "title": "Thunder Love",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2025-60",
-        "title": "Shining Sky",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2025-63",
-        "title": "Golden Thunder",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2025-89",
-        "title": "Sun Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2025-92",
-        "title": "Sweet Rose",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2023-19",
-        "title": "Shining River",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2023-40",
-        "title": "Shining Wind",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2023-46",
-        "title": "Electric Dusk",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2023-54",
-        "title": "Gold Rain",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
@@ -169,166 +122,114 @@
       "rank": 56,
       "song": {
         "id": "west-2023-56",
-        "title": "Into the Storm",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2023
     },
     {
-      "rank": 58,
+      "rank": 95,
       "song": {
-        "id": "west-2023-58",
-        "title": "Fading Silver",
+        "id": "west-2023-95",
+        "title": "Broken Light",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2023
     },
     {
-      "rank": 92,
+      "rank": 11,
       "song": {
-        "id": "west-2023-92",
-        "title": "Last River",
+        "id": "west-2022-11",
+        "title": "Midnight Diamond",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
-      "year": 2023
+      "year": 2022
     },
     {
-      "rank": 98,
+      "rank": 46,
       "song": {
-        "id": "west-2023-98",
-        "title": "Never Star",
+        "id": "west-2022-46",
+        "title": "Thunder Night",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
-      "year": 2023
+      "year": 2022
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2022-56",
+        "title": "Chasing Ocean",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2022-67",
+        "title": "Into the Shadow",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2022
     },
     {
       "rank": 13,
       "song": {
-        "id": "west-2022-13",
-        "title": "Last Snow",
+        "id": "west-2021-13",
+        "title": "Dancing Crystal",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2022-21",
-        "title": "Sun Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2022-40",
-        "title": "Sweet Moon",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2022-86",
-        "title": "Ocean Heart",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2022-92",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2022-96",
-        "title": "Lost in Star",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2021-32",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2021
     },
     {
-      "rank": 85,
+      "rank": 83,
       "song": {
-        "id": "west-2021-85",
-        "title": "Wild City",
+        "id": "west-2021-83",
+        "title": "Moon Soul",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2021
     },
     {
-      "rank": 88,
+      "rank": 91,
       "song": {
-        "id": "west-2021-88",
-        "title": "Rose Fire",
+        "id": "west-2021-91",
+        "title": "Electric Wind",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
@@ -337,115 +238,206 @@
     {
       "rank": 93,
       "song": {
-        "id": "west-2020-93",
-        "title": "Ocean Lights",
+        "id": "west-2021-93",
+        "title": "Last Storm",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2021-95",
+        "title": "Summer Night",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2021-98",
+        "title": "Wild Wave",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2020-16",
+        "title": "River Forever",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2020
     },
     {
-      "rank": 97,
+      "rank": 35,
       "song": {
-        "id": "west-2020-97",
-        "title": "Electric Wind",
+        "id": "west-2020-35",
+        "title": "Dancing Dawn",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2020
     },
     {
-      "rank": 17,
+      "rank": 86,
       "song": {
-        "id": "west-2019-17",
-        "title": "Wind Moonlight",
+        "id": "west-2020-86",
+        "title": "Road Sky",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2020-99",
+        "title": "Fire Sky",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2020-100",
+        "title": "Thunder Dreams",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2019-25",
+        "title": "Lost in Bridge",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 58,
+      "rank": 35,
       "song": {
-        "id": "west-2019-58",
-        "title": "Gold Dreams",
+        "id": "west-2019-35",
+        "title": "Snow Lights",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 74,
+      "rank": 46,
       "song": {
-        "id": "west-2019-74",
-        "title": "Crystal Way",
+        "id": "west-2019-46",
+        "title": "Light Lights",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 94,
+      "rank": 51,
       "song": {
-        "id": "west-2019-94",
-        "title": "Star Forever",
+        "id": "west-2019-51",
+        "title": "Fading Fire",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 27,
+      "rank": 76,
       "song": {
-        "id": "west-2018-27",
-        "title": "Last Sun",
+        "id": "west-2019-76",
+        "title": "Storm Sky",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2018-18",
+        "title": "Dancing City",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 50,
+      "rank": 30,
       "song": {
-        "id": "west-2018-50",
-        "title": "Last Flame",
+        "id": "west-2018-30",
+        "title": "Storm Rain",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 54,
+      "rank": 37,
       "song": {
-        "id": "west-2018-54",
-        "title": "Lost in Rain",
+        "id": "west-2018-37",
+        "title": "Last Diamond",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
@@ -455,205 +447,179 @@
       "rank": 78,
       "song": {
         "id": "west-2018-78",
-        "title": "Flame Love",
+        "title": "Lost in Road",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 81,
+      "rank": 79,
       "song": {
-        "id": "west-2018-81",
-        "title": "Broken Rain",
+        "id": "west-2018-79",
+        "title": "Storm Way",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 89,
+      "rank": 82,
       "song": {
-        "id": "west-2018-89",
-        "title": "Snow Love",
+        "id": "west-2018-82",
+        "title": "Bridge Love",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 97,
+      "rank": 85,
       "song": {
-        "id": "west-2018-97",
-        "title": "Moon Dreams",
+        "id": "west-2018-85",
+        "title": "Sweet Thunder",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 34,
+      "rank": 33,
       "song": {
-        "id": "west-2017-34",
-        "title": "Midnight Road",
+        "id": "west-2017-33",
+        "title": "Under the Wind",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 37,
+      "rank": 42,
       "song": {
-        "id": "west-2017-37",
-        "title": "Fading Storm",
+        "id": "west-2017-42",
+        "title": "Chasing River",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 49,
+      "rank": 61,
       "song": {
-        "id": "west-2017-49",
-        "title": "Last Ice",
+        "id": "west-2017-61",
+        "title": "Lost in Light",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2017
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-2016-52",
+        "title": "Fire Sky",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2016
     },
     {
       "rank": 53,
       "song": {
-        "id": "west-2017-53",
-        "title": "Electric Light",
+        "id": "west-2016-53",
+        "title": "Running Rose",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2016
     },
     {
-      "rank": 91,
+      "rank": 62,
       "song": {
-        "id": "west-2017-91",
-        "title": "Diamond Tears",
+        "id": "west-2016-62",
+        "title": "Fading Shadow",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2016
     },
     {
-      "rank": 94,
+      "rank": 78,
       "song": {
-        "id": "west-2017-94",
-        "title": "Dusk Moonlight",
+        "id": "west-2016-78",
+        "title": "Shining Rose",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2016
     },
     {
       "rank": 95,
       "song": {
-        "id": "west-2017-95",
-        "title": "Winter Way",
+        "id": "west-2016-95",
+        "title": "Wave Tears",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2016-11",
-        "title": "Winter Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 34,
+      "rank": 97,
       "song": {
-        "id": "west-2016-34",
-        "title": "Sky Moonlight",
+        "id": "west-2016-97",
+        "title": "Wild Road",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 48,
+      "rank": 37,
       "song": {
-        "id": "west-2016-48",
-        "title": "Lost in Ice",
+        "id": "west-2015-37",
+        "title": "Electric Rain",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2016-100",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2015-39",
-        "title": "Fading Gold",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
@@ -663,75 +629,75 @@
       "rank": 40,
       "song": {
         "id": "west-2015-40",
-        "title": "Broken Wave",
+        "title": "Last Sky",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 79,
+      "rank": 52,
       "song": {
-        "id": "west-2015-79",
-        "title": "Falling Storm",
+        "id": "west-2015-52",
+        "title": "Light Lights",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 15,
+      "rank": 56,
       "song": {
-        "id": "west-2014-15",
-        "title": "Sun Lights",
+        "id": "west-2015-56",
+        "title": "Wild Gold",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2015-87",
+        "title": "Under the Sky",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2014-16",
+        "title": "Running Ocean",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 18,
+      "rank": 53,
       "song": {
-        "id": "west-2014-18",
-        "title": "Rose Lights",
+        "id": "west-2014-53",
+        "title": "City Sky",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2014-41",
-        "title": "Silver Heart",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2014-42",
-        "title": "Fading Light",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
@@ -741,75 +707,114 @@
       "rank": 65,
       "song": {
         "id": "west-2014-65",
-        "title": "Fading Snow",
+        "title": "Running Snow",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 94,
+      "rank": 67,
       "song": {
-        "id": "west-2014-94",
-        "title": "Dancing Road",
+        "id": "west-2014-67",
+        "title": "Shining Wind",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2014
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2014-96",
-        "title": "River Lights",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2013-62",
-        "title": "Ice Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
     },
     {
       "rank": 68,
       "song": {
-        "id": "west-2013-68",
-        "title": "Light Sky",
+        "id": "west-2014-68",
+        "title": "Flame Forever",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2014-78",
+        "title": "Wild Fire",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2014-82",
+        "title": "Dancing Thunder",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2013-21",
+        "title": "Running Diamond",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 86,
+      "rank": 25,
       "song": {
-        "id": "west-2013-86",
-        "title": "Dancing Wave",
+        "id": "west-2013-25",
+        "title": "Wild Mountain",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2013-58",
+        "title": "Never Gold",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2013-84",
+        "title": "Moon Way",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
@@ -819,114 +824,88 @@
       "rank": 87,
       "song": {
         "id": "west-2013-87",
-        "title": "Shadow Night",
+        "title": "Fire Fire",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 19,
+      "rank": 13,
       "song": {
-        "id": "west-2012-19",
-        "title": "Sky Fire",
+        "id": "west-2012-13",
+        "title": "Falling Winter",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 69,
+      "rank": 14,
       "song": {
-        "id": "west-2012-69",
-        "title": "Lost in Bridge",
+        "id": "west-2012-14",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 72,
+      "rank": 29,
       "song": {
-        "id": "west-2012-72",
-        "title": "Ice Sky",
+        "id": "west-2012-29",
+        "title": "Broken Diamond",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 75,
+      "rank": 36,
       "song": {
-        "id": "west-2012-75",
-        "title": "Wild Winter",
+        "id": "west-2012-36",
+        "title": "Sweet Road",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 78,
+      "rank": 97,
       "song": {
-        "id": "west-2012-78",
-        "title": "Wave Lights",
+        "id": "west-2012-97",
+        "title": "Shining Crystal",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 98,
+      "rank": 11,
       "song": {
-        "id": "west-2012-98",
-        "title": "Light Tears",
+        "id": "west-2011-11",
+        "title": "Silver Way",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2011-18",
-        "title": "Gold Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2011-42",
-        "title": "Thunder Moonlight",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
@@ -936,114 +915,88 @@
       "rank": 63,
       "song": {
         "id": "west-2011-63",
-        "title": "Fire Night",
+        "title": "Lost in Dusk",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 71,
+      "rank": 77,
       "song": {
-        "id": "west-2011-71",
-        "title": "Falling Crystal",
+        "id": "west-2011-77",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },
       "year": 2011
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2011-84",
+        "title": "Sweet Thunder",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2010-22",
+        "title": "Fading Rose",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2010-54",
+        "title": "Light Heart",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2010-65",
+        "title": "Sweet Light",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      },
+      "year": 2010
     },
     {
       "rank": 75,
       "song": {
-        "id": "west-2011-75",
-        "title": "Sky Way",
+        "id": "west-2010-75",
+        "title": "Electric Mountain",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2010-45",
-        "title": "Dusk Moonlight",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2010-47",
-        "title": "Last Wind",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2010-60",
-        "title": "Wind Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2010-70",
-        "title": "Never Crystal",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2010-85",
-        "title": "Broken Moon",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2010-95",
-        "title": "Fading Ice",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       },

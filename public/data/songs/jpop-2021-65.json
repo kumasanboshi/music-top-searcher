@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-2021-65",
-    "title": "夏の光",
+    "title": "最後の希望",
     "artist": {
       "id": "a-creepy-nuts",
       "name": "Creepy Nuts"
@@ -12,9 +12,14 @@
   "rank": 65,
   "cdInfo": [
     {
-      "title": "夏の光",
+      "title": "最後の希望",
       "type": "single",
-      "releaseDate": "2021-12-05"
+      "releaseDate": "2021-08-27"
+    },
+    {
+      "title": "月セレクション",
+      "type": "album",
+      "releaseDate": "2021-07-21"
     }
   ],
   "externalLinks": {
@@ -23,75 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 41,
       "song": {
-        "id": "jpop-2025-12",
-        "title": "時間の約束",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-2025-16",
-        "title": "恋の希望",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-2025-34",
-        "title": "影フォーエバー",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "jpop-2025-39",
-        "title": "青い月",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-2025-62",
-        "title": "空のかけら",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-2025-66",
-        "title": "海ストーリー",
+        "id": "jpop-2025-41",
+        "title": "風の季節",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -114,10 +54,10 @@
       "year": 2024
     },
     {
-      "rank": 14,
+      "rank": 12,
       "song": {
-        "id": "jpop-2023-14",
-        "title": "朝ストーリー",
+        "id": "jpop-2023-12",
+        "title": "雪の季節",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -127,10 +67,10 @@
       "year": 2023
     },
     {
-      "rank": 56,
+      "rank": 36,
       "song": {
-        "id": "jpop-2023-56",
-        "title": "未来の海",
+        "id": "jpop-2023-36",
+        "title": "冬フォーエバー",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -140,10 +80,10 @@
       "year": 2023
     },
     {
-      "rank": 82,
+      "rank": 43,
       "song": {
-        "id": "jpop-2023-82",
-        "title": "ミッドナイト夏",
+        "id": "jpop-2023-43",
+        "title": "星の朝",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -153,10 +93,10 @@
       "year": 2023
     },
     {
-      "rank": 68,
+      "rank": 12,
       "song": {
-        "id": "jpop-2022-68",
-        "title": "波の街",
+        "id": "jpop-2022-12",
+        "title": "風の海",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -166,10 +106,10 @@
       "year": 2022
     },
     {
-      "rank": 71,
+      "rank": 20,
       "song": {
-        "id": "jpop-2022-71",
-        "title": "海サンセット",
+        "id": "jpop-2022-20",
+        "title": "永遠の時間",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -179,10 +119,10 @@
       "year": 2022
     },
     {
-      "rank": 82,
+      "rank": 30,
       "song": {
-        "id": "jpop-2022-82",
-        "title": "星の光",
+        "id": "jpop-2022-30",
+        "title": "海ストーリー",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -192,10 +132,10 @@
       "year": 2022
     },
     {
-      "rank": 83,
+      "rank": 34,
       "song": {
-        "id": "jpop-2022-83",
-        "title": "星の街",
+        "id": "jpop-2022-34",
+        "title": "時間の花",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -203,142 +143,246 @@
         "genre": "jpop"
       },
       "year": 2022
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2022-86",
-        "title": "星の虹",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-2021-13",
-        "title": "ミッドナイト海",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-2021-17",
-        "title": "空のリズム",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-2021-31",
-        "title": "青い光",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2021-42",
-        "title": "時間サンセット",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-2021-69",
-        "title": "風の約束",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-2021-82",
-        "title": "影の光",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2021-86",
-        "title": "月の記憶",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2020-18",
-        "title": "真夜中の花",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-2020-28",
-        "title": "旅サンセット",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
     },
     {
       "rank": 45,
       "song": {
-        "id": "jpop-2020-45",
-        "title": "真夜中の海",
+        "id": "jpop-2022-45",
+        "title": "永遠の夢",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2022-46",
+        "title": "影の歌",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-2022-63",
+        "title": "光の光",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-2022-69",
+        "title": "世界の夜",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2022-77",
+        "title": "恋の波",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2022-92",
+        "title": "記憶の海",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-2022-93",
+        "title": "空の季節",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-2022-99",
+        "title": "風の夜",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2022-100",
+        "title": "ミッドナイト空",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-2021-21",
+        "title": "風の海",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-2021-22",
+        "title": "約束の雨",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2021-38",
+        "title": "冬のかけら",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2021-77",
+        "title": "風ストーリー",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-2021-78",
+        "title": "夢の海",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-2020-16",
+        "title": "雪の海",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-2020-34",
+        "title": "朝の海",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-2020-36",
+        "title": "恋の記憶",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "jpop-2020-37",
+        "title": "記憶の海",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2020-48",
+        "title": "星の恋",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -351,7 +395,7 @@
       "rank": 50,
       "song": {
         "id": "jpop-2020-50",
-        "title": "永遠の森",
+        "title": "光の海",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -361,10 +405,10 @@
       "year": 2020
     },
     {
-      "rank": 60,
+      "rank": 55,
       "song": {
-        "id": "jpop-2020-60",
-        "title": "真夜中の空",
+        "id": "jpop-2020-55",
+        "title": "夢の街",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -374,10 +418,10 @@
       "year": 2020
     },
     {
-      "rank": 82,
+      "rank": 61,
       "song": {
-        "id": "jpop-2020-82",
-        "title": "君の記憶",
+        "id": "jpop-2020-61",
+        "title": "記憶の街",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -387,10 +431,10 @@
       "year": 2020
     },
     {
-      "rank": 84,
+      "rank": 75,
       "song": {
-        "id": "jpop-2020-84",
-        "title": "夜メロディ",
+        "id": "jpop-2020-75",
+        "title": "未来の海",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"
@@ -400,10 +444,36 @@
       "year": 2020
     },
     {
-      "rank": 98,
+      "rank": 80,
       "song": {
-        "id": "jpop-2020-98",
-        "title": "雨の記憶",
+        "id": "jpop-2020-80",
+        "title": "波の歌",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2020-81",
+        "title": "雪の歌",
+        "artist": {
+          "id": "a-creepy-nuts",
+          "name": "Creepy Nuts"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2020-97",
+        "title": "影メロディ",
         "artist": {
           "id": "a-creepy-nuts",
           "name": "Creepy Nuts"

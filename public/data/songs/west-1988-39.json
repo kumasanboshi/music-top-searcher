@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1988-39",
-    "title": "Star Heart",
+    "title": "Golden Light",
     "artist": {
-      "id": "a-lionel-richie",
-      "name": "Lionel Richie"
+      "id": "a-tina-turner",
+      "name": "Tina Turner"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 39,
   "cdInfo": [
     {
-      "title": "Star Heart",
+      "title": "Golden Light",
       "type": "single",
-      "releaseDate": "1988-08-09"
+      "releaseDate": "1988-04-09"
+    },
+    {
+      "title": "Thunder Unplugged",
+      "type": "album",
+      "releaseDate": "1988-04-26"
     }
   ],
   "externalLinks": {
@@ -23,819 +28,871 @@
   },
   "artistSongs": [
     {
-      "rank": 32,
+      "rank": 17,
       "song": {
-        "id": "west-1989-32",
-        "title": "Snow Lights",
+        "id": "west-1989-17",
+        "title": "Midnight Wind",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1989-78",
-        "title": "Flame Love",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1988-26",
-        "title": "Golden Rain",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1988-28",
-        "title": "Dancing Rain",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1988-49",
-        "title": "Gold Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1988-60",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1988-70",
-        "title": "Rain Sky",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1988-81",
-        "title": "Shining Winter",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1988-86",
-        "title": "Never Crystal",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1987-14",
-        "title": "Shining Storm",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1987-19",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1987-25",
-        "title": "Golden Diamond",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1987-29",
-        "title": "Broken Star",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1987-59",
-        "title": "Falling Sun",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1987-81",
-        "title": "Lost in Ocean",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 4,
-      "song": {
-        "id": "west-1986-04",
-        "title": "Say You, Say Me",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
     },
     {
       "rank": 18,
       "song": {
-        "id": "west-1986-18",
-        "title": "Dancing Storm",
+        "id": "west-1989-18",
+        "title": "Running Dawn",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1989
     },
     {
       "rank": 24,
       "song": {
-        "id": "west-1986-24",
-        "title": "Electric Bridge",
+        "id": "west-1989-24",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1989
     },
     {
       "rank": 34,
       "song": {
-        "id": "west-1986-34",
-        "title": "Rose Tears",
+        "id": "west-1989-34",
+        "title": "Storm Soul",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1989-54",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1989-58",
+        "title": "Ice Way",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1989-80",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1988-23",
+        "title": "Storm Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1988-30",
+        "title": "Dusk Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1988-43",
+        "title": "Into the Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1988-46",
+        "title": "Wild Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1988-53",
+        "title": "Ice Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1988-65",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1988-79",
+        "title": "Crystal Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1988-90",
+        "title": "Star Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1987-21",
+        "title": "Midnight Crystal",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1987-34",
+        "title": "Bridge Forever",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1987-51",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1987-54",
+        "title": "Electric Dusk",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1987-65",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1987-68",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1987-74",
+        "title": "Sun Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1986-14",
+        "title": "Into the Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 56,
+      "rank": 20,
       "song": {
-        "id": "west-1986-56",
-        "title": "Lost in Winter",
+        "id": "west-1986-20",
+        "title": "Electric Fire",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 67,
+      "rank": 28,
       "song": {
-        "id": "west-1986-67",
-        "title": "Rose Fire",
+        "id": "west-1986-28",
+        "title": "Midnight City",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 82,
+      "rank": 32,
       "song": {
-        "id": "west-1986-82",
-        "title": "Golden Crystal",
+        "id": "west-1986-32",
+        "title": "Wild Mountain",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 83,
+      "rank": 52,
       "song": {
-        "id": "west-1986-83",
-        "title": "Midnight Rose",
+        "id": "west-1986-52",
+        "title": "Mountain Heart",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 99,
+      "rank": 77,
       "song": {
-        "id": "west-1986-99",
-        "title": "Sun Heart",
+        "id": "west-1986-77",
+        "title": "Wild Gold",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 12,
+      "rank": 88,
       "song": {
-        "id": "west-1985-12",
-        "title": "Gold Love",
+        "id": "west-1986-88",
+        "title": "Moon Rain",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1985
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1985-16",
-        "title": "Midnight Wave",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
+      "year": 1986
     },
     {
       "rank": 39,
       "song": {
         "id": "west-1985-39",
-        "title": "Into the Fire",
+        "title": "Winter Love",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 47,
+      "rank": 59,
       "song": {
-        "id": "west-1985-47",
-        "title": "Last Crystal",
+        "id": "west-1985-59",
+        "title": "Electric Storm",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 55,
+      "rank": 65,
       "song": {
-        "id": "west-1985-55",
-        "title": "Sweet Light",
+        "id": "west-1985-65",
+        "title": "Dancing Wave",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 58,
+      "rank": 83,
       "song": {
-        "id": "west-1985-58",
-        "title": "Silver Night",
+        "id": "west-1985-83",
+        "title": "Never Silver",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 80,
+      "rank": 2,
       "song": {
-        "id": "west-1985-80",
-        "title": "Dusk Night",
+        "id": "west-1984-02",
+        "title": "What's Love Got to Do with It",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1985-85",
-        "title": "Wave Dreams",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1985-93",
-        "title": "Fading Diamond",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-1984-07",
-        "title": "Hello",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 19,
+      "rank": 11,
       "song": {
-        "id": "west-1984-19",
-        "title": "Light Moonlight",
+        "id": "west-1984-11",
+        "title": "Mountain Soul",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 27,
+      "rank": 13,
       "song": {
-        "id": "west-1984-27",
-        "title": "Running Thunder",
+        "id": "west-1984-13",
+        "title": "Never Bridge",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 51,
+      "rank": 17,
       "song": {
-        "id": "west-1984-51",
-        "title": "Mountain Lights",
+        "id": "west-1984-17",
+        "title": "Sky Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 62,
+      "rank": 31,
       "song": {
-        "id": "west-1984-62",
-        "title": "Never Road",
+        "id": "west-1984-31",
+        "title": "Rose Heart",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 63,
+      "rank": 32,
       "song": {
-        "id": "west-1984-63",
+        "id": "west-1984-32",
+        "title": "Flame Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1984-38",
+        "title": "Dawn Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1984-41",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1984-43",
+        "title": "Moon Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1984-44",
+        "title": "Dawn Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1984-46",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1984-84",
+        "title": "Snow Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1984-91",
+        "title": "Running Bridge",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1984-92",
+        "title": "Under the Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1983-25",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1983-36",
+        "title": "Lost in Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1983-38",
+        "title": "Rain Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1983-52",
         "title": "Crystal Love",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1983
     },
     {
       "rank": 53,
       "song": {
         "id": "west-1983-53",
-        "title": "Lost in Crystal",
+        "title": "Flame Night",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1983-64",
-        "title": "Thunder Tears",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1983-73",
-        "title": "Sweet Shadow",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1983-87",
-        "title": "Midnight Diamond",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1982-40",
-        "title": "Golden Ice",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1982-43",
-        "title": "Fading Thunder",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1982-46",
-        "title": "Storm Way",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1982-57",
-        "title": "Fading Ice",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1982-62",
-        "title": "Ice Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1982-95",
-        "title": "Ocean Lights",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1981-18",
-        "title": "Under the Silver",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1981-24",
-        "title": "Falling Fire",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1981
     },
     {
       "rank": 58,
       "song": {
-        "id": "west-1981-58",
-        "title": "Wild Mountain",
+        "id": "west-1983-58",
+        "title": "Fading Mountain",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1983-77",
+        "title": "Thunder Way",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1983-83",
+        "title": "Moon Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1982-13",
+        "title": "Falling Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1982-48",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1982-51",
+        "title": "Chasing Sun",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1982-72",
+        "title": "Rose Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1982-93",
+        "title": "Midnight City",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1981-19",
+        "title": "Storm Tears",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 64,
+      "rank": 63,
       "song": {
-        "id": "west-1981-64",
-        "title": "Golden Sky",
+        "id": "west-1981-63",
+        "title": "Wave Night",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 99,
+      "rank": 88,
       "song": {
-        "id": "west-1981-99",
-        "title": "Flame Lights",
+        "id": "west-1981-88",
+        "title": "Last Winter",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 12,
+      "rank": 49,
       "song": {
-        "id": "west-1980-12",
-        "title": "Sweet Bridge",
+        "id": "west-1980-49",
+        "title": "Snow Tears",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 18,
+      "rank": 51,
       "song": {
-        "id": "west-1980-18",
-        "title": "City Moonlight",
+        "id": "west-1980-51",
+        "title": "Falling Winter",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 24,
+      "rank": 62,
       "song": {
-        "id": "west-1980-24",
-        "title": "River Fire",
+        "id": "west-1980-62",
+        "title": "Under the Dusk",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 38,
+      "rank": 87,
       "song": {
-        "id": "west-1980-38",
-        "title": "Sky Tears",
+        "id": "west-1980-87",
+        "title": "Moon Love",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1980-54",
-        "title": "Moon Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1980-74",
-        "title": "Falling Rain",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1980-80",
-        "title": "Sweet River",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1980-85",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1980-92",
-        "title": "Ocean Dreams",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },

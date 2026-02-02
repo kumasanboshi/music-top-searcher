@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2002-66",
-    "title": "Midnight Road",
+    "title": "Thunder Way",
     "artist": {
-      "id": "a-amy",
-      "name": "Amy Winehouse"
+      "id": "a-kanye",
+      "name": "Kanye West"
     },
     "genre": "western"
   },
@@ -12,8 +12,13 @@
   "rank": 66,
   "cdInfo": [
     {
-      "title": "Midnight Road",
+      "title": "Thunder Way",
       "type": "single",
+      "releaseDate": "2002-06-24"
+    },
+    {
+      "title": "Snow Reloaded",
+      "type": "album",
       "releaseDate": "2002-08-04"
     }
   ],
@@ -23,13 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 14,
       "song": {
-        "id": "west-2009-12",
-        "title": "Chasing Star",
+        "id": "west-2009-14",
+        "title": "Ocean Heart",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-2009-29",
+        "title": "Diamond Way",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -39,140 +57,140 @@
       "rank": 31,
       "song": {
         "id": "west-2009-31",
-        "title": "Lost in Rose",
+        "title": "Falling Wind",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 39,
+      "rank": 32,
       "song": {
-        "id": "west-2009-39",
-        "title": "Falling Winter",
+        "id": "west-2009-32",
+        "title": "Electric Light",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 42,
+      "rank": 43,
       "song": {
-        "id": "west-2009-42",
-        "title": "Into the Shadow",
+        "id": "west-2009-43",
+        "title": "Wind Moonlight",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 54,
+      "rank": 78,
       "song": {
-        "id": "west-2009-54",
-        "title": "Dancing Wave",
+        "id": "west-2009-78",
+        "title": "Mountain Tears",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2009
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2009-94",
+        "title": "Shining Dusk",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-2008-11",
+        "title": "Thunder Moonlight",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2008-41",
+        "title": "Dancing Gold",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-2008-51",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2008
     },
     {
       "rank": 65,
       "song": {
-        "id": "west-2009-65",
-        "title": "Storm Forever",
+        "id": "west-2008-65",
+        "title": "Falling Shadow",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2009-66",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2008-17",
-        "title": "Broken Silver",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 48,
+      "rank": 80,
       "song": {
-        "id": "west-2008-48",
-        "title": "Broken Shadow",
+        "id": "west-2008-80",
+        "title": "Gold Dreams",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 49,
+      "rank": 34,
       "song": {
-        "id": "west-2008-49",
-        "title": "Mountain Heart",
+        "id": "west-2007-34",
+        "title": "Sweet Gold",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2008-67",
-        "title": "Electric Light",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2007-13",
-        "title": "Lost in Bridge",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -182,88 +200,101 @@
       "rank": 42,
       "song": {
         "id": "west-2007-42",
-        "title": "Wild Gold",
+        "title": "Midnight Ice",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 74,
+      "rank": 49,
       "song": {
-        "id": "west-2007-74",
-        "title": "Electric Road",
+        "id": "west-2007-49",
+        "title": "Under the Sky",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 83,
+      "rank": 51,
       "song": {
-        "id": "west-2007-83",
-        "title": "Road Moonlight",
+        "id": "west-2007-51",
+        "title": "Fading Dusk",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 95,
+      "rank": 66,
       "song": {
-        "id": "west-2007-95",
-        "title": "Into the Diamond",
+        "id": "west-2007-66",
+        "title": "Chasing City",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 16,
+      "rank": 73,
       "song": {
-        "id": "west-2006-16",
-        "title": "Flame Rain",
+        "id": "west-2007-73",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2006-19",
+        "title": "Wind Night",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 18,
+      "rank": 42,
       "song": {
-        "id": "west-2006-18",
-        "title": "Star Lights",
+        "id": "west-2006-42",
+        "title": "Shadow Dreams",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 43,
+      "rank": 44,
       "song": {
-        "id": "west-2006-43",
-        "title": "River Soul",
+        "id": "west-2006-44",
+        "title": "Falling Gold",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -273,140 +304,166 @@
       "rank": 47,
       "song": {
         "id": "west-2006-47",
-        "title": "Wild Diamond",
+        "title": "Moon Love",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 51,
+      "rank": 67,
       "song": {
-        "id": "west-2006-51",
-        "title": "Never Moon",
+        "id": "west-2006-67",
+        "title": "Sky Moonlight",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 79,
+      "rank": 81,
       "song": {
-        "id": "west-2006-79",
-        "title": "Fading Dawn",
+        "id": "west-2006-81",
+        "title": "Golden Ocean",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 97,
+      "rank": 84,
       "song": {
-        "id": "west-2006-97",
-        "title": "Ice Dreams",
+        "id": "west-2006-84",
+        "title": "Fading Moon",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 99,
+      "rank": 88,
       "song": {
-        "id": "west-2006-99",
-        "title": "Wild Gold",
+        "id": "west-2006-88",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-2005-15",
+        "title": "Lost in Wind",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2005-17",
+        "title": "Dancing Bridge",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2005-22",
+        "title": "Fire Tears",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-2005-39",
+        "title": "Falling Dusk",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
     },
     {
       "rank": 42,
       "song": {
         "id": "west-2005-42",
-        "title": "Road Fire",
+        "title": "Light Heart",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 47,
+      "rank": 58,
       "song": {
-        "id": "west-2005-47",
-        "title": "Wild Dusk",
+        "id": "west-2005-58",
+        "title": "Fading Mountain",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 53,
+      "rank": 67,
       "song": {
-        "id": "west-2005-53",
-        "title": "Sweet Storm",
+        "id": "west-2005-67",
+        "title": "Gold Lights",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 61,
+      "rank": 85,
       "song": {
-        "id": "west-2005-61",
-        "title": "Lost in City",
+        "id": "west-2005-85",
+        "title": "Into the Dawn",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2005-78",
-        "title": "Ocean Dreams",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2005-91",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -416,75 +473,75 @@
       "rank": 96,
       "song": {
         "id": "west-2005-96",
-        "title": "Never Silver",
+        "title": "Under the Ocean",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 31,
+      "rank": 36,
       "song": {
-        "id": "west-2004-31",
-        "title": "Flame Night",
+        "id": "west-2004-36",
+        "title": "Dancing Flame",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 39,
+      "rank": 46,
       "song": {
-        "id": "west-2004-39",
-        "title": "Silver Night",
+        "id": "west-2004-46",
+        "title": "Ocean Dreams",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 41,
+      "rank": 53,
       "song": {
-        "id": "west-2004-41",
-        "title": "Crystal Rain",
+        "id": "west-2004-53",
+        "title": "Silver Lights",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 43,
+      "rank": 67,
       "song": {
-        "id": "west-2004-43",
-        "title": "Snow Tears",
+        "id": "west-2004-67",
+        "title": "Summer Lights",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 57,
+      "rank": 86,
       "song": {
-        "id": "west-2004-57",
-        "title": "Ice Tears",
+        "id": "west-2004-86",
+        "title": "Last Thunder",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -493,167 +550,193 @@
     {
       "rank": 13,
       "song": {
-        "id": "west-2002-13",
-        "title": "Sun Moonlight",
+        "id": "west-2003-13",
+        "title": "Sweet Ocean",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2003-34",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-2003-52",
+        "title": "Into the Moon",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2003-56",
+        "title": "Shining Wave",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2003-60",
+        "title": "Dancing Road",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2003-98",
+        "title": "Fading Sun",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2002-37",
+        "title": "Under the Moon",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 15,
+      "rank": 43,
       "song": {
-        "id": "west-2002-15",
-        "title": "Winter Tears",
+        "id": "west-2002-43",
+        "title": "Never Diamond",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2002
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2002-62",
+        "title": "Bridge Love",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2002-67",
+        "title": "Wind Moonlight",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2002-82",
+        "title": "Under the Light",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2001-17",
+        "title": "Chasing Wave",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2001
     },
     {
       "rank": 21,
       "song": {
-        "id": "west-2002-21",
-        "title": "City Way",
+        "id": "west-2001-21",
+        "title": "Never Rose",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2002-28",
-        "title": "Flame Moonlight",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2002-48",
-        "title": "Fading Bridge",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2002-55",
-        "title": "Sweet Dusk",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2002-57",
-        "title": "Under the Dawn",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2002-73",
-        "title": "Summer Love",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2001-40",
-        "title": "Thunder Heart",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 46,
+      "rank": 36,
       "song": {
-        "id": "west-2001-46",
-        "title": "Winter Lights",
+        "id": "west-2001-36",
+        "title": "Dawn Way",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 58,
+      "rank": 63,
       "song": {
-        "id": "west-2001-58",
-        "title": "Broken Snow",
+        "id": "west-2001-63",
+        "title": "Dusk Heart",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2001-59",
-        "title": "Broken Ice",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2001-65",
-        "title": "Under the Rain",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -663,49 +746,88 @@
       "rank": 68,
       "song": {
         "id": "west-2001-68",
-        "title": "Running Snow",
+        "title": "Winter Dreams",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 11,
+      "rank": 85,
       "song": {
-        "id": "west-2000-11",
-        "title": "Midnight Fire",
+        "id": "west-2001-85",
+        "title": "Under the Storm",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2000-14",
+        "title": "Silver Soul",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 56,
+      "rank": 17,
       "song": {
-        "id": "west-2000-56",
-        "title": "Winter Moonlight",
+        "id": "west-2000-17",
+        "title": "Bridge Way",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 63,
+      "rank": 29,
       "song": {
-        "id": "west-2000-63",
-        "title": "Electric Wave",
+        "id": "west-2000-29",
+        "title": "Shining Thunder",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2000-30",
+        "title": "City Tears",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2000-40",
+        "title": "Thunder Moonlight",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -715,49 +837,36 @@
       "rank": 64,
       "song": {
         "id": "west-2000-64",
-        "title": "Golden Moon",
+        "title": "Dusk Fire",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 65,
+      "rank": 75,
       "song": {
-        "id": "west-2000-65",
-        "title": "Flame Sky",
+        "id": "west-2000-75",
+        "title": "City Night",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 76,
+      "rank": 99,
       "song": {
-        "id": "west-2000-76",
-        "title": "Dancing Wave",
+        "id": "west-2000-99",
+        "title": "City Heart",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2000-86",
-        "title": "Rain Sky",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },

@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-1998-100",
-    "title": "希望の季節",
+    "title": "星の時間",
     "artist": {
       "id": "a-yellow-monkey",
       "name": "THE YELLOW MONKEY"
@@ -12,9 +12,14 @@
   "rank": 100,
   "cdInfo": [
     {
-      "title": "希望の季節",
+      "title": "星の時間",
       "type": "single",
-      "releaseDate": "1998-12-07"
+      "releaseDate": "1998-10-28"
+    },
+    {
+      "title": "風メモリーズ",
+      "type": "album",
+      "releaseDate": "1998-04-14"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 34,
+      "rank": 55,
       "song": {
-        "id": "jpop-1999-34",
-        "title": "風の光",
+        "id": "jpop-1999-55",
+        "title": "雪の海",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -36,10 +41,10 @@
       "year": 1999
     },
     {
-      "rank": 49,
+      "rank": 100,
       "song": {
-        "id": "jpop-1999-49",
-        "title": "涙の未来",
+        "id": "jpop-1999-100",
+        "title": "花サンセット",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -49,49 +54,10 @@
       "year": 1999
     },
     {
-      "rank": 53,
+      "rank": 12,
       "song": {
-        "id": "jpop-1999-53",
-        "title": "希望の約束",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1999-76",
-        "title": "風の道",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1999-95",
-        "title": "夢の約束",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1998-14",
-        "title": "雪メロディ",
+        "id": "jpop-1998-12",
+        "title": "夜のかけら",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -101,10 +67,23 @@
       "year": 1998
     },
     {
-      "rank": 23,
+      "rank": 17,
       "song": {
-        "id": "jpop-1998-23",
-        "title": "最後の恋",
+        "id": "jpop-1998-17",
+        "title": "恋の雨",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-1998-32",
+        "title": "恋メロディ",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -117,7 +96,7 @@
       "rank": 37,
       "song": {
         "id": "jpop-1998-37",
-        "title": "影フォーエバー",
+        "title": "星の虹",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -125,194 +104,116 @@
         "genre": "jpop"
       },
       "year": 1998
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-1998-41",
+        "title": "愛の季節",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1998-75",
+        "title": "涙の雪",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-1997-29",
+        "title": "夢の空",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1997-74",
+        "title": "約束の雪",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1997-86",
+        "title": "森のかけら",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1996-34",
+        "title": "街の夜",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-1996-44",
+        "title": "最後の未来",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1996-54",
+        "title": "波ストーリー",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
     },
     {
       "rank": 56,
       "song": {
-        "id": "jpop-1998-56",
-        "title": "青い影",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1998-94",
-        "title": "時間の歌",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1997-36",
-        "title": "雨の約束",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-1997-47",
-        "title": "月の街",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1997-50",
-        "title": "君の夜",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-1997-69",
-        "title": "青い桜",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1997-73",
-        "title": "海の花",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1997-80",
-        "title": "風の桜",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1996-21",
-        "title": "風サンセット",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1996-37",
-        "title": "恋の歌",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "jpop-1996-59",
-        "title": "夢の雨",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1996-76",
-        "title": "波の記憶",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1996-77",
-        "title": "未来ストーリー",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1996-82",
-        "title": "最後の星",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1996-87",
-        "title": "光ストーリー",
+        "id": "jpop-1996-56",
+        "title": "太陽のかけら",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -325,7 +226,7 @@
       "rank": 100,
       "song": {
         "id": "jpop-1996-100",
-        "title": "夏の光",
+        "title": "記憶の街",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -335,10 +236,10 @@
       "year": 1996
     },
     {
-      "rank": 14,
+      "rank": 20,
       "song": {
-        "id": "jpop-1995-14",
-        "title": "ミッドナイト希望",
+        "id": "jpop-1995-20",
+        "title": "永遠の世界",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -348,10 +249,10 @@
       "year": 1995
     },
     {
-      "rank": 17,
+      "rank": 47,
       "song": {
-        "id": "jpop-1995-17",
-        "title": "最後の約束",
+        "id": "jpop-1995-47",
+        "title": "真夜中の夜",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -361,62 +262,10 @@
       "year": 1995
     },
     {
-      "rank": 25,
+      "rank": 65,
       "song": {
-        "id": "jpop-1995-25",
-        "title": "ミッドナイト雨",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-1995-30",
-        "title": "ミッドナイト桜",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1995-45",
-        "title": "雪の花",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1995-61",
-        "title": "約束物語",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1995-67",
-        "title": "ミッドナイト虹",
+        "id": "jpop-1995-65",
+        "title": "夢の未来",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -429,7 +278,7 @@
       "rank": 70,
       "song": {
         "id": "jpop-1995-70",
-        "title": "夜の歌",
+        "title": "虹の空",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -439,10 +288,10 @@
       "year": 1995
     },
     {
-      "rank": 85,
+      "rank": 93,
       "song": {
-        "id": "jpop-1995-85",
-        "title": "君の花",
+        "id": "jpop-1995-93",
+        "title": "涙の夏",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -452,10 +301,10 @@
       "year": 1995
     },
     {
-      "rank": 22,
+      "rank": 20,
       "song": {
-        "id": "jpop-1994-22",
-        "title": "最後の森",
+        "id": "jpop-1994-20",
+        "title": "花の光",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -465,10 +314,49 @@
       "year": 1994
     },
     {
-      "rank": 24,
+      "rank": 27,
       "song": {
-        "id": "jpop-1994-24",
-        "title": "海フォーエバー",
+        "id": "jpop-1994-27",
+        "title": "ミッドナイト希望",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1994-34",
+        "title": "夏の街",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1994-63",
+        "title": "未来の道",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1994-69",
+        "title": "世界の夜",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -480,138 +368,112 @@
     {
       "rank": 36,
       "song": {
-        "id": "jpop-1994-36",
-        "title": "夏の記憶",
+        "id": "jpop-1993-36",
+        "title": "星の空",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
         },
         "genre": "jpop"
       },
-      "year": 1994
+      "year": 1993
     },
     {
-      "rank": 43,
+      "rank": 37,
       "song": {
-        "id": "jpop-1994-43",
-        "title": "風の森",
+        "id": "jpop-1993-37",
+        "title": "風の約束",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
         },
         "genre": "jpop"
       },
-      "year": 1994
+      "year": 1993
     },
     {
-      "rank": 52,
+      "rank": 42,
       "song": {
-        "id": "jpop-1994-52",
-        "title": "星の冬",
+        "id": "jpop-1993-42",
+        "title": "海ストーリー",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
         },
         "genre": "jpop"
       },
-      "year": 1994
+      "year": 1993
     },
     {
-      "rank": 58,
+      "rank": 50,
       "song": {
-        "id": "jpop-1994-58",
-        "title": "星の太陽",
+        "id": "jpop-1993-50",
+        "title": "桜のかけら",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
         },
         "genre": "jpop"
       },
-      "year": 1994
+      "year": 1993
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1993-97",
+        "title": "真夜中の冬",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1992-31",
+        "title": "約束の波",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1992-57",
+        "title": "空の歌",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-1992-59",
+        "title": "森のかけら",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
     },
     {
       "rank": 60,
       "song": {
-        "id": "jpop-1994-60",
-        "title": "影サンセット",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1994-65",
-        "title": "夢の光",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1994-89",
-        "title": "恋の雨",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1993-68",
-        "title": "星の波",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1993-72",
-        "title": "記憶の街",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1993-79",
-        "title": "風の希望",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1992-12",
-        "title": "真夜中の夜",
+        "id": "jpop-1992-60",
+        "title": "太陽の空",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -621,10 +483,10 @@
       "year": 1992
     },
     {
-      "rank": 39,
+      "rank": 62,
       "song": {
-        "id": "jpop-1992-39",
-        "title": "影物語",
+        "id": "jpop-1992-62",
+        "title": "影の季節",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -634,10 +496,10 @@
       "year": 1992
     },
     {
-      "rank": 87,
+      "rank": 71,
       "song": {
-        "id": "jpop-1992-87",
-        "title": "永遠の約束",
+        "id": "jpop-1992-71",
+        "title": "恋の影",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -647,36 +509,10 @@
       "year": 1992
     },
     {
-      "rank": 94,
+      "rank": 20,
       "song": {
-        "id": "jpop-1992-94",
-        "title": "星のかけら",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1992-95",
-        "title": "花のかけら",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1991-84",
-        "title": "森ストーリー",
+        "id": "jpop-1991-20",
+        "title": "冬の約束",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -686,10 +522,114 @@
       "year": 1991
     },
     {
-      "rank": 14,
+      "rank": 24,
       "song": {
-        "id": "jpop-1990-14",
-        "title": "虹物語",
+        "id": "jpop-1991-24",
+        "title": "君の愛",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1991-35",
+        "title": "約束の記憶",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1991-50",
+        "title": "君の桜",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-1991-60",
+        "title": "最後の星",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-1991-64",
+        "title": "花のかけら",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1991-85",
+        "title": "君の夢",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1991-92",
+        "title": "雪ストーリー",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1991-96",
+        "title": "太陽のかけら",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1990-31",
+        "title": "旅の道",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -699,10 +639,10 @@
       "year": 1990
     },
     {
-      "rank": 33,
+      "rank": 39,
       "song": {
-        "id": "jpop-1990-33",
-        "title": "ミッドナイト時間",
+        "id": "jpop-1990-39",
+        "title": "愛物語",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -712,10 +652,10 @@
       "year": 1990
     },
     {
-      "rank": 34,
+      "rank": 43,
       "song": {
-        "id": "jpop-1990-34",
-        "title": "花の道",
+        "id": "jpop-1990-43",
+        "title": "朝の歌",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -725,10 +665,10 @@
       "year": 1990
     },
     {
-      "rank": 83,
+      "rank": 69,
       "song": {
-        "id": "jpop-1990-83",
-        "title": "風の希望",
+        "id": "jpop-1990-69",
+        "title": "青い夢",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -738,10 +678,10 @@
       "year": 1990
     },
     {
-      "rank": 86,
+      "rank": 77,
       "song": {
-        "id": "jpop-1990-86",
-        "title": "真夜中の世界",
+        "id": "jpop-1990-77",
+        "title": "光の海",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"
@@ -751,10 +691,36 @@
       "year": 1990
     },
     {
-      "rank": 93,
+      "rank": 81,
       "song": {
-        "id": "jpop-1990-93",
-        "title": "旅の空",
+        "id": "jpop-1990-81",
+        "title": "街のリズム",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1990-91",
+        "title": "真夜中の夜",
+        "artist": {
+          "id": "a-yellow-monkey",
+          "name": "THE YELLOW MONKEY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1990-94",
+        "title": "光の夜",
         "artist": {
           "id": "a-yellow-monkey",
           "name": "THE YELLOW MONKEY"

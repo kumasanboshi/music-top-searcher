@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1976-40",
-    "title": "Sweet Gold",
+    "title": "Shadow Forever",
     "artist": {
-      "id": "a-wings",
-      "name": "Paul McCartney & Wings"
+      "id": "a-stevie-wonder",
+      "name": "Stevie Wonder"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 40,
   "cdInfo": [
     {
-      "title": "Sweet Gold",
+      "title": "Shadow Forever",
       "type": "single",
-      "releaseDate": "1976-03-09"
+      "releaseDate": "1976-04-01"
+    },
+    {
+      "title": "The Fire Album",
+      "type": "album",
+      "releaseDate": "1976-10-27"
     }
   ],
   "externalLinks": {
@@ -23,169 +28,130 @@
   },
   "artistSongs": [
     {
-      "rank": 18,
+      "rank": 22,
       "song": {
-        "id": "west-1979-18",
-        "title": "Never Rose",
+        "id": "west-1979-22",
+        "title": "Sweet Rose",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 30,
+      "rank": 34,
       "song": {
-        "id": "west-1979-30",
-        "title": "Rose Way",
+        "id": "west-1979-34",
+        "title": "Star Lights",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 38,
+      "rank": 60,
       "song": {
-        "id": "west-1979-38",
-        "title": "Falling Light",
+        "id": "west-1979-60",
+        "title": "Wave Dreams",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 52,
+      "rank": 64,
       "song": {
-        "id": "west-1979-52",
-        "title": "Diamond Dreams",
+        "id": "west-1979-64",
+        "title": "Sky Forever",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1979
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1979-65",
+        "title": "Dusk Rain",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1979-81",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1979-95",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1978-33",
+        "title": "Wind Love",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1978
     },
     {
       "rank": 53,
       "song": {
-        "id": "west-1979-53",
-        "title": "River Moonlight",
+        "id": "west-1978-53",
+        "title": "Electric Winter",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1979-66",
-        "title": "Last Thunder",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1979-78",
-        "title": "Fading Crystal",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1979-80",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1979-98",
-        "title": "Running Diamond",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1978-39",
-        "title": "Electric Silver",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 48,
+      "rank": 58,
       "song": {
-        "id": "west-1978-48",
-        "title": "Running Flame",
+        "id": "west-1978-58",
+        "title": "Into the Rain",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1978-56",
-        "title": "Sun Fire",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1978-59",
-        "title": "Shining Sun",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
@@ -195,179 +161,114 @@
       "rank": 69,
       "song": {
         "id": "west-1978-69",
-        "title": "Never Road",
+        "title": "Thunder Sky",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 86,
+      "rank": 99,
       "song": {
-        "id": "west-1978-86",
-        "title": "Rose Way",
+        "id": "west-1978-99",
+        "title": "Sweet Dusk",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 98,
+      "rank": 7,
       "song": {
-        "id": "west-1978-98",
-        "title": "Ice Tears",
+        "id": "west-1977-07",
+        "title": "I Wish",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1977-18",
-        "title": "River Lights",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 37,
+      "rank": 23,
       "song": {
-        "id": "west-1977-37",
-        "title": "Under the Flame",
+        "id": "west-1977-23",
+        "title": "Flame Forever",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 56,
+      "rank": 44,
       "song": {
-        "id": "west-1977-56",
-        "title": "Diamond Dreams",
+        "id": "west-1977-44",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 61,
+      "rank": 74,
       "song": {
-        "id": "west-1977-61",
-        "title": "Falling Mountain",
+        "id": "west-1977-74",
+        "title": "Into the Ice",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1976-12",
+        "title": "Midnight Wave",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1976-14",
+        "title": "Ice Moonlight",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 81,
       "song": {
-        "id": "west-1977-81",
-        "title": "Broken Gold",
+        "id": "west-1976-81",
+        "title": "Rose Tears",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-1976-01",
-        "title": "Silly Love Songs",
-        "artist": {
-          "id": "a-wings",
-          "name": "Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1976-27",
-        "title": "Ice Heart",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1976-38",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1976-43",
-        "title": "Into the Wind",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1976-71",
-        "title": "Sweet Star",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1976-78",
-        "title": "Midnight Dusk",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
@@ -377,23 +278,114 @@
       "rank": 91,
       "song": {
         "id": "west-1976-91",
-        "title": "Mountain Fire",
+        "title": "City Rain",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 15,
+      "rank": 23,
       "song": {
-        "id": "west-1975-15",
-        "title": "Moon Tears",
+        "id": "west-1975-23",
+        "title": "Fading Rose",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1975-31",
+        "title": "Wild Rose",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1975-42",
+        "title": "Gold Dreams",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1975-44",
+        "title": "Under the Moon",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1975-59",
+        "title": "River Tears",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1975-63",
+        "title": "Broken Snow",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1975-65",
+        "title": "Mountain Lights",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1975-96",
+        "title": "Into the Ocean",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },

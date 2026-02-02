@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2023-23",
-    "title": "Sweet Shadow",
+    "title": "Bridge Night",
     "artist": {
-      "id": "a-taylor",
-      "name": "Taylor Swift"
+      "id": "a-sza",
+      "name": "SZA"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 23,
   "cdInfo": [
     {
-      "title": "Sweet Shadow",
+      "title": "Bridge Night",
       "type": "single",
-      "releaseDate": "2023-06-27"
+      "releaseDate": "2023-07-02"
+    },
+    {
+      "title": "The Wave Album",
+      "type": "album",
+      "releaseDate": "2023-02-01"
     }
   ],
   "externalLinks": {
@@ -23,39 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 35,
+      "rank": 41,
       "song": {
-        "id": "west-2025-35",
-        "title": "Chasing Bridge",
+        "id": "west-2025-41",
+        "title": "Last Thunder",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
       "year": 2025
     },
     {
-      "rank": 39,
+      "rank": 47,
       "song": {
-        "id": "west-2025-39",
-        "title": "Lost in Ice",
+        "id": "west-2025-47",
+        "title": "Running River",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2025-51",
-        "title": "Running Wind",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
@@ -65,1106 +57,391 @@
       "rank": 57,
       "song": {
         "id": "west-2025-57",
-        "title": "Golden Snow",
+        "title": "Broken Moon",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
       "year": 2025
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2025-86",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2023-12",
-        "title": "Wild Moon",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2023-24",
-        "title": "Shadow Lights",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2023-94",
-        "title": "Into the Silver",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2023-97",
-        "title": "Sky Night",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2023-100",
-        "title": "Electric Star",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2022-11",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2022-12",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2022-44",
-        "title": "Silver Night",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2022-72",
-        "title": "Dancing Rose",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2022-73",
-        "title": "Shadow Love",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2022-79",
-        "title": "Dawn Soul",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2022-98",
-        "title": "Wild Diamond",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2021-56",
-        "title": "Into the River",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2021-58",
-        "title": "Dancing Road",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2021-61",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2021-66",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2021-73",
-        "title": "Shining Flame",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-2020-22",
-        "title": "City Fire",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2020-25",
-        "title": "Dancing Snow",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2020-34",
-        "title": "Broken Winter",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2020-36",
-        "title": "Silver Tears",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2020-44",
-        "title": "Rain Dreams",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2020-52",
-        "title": "Into the Diamond",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2020-73",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2020-100",
-        "title": "Dancing Sun",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2019-41",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2019-50",
-        "title": "Ocean Heart",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2019-54",
-        "title": "Broken Sun",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2019-65",
-        "title": "Wild Sky",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2019-80",
-        "title": "Ice Sky",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2019-90",
-        "title": "Storm Dreams",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2019-98",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2018-23",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2018-26",
-        "title": "Sweet Silver",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2018-44",
-        "title": "Mountain Lights",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
     },
     {
       "rank": 63,
       "song": {
-        "id": "west-2018-63",
-        "title": "Dancing Ocean",
+        "id": "west-2025-63",
+        "title": "Fading River",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2018
+      "year": 2025
     },
     {
-      "rank": 66,
+      "rank": 64,
       "song": {
-        "id": "west-2018-66",
-        "title": "Falling Moon",
+        "id": "west-2025-64",
+        "title": "Rose Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2018
+      "year": 2025
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2025-67",
+        "title": "Never Wave",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2025-75",
+        "title": "Storm Moonlight",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2025
     },
     {
       "rank": 83,
       "song": {
-        "id": "west-2018-83",
-        "title": "Under the Diamond",
+        "id": "west-2025-83",
+        "title": "Thunder Sky",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2018
+      "year": 2025
     },
     {
-      "rank": 90,
+      "rank": 2,
       "song": {
-        "id": "west-2018-90",
-        "title": "Midnight Silver",
+        "id": "west-2023-02",
+        "title": "Kill Bill",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2018
+      "year": 2023
     },
     {
-      "rank": 98,
+      "rank": 7,
       "song": {
-        "id": "west-2018-98",
-        "title": "River Way",
+        "id": "west-2023-07",
+        "title": "Snooze",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2018
+      "year": 2023
     },
     {
-      "rank": 48,
+      "rank": 61,
       "song": {
-        "id": "west-2017-48",
-        "title": "Sweet Crystal",
+        "id": "west-2023-61",
+        "title": "Broken Flame",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2017
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2017-52",
-        "title": "Into the Dawn",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2017-55",
-        "title": "Lost in Star",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2016-25",
-        "title": "Shining Thunder",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2016-33",
-        "title": "Chasing Fire",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2016-80",
-        "title": "Dancing Flame",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2016-95",
-        "title": "Wild City",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2015-23",
-        "title": "Mountain Rain",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2015-45",
-        "title": "Lost in Rose",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
+      "year": 2023
     },
     {
       "rank": 63,
       "song": {
-        "id": "west-2015-63",
-        "title": "Dancing Thunder",
+        "id": "west-2023-63",
+        "title": "Sweet Rose",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2015
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2015-67",
-        "title": "Dancing Light",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2015-68",
-        "title": "Falling Thunder",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2015-88",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2015-91",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2015-98",
-        "title": "Under the Moon",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2015-100",
-        "title": "Diamond Moonlight",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2014-32",
-        "title": "Dawn Night",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2014
+      "year": 2023
     },
     {
       "rank": 79,
       "song": {
-        "id": "west-2014-79",
-        "title": "Last Silver",
+        "id": "west-2023-79",
+        "title": "Under the Rain",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2014
+      "year": 2023
     },
     {
-      "rank": 93,
+      "rank": 82,
       "song": {
-        "id": "west-2014-93",
-        "title": "Wild Snow",
+        "id": "west-2023-82",
+        "title": "Wild River",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2014
+      "year": 2023
     },
     {
-      "rank": 28,
+      "rank": 13,
       "song": {
-        "id": "west-2013-28",
-        "title": "Winter Night",
+        "id": "west-2022-13",
+        "title": "Last Crystal",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2013
+      "year": 2022
     },
     {
-      "rank": 31,
+      "rank": 24,
       "song": {
-        "id": "west-2013-31",
-        "title": "Storm Way",
+        "id": "west-2022-24",
+        "title": "Last Shadow",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2013
+      "year": 2022
     },
     {
-      "rank": 33,
+      "rank": 34,
       "song": {
-        "id": "west-2013-33",
-        "title": "Last Bridge",
+        "id": "west-2022-34",
+        "title": "Light Rain",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2013
+      "year": 2022
     },
     {
-      "rank": 54,
+      "rank": 38,
       "song": {
-        "id": "west-2013-54",
-        "title": "Broken Thunder",
+        "id": "west-2022-38",
+        "title": "Dancing Road",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2013
+      "year": 2022
     },
     {
-      "rank": 67,
+      "rank": 50,
       "song": {
-        "id": "west-2013-67",
-        "title": "River Lights",
+        "id": "west-2022-50",
+        "title": "Rain Tears",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2013
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2013-74",
-        "title": "Broken Bridge",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2013-94",
-        "title": "Road Heart",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2012-15",
-        "title": "Crystal Lights",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2012-16",
-        "title": "Dawn Fire",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2012-47",
-        "title": "Dancing Dusk",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2012-66",
-        "title": "Ocean Heart",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2012-81",
-        "title": "Falling Storm",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2012-86",
-        "title": "Golden Sun",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2012-94",
-        "title": "Crystal Moonlight",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2011-11",
-        "title": "Broken Crystal",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2011-32",
-        "title": "Broken Storm",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2011
+      "year": 2022
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-2011-57",
-        "title": "Thunder Sky",
+        "id": "west-2022-57",
+        "title": "Winter Way",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2011
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2011-68",
-        "title": "Chasing Ocean",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2011
+      "year": 2022
     },
     {
       "rank": 77,
       "song": {
-        "id": "west-2011-77",
-        "title": "Star Rain",
+        "id": "west-2022-77",
+        "title": "Fading Rose",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2011
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2010-25",
-        "title": "Winter Love",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2010-59",
-        "title": "Sweet Wind",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2010-62",
-        "title": "Mountain Forever",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2010-68",
-        "title": "Summer Rain",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2010
+      "year": 2022
     },
     {
       "rank": 91,
       "song": {
-        "id": "west-2010-91",
-        "title": "River Lights",
+        "id": "west-2022-91",
+        "title": "Sweet Snow",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2010
+      "year": 2022
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2021-60",
+        "title": "Lost in Moon",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2021-65",
+        "title": "Sweet Thunder",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2021-90",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2021-100",
+        "title": "Winter Dreams",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2020-21",
+        "title": "Ice Night",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2020-26",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2020-48",
+        "title": "Broken Star",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2020-58",
+        "title": "River Heart",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2020-96",
+        "title": "Gold Rain",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2020-97",
+        "title": "Wind Night",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
     }
   ]
 }

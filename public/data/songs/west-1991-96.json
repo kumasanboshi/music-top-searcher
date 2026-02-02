@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1991-96",
-    "title": "City Tears",
+    "title": "Fire Forever",
     "artist": {
       "id": "a-spice-girls",
       "name": "Spice Girls"
@@ -12,9 +12,14 @@
   "rank": 96,
   "cdInfo": [
     {
-      "title": "City Tears",
+      "title": "Fire Forever",
       "type": "single",
-      "releaseDate": "1991-06-20"
+      "releaseDate": "1991-08-02"
+    },
+    {
+      "title": "Dusk Anthology",
+      "type": "album",
+      "releaseDate": "1991-07-15"
     }
   ],
   "externalLinks": {
@@ -23,49 +28,127 @@
   },
   "artistSongs": [
     {
+      "rank": 29,
+      "song": {
+        "id": "west-1999-29",
+        "title": "Sweet Rose",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1999-30",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1999-45",
+        "title": "Silver Love",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1999-54",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1999-58",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1999-62",
+        "title": "Gold Lights",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1999-69",
+        "title": "Never Moon",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1998-15",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1998-21",
+        "title": "Silver Soul",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
       "rank": 25,
       "song": {
-        "id": "west-1999-25",
-        "title": "Moon Tears",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1999-47",
-        "title": "Broken Moon",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1999-78",
-        "title": "Dawn Night",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1998-19",
-        "title": "Fading Wind",
+        "id": "west-1998-25",
+        "title": "Golden Wind",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -75,10 +158,10 @@
       "year": 1998
     },
     {
-      "rank": 31,
+      "rank": 29,
       "song": {
-        "id": "west-1998-31",
-        "title": "Flame Forever",
+        "id": "west-1998-29",
+        "title": "Falling Snow",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -88,10 +171,10 @@
       "year": 1998
     },
     {
-      "rank": 35,
+      "rank": 46,
       "song": {
-        "id": "west-1998-35",
-        "title": "Rose Fire",
+        "id": "west-1998-46",
+        "title": "Electric River",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -101,10 +184,10 @@
       "year": 1998
     },
     {
-      "rank": 39,
+      "rank": 48,
       "song": {
-        "id": "west-1998-39",
-        "title": "Dusk Moonlight",
+        "id": "west-1998-48",
+        "title": "Wild Light",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -114,10 +197,10 @@
       "year": 1998
     },
     {
-      "rank": 40,
+      "rank": 60,
       "song": {
-        "id": "west-1998-40",
-        "title": "Winter Way",
+        "id": "west-1998-60",
+        "title": "Bridge Way",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -127,10 +210,49 @@
       "year": 1998
     },
     {
-      "rank": 72,
+      "rank": 81,
       "song": {
-        "id": "west-1998-72",
-        "title": "Gold Heart",
+        "id": "west-1998-81",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1998-96",
+        "title": "Fire Heart",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1998-97",
+        "title": "Wild Dusk",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1998-100",
+        "title": "Falling River",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -153,10 +275,23 @@
       "year": 1997
     },
     {
+      "rank": 18,
+      "song": {
+        "id": "west-1997-18",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
       "rank": 20,
       "song": {
         "id": "west-1997-20",
-        "title": "Midnight Rain",
+        "title": "Lost in Rain",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -166,10 +301,10 @@
       "year": 1997
     },
     {
-      "rank": 22,
+      "rank": 25,
       "song": {
-        "id": "west-1997-22",
-        "title": "Rose Sky",
+        "id": "west-1997-25",
+        "title": "Moon Lights",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -179,10 +314,10 @@
       "year": 1997
     },
     {
-      "rank": 36,
+      "rank": 26,
       "song": {
-        "id": "west-1997-36",
-        "title": "Falling Silver",
+        "id": "west-1997-26",
+        "title": "Never Sky",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -192,10 +327,10 @@
       "year": 1997
     },
     {
-      "rank": 39,
+      "rank": 27,
       "song": {
-        "id": "west-1997-39",
-        "title": "Ocean Tears",
+        "id": "west-1997-27",
+        "title": "River Night",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -205,10 +340,10 @@
       "year": 1997
     },
     {
-      "rank": 43,
+      "rank": 97,
       "song": {
-        "id": "west-1997-43",
-        "title": "River Heart",
+        "id": "west-1997-97",
+        "title": "Dawn Night",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -218,88 +353,140 @@
       "year": 1997
     },
     {
-      "rank": 92,
+      "rank": 14,
       "song": {
-        "id": "west-1997-92",
-        "title": "Moon Forever",
+        "id": "west-1996-14",
+        "title": "Chasing Ocean",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1997
+      "year": 1996
     },
     {
-      "rank": 98,
+      "rank": 18,
       "song": {
-        "id": "west-1997-98",
-        "title": "Wild Road",
+        "id": "west-1996-18",
+        "title": "Sweet Mountain",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1997
+      "year": 1996
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1996-19",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1996-26",
+        "title": "Ocean Dreams",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1996-46",
+        "title": "Snow Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1996-56",
+        "title": "Fading Wind",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1996-64",
+        "title": "Running Light",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1996-72",
+        "title": "Fading Silver",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1996-90",
+        "title": "Winter Night",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1996-100",
+        "title": "Summer Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
     },
     {
       "rank": 13,
       "song": {
-        "id": "west-1996-13",
-        "title": "Sweet Shadow",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1996-34",
-        "title": "Shining Crystal",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1996-40",
-        "title": "Last Bridge",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1996-91",
-        "title": "Wind Lights",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1995-15",
-        "title": "Falling Diamond",
+        "id": "west-1995-13",
+        "title": "Thunder Tears",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -309,23 +496,10 @@
       "year": 1995
     },
     {
-      "rank": 16,
+      "rank": 24,
       "song": {
-        "id": "west-1995-16",
-        "title": "Falling Wave",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1995-32",
-        "title": "Rain Fire",
+        "id": "west-1995-24",
+        "title": "Gold Sky",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -338,7 +512,7 @@
       "rank": 41,
       "song": {
         "id": "west-1995-41",
-        "title": "Moon Fire",
+        "title": "Sky Soul",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -348,36 +522,10 @@
       "year": 1995
     },
     {
-      "rank": 52,
+      "rank": 94,
       "song": {
-        "id": "west-1995-52",
-        "title": "Running Silver",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1995-56",
-        "title": "Broken Storm",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1995-71",
-        "title": "Rose Moonlight",
+        "id": "west-1995-94",
+        "title": "Wild Gold",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -390,7 +538,7 @@
       "rank": 11,
       "song": {
         "id": "west-1994-11",
-        "title": "Shining Rose",
+        "title": "Wild Mountain",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -400,10 +548,10 @@
       "year": 1994
     },
     {
-      "rank": 24,
+      "rank": 21,
       "song": {
-        "id": "west-1994-24",
-        "title": "Electric Ice",
+        "id": "west-1994-21",
+        "title": "Wild Summer",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -413,10 +561,10 @@
       "year": 1994
     },
     {
-      "rank": 31,
+      "rank": 34,
       "song": {
-        "id": "west-1994-31",
-        "title": "River Night",
+        "id": "west-1994-34",
+        "title": "Wild Silver",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -426,10 +574,10 @@
       "year": 1994
     },
     {
-      "rank": 64,
+      "rank": 61,
       "song": {
-        "id": "west-1994-64",
-        "title": "Under the Dawn",
+        "id": "west-1994-61",
+        "title": "Dawn Way",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -439,10 +587,10 @@
       "year": 1994
     },
     {
-      "rank": 79,
+      "rank": 85,
       "song": {
-        "id": "west-1994-79",
-        "title": "City Love",
+        "id": "west-1994-85",
+        "title": "Sweet Moon",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -452,10 +600,10 @@
       "year": 1994
     },
     {
-      "rank": 94,
+      "rank": 87,
       "song": {
-        "id": "west-1994-94",
-        "title": "Mountain Rain",
+        "id": "west-1994-87",
+        "title": "Rain Soul",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -468,7 +616,7 @@
       "rank": 20,
       "song": {
         "id": "west-1993-20",
-        "title": "Under the Mountain",
+        "title": "Running Wave",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -478,10 +626,10 @@
       "year": 1993
     },
     {
-      "rank": 50,
+      "rank": 33,
       "song": {
-        "id": "west-1993-50",
-        "title": "Golden Sky",
+        "id": "west-1993-33",
+        "title": "Star Night",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -491,10 +639,10 @@
       "year": 1993
     },
     {
-      "rank": 55,
+      "rank": 77,
       "song": {
-        "id": "west-1993-55",
-        "title": "Ice Soul",
+        "id": "west-1993-77",
+        "title": "Summer Love",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -504,10 +652,10 @@
       "year": 1993
     },
     {
-      "rank": 60,
+      "rank": 98,
       "song": {
-        "id": "west-1993-60",
-        "title": "Sky Rain",
+        "id": "west-1993-98",
+        "title": "Wild Bridge",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -517,62 +665,10 @@
       "year": 1993
     },
     {
-      "rank": 62,
+      "rank": 71,
       "song": {
-        "id": "west-1993-62",
-        "title": "Electric Mountain",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1993-66",
-        "title": "Bridge Sky",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1993-79",
-        "title": "Storm Lights",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1993-87",
-        "title": "Midnight Ice",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1992-53",
-        "title": "Light Rain",
+        "id": "west-1992-71",
+        "title": "Shadow Fire",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -585,7 +681,7 @@
       "rank": 77,
       "song": {
         "id": "west-1992-77",
-        "title": "Into the Bridge",
+        "title": "Into the Sun",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -593,103 +689,64 @@
         "genre": "western"
       },
       "year": 1992
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1991-19",
+        "title": "Under the Crystal",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1991-21",
+        "title": "Last Ice",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1991-28",
+        "title": "Flame Sky",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1991-45",
+        "title": "Under the Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
     },
     {
       "rank": 87,
       "song": {
-        "id": "west-1992-87",
-        "title": "Shadow Lights",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1992-96",
-        "title": "Star Moonlight",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1991-12",
-        "title": "Summer Moonlight",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1991-14",
-        "title": "Sweet Star",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1991-16",
-        "title": "Lost in Light",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1991-27",
-        "title": "Sun Moonlight",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1991-47",
-        "title": "Road Rain",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1991-60",
-        "title": "Wind Rain",
+        "id": "west-1991-87",
+        "title": "Chasing Road",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -702,7 +759,7 @@
       "rank": 88,
       "song": {
         "id": "west-1991-88",
-        "title": "Snow Soul",
+        "title": "Chasing River",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -712,10 +769,10 @@
       "year": 1991
     },
     {
-      "rank": 27,
+      "rank": 19,
       "song": {
-        "id": "west-1990-27",
-        "title": "Sun Tears",
+        "id": "west-1990-19",
+        "title": "Midnight Snow",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -725,10 +782,10 @@
       "year": 1990
     },
     {
-      "rank": 36,
+      "rank": 26,
       "song": {
-        "id": "west-1990-36",
-        "title": "Moon Moonlight",
+        "id": "west-1990-26",
+        "title": "Golden Sun",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"
@@ -738,10 +795,36 @@
       "year": 1990
     },
     {
-      "rank": 84,
+      "rank": 69,
       "song": {
-        "id": "west-1990-84",
-        "title": "Chasing Ice",
+        "id": "west-1990-69",
+        "title": "Chasing Summer",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1990-73",
+        "title": "Rain Lights",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1990-87",
+        "title": "Never Ice",
         "artist": {
           "id": "a-spice-girls",
           "name": "Spice Girls"

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-33",
-    "title": "Electric Gold",
+    "title": "Fire Fire",
     "artist": {
-      "id": "a-billy-joel",
-      "name": "Billy Joel"
+      "id": "a-ewf",
+      "name": "Earth, Wind & Fire"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 33,
   "cdInfo": [
     {
-      "title": "Electric Gold",
+      "title": "Fire Fire",
       "type": "single",
-      "releaseDate": "1977-02-15"
+      "releaseDate": "1977-09-23"
+    },
+    {
+      "title": "Moon Stories",
+      "type": "album",
+      "releaseDate": "1977-01-28"
     }
   ],
   "externalLinks": {
@@ -23,39 +28,13 @@
   },
   "artistSongs": [
     {
-      "rank": 9,
+      "rank": 26,
       "song": {
-        "id": "west-1980-09",
-        "title": "It's Still Rock and Roll to Me",
+        "id": "west-1979-26",
+        "title": "Crystal Forever",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1979-11",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1979-46",
-        "title": "River Tears",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
@@ -65,283 +44,166 @@
       "rank": 76,
       "song": {
         "id": "west-1979-76",
-        "title": "Running Sun",
+        "title": "Ice Lights",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 16,
+      "rank": 94,
       "song": {
-        "id": "west-1978-16",
-        "title": "Sweet Snow",
+        "id": "west-1979-94",
+        "title": "Last Wave",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1978-25",
-        "title": "Thunder Night",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1978-33",
-        "title": "Winter Rain",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1978-35",
-        "title": "Sun Tears",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1978-50",
-        "title": "Falling Ice",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1978-51",
-        "title": "Golden Road",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1978-79",
-        "title": "Midnight Diamond",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1978-83",
-        "title": "Ocean Heart",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1977-15",
-        "title": "Running Gold",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1977-34",
-        "title": "Dusk Fire",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1977-38",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1977-76",
-        "title": "Lost in Ice",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1977-88",
-        "title": "Winter Soul",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1976-17",
-        "title": "Golden Snow",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
+      "year": 1979
     },
     {
       "rank": 24,
       "song": {
-        "id": "west-1976-24",
-        "title": "Mountain Lights",
+        "id": "west-1978-24",
+        "title": "Midnight Ice",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1978-32",
+        "title": "Fading Gold",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1978-40",
+        "title": "Golden Dawn",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1978-56",
+        "title": "Wave Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1978-57",
+        "title": "Flame Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1977-90",
+        "title": "Sweet Light",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1976-28",
+        "title": "Ocean Heart",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 25,
+      "rank": 69,
       "song": {
-        "id": "west-1976-25",
-        "title": "Ocean Night",
+        "id": "west-1976-69",
+        "title": "Lost in Wind",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 36,
+      "rank": 78,
       "song": {
-        "id": "west-1976-36",
-        "title": "Falling Mountain",
+        "id": "west-1976-78",
+        "title": "Chasing Ice",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 74,
+      "rank": 90,
       "song": {
-        "id": "west-1976-74",
-        "title": "Flame Soul",
+        "id": "west-1976-90",
+        "title": "Thunder Soul",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 81,
+      "rank": 92,
       "song": {
-        "id": "west-1976-81",
-        "title": "Running Bridge",
+        "id": "west-1976-92",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1976-83",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1976-89",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
@@ -351,49 +213,153 @@
       "rank": 93,
       "song": {
         "id": "west-1976-93",
-        "title": "Midnight River",
+        "title": "Dancing Ocean",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 31,
+      "rank": 30,
       "song": {
-        "id": "west-1975-31",
-        "title": "Last River",
+        "id": "west-1975-30",
+        "title": "Sweet River",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 45,
+      "rank": 41,
       "song": {
-        "id": "west-1975-45",
-        "title": "Golden Gold",
+        "id": "west-1975-41",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 84,
+      "rank": 43,
       "song": {
-        "id": "west-1975-84",
-        "title": "Dusk Soul",
+        "id": "west-1975-43",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1975-50",
+        "title": "Never Light",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1975-53",
+        "title": "Last Moon",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1975-62",
+        "title": "Summer Moonlight",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1975-71",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1975-77",
+        "title": "Electric Moon",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1975-86",
+        "title": "Running Mountain",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1975-87",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1975-98",
+        "title": "Sweet City",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },

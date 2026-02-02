@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2015-16",
-    "title": "Under the Silver",
+    "title": "Thunder Sky",
     "artist": {
-      "id": "a-drake",
-      "name": "Drake"
+      "id": "a-cardi-b",
+      "name": "Cardi B"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 16,
   "cdInfo": [
     {
-      "title": "Under the Silver",
+      "title": "Thunder Sky",
       "type": "single",
-      "releaseDate": "2015-10-02"
+      "releaseDate": "2015-10-24"
+    },
+    {
+      "title": "Rose Collection",
+      "type": "album",
+      "releaseDate": "2015-02-14"
     }
   ],
   "externalLinks": {
@@ -23,130 +28,104 @@
   },
   "artistSongs": [
     {
-      "rank": 20,
-      "song": {
-        "id": "west-2019-20",
-        "title": "Wind Soul",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2019-46",
-        "title": "Falling Star",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2019-63",
-        "title": "Ice Soul",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2019-72",
-        "title": "Fading Sun",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2019-85",
-        "title": "Shining Sky",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2019-100",
-        "title": "Ice Dreams",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-2018-01",
-        "title": "God's Plan",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-2018-07",
-        "title": "Nice for What",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2018-12",
-        "title": "Ice Tears",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
       "rank": 40,
       "song": {
-        "id": "west-2018-40",
-        "title": "Under the Crystal",
+        "id": "west-2019-40",
+        "title": "Electric Dawn",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2019-57",
+        "title": "Broken Star",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2019-60",
+        "title": "Flame Soul",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-2019-70",
+        "title": "Rain Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2018-09",
+        "title": "I Like It",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B, Bad Bunny & J Balvin"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2018-19",
+        "title": "Midnight Rose",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2018-41",
+        "title": "Fading Flame",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2018-42",
+        "title": "Star Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
@@ -156,23 +135,23 @@
       "rank": 47,
       "song": {
         "id": "west-2018-47",
-        "title": "Diamond Fire",
+        "title": "Chasing Storm",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 82,
+      "rank": 59,
       "song": {
-        "id": "west-2018-82",
-        "title": "Thunder Lights",
+        "id": "west-2018-59",
+        "title": "Snow Fire",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
@@ -182,192 +161,231 @@
       "rank": 84,
       "song": {
         "id": "west-2018-84",
-        "title": "Wild Wave",
+        "title": "Under the Rose",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 35,
-      "song": {
-        "id": "west-2017-35",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2017-45",
-        "title": "Dusk Heart",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2017-64",
-        "title": "Lost in Silver",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2017-65",
-        "title": "Running Rose",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2017-76",
-        "title": "Shining Star",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
       "rank": 89,
       "song": {
-        "id": "west-2017-89",
-        "title": "Winter Dreams",
+        "id": "west-2018-89",
+        "title": "Electric Storm",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2018-92",
+        "title": "Sun Fire",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2018-100",
+        "title": "Shining City",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2017-18",
+        "title": "Road Way",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 3,
+      "rank": 40,
       "song": {
-        "id": "west-2016-03",
-        "title": "One Dance",
+        "id": "west-2017-40",
+        "title": "Golden Sky",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2017-60",
+        "title": "Under the Ice",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2017-97",
+        "title": "Running Bridge",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2017-100",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2016-23",
+        "title": "Chasing Snow",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 45,
+      "rank": 28,
       "song": {
-        "id": "west-2016-45",
-        "title": "Into the Mountain",
+        "id": "west-2016-28",
+        "title": "Lost in Flame",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 12,
+      "rank": 29,
       "song": {
-        "id": "west-2015-12",
-        "title": "Dusk Lights",
+        "id": "west-2016-29",
+        "title": "Electric City",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2016-32",
+        "title": "Running Diamond",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2016-54",
+        "title": "Shining Ice",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2016-84",
+        "title": "Light Love",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2016-90",
+        "title": "Fading River",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2015-58",
+        "title": "Fire Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 13,
+      "rank": 61,
       "song": {
-        "id": "west-2015-13",
-        "title": "Ice Lights",
+        "id": "west-2015-61",
+        "title": "Golden Winter",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2015-19",
-        "title": "Electric Storm",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2015-21",
-        "title": "Electric Flame",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2015-62",
-        "title": "Thunder Dreams",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2015-66",
-        "title": "Midnight Light",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
@@ -377,23 +395,23 @@
       "rank": 71,
       "song": {
         "id": "west-2015-71",
-        "title": "Shining Flame",
+        "title": "River Rain",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 74,
+      "rank": 76,
       "song": {
-        "id": "west-2015-74",
-        "title": "Electric Bridge",
+        "id": "west-2015-76",
+        "title": "Never Gold",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
@@ -403,75 +421,49 @@
       "rank": 92,
       "song": {
         "id": "west-2015-92",
-        "title": "City Soul",
+        "title": "Running Wave",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 23,
+      "rank": 11,
       "song": {
-        "id": "west-2014-23",
-        "title": "Shining Shadow",
+        "id": "west-2014-11",
+        "title": "Broken Silver",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 47,
+      "rank": 57,
       "song": {
-        "id": "west-2014-47",
-        "title": "Bridge Tears",
+        "id": "west-2014-57",
+        "title": "Wind Lights",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 49,
+      "rank": 96,
       "song": {
-        "id": "west-2014-49",
-        "title": "Electric Wind",
+        "id": "west-2014-96",
+        "title": "Chasing Gold",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2014-50",
-        "title": "Star Tears",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2014-88",
-        "title": "Gold Tears",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
@@ -481,309 +473,244 @@
       "rank": 12,
       "song": {
         "id": "west-2013-12",
-        "title": "Chasing Rain",
+        "title": "Midnight Light",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 13,
+      "rank": 41,
       "song": {
-        "id": "west-2013-13",
-        "title": "Sky Soul",
+        "id": "west-2013-41",
+        "title": "Moon Love",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2013
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2013-49",
-        "title": "Fading Moon",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2013-53",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2013-63",
-        "title": "Under the Snow",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2013-64",
-        "title": "Last Road",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2012-29",
-        "title": "Into the Sun",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2012-33",
-        "title": "River Lights",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2012-42",
-        "title": "Sweet Dusk",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2012-62",
-        "title": "Falling Flame",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2011-20",
-        "title": "Sky Sky",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2011-21",
-        "title": "Into the Fire",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2011-25",
-        "title": "Golden Storm",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2011-26",
-        "title": "Broken Silver",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2011-48",
-        "title": "Never Star",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2011-50",
-        "title": "Fading Sky",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2011
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-2011-54",
-        "title": "Shining Wind",
+        "id": "west-2013-54",
+        "title": "Snow Dreams",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
-      "year": 2011
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2011-74",
-        "title": "Under the Thunder",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2010-11",
-        "title": "Silver Heart",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2010-66",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2010
+      "year": 2013
     },
     {
       "rank": 67,
       "song": {
-        "id": "west-2010-67",
-        "title": "Gold Moonlight",
+        "id": "west-2013-67",
+        "title": "Last Rose",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-2013-70",
+        "title": "City Way",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2013-73",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2013-85",
+        "title": "Winter Forever",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2012-20",
+        "title": "Never Star",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2012-27",
+        "title": "Falling Road",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2012-58",
+        "title": "Diamond Sky",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2012-82",
+        "title": "Electric Moon",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-2011-15",
+        "title": "City Dreams",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2011-16",
+        "title": "Golden City",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2011-23",
+        "title": "Star Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-2011-38",
+        "title": "Running River",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2011-87",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2010-27",
+        "title": "Sweet Storm",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 77,
+      "rank": 60,
       "song": {
-        "id": "west-2010-77",
-        "title": "Electric Gold",
+        "id": "west-2010-60",
+        "title": "Never Gold",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 93,
+      "rank": 86,
       "song": {
-        "id": "west-2010-93",
-        "title": "Snow Heart",
+        "id": "west-2010-86",
+        "title": "Flame Tears",
         "artist": {
-          "id": "a-drake",
-          "name": "Drake"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2010-98",
-        "title": "Gold Way",
-        "artist": {
-          "id": "a-drake",
-          "name": "Drake"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },

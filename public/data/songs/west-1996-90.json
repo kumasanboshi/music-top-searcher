@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1996-90",
-    "title": "Sweet Fire",
+    "title": "Winter Night",
     "artist": {
-      "id": "a-green-day",
-      "name": "Green Day"
+      "id": "a-spice-girls",
+      "name": "Spice Girls"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 90,
   "cdInfo": [
     {
-      "title": "Sweet Fire",
+      "title": "Winter Night",
       "type": "single",
-      "releaseDate": "1996-05-02"
+      "releaseDate": "1996-02-12"
+    },
+    {
+      "title": "Gold Unplugged",
+      "type": "album",
+      "releaseDate": "1996-03-08"
     }
   ],
   "externalLinks": {
@@ -23,182 +28,208 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 29,
       "song": {
-        "id": "west-2005-06",
-        "title": "Boulevard of Broken Dreams",
+        "id": "west-1999-29",
+        "title": "Sweet Rose",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1999-19",
-        "title": "Silver Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 61,
+      "rank": 30,
       "song": {
-        "id": "west-1999-61",
-        "title": "Crystal Night",
+        "id": "west-1999-30",
+        "title": "Broken Wave",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1999
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1999-70",
-        "title": "Falling Wind",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1999-72",
-        "title": "Bridge Heart",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1999-95",
-        "title": "Thunder Love",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1998-11",
-        "title": "Wind Love",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1998-23",
-        "title": "Shadow Love",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1998-36",
-        "title": "Under the River",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1998-42",
-        "title": "Last Storm",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1998-43",
-        "title": "Road Forever",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1998
     },
     {
       "rank": 45,
       "song": {
-        "id": "west-1998-45",
-        "title": "Golden Crystal",
+        "id": "west-1999-45",
+        "title": "Silver Love",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1999-54",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1999-58",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1999-62",
+        "title": "Gold Lights",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1999-69",
+        "title": "Never Moon",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1998-15",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 75,
+      "rank": 21,
       "song": {
-        "id": "west-1998-75",
-        "title": "Never Rose",
+        "id": "west-1998-21",
+        "title": "Silver Soul",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 83,
+      "rank": 25,
       "song": {
-        "id": "west-1998-83",
-        "title": "Broken Snow",
+        "id": "west-1998-25",
+        "title": "Golden Wind",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1998-29",
+        "title": "Falling Snow",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1998-46",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1998-48",
+        "title": "Wild Light",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1998-60",
+        "title": "Bridge Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1998-81",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1998-96",
+        "title": "Fire Heart",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -208,101 +239,114 @@
       "rank": 97,
       "song": {
         "id": "west-1998-97",
-        "title": "Sky Love",
+        "title": "Wild Dusk",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 99,
+      "rank": 100,
       "song": {
-        "id": "west-1998-99",
-        "title": "Moon Moonlight",
+        "id": "west-1998-100",
+        "title": "Falling River",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 35,
+      "rank": 6,
       "song": {
-        "id": "west-1997-35",
-        "title": "City Fire",
+        "id": "west-1997-06",
+        "title": "Wannabe",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 45,
+      "rank": 18,
       "song": {
-        "id": "west-1997-45",
-        "title": "Mountain Love",
+        "id": "west-1997-18",
+        "title": "Falling Winter",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 50,
+      "rank": 20,
       "song": {
-        "id": "west-1997-50",
-        "title": "Fire Fire",
+        "id": "west-1997-20",
+        "title": "Lost in Rain",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 72,
+      "rank": 25,
       "song": {
-        "id": "west-1997-72",
-        "title": "Shining Wave",
+        "id": "west-1997-25",
+        "title": "Moon Lights",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 79,
+      "rank": 26,
       "song": {
-        "id": "west-1997-79",
-        "title": "Dancing Summer",
+        "id": "west-1997-26",
+        "title": "Never Sky",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 86,
+      "rank": 27,
       "song": {
-        "id": "west-1997-86",
-        "title": "Electric Ocean",
+        "id": "west-1997-27",
+        "title": "River Night",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1997-97",
+        "title": "Dawn Night",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -312,101 +356,23 @@
       "rank": 14,
       "song": {
         "id": "west-1996-14",
-        "title": "Under the Winter",
+        "title": "Chasing Ocean",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 24,
+      "rank": 18,
       "song": {
-        "id": "west-1996-24",
-        "title": "Golden River",
+        "id": "west-1996-18",
+        "title": "Sweet Mountain",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1996-25",
-        "title": "Lost in Shadow",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1996-53",
-        "title": "Last Dusk",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1996-55",
-        "title": "Under the Moon",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1996-87",
-        "title": "Electric Diamond",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1996-88",
-        "title": "River Heart",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1996-98",
-        "title": "Into the River",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -415,557 +381,453 @@
     {
       "rank": 19,
       "song": {
-        "id": "west-1995-19",
-        "title": "Fire Sky",
+        "id": "west-1996-19",
+        "title": "Midnight Snow",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1996-26",
+        "title": "Ocean Dreams",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1996-46",
+        "title": "Snow Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1996-56",
+        "title": "Fading Wind",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1996-64",
+        "title": "Running Light",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1996-72",
+        "title": "Fading Silver",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1996-100",
+        "title": "Summer Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1995-13",
+        "title": "Thunder Tears",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1995
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1995-24",
+        "title": "Gold Sky",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1995-41",
+        "title": "Sky Soul",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1995-94",
+        "title": "Wild Gold",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1994-11",
+        "title": "Wild Mountain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
     },
     {
       "rank": 21,
       "song": {
-        "id": "west-1995-21",
-        "title": "Running Crystal",
+        "id": "west-1994-21",
+        "title": "Wild Summer",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1995
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1995-33",
-        "title": "Storm Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1995-50",
-        "title": "River Night",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1995-70",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1995-86",
-        "title": "Bridge Moonlight",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
+      "year": 1994
     },
     {
       "rank": 34,
       "song": {
         "id": "west-1994-34",
-        "title": "Last Wind",
+        "title": "Wild Silver",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 39,
+      "rank": 61,
       "song": {
-        "id": "west-1994-39",
-        "title": "Sky Dreams",
+        "id": "west-1994-61",
+        "title": "Dawn Way",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 62,
+      "rank": 85,
       "song": {
-        "id": "west-1994-62",
-        "title": "Sun Night",
+        "id": "west-1994-85",
+        "title": "Sweet Moon",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 75,
+      "rank": 87,
       "song": {
-        "id": "west-1994-75",
-        "title": "Falling Sky",
+        "id": "west-1994-87",
+        "title": "Rain Soul",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 76,
+      "rank": 20,
       "song": {
-        "id": "west-1994-76",
-        "title": "Storm Heart",
+        "id": "west-1993-20",
+        "title": "Running Wave",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1994-82",
-        "title": "Wave Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1994-83",
-        "title": "Chasing Winter",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1994-89",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1994-93",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1994-95",
-        "title": "Electric Road",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1994-96",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1993-12",
-        "title": "Fading Flame",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 28,
+      "rank": 33,
       "song": {
-        "id": "west-1993-28",
-        "title": "Midnight Sky",
+        "id": "west-1993-33",
+        "title": "Star Night",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 44,
+      "rank": 77,
       "song": {
-        "id": "west-1993-44",
-        "title": "Bridge Fire",
+        "id": "west-1993-77",
+        "title": "Summer Love",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1993
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1993-48",
-        "title": "Storm Way",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1993-78",
-        "title": "Fading Road",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1992-44",
-        "title": "Electric River",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1992-59",
-        "title": "Thunder Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1992-62",
-        "title": "Road Dreams",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1992-95",
-        "title": "Light Love",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1991-25",
-        "title": "Dancing Ocean",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1991-42",
-        "title": "Last Rose",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1991-67",
-        "title": "Shining Light",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1991-69",
-        "title": "Dancing Dusk",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1991-80",
-        "title": "Mountain Night",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1991-90",
-        "title": "City Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1991-92",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1990-12",
-        "title": "Shadow Rain",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1990-23",
-        "title": "Gold Moonlight",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1990-35",
-        "title": "Flame Soul",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1990-62",
-        "title": "Into the Gold",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1990-74",
-        "title": "Shining City",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1990-81",
-        "title": "Wave Heart",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1990-96",
-        "title": "Storm Lights",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1990-97",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
     },
     {
       "rank": 98,
       "song": {
-        "id": "west-1990-98",
-        "title": "Running Moon",
+        "id": "west-1993-98",
+        "title": "Wild Bridge",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1992-71",
+        "title": "Shadow Fire",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1992-77",
+        "title": "Into the Sun",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1991-19",
+        "title": "Under the Crystal",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1991-21",
+        "title": "Last Ice",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1991-28",
+        "title": "Flame Sky",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1991-45",
+        "title": "Under the Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1991-87",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1991-88",
+        "title": "Chasing River",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1991-96",
+        "title": "Fire Forever",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1990-19",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 100,
+      "rank": 26,
       "song": {
-        "id": "west-1990-100",
-        "title": "Lost in Fire",
+        "id": "west-1990-26",
+        "title": "Golden Sun",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1990-69",
+        "title": "Chasing Summer",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1990-73",
+        "title": "Rain Lights",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1990-87",
+        "title": "Never Ice",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },

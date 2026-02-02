@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1976-66",
-    "title": "約束の光",
+    "title": "夢の空",
     "artist": {
-      "id": "a-candies",
-      "name": "キャンディーズ"
+      "id": "a-sada-masashi",
+      "name": "さだまさし"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 66,
   "cdInfo": [
     {
-      "title": "約束の光",
+      "title": "夢の空",
       "type": "single",
-      "releaseDate": "1976-11-10"
+      "releaseDate": "1976-12-02"
+    },
+    {
+      "title": "恋の旅",
+      "type": "album",
+      "releaseDate": "1976-12-13"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,169 @@
   },
   "artistSongs": [
     {
-      "rank": 26,
+      "rank": 7,
       "song": {
-        "id": "jpop-1979-26",
-        "title": "空物語",
+        "id": "jpop-1980-07",
+        "title": "防人の詩",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1979-03",
+        "title": "関白宣言",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 40,
+      "rank": 30,
       "song": {
-        "id": "jpop-1979-40",
-        "title": "真夜中の星",
+        "id": "jpop-1979-30",
+        "title": "涙の愛",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 94,
+      "rank": 37,
       "song": {
-        "id": "jpop-1979-94",
-        "title": "永遠の月",
+        "id": "jpop-1979-37",
+        "title": "雪の街",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 96,
+      "rank": 52,
       "song": {
-        "id": "jpop-1979-96",
-        "title": "真夜中の冬",
+        "id": "jpop-1979-52",
+        "title": "ミッドナイト虹",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 100,
+      "rank": 69,
       "song": {
-        "id": "jpop-1979-100",
-        "title": "愛のリズム",
+        "id": "jpop-1979-69",
+        "title": "夢の約束",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 5,
+      "rank": 97,
       "song": {
-        "id": "jpop-1978-05",
-        "title": "微笑がえし",
+        "id": "jpop-1979-97",
+        "title": "風の海",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-1978-14",
+        "title": "希望の海",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1978-17",
+        "title": "星の虹",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1978-33",
+        "title": "朝の歌",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1978-39",
+        "title": "影メロディ",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1978-86",
+        "title": "真夜中の光",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-1978-93",
+        "title": "未来の海",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
@@ -103,180 +199,167 @@
     {
       "rank": 25,
       "song": {
-        "id": "jpop-1978-25",
-        "title": "最後の旅",
+        "id": "jpop-1977-25",
+        "title": "風の花",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1978-31",
-        "title": "月の光",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1978-61",
-        "title": "真夜中の約束",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1978-81",
-        "title": "影の季節",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "jpop-1977-09",
-        "title": "暑中お見舞い申し上げます",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 29,
+      "rank": 27,
       "song": {
-        "id": "jpop-1977-29",
-        "title": "波の記憶",
+        "id": "jpop-1977-27",
+        "title": "旅の海",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 46,
+      "rank": 80,
       "song": {
-        "id": "jpop-1977-46",
-        "title": "夏の光",
+        "id": "jpop-1977-80",
+        "title": "花の海",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 5,
+      "rank": 84,
       "song": {
-        "id": "jpop-1976-05",
-        "title": "春一番",
+        "id": "jpop-1977-84",
+        "title": "風の影",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1976-35",
+        "title": "記憶の道",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 29,
+      "rank": 48,
       "song": {
-        "id": "jpop-1976-29",
-        "title": "月の夜",
+        "id": "jpop-1976-48",
+        "title": "夢物語",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 31,
+      "rank": 50,
       "song": {
-        "id": "jpop-1976-31",
-        "title": "永遠の恋",
+        "id": "jpop-1976-50",
+        "title": "涙の星",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 55,
+      "rank": 76,
       "song": {
-        "id": "jpop-1975-55",
-        "title": "青い旅",
+        "id": "jpop-1976-76",
+        "title": "旅の街",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1976-85",
+        "title": "青い月",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1976-91",
+        "title": "青い空",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1976-97",
+        "title": "影の歌",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1975-76",
+        "title": "空の空",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 66,
+      "rank": 78,
       "song": {
-        "id": "jpop-1975-66",
-        "title": "風の雨",
+        "id": "jpop-1975-78",
+        "title": "青い冬",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1975-68",
-        "title": "約束の季節",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1975-95",
-        "title": "森メロディ",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       },

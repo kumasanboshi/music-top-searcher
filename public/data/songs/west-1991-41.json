@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1991-41",
-    "title": "Ice Sky",
+    "title": "Shining Winter",
     "artist": {
       "id": "a-oasis",
       "name": "Oasis"
@@ -12,9 +12,14 @@
   "rank": 41,
   "cdInfo": [
     {
-      "title": "Ice Sky",
+      "title": "Shining Winter",
       "type": "single",
-      "releaseDate": "1991-03-08"
+      "releaseDate": "1991-09-08"
+    },
+    {
+      "title": "Wind Unplugged",
+      "type": "album",
+      "releaseDate": "1991-06-04"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 17,
+      "rank": 31,
       "song": {
-        "id": "west-1999-17",
-        "title": "Lost in Ocean",
+        "id": "west-1999-31",
+        "title": "Dancing Ice",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -36,10 +41,10 @@
       "year": 1999
     },
     {
-      "rank": 18,
+      "rank": 34,
       "song": {
-        "id": "west-1999-18",
-        "title": "Lost in Wave",
+        "id": "west-1999-34",
+        "title": "Ice Tears",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -49,10 +54,10 @@
       "year": 1999
     },
     {
-      "rank": 36,
+      "rank": 41,
       "song": {
-        "id": "west-1999-36",
-        "title": "Fading Winter",
+        "id": "west-1999-41",
+        "title": "Lost in Rose",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -62,10 +67,10 @@
       "year": 1999
     },
     {
-      "rank": 51,
+      "rank": 63,
       "song": {
-        "id": "west-1999-51",
-        "title": "Fading Snow",
+        "id": "west-1999-63",
+        "title": "Rose Love",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -78,7 +83,7 @@
       "rank": 71,
       "song": {
         "id": "west-1999-71",
-        "title": "Never Silver",
+        "title": "Thunder Fire",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -88,10 +93,23 @@
       "year": 1999
     },
     {
-      "rank": 74,
+      "rank": 73,
       "song": {
-        "id": "west-1999-74",
-        "title": "Gold Fire",
+        "id": "west-1999-73",
+        "title": "Fire Heart",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1999-75",
+        "title": "Fading Flame",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -104,7 +122,7 @@
       "rank": 77,
       "song": {
         "id": "west-1999-77",
-        "title": "Summer Way",
+        "title": "Fading Rain",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -112,77 +130,38 @@
         "genre": "western"
       },
       "year": 1999
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1999-85",
-        "title": "Dancing Gold",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1999-94",
-        "title": "Dancing Thunder",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1998-50",
-        "title": "Last Ice",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1998-57",
-        "title": "Star Forever",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1998-74",
-        "title": "Running Dawn",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1998
     },
     {
       "rank": 86,
       "song": {
-        "id": "west-1998-86",
-        "title": "Shining Silver",
+        "id": "west-1999-86",
+        "title": "City Night",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1999-91",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1998-44",
+        "title": "River Rain",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -190,38 +169,38 @@
         "genre": "western"
       },
       "year": 1998
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1998-96",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1997-67",
-        "title": "Golden City",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1997
     },
     {
       "rank": 84,
       "song": {
-        "id": "west-1997-84",
-        "title": "Shining Diamond",
+        "id": "west-1998-84",
+        "title": "Into the Dusk",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1998-91",
+        "title": "Chasing Ocean",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1997-48",
+        "title": "Sweet Crystal",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -231,10 +210,23 @@
       "year": 1997
     },
     {
-      "rank": 15,
+      "rank": 83,
       "song": {
-        "id": "west-1996-15",
-        "title": "Rain Dreams",
+        "id": "west-1997-83",
+        "title": "Running Wave",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1996-29",
+        "title": "Sweet Sky",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -244,9 +236,321 @@
       "year": 1996
     },
     {
-      "rank": 37,
+      "rank": 30,
       "song": {
-        "id": "west-1996-37",
+        "id": "west-1996-30",
+        "title": "Wild Ocean",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1996-45",
+        "title": "Gold Love",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1996-59",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1996-61",
+        "title": "Never City",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1996-75",
+        "title": "Winter Tears",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1996-88",
+        "title": "Fire Way",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1995-21",
+        "title": "Road Moonlight",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1995-22",
+        "title": "Fading Sun",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1995-59",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1995-72",
+        "title": "Thunder Fire",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1995-88",
+        "title": "Shining Wind",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1994-58",
+        "title": "Electric Ocean",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1994-62",
+        "title": "Fading Silver",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1994-67",
+        "title": "River Dreams",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1994-75",
+        "title": "Lost in City",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1993-48",
+        "title": "Wave Night",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1993-67",
+        "title": "Falling Wave",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1993-69",
+        "title": "Chasing River",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1993-99",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1992-43",
+        "title": "Chasing Thunder",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1992-50",
+        "title": "Wild Light",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1992-74",
+        "title": "Into the Mountain",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1992-75",
+        "title": "Electric Flame",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1992-86",
+        "title": "Broken Thunder",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1992-93",
         "title": "Into the Storm",
         "artist": {
           "id": "a-oasis",
@@ -254,247 +558,13 @@
         },
         "genre": "western"
       },
-      "year": 1996
+      "year": 1992
     },
     {
-      "rank": 43,
+      "rank": 98,
       "song": {
-        "id": "west-1996-43",
-        "title": "Summer Rain",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1996-81",
-        "title": "Ice Fire",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1996-82",
-        "title": "Dawn Heart",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1996-93",
-        "title": "Broken Ice",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1995-13",
-        "title": "Into the Sky",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1995-31",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1995-42",
-        "title": "Midnight Rain",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1995-45",
-        "title": "Sky Heart",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1995-64",
-        "title": "Lost in Thunder",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1995-95",
-        "title": "Broken Fire",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1994-12",
-        "title": "Diamond Moonlight",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1994-17",
-        "title": "Star Heart",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1994-25",
-        "title": "Last Silver",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1994-87",
-        "title": "Wild Ocean",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1994-91",
-        "title": "Summer Night",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1993-18",
-        "title": "Midnight City",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1993-26",
-        "title": "Wild Ocean",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1993-68",
-        "title": "Running Crystal",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1992-18",
-        "title": "River Forever",
+        "id": "west-1992-98",
+        "title": "Sun Lights",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -504,10 +574,10 @@
       "year": 1992
     },
     {
-      "rank": 49,
+      "rank": 99,
       "song": {
-        "id": "west-1992-49",
-        "title": "Ice Way",
+        "id": "west-1992-99",
+        "title": "Never Wind",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -515,51 +585,12 @@
         "genre": "western"
       },
       "year": 1992
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1992-90",
-        "title": "Into the Light",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1992-100",
-        "title": "Bridge Love",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1991-13",
-        "title": "Running Winter",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
     },
     {
       "rank": 17,
       "song": {
         "id": "west-1991-17",
-        "title": "Electric Wind",
+        "title": "Dusk Soul",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -569,10 +600,10 @@
       "year": 1991
     },
     {
-      "rank": 23,
+      "rank": 25,
       "song": {
-        "id": "west-1991-23",
-        "title": "Shining Fire",
+        "id": "west-1991-25",
+        "title": "Dusk Way",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -582,10 +613,10 @@
       "year": 1991
     },
     {
-      "rank": 33,
+      "rank": 57,
       "song": {
-        "id": "west-1991-33",
-        "title": "Shining Crystal",
+        "id": "west-1991-57",
+        "title": "Shining Shadow",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -595,10 +626,10 @@
       "year": 1991
     },
     {
-      "rank": 52,
+      "rank": 63,
       "song": {
-        "id": "west-1991-52",
-        "title": "Dusk Sky",
+        "id": "west-1991-63",
+        "title": "Mountain Heart",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -608,10 +639,10 @@
       "year": 1991
     },
     {
-      "rank": 71,
+      "rank": 68,
       "song": {
-        "id": "west-1991-71",
-        "title": "Midnight Winter",
+        "id": "west-1991-68",
+        "title": "City Moonlight",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -621,10 +652,10 @@
       "year": 1991
     },
     {
-      "rank": 82,
+      "rank": 75,
       "song": {
-        "id": "west-1991-82",
-        "title": "Sun Night",
+        "id": "west-1991-75",
+        "title": "Shining Moon",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -634,10 +665,10 @@
       "year": 1991
     },
     {
-      "rank": 93,
+      "rank": 100,
       "song": {
-        "id": "west-1991-93",
-        "title": "Wild Mountain",
+        "id": "west-1991-100",
+        "title": "Flame Forever",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -647,36 +678,10 @@
       "year": 1991
     },
     {
-      "rank": 94,
+      "rank": 45,
       "song": {
-        "id": "west-1991-94",
-        "title": "Ice Rain",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1991-97",
-        "title": "Summer Forever",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1990-21",
-        "title": "Lost in Silver",
+        "id": "west-1990-45",
+        "title": "Rain Night",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -686,10 +691,10 @@
       "year": 1990
     },
     {
-      "rank": 30,
+      "rank": 61,
       "song": {
-        "id": "west-1990-30",
-        "title": "Last Star",
+        "id": "west-1990-61",
+        "title": "Under the Dawn",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -699,10 +704,10 @@
       "year": 1990
     },
     {
-      "rank": 55,
+      "rank": 75,
       "song": {
-        "id": "west-1990-55",
-        "title": "Dusk Dreams",
+        "id": "west-1990-75",
+        "title": "Moon Sky",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -712,49 +717,10 @@
       "year": 1990
     },
     {
-      "rank": 60,
+      "rank": 96,
       "song": {
-        "id": "west-1990-60",
-        "title": "Light Soul",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1990-67",
-        "title": "Wind Rain",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1990-72",
-        "title": "Wind Forever",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1990-77",
-        "title": "Midnight Sky",
+        "id": "west-1990-96",
+        "title": "Into the Moon",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"

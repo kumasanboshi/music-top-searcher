@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1976-89",
-    "title": "最後の夢",
+    "title": "風の旅",
     "artist": {
-      "id": "a-alice",
-      "name": "アリス"
+      "id": "a-sawada-kenji",
+      "name": "沢田研二"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 89,
   "cdInfo": [
     {
-      "title": "最後の夢",
+      "title": "風の旅",
       "type": "single",
-      "releaseDate": "1976-10-09"
+      "releaseDate": "1976-03-03"
+    },
+    {
+      "title": "約束の旅",
+      "type": "album",
+      "releaseDate": "1976-10-08"
     }
   ],
   "externalLinks": {
@@ -23,377 +28,351 @@
   },
   "artistSongs": [
     {
-      "rank": 21,
+      "rank": 6,
       "song": {
-        "id": "jpop-1979-21",
-        "title": "君の街",
+        "id": "jpop-1979-06",
+        "title": "カサブランカ・ダンディ",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
       "year": 1979
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1979-33",
-        "title": "未来のかけら",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1979-68",
-        "title": "ミッドナイト恋",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1979-79",
-        "title": "涙の雨",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1979-90",
-        "title": "君の未来",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1978-24",
-        "title": "約束の愛",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-1978-34",
-        "title": "約束の希望",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1978-41",
-        "title": "太陽の空",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1978-45",
-        "title": "真夜中の旅",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-1978-56",
-        "title": "最後の波",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "jpop-1978-59",
-        "title": "夏ストーリー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1978-73",
-        "title": "波ストーリー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1978-84",
-        "title": "光の光",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1978-90",
-        "title": "約束の海",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1977-15",
-        "title": "記憶の夜",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-1977-26",
-        "title": "夢の海",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "jpop-1977-32",
-        "title": "夢の道",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1977-41",
-        "title": "涙の森",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1977-74",
-        "title": "時間フォーエバー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1977-75",
-        "title": "真夜中の朝",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1977-91",
-        "title": "希望物語",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
     },
     {
       "rank": 11,
       "song": {
-        "id": "jpop-1976-11",
-        "title": "記憶の光",
+        "id": "jpop-1979-11",
+        "title": "夏メロディ",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1979
     },
     {
-      "rank": 16,
+      "rank": 42,
       "song": {
-        "id": "jpop-1976-16",
-        "title": "最後の恋",
+        "id": "jpop-1979-42",
+        "title": "夏の約束",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1979
     },
     {
-      "rank": 71,
+      "rank": 55,
       "song": {
-        "id": "jpop-1976-71",
-        "title": "青い雨",
+        "id": "jpop-1979-55",
+        "title": "夢フォーエバー",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1979
     },
     {
-      "rank": 91,
+      "rank": 62,
       "song": {
-        "id": "jpop-1976-91",
-        "title": "朝の海",
+        "id": "jpop-1979-62",
+        "title": "虹物語",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1979
     },
     {
-      "rank": 12,
+      "rank": 80,
       "song": {
-        "id": "jpop-1975-12",
-        "title": "影のリズム",
+        "id": "jpop-1979-80",
+        "title": "永遠の世界",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
-      "year": 1975
+      "year": 1979
     },
     {
-      "rank": 17,
+      "rank": 92,
       "song": {
-        "id": "jpop-1975-17",
-        "title": "恋の森",
+        "id": "jpop-1979-92",
+        "title": "最後の旅",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
-      "year": 1975
+      "year": 1979
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-1978-10",
+        "title": "LOVE(抱きしめたい)",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-1978-60",
+        "title": "真夜中の波",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-1978-65",
+        "title": "最後の冬",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1978-67",
+        "title": "星ストーリー",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1978-69",
+        "title": "夏の海",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1977-02",
+        "title": "勝手にしやがれ",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
     },
     {
       "rank": 19,
       "song": {
-        "id": "jpop-1975-19",
-        "title": "星のリズム",
+        "id": "jpop-1977-19",
+        "title": "夏のかけら",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
-      "year": 1975
+      "year": 1977
     },
     {
       "rank": 23,
       "song": {
-        "id": "jpop-1975-23",
-        "title": "ミッドナイト旅",
+        "id": "jpop-1977-23",
+        "title": "夢の虹",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1977-38",
+        "title": "恋ストーリー",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1977-56",
+        "title": "未来の記憶",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1977-73",
+        "title": "約束の花",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1977-100",
+        "title": "約束の夜",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1976-17",
+        "title": "時間の空",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-1976-22",
+        "title": "希望フォーエバー",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1976-31",
+        "title": "記憶ストーリー",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-1976-46",
+        "title": "恋の海",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1976-83",
+        "title": "夢の希望",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1976-92",
+        "title": "約束の朝",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1976-95",
+        "title": "太陽の約束",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1975-07",
+        "title": "時の過ぎゆくままに",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
@@ -403,49 +382,88 @@
       "rank": 24,
       "song": {
         "id": "jpop-1975-24",
-        "title": "青い約束",
+        "title": "時間の夜",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 31,
+      "rank": 42,
       "song": {
-        "id": "jpop-1975-31",
-        "title": "街の街",
+        "id": "jpop-1975-42",
+        "title": "愛の約束",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 65,
+      "rank": 54,
       "song": {
-        "id": "jpop-1975-65",
-        "title": "夜の道",
+        "id": "jpop-1975-54",
+        "title": "夏物語",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 87,
+      "rank": 83,
       "song": {
-        "id": "jpop-1975-87",
-        "title": "風の森",
+        "id": "jpop-1975-83",
+        "title": "冬の季節",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1975-85",
+        "title": "夏のリズム",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1975-94",
+        "title": "波の夜",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1975-96",
+        "title": "森の季節",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       },

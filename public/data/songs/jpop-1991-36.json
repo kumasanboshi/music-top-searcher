@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1991-36",
-    "title": "約束メロディ",
+    "title": "虹のかけら",
     "artist": {
-      "id": "a-komuro",
-      "name": "小室哲哉"
+      "id": "a-globe",
+      "name": "globe"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 36,
   "cdInfo": [
     {
-      "title": "約束メロディ",
+      "title": "虹のかけら",
       "type": "single",
-      "releaseDate": "1991-08-20"
+      "releaseDate": "1991-12-05"
+    },
+    {
+      "title": "夜ストーリーズ",
+      "type": "album",
+      "releaseDate": "1991-02-02"
     }
   ],
   "externalLinks": {
@@ -23,52 +28,91 @@
   },
   "artistSongs": [
     {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1999-23",
+        "title": "君の記憶",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
       "rank": 26,
       "song": {
         "id": "jpop-1999-26",
-        "title": "最後の雪",
+        "title": "桜の約束",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 40,
+      "rank": 49,
       "song": {
-        "id": "jpop-1999-40",
-        "title": "虹ストーリー",
+        "id": "jpop-1999-49",
+        "title": "真夜中の朝",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 88,
+      "rank": 58,
       "song": {
-        "id": "jpop-1999-88",
-        "title": "希望の光",
+        "id": "jpop-1999-58",
+        "title": "虹メロディ",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 18,
+      "rank": 75,
       "song": {
-        "id": "jpop-1998-18",
-        "title": "空のリズム",
+        "id": "jpop-1999-75",
+        "title": "風の虹",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1999-92",
+        "title": "記憶メロディ",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1998-38",
+        "title": "太陽の歌",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
@@ -78,88 +122,75 @@
       "rank": 39,
       "song": {
         "id": "jpop-1998-39",
-        "title": "未来の道",
+        "title": "雨の記憶",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 65,
+      "rank": 43,
       "song": {
-        "id": "jpop-1998-65",
-        "title": "街フォーエバー",
+        "id": "jpop-1998-43",
+        "title": "夢の桜",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 89,
+      "rank": 63,
       "song": {
-        "id": "jpop-1998-89",
-        "title": "海の花",
+        "id": "jpop-1998-63",
+        "title": "虹の道",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 92,
+      "rank": 76,
       "song": {
-        "id": "jpop-1998-92",
-        "title": "最後の旅",
+        "id": "jpop-1998-76",
+        "title": "太陽サンセット",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 18,
+      "rank": 83,
       "song": {
-        "id": "jpop-1997-18",
-        "title": "街の街",
+        "id": "jpop-1998-83",
+        "title": "夜の空",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1997
+      "year": 1998
     },
     {
-      "rank": 27,
+      "rank": 15,
       "song": {
-        "id": "jpop-1997-27",
-        "title": "約束の月",
+        "id": "jpop-1997-15",
+        "title": "永遠の愛",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-1997-42",
-        "title": "涙の約束",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
@@ -169,127 +200,218 @@
       "rank": 46,
       "song": {
         "id": "jpop-1997-46",
-        "title": "雨の記憶",
+        "title": "世界の夜",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 20,
+      "rank": 65,
       "song": {
-        "id": "jpop-1996-20",
-        "title": "星の月",
+        "id": "jpop-1997-65",
+        "title": "夢の街",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1996-02",
+        "title": "DEPARTURES",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 22,
+      "rank": 50,
       "song": {
-        "id": "jpop-1996-22",
-        "title": "約束の未来",
+        "id": "jpop-1996-50",
+        "title": "青い冬",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 25,
+      "rank": 64,
       "song": {
-        "id": "jpop-1996-25",
-        "title": "雨の花",
+        "id": "jpop-1996-64",
+        "title": "君の空",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 45,
+      "rank": 89,
       "song": {
-        "id": "jpop-1996-45",
-        "title": "波の道",
+        "id": "jpop-1996-89",
+        "title": "希望の歌",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 55,
+      "rank": 91,
       "song": {
-        "id": "jpop-1996-55",
-        "title": "風の記憶",
+        "id": "jpop-1996-91",
+        "title": "夢の約束",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 56,
+      "rank": 96,
       "song": {
-        "id": "jpop-1996-56",
-        "title": "朝の記憶",
+        "id": "jpop-1996-96",
+        "title": "森の季節",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 92,
+      "rank": 98,
       "song": {
-        "id": "jpop-1996-92",
-        "title": "風の虹",
+        "id": "jpop-1996-98",
+        "title": "涙の影",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 58,
+      "rank": 11,
       "song": {
-        "id": "jpop-1995-58",
-        "title": "夢の恋",
+        "id": "jpop-1995-11",
+        "title": "夏物語",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 74,
+      "rank": 21,
       "song": {
-        "id": "jpop-1995-74",
-        "title": "恋のリズム",
+        "id": "jpop-1995-21",
+        "title": "夢の季節",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "jpop-1995-37",
+        "title": "星の森",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1995-39",
+        "title": "涙の光",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-1995-48",
+        "title": "青い雪",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-1995-52",
+        "title": "星の街",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1995-57",
+        "title": "夢の光",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1995-100",
+        "title": "影の道",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
@@ -299,348 +421,179 @@
       "rank": 29,
       "song": {
         "id": "jpop-1994-29",
-        "title": "時間の約束",
+        "title": "波物語",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1994
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1994-31",
-        "title": "希望の記憶",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1994-70",
-        "title": "ミッドナイト記憶",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1994-83",
-        "title": "約束の未来",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1994-90",
-        "title": "夜の光",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-1994-92",
-        "title": "記憶ストーリー",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1994-100",
-        "title": "約束の時間",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1993-17",
-        "title": "涙の桜",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1993-22",
-        "title": "虹のリズム",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
     },
     {
       "rank": 41,
       "song": {
-        "id": "jpop-1993-41",
-        "title": "冬の花",
+        "id": "jpop-1994-41",
+        "title": "夢の海",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1993
+      "year": 1994
     },
     {
-      "rank": 57,
+      "rank": 50,
       "song": {
-        "id": "jpop-1993-57",
-        "title": "約束の街",
+        "id": "jpop-1994-50",
+        "title": "真夜中の夢",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1993
+      "year": 1994
     },
     {
-      "rank": 11,
+      "rank": 62,
       "song": {
-        "id": "jpop-1992-11",
-        "title": "夏のリズム",
+        "id": "jpop-1994-62",
+        "title": "桜の街",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1992
+      "year": 1994
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1994-94",
+        "title": "涙の虹",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
     },
     {
       "rank": 15,
       "song": {
-        "id": "jpop-1992-15",
-        "title": "海のかけら",
+        "id": "jpop-1993-15",
+        "title": "太陽の街",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 16,
+      "rank": 61,
       "song": {
-        "id": "jpop-1992-16",
-        "title": "街のリズム",
+        "id": "jpop-1993-61",
+        "title": "影ストーリー",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 19,
+      "rank": 68,
       "song": {
-        "id": "jpop-1992-19",
-        "title": "風の記憶",
+        "id": "jpop-1993-68",
+        "title": "涙の夜",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 28,
+      "rank": 74,
       "song": {
-        "id": "jpop-1992-28",
-        "title": "約束の海",
+        "id": "jpop-1993-74",
+        "title": "世界の道",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 31,
+      "rank": 80,
       "song": {
-        "id": "jpop-1992-31",
-        "title": "ミッドナイト桜",
+        "id": "jpop-1993-80",
+        "title": "夢の希望",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1992
+      "year": 1993
     },
     {
-      "rank": 37,
+      "rank": 90,
       "song": {
-        "id": "jpop-1992-37",
-        "title": "約束の星",
+        "id": "jpop-1993-90",
+        "title": "冬サンセット",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
-      "year": 1992
+      "year": 1993
     },
     {
       "rank": 45,
       "song": {
         "id": "jpop-1992-45",
-        "title": "夢サンセット",
+        "title": "涙の影",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 61,
+      "rank": 47,
       "song": {
-        "id": "jpop-1992-61",
-        "title": "星サンセット",
+        "id": "jpop-1992-47",
+        "title": "雪の記憶",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1992
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1992-72",
-        "title": "恋のかけら",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1992-86",
-        "title": "涙の波",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1992-88",
-        "title": "恋の歌",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1991-17",
-        "title": "雨の季節",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
     },
     {
       "rank": 21,
       "song": {
         "id": "jpop-1991-21",
-        "title": "夢の影",
+        "title": "風の虹",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "jpop-1991-23",
-        "title": "約束の太陽",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-1991-28",
-        "title": "海ストーリー",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
@@ -650,49 +603,101 @@
       "rank": 38,
       "song": {
         "id": "jpop-1991-38",
-        "title": "青い冬",
+        "title": "光の記憶",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 87,
+      "rank": 45,
       "song": {
-        "id": "jpop-1991-87",
-        "title": "光メロディ",
+        "id": "jpop-1991-45",
+        "title": "恋の街",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 20,
+      "rank": 49,
       "song": {
-        "id": "jpop-1990-20",
-        "title": "真夜中の太陽",
+        "id": "jpop-1991-49",
+        "title": "希望ストーリー",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-1991-52",
+        "title": "花のリズム",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1991-100",
+        "title": "恋の星",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-1990-14",
+        "title": "最後の愛",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 29,
+      "rank": 20,
       "song": {
-        "id": "jpop-1990-29",
-        "title": "時間の記憶",
+        "id": "jpop-1990-20",
+        "title": "街の光",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-1990-24",
+        "title": "永遠の影",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
@@ -702,62 +707,36 @@
       "rank": 35,
       "song": {
         "id": "jpop-1990-35",
-        "title": "太陽メロディ",
+        "title": "愛の花",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 36,
+      "rank": 78,
       "song": {
-        "id": "jpop-1990-36",
-        "title": "最後の時間",
+        "id": "jpop-1990-78",
+        "title": "森の街",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 55,
+      "rank": 82,
       "song": {
-        "id": "jpop-1990-55",
-        "title": "夢の夏",
+        "id": "jpop-1990-82",
+        "title": "約束の雨",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1990-88",
-        "title": "雪の道",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1990-91",
-        "title": "最後の虹",
-        "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },
@@ -767,10 +746,23 @@
       "rank": 92,
       "song": {
         "id": "jpop-1990-92",
-        "title": "桜の歌",
+        "title": "風の空",
         "artist": {
-          "id": "a-komuro",
-          "name": "小室哲哉"
+          "id": "a-globe",
+          "name": "globe"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1990-95",
+        "title": "朝の花",
+        "artist": {
+          "id": "a-globe",
+          "name": "globe"
         },
         "genre": "jpop"
       },

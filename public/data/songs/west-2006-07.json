@@ -15,6 +15,11 @@
       "title": "SOS",
       "type": "single",
       "releaseDate": "2006-01-01"
+    },
+    {
+      "title": "Best of Crystal",
+      "type": "album",
+      "releaseDate": "2006-01-13"
     }
   ],
   "externalLinks": {
@@ -62,10 +67,10 @@
       "year": 2010
     },
     {
-      "rank": 38,
+      "rank": 35,
       "song": {
-        "id": "west-2009-38",
-        "title": "Moon Way",
+        "id": "west-2009-35",
+        "title": "Chasing Road",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -75,10 +80,10 @@
       "year": 2009
     },
     {
-      "rank": 51,
+      "rank": 55,
       "song": {
-        "id": "west-2009-51",
-        "title": "Summer Tears",
+        "id": "west-2009-55",
+        "title": "Electric Rose",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -88,10 +93,23 @@
       "year": 2009
     },
     {
-      "rank": 97,
+      "rank": 58,
       "song": {
-        "id": "west-2009-97",
-        "title": "Wave Tears",
+        "id": "west-2009-58",
+        "title": "Midnight Wind",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2009-65",
+        "title": "Thunder Love",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -114,10 +132,10 @@
       "year": 2008
     },
     {
-      "rank": 13,
+      "rank": 14,
       "song": {
-        "id": "west-2008-13",
-        "title": "Never Rain",
+        "id": "west-2008-14",
+        "title": "Broken Winter",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -127,10 +145,10 @@
       "year": 2008
     },
     {
-      "rank": 44,
+      "rank": 46,
       "song": {
-        "id": "west-2008-44",
-        "title": "Running Thunder",
+        "id": "west-2008-46",
+        "title": "Golden River",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -140,36 +158,10 @@
       "year": 2008
     },
     {
-      "rank": 80,
+      "rank": 57,
       "song": {
-        "id": "west-2008-80",
-        "title": "Fire Love",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2008-82",
-        "title": "Shining Sun",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2008-96",
-        "title": "Wind Dreams",
+        "id": "west-2008-57",
+        "title": "Fading City",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -195,7 +187,7 @@
       "rank": 28,
       "song": {
         "id": "west-2007-28",
-        "title": "Silver Way",
+        "title": "Lost in Winter",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -205,10 +197,10 @@
       "year": 2007
     },
     {
-      "rank": 41,
+      "rank": 72,
       "song": {
-        "id": "west-2007-41",
-        "title": "Wild Wave",
+        "id": "west-2007-72",
+        "title": "Last Fire",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -218,10 +210,10 @@
       "year": 2007
     },
     {
-      "rank": 53,
+      "rank": 96,
       "song": {
-        "id": "west-2007-53",
-        "title": "Broken Shadow",
+        "id": "west-2007-96",
+        "title": "Star Lights",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -231,88 +223,10 @@
       "year": 2007
     },
     {
-      "rank": 57,
+      "rank": 33,
       "song": {
-        "id": "west-2007-57",
-        "title": "Running Road",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2007-67",
-        "title": "Wave Rain",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2007-68",
-        "title": "Summer Rain",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2007-79",
-        "title": "Last Winter",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2007-87",
-        "title": "Dusk Lights",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2007-91",
-        "title": "Crystal Love",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2006-62",
-        "title": "Rose Heart",
+        "id": "west-2006-33",
+        "title": "Ice Love",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -322,10 +236,75 @@
       "year": 2006
     },
     {
-      "rank": 32,
+      "rank": 45,
       "song": {
-        "id": "west-2005-32",
-        "title": "Dusk Moonlight",
+        "id": "west-2006-45",
+        "title": "Snow Night",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2006-56",
+        "title": "Broken Thunder",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2006-66",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2006-80",
+        "title": "Falling Light",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2006-97",
+        "title": "Gold Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2005-73",
+        "title": "Lost in Crystal",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -335,10 +314,10 @@
       "year": 2005
     },
     {
-      "rank": 35,
+      "rank": 80,
       "song": {
-        "id": "west-2005-35",
-        "title": "Electric River",
+        "id": "west-2005-80",
+        "title": "Running City",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -346,64 +325,51 @@
         "genre": "western"
       },
       "year": 2005
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2005-98",
+        "title": "Sun Moonlight",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2004-19",
+        "title": "Electric Sky",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2004-22",
+        "title": "Storm Night",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2004
     },
     {
       "rank": 55,
       "song": {
-        "id": "west-2005-55",
-        "title": "Sweet River",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2005-83",
-        "title": "Never Crystal",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2004-12",
-        "title": "Ice Heart",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2004-27",
-        "title": "Never Ice",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2004-63",
-        "title": "Winter Night",
+        "id": "west-2004-55",
+        "title": "Fading Silver",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -416,7 +382,7 @@
       "rank": 73,
       "song": {
         "id": "west-2004-73",
-        "title": "Broken Rose",
+        "title": "Wave Sky",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -426,10 +392,10 @@
       "year": 2004
     },
     {
-      "rank": 75,
+      "rank": 89,
       "song": {
-        "id": "west-2004-75",
-        "title": "Fading Ocean",
+        "id": "west-2004-89",
+        "title": "Sweet Fire",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -439,10 +405,10 @@
       "year": 2004
     },
     {
-      "rank": 31,
+      "rank": 38,
       "song": {
-        "id": "west-2003-31",
-        "title": "Electric Dawn",
+        "id": "west-2003-38",
+        "title": "Into the Mountain",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -452,10 +418,10 @@
       "year": 2003
     },
     {
-      "rank": 34,
+      "rank": 51,
       "song": {
-        "id": "west-2003-34",
-        "title": "Under the Summer",
+        "id": "west-2003-51",
+        "title": "Sweet Wave",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -465,10 +431,10 @@
       "year": 2003
     },
     {
-      "rank": 62,
+      "rank": 66,
       "song": {
-        "id": "west-2003-62",
-        "title": "Ice Way",
+        "id": "west-2003-66",
+        "title": "Mountain Dreams",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -478,10 +444,10 @@
       "year": 2003
     },
     {
-      "rank": 64,
+      "rank": 82,
       "song": {
-        "id": "west-2003-64",
-        "title": "Rain Love",
+        "id": "west-2003-82",
+        "title": "Golden Dawn",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -489,38 +455,90 @@
         "genre": "western"
       },
       "year": 2003
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2003-96",
+        "title": "Rose Lights",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2002-30",
+        "title": "Ocean Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-2002-39",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2002-40",
+        "title": "City Rain",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2002-50",
+        "title": "Chasing Snow",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2002
     },
     {
       "rank": 73,
       "song": {
-        "id": "west-2003-73",
-        "title": "Falling Wind",
+        "id": "west-2002-73",
+        "title": "Falling Ocean",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2002
     },
     {
-      "rank": 92,
+      "rank": 100,
       "song": {
-        "id": "west-2003-92",
-        "title": "Moon Way",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2002-17",
-        "title": "Chasing Winter",
+        "id": "west-2002-100",
+        "title": "Lost in Fire",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -532,151 +550,112 @@
     {
       "rank": 32,
       "song": {
-        "id": "west-2002-32",
-        "title": "Ice Heart",
+        "id": "west-2001-32",
+        "title": "Star Love",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2001
     },
     {
-      "rank": 42,
+      "rank": 37,
       "song": {
-        "id": "west-2002-42",
-        "title": "Lost in Shadow",
+        "id": "west-2001-37",
+        "title": "Into the Storm",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2001
     },
     {
-      "rank": 64,
+      "rank": 58,
       "song": {
-        "id": "west-2002-64",
-        "title": "Electric Dawn",
+        "id": "west-2001-58",
+        "title": "Midnight Sky",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2001
     },
     {
-      "rank": 67,
+      "rank": 84,
       "song": {
-        "id": "west-2002-67",
-        "title": "Road Rain",
+        "id": "west-2001-84",
+        "title": "Sweet Mountain",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2001
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2000-19",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2000-49",
+        "title": "Dawn Tears",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2000-53",
+        "title": "Golden Star",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2000-68",
+        "title": "Lost in Rose",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
     },
     {
       "rank": 87,
       "song": {
-        "id": "west-2002-87",
-        "title": "Dawn Way",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2002-89",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2002-95",
-        "title": "Fire Lights",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2001-30",
-        "title": "Lost in Road",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2001-47",
-        "title": "Chasing Bridge",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2001-54",
-        "title": "Lost in Wave",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2001-98",
-        "title": "Summer Rain",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2000-27",
-        "title": "Last Dawn",
+        "id": "west-2000-87",
+        "title": "Lost in Gold",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"
@@ -686,62 +665,10 @@
       "year": 2000
     },
     {
-      "rank": 41,
+      "rank": 90,
       "song": {
-        "id": "west-2000-41",
-        "title": "Diamond Way",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2000-71",
-        "title": "Snow Lights",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2000-77",
-        "title": "Chasing Sky",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2000-79",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-rihanna",
-          "name": "Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2000-91",
-        "title": "Rain Forever",
+        "id": "west-2000-90",
+        "title": "Dancing Storm",
         "artist": {
           "id": "a-rihanna",
           "name": "Rihanna"

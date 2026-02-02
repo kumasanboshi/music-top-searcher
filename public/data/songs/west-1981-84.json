@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1981-84",
-    "title": "Dancing Diamond",
+    "title": "Silver Sky",
     "artist": {
-      "id": "a-phil-collins",
-      "name": "Phil Collins"
+      "id": "a-def-leppard",
+      "name": "Def Leppard"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 84,
   "cdInfo": [
     {
-      "title": "Dancing Diamond",
+      "title": "Silver Sky",
       "type": "single",
-      "releaseDate": "1981-12-16"
+      "releaseDate": "1981-09-07"
+    },
+    {
+      "title": "Rose Sessions",
+      "type": "album",
+      "releaseDate": "1981-11-21"
     }
   ],
   "externalLinks": {
@@ -23,39 +28,13 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 36,
       "song": {
-        "id": "west-1990-06",
-        "title": "Another Day in Paradise",
+        "id": "west-1989-36",
+        "title": "Dancing Dusk",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1989-20",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1989-33",
-        "title": "Golden Dusk",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
@@ -65,23 +44,36 @@
       "rank": 39,
       "song": {
         "id": "west-1989-39",
-        "title": "Chasing City",
+        "title": "River Night",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 59,
+      "rank": 71,
       "song": {
-        "id": "west-1989-59",
-        "title": "Under the Thunder",
+        "id": "west-1989-71",
+        "title": "Wild Flame",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1989-72",
+        "title": "Diamond Sky",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
@@ -91,543 +83,738 @@
       "rank": 82,
       "song": {
         "id": "west-1989-82",
-        "title": "Chasing Rose",
+        "title": "Ocean Sky",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 88,
+      "rank": 12,
       "song": {
-        "id": "west-1989-88",
-        "title": "Fire Night",
+        "id": "west-1988-12",
+        "title": "Wind Lights",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1988-21",
-        "title": "Midnight Shadow",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 37,
+      "rank": 15,
       "song": {
-        "id": "west-1988-37",
-        "title": "Gold Dreams",
+        "id": "west-1988-15",
+        "title": "Summer Love",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 59,
+      "rank": 24,
       "song": {
-        "id": "west-1988-59",
-        "title": "Last Snow",
+        "id": "west-1988-24",
+        "title": "Diamond Soul",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 69,
+      "rank": 34,
       "song": {
-        "id": "west-1988-69",
-        "title": "Never Shadow",
+        "id": "west-1988-34",
+        "title": "Thunder Sky",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 87,
+      "rank": 47,
       "song": {
-        "id": "west-1988-87",
-        "title": "Fading Moon",
+        "id": "west-1988-47",
+        "title": "Broken Fire",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 39,
+      "rank": 61,
       "song": {
-        "id": "west-1987-39",
-        "title": "Never Dusk",
+        "id": "west-1988-61",
+        "title": "Road Way",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1988-93",
+        "title": "Under the Snow",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1988-94",
+        "title": "Under the Thunder",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1987-29",
+        "title": "Shadow Moonlight",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 46,
+      "rank": 31,
       "song": {
-        "id": "west-1987-46",
-        "title": "Broken Bridge",
+        "id": "west-1987-31",
+        "title": "Wild Light",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 56,
+      "rank": 43,
       "song": {
-        "id": "west-1987-56",
-        "title": "Crystal Love",
+        "id": "west-1987-43",
+        "title": "Last Storm",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1987
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1987-71",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1986-36",
-        "title": "Lost in Rain",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1986-95",
-        "title": "Under the Sun",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1986
     },
     {
       "rank": 52,
       "song": {
-        "id": "west-1985-52",
-        "title": "Never Ice",
+        "id": "west-1987-52",
+        "title": "Flame Fire",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1986-15",
+        "title": "Star Sky",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1986-30",
+        "title": "Moon Way",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1986-34",
+        "title": "Falling Crystal",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1986-58",
+        "title": "Shadow Love",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1986-64",
+        "title": "Fading Ocean",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1986-97",
+        "title": "Mountain Lights",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1985-27",
+        "title": "Into the Wind",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 62,
+      "rank": 34,
       "song": {
-        "id": "west-1985-62",
-        "title": "Falling Snow",
+        "id": "west-1985-34",
+        "title": "Chasing Rose",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 69,
+      "rank": 44,
       "song": {
-        "id": "west-1985-69",
-        "title": "Last Light",
+        "id": "west-1985-44",
+        "title": "Dawn Love",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1985
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1985-81",
-        "title": "Midnight Fire",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1985-83",
-        "title": "Dancing Shadow",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1985-95",
-        "title": "Under the Fire",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1985-98",
-        "title": "Running Wave",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-1984-06",
-        "title": "Against All Odds (Take a Look at Me Now)",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1984-25",
-        "title": "Dancing Storm",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1984-67",
-        "title": "Diamond Rain",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1984-92",
-        "title": "Electric Sky",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1983-32",
-        "title": "Dancing Sun",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1983-36",
-        "title": "Into the Road",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1983-51",
-        "title": "Under the Ocean",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1983-66",
-        "title": "Sun Forever",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1983-81",
-        "title": "Running Snow",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1982-19",
-        "title": "Golden Dusk",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1982-35",
-        "title": "Running Light",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1982-48",
-        "title": "Midnight Fire",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
     },
     {
       "rank": 55,
       "song": {
-        "id": "west-1982-55",
-        "title": "Diamond Love",
+        "id": "west-1985-55",
+        "title": "Sun Soul",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1985
     },
     {
-      "rank": 59,
+      "rank": 58,
       "song": {
-        "id": "west-1982-59",
-        "title": "Gold Love",
+        "id": "west-1985-58",
+        "title": "Dusk Dreams",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1985
     },
     {
-      "rank": 71,
+      "rank": 74,
       "song": {
-        "id": "west-1982-71",
-        "title": "Golden River",
+        "id": "west-1985-74",
+        "title": "Falling Storm",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1985
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1984-47",
+        "title": "Gold Sky",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1984-57",
+        "title": "Winter Moonlight",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1984-83",
+        "title": "Into the City",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1984-95",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1984
     },
     {
       "rank": 99,
       "song": {
-        "id": "west-1982-99",
-        "title": "Thunder Soul",
+        "id": "west-1984-99",
+        "title": "Gold Night",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1983-11",
+        "title": "Broken Ice",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1983-57",
+        "title": "Summer Lights",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1983-74",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1983-82",
+        "title": "Thunder Rain",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1982-79",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1982
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1982-81",
+        "title": "Sweet Road",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1982-88",
+        "title": "Golden Snow",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1982-98",
+        "title": "Sky Fire",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1981-17",
+        "title": "Sweet Thunder",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1981-35",
+        "title": "City Forever",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1981-39",
+        "title": "Fire Night",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1981-44",
+        "title": "Under the Ice",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
     },
     {
       "rank": 47,
       "song": {
         "id": "west-1981-47",
-        "title": "Moon Rain",
+        "title": "Shining Rain",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 66,
+      "rank": 55,
       "song": {
-        "id": "west-1981-66",
-        "title": "Star Love",
+        "id": "west-1981-55",
+        "title": "Flame Way",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 16,
+      "rank": 62,
       "song": {
-        "id": "west-1980-16",
-        "title": "Dancing Bridge",
+        "id": "west-1981-62",
+        "title": "Road Soul",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1981-77",
+        "title": "Road Love",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1981-92",
+        "title": "Summer Night",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1981-95",
+        "title": "Fading Storm",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1980-29",
+        "title": "Running Crystal",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 21,
+      "rank": 44,
       "song": {
-        "id": "west-1980-21",
-        "title": "Sweet Winter",
+        "id": "west-1980-44",
+        "title": "Thunder Lights",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 64,
+      "rank": 45,
       "song": {
-        "id": "west-1980-64",
-        "title": "Never Wave",
+        "id": "west-1980-45",
+        "title": "Light Way",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 79,
+      "rank": 57,
       "song": {
-        "id": "west-1980-79",
-        "title": "Under the Bridge",
+        "id": "west-1980-57",
+        "title": "Ice Tears",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1980-58",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1980-63",
+        "title": "Falling Ice",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1980-82",
+        "title": "Dusk Soul",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1980-88",
+        "title": "Never Silver",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1980-92",
+        "title": "Mountain Heart",
+        "artist": {
+          "id": "a-def-leppard",
+          "name": "Def Leppard"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1996-16",
-    "title": "Chasing Fire",
+    "title": "Shining Silver",
     "artist": {
-      "id": "a-tlc",
-      "name": "TLC"
+      "id": "a-green-day",
+      "name": "Green Day"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 16,
   "cdInfo": [
     {
-      "title": "Chasing Fire",
+      "title": "Shining Silver",
       "type": "single",
-      "releaseDate": "1996-06-27"
+      "releaseDate": "1996-10-01"
+    },
+    {
+      "title": "Storm Anthology",
+      "type": "album",
+      "releaseDate": "1996-01-24"
     }
   ],
   "externalLinks": {
@@ -23,130 +28,52 @@
   },
   "artistSongs": [
     {
-      "rank": 2,
+      "rank": 6,
       "song": {
-        "id": "west-1999-02",
-        "title": "No Scrubs",
+        "id": "west-2005-06",
+        "title": "Boulevard of Broken Dreams",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1999-15",
+        "title": "Storm Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 16,
+      "rank": 40,
       "song": {
-        "id": "west-1999-16",
-        "title": "Winter Forever",
+        "id": "west-1999-40",
+        "title": "Star Sky",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 30,
+      "rank": 72,
       "song": {
-        "id": "west-1999-30",
-        "title": "Fading Sun",
+        "id": "west-1999-72",
+        "title": "Wild Ocean",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1999-37",
-        "title": "Running Mountain",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1999-41",
-        "title": "Rose Tears",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1999-58",
-        "title": "Last Bridge",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1999-64",
-        "title": "River Love",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1999-65",
-        "title": "Moon Love",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1999-75",
-        "title": "Light Moonlight",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1999-79",
-        "title": "Electric Storm",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -156,595 +83,686 @@
       "rank": 92,
       "song": {
         "id": "west-1999-92",
-        "title": "Wave Rain",
+        "title": "Falling Flame",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 48,
-      "song": {
-        "id": "west-1998-48",
-        "title": "Storm Tears",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1998-66",
-        "title": "Under the Road",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1998-77",
-        "title": "Chasing Wave",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1997-19",
-        "title": "Never Fire",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1997-32",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1997-62",
-        "title": "Bridge Moonlight",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1996-39",
-        "title": "Rain Fire",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1996-52",
-        "title": "Midnight Rose",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1996-69",
-        "title": "Midnight Ocean",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1996-73",
-        "title": "Dancing Ocean",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1996-79",
-        "title": "Wild Sun",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1996-94",
-        "title": "Dawn Night",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "west-1995-02",
-        "title": "Waterfalls",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-1995-03",
-        "title": "Creep",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
       "rank": 11,
       "song": {
-        "id": "west-1995-11",
-        "title": "Chasing Thunder",
+        "id": "west-1998-11",
+        "title": "Dusk Lights",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1995
+      "year": 1998
     },
     {
-      "rank": 28,
+      "rank": 17,
       "song": {
-        "id": "west-1995-28",
-        "title": "Summer Tears",
+        "id": "west-1998-17",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1995
+      "year": 1998
     },
     {
-      "rank": 37,
+      "rank": 22,
       "song": {
-        "id": "west-1995-37",
-        "title": "Fading Shadow",
+        "id": "west-1998-22",
+        "title": "Snow Night",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1995
+      "year": 1998
     },
     {
-      "rank": 60,
+      "rank": 27,
       "song": {
-        "id": "west-1995-60",
-        "title": "Broken River",
+        "id": "west-1998-27",
+        "title": "Dawn Love",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1995
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1995-63",
-        "title": "Storm Love",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1995-84",
-        "title": "Broken City",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1995-87",
-        "title": "Lost in Fire",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1995-91",
-        "title": "Wind Love",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1995
+      "year": 1998
     },
     {
       "rank": 43,
       "song": {
-        "id": "west-1994-43",
-        "title": "Into the Ice",
+        "id": "west-1998-43",
+        "title": "Wind Tears",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1994
+      "year": 1998
     },
     {
-      "rank": 78,
+      "rank": 47,
       "song": {
-        "id": "west-1994-78",
-        "title": "Shining Moon",
+        "id": "west-1998-47",
+        "title": "Crystal Rain",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1994
+      "year": 1998
     },
     {
-      "rank": 15,
+      "rank": 67,
       "song": {
-        "id": "west-1993-15",
-        "title": "Star Soul",
+        "id": "west-1998-67",
+        "title": "City Love",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1998
     },
     {
-      "rank": 31,
+      "rank": 95,
       "song": {
-        "id": "west-1993-31",
-        "title": "Never Rain",
+        "id": "west-1998-95",
+        "title": "River Night",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1998
     },
     {
-      "rank": 45,
+      "rank": 30,
       "song": {
-        "id": "west-1993-45",
-        "title": "Into the Star",
+        "id": "west-1997-30",
+        "title": "Crystal Tears",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1997
     },
     {
-      "rank": 56,
+      "rank": 64,
       "song": {
-        "id": "west-1993-56",
-        "title": "Sun Heart",
+        "id": "west-1997-64",
+        "title": "City Night",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1993
-    },
-    {
-      "rank": 5,
-      "song": {
-        "id": "west-1992-05",
-        "title": "Baby-Baby-Baby",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1992-31",
-        "title": "Electric Summer",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1992-40",
-        "title": "Ice Soul",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1992-54",
-        "title": "Wave Way",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1992-65",
-        "title": "Dancing Sun",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1992-79",
-        "title": "Dancing Snow",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1992-98",
-        "title": "Diamond Way",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1991-31",
-        "title": "Chasing Light",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1991-34",
-        "title": "Last City",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1991-50",
-        "title": "Dancing Bridge",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1991-58",
-        "title": "Fire Soul",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      },
-      "year": 1991
+      "year": 1997
     },
     {
       "rank": 84,
       "song": {
-        "id": "west-1991-84",
-        "title": "Road Way",
+        "id": "west-1997-84",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1991
+      "year": 1997
     },
     {
-      "rank": 99,
+      "rank": 89,
       "song": {
-        "id": "west-1991-99",
-        "title": "Rain Tears",
+        "id": "west-1997-89",
+        "title": "Chasing Snow",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1991
+      "year": 1997
     },
     {
-      "rank": 100,
+      "rank": 90,
       "song": {
-        "id": "west-1991-100",
-        "title": "Falling Gold",
+        "id": "west-1997-90",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1991
+      "year": 1997
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1997-98",
+        "title": "Broken Light",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1996-12",
+        "title": "Sweet Winter",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1996-53",
+        "title": "Wind Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1996-77",
+        "title": "Under the Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1996-82",
+        "title": "Fire Love",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
     },
     {
       "rank": 15,
       "song": {
-        "id": "west-1990-15",
-        "title": "Gold Dreams",
+        "id": "west-1995-15",
+        "title": "Into the Rose",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1990
+      "year": 1995
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1995-44",
+        "title": "Rain Night",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1995-46",
+        "title": "Dancing Dusk",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1995-58",
+        "title": "Golden Dawn",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1995-73",
+        "title": "Into the Road",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1994-18",
+        "title": "Into the Moon",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1994-25",
+        "title": "Sky Moonlight",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1994-51",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1994-53",
+        "title": "Diamond Tears",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1994-63",
+        "title": "Broken Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1994-77",
+        "title": "Wild Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1993-64",
+        "title": "Into the Dusk",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1993-78",
+        "title": "Midnight Shadow",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1993
     },
     {
       "rank": 16,
       "song": {
-        "id": "west-1990-16",
-        "title": "Shining Ocean",
+        "id": "west-1992-16",
+        "title": "Chasing Light",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1992-33",
+        "title": "Broken Bridge",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1992-36",
+        "title": "Sky Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1992-47",
+        "title": "Winter Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1992-59",
+        "title": "Mountain Forever",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1992-72",
+        "title": "City Lights",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1992-94",
+        "title": "Broken River",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1991-23",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1991-27",
+        "title": "Under the Winter",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1991-29",
+        "title": "Golden Fire",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1991-48",
+        "title": "Dancing Dawn",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1991-56",
+        "title": "Dancing Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1991-76",
+        "title": "Last Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1991-86",
+        "title": "Bridge Dreams",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1990-12",
+        "title": "Sweet Wave",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 19,
+      "rank": 17,
       "song": {
-        "id": "west-1990-19",
-        "title": "Midnight Sun",
+        "id": "west-1990-17",
+        "title": "Running Star",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1990-23",
+        "title": "Fading Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1990-40",
+        "title": "Broken City",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1990-44",
+        "title": "Bridge Night",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1990-47",
+        "title": "Golden Flame",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1990-54",
+        "title": "Never Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -754,23 +772,23 @@
       "rank": 56,
       "song": {
         "id": "west-1990-56",
-        "title": "Winter Sky",
+        "title": "Dancing Star",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 85,
+      "rank": 82,
       "song": {
-        "id": "west-1990-85",
-        "title": "Under the City",
+        "id": "west-1990-82",
+        "title": "Never City",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },

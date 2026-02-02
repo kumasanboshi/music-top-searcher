@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-84",
-    "title": "Dusk Soul",
+    "title": "Shadow Moonlight",
     "artist": {
-      "id": "a-billy-joel",
-      "name": "Billy Joel"
+      "id": "a-fleetwood-mac",
+      "name": "Fleetwood Mac"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 84,
   "cdInfo": [
     {
-      "title": "Dusk Soul",
+      "title": "Shadow Moonlight",
       "type": "single",
-      "releaseDate": "1975-06-03"
+      "releaseDate": "1975-01-17"
+    },
+    {
+      "title": "Crystal Collection",
+      "type": "album",
+      "releaseDate": "1975-12-06"
     }
   ],
   "externalLinks": {
@@ -23,104 +28,117 @@
   },
   "artistSongs": [
     {
-      "rank": 9,
+      "rank": 18,
       "song": {
-        "id": "west-1980-09",
-        "title": "It's Still Rock and Roll to Me",
+        "id": "west-1979-18",
+        "title": "Star Soul",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1979-11",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1979-46",
-        "title": "River Tears",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1979-76",
-        "title": "Running Sun",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1978-16",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1978-25",
-        "title": "Thunder Night",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 33,
       "song": {
-        "id": "west-1978-33",
-        "title": "Winter Rain",
+        "id": "west-1979-33",
+        "title": "Last Fire",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1979-45",
+        "title": "Wild Ocean",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1979-62",
+        "title": "Wind Way",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1979-66",
+        "title": "Chasing Rose",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1978-18",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 35,
+      "rank": 21,
       "song": {
-        "id": "west-1978-35",
-        "title": "Sun Tears",
+        "id": "west-1978-21",
+        "title": "Into the Wind",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1978-27",
+        "title": "Wild Sun",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1978-36",
+        "title": "Into the Rose",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
@@ -130,270 +148,257 @@
       "rank": 50,
       "song": {
         "id": "west-1978-50",
-        "title": "Falling Ice",
+        "title": "Star Fire",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 51,
+      "rank": 59,
       "song": {
-        "id": "west-1978-51",
-        "title": "Golden Road",
+        "id": "west-1978-59",
+        "title": "Wind Heart",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 79,
+      "rank": 81,
       "song": {
-        "id": "west-1978-79",
-        "title": "Midnight Diamond",
+        "id": "west-1978-81",
+        "title": "Running Sun",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 83,
+      "rank": 8,
       "song": {
-        "id": "west-1978-83",
-        "title": "Ocean Heart",
+        "id": "west-1977-08",
+        "title": "Dreams",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
-      "year": 1978
+      "year": 1977
     },
     {
       "rank": 15,
       "song": {
         "id": "west-1977-15",
-        "title": "Running Gold",
+        "title": "Midnight Ice",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 33,
+      "rank": 39,
       "song": {
-        "id": "west-1977-33",
-        "title": "Electric Gold",
+        "id": "west-1977-39",
+        "title": "Falling Thunder",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1977
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1977-61",
+        "title": "City Fire",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1977-69",
+        "title": "Electric Sun",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1976-18",
+        "title": "Sun Night",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1976-21",
+        "title": "Star Moonlight",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1976-22",
+        "title": "Light Heart",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 34,
       "song": {
-        "id": "west-1977-34",
-        "title": "Dusk Fire",
+        "id": "west-1976-34",
+        "title": "Fire Heart",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1977-38",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1977-76",
-        "title": "Lost in Ice",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1977-88",
-        "title": "Winter Soul",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1976-17",
-        "title": "Golden Snow",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 24,
+      "rank": 35,
       "song": {
-        "id": "west-1976-24",
-        "title": "Mountain Lights",
+        "id": "west-1976-35",
+        "title": "Into the City",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 25,
+      "rank": 48,
       "song": {
-        "id": "west-1976-25",
-        "title": "Ocean Night",
+        "id": "west-1976-48",
+        "title": "Gold Way",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 36,
+      "rank": 67,
       "song": {
-        "id": "west-1976-36",
-        "title": "Falling Mountain",
+        "id": "west-1976-67",
+        "title": "Shining Summer",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 74,
+      "rank": 85,
       "song": {
-        "id": "west-1976-74",
-        "title": "Flame Soul",
+        "id": "west-1976-85",
+        "title": "Light Forever",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 81,
+      "rank": 12,
       "song": {
-        "id": "west-1976-81",
-        "title": "Running Bridge",
+        "id": "west-1975-12",
+        "title": "Golden Star",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1976-83",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1976-89",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1976-93",
-        "title": "Midnight River",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1975-31",
-        "title": "Last River",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 45,
+      "rank": 74,
       "song": {
-        "id": "west-1975-45",
-        "title": "Golden Gold",
+        "id": "west-1975-74",
+        "title": "Under the Wind",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1975-81",
+        "title": "River Love",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1975-99",
+        "title": "Broken Diamond",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
         },
         "genre": "western"
       },

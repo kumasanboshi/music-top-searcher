@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1979-67",
-    "title": "Shadow Fire",
+    "title": "Dancing Shadow",
     "artist": {
-      "id": "a-bee-gees",
-      "name": "Bee Gees"
+      "id": "a-abba",
+      "name": "ABBA"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 67,
   "cdInfo": [
     {
-      "title": "Shadow Fire",
+      "title": "Dancing Shadow",
       "type": "single",
-      "releaseDate": "1979-11-19"
+      "releaseDate": "1979-03-12"
+    },
+    {
+      "title": "The Gold Album",
+      "type": "album",
+      "releaseDate": "1979-11-18"
     }
   ],
   "externalLinks": {
@@ -23,117 +28,78 @@
   },
   "artistSongs": [
     {
-      "rank": 8,
+      "rank": 23,
       "song": {
-        "id": "west-1979-08",
-        "title": "Too Much Heaven",
+        "id": "west-1978-23",
+        "title": "Into the Crystal",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1979-15",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1979-24",
-        "title": "Never Wind",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1979-47",
-        "title": "Fading River",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1979-48",
-        "title": "Mountain Sky",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1979-74",
-        "title": "Chasing Bridge",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1979-86",
-        "title": "Snow Forever",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "west-1978-02",
-        "title": "Night Fever",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 3,
+      "rank": 29,
       "song": {
-        "id": "west-1978-03",
-        "title": "Stayin' Alive",
+        "id": "west-1978-29",
+        "title": "Never Thunder",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1978-45",
+        "title": "Running Ocean",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1978-76",
+        "title": "Wind Soul",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1978-85",
+        "title": "River Night",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1978-98",
+        "title": "Light Moonlight",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -142,206 +108,128 @@
     {
       "rank": 6,
       "song": {
-        "id": "west-1978-06",
-        "title": "How Deep Is Your Love",
+        "id": "west-1977-06",
+        "title": "Dancing Queen",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1978
+      "year": 1977
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1977-32",
+        "title": "Wild Wind",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1977-45",
+        "title": "Wild Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1977-54",
+        "title": "Never Rain",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 71,
       "song": {
-        "id": "west-1978-71",
-        "title": "Never Wind",
+        "id": "west-1977-71",
+        "title": "Midnight Ocean",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1978-80",
-        "title": "Fire Dreams",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1977-23",
-        "title": "Wave Way",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 68,
+      "rank": 84,
       "song": {
-        "id": "west-1977-68",
-        "title": "Fading Road",
+        "id": "west-1977-84",
+        "title": "River Sky",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 72,
+      "rank": 89,
       "song": {
-        "id": "west-1977-72",
-        "title": "Gold Way",
+        "id": "west-1977-89",
+        "title": "Diamond Soul",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 91,
+      "rank": 98,
       "song": {
-        "id": "west-1977-91",
-        "title": "Wind Heart",
+        "id": "west-1977-98",
+        "title": "Sun Lights",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 30,
+      "rank": 99,
       "song": {
-        "id": "west-1976-30",
-        "title": "Ice Night",
+        "id": "west-1977-99",
+        "title": "Last City",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1976
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1976-35",
-        "title": "Fading Star",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1976-41",
-        "title": "Running Rain",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1976-82",
-        "title": "Sweet Fire",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1976-87",
-        "title": "Into the Diamond",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1976-92",
-        "title": "Under the Storm",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
+      "year": 1977
     },
     {
       "rank": 94,
       "song": {
         "id": "west-1976-94",
-        "title": "Snow Love",
+        "title": "Dawn Tears",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1976-95",
-        "title": "Running Crystal",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1976-96",
-        "title": "Wild Flame",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -351,75 +239,88 @@
       "rank": 97,
       "song": {
         "id": "west-1976-97",
-        "title": "Flame Forever",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 11,
+      "rank": 22,
       "song": {
-        "id": "west-1975-11",
-        "title": "Bridge Way",
+        "id": "west-1975-22",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 58,
+      "rank": 54,
       "song": {
-        "id": "west-1975-58",
-        "title": "Lost in Rain",
+        "id": "west-1975-54",
+        "title": "Midnight Road",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 70,
+      "rank": 85,
       "song": {
-        "id": "west-1975-70",
-        "title": "Sky Moonlight",
+        "id": "west-1975-85",
+        "title": "Wind Sky",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 87,
+      "rank": 91,
       "song": {
-        "id": "west-1975-87",
-        "title": "Winter Sky",
+        "id": "west-1975-91",
+        "title": "Falling Crystal",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 99,
+      "rank": 92,
       "song": {
-        "id": "west-1975-99",
-        "title": "Ocean Forever",
+        "id": "west-1975-92",
+        "title": "Golden Snow",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1975-94",
+        "title": "Last Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },

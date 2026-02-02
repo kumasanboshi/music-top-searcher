@@ -15,6 +15,11 @@
       "title": "さよなら",
       "type": "single",
       "releaseDate": "1980-01-01"
+    },
+    {
+      "title": "風コレクション",
+      "type": "album",
+      "releaseDate": "1980-05-16"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 13,
+      "rank": 19,
       "song": {
-        "id": "jpop-1979-13",
-        "title": "森メロディ",
+        "id": "jpop-1979-19",
+        "title": "波の季節",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -34,129 +39,90 @@
         "genre": "jpop"
       },
       "year": 1979
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1979-35",
-        "title": "月物語",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1979-45",
-        "title": "影フォーエバー",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1979-61",
-        "title": "雪の空",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-1979-62",
-        "title": "涙の光",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1979-65",
-        "title": "真夜中の恋",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1979-86",
-        "title": "ミッドナイト冬",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1979-89",
-        "title": "記憶の道",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-1978-16",
-        "title": "永遠の冬",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
     },
     {
       "rank": 22,
       "song": {
-        "id": "jpop-1978-22",
-        "title": "涙の花",
+        "id": "jpop-1979-22",
+        "title": "星の海",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
         },
         "genre": "jpop"
       },
-      "year": 1978
+      "year": 1979
     },
     {
-      "rank": 38,
+      "rank": 23,
       "song": {
-        "id": "jpop-1978-38",
-        "title": "ミッドナイト太陽",
+        "id": "jpop-1979-23",
+        "title": "夢の花",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1979-39",
+        "title": "朝サンセット",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1979-50",
+        "title": "旅の歌",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-1979-51",
+        "title": "冬の花",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1979-67",
+        "title": "約束の愛",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1978-31",
+        "title": "恋の夜",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -169,7 +135,7 @@
       "rank": 51,
       "song": {
         "id": "jpop-1978-51",
-        "title": "恋の虹",
+        "title": "桜フォーエバー",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -179,10 +145,10 @@
       "year": 1978
     },
     {
-      "rank": 91,
+      "rank": 76,
       "song": {
-        "id": "jpop-1978-91",
-        "title": "君の希望",
+        "id": "jpop-1978-76",
+        "title": "希望のリズム",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -192,10 +158,10 @@
       "year": 1978
     },
     {
-      "rank": 96,
+      "rank": 79,
       "song": {
-        "id": "jpop-1978-96",
-        "title": "君の時間",
+        "id": "jpop-1978-79",
+        "title": "愛の約束",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -205,10 +171,23 @@
       "year": 1978
     },
     {
-      "rank": 13,
+      "rank": 94,
       "song": {
-        "id": "jpop-1977-13",
-        "title": "月の街",
+        "id": "jpop-1978-94",
+        "title": "約束物語",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-1977-40",
+        "title": "影の街",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -218,10 +197,10 @@
       "year": 1977
     },
     {
-      "rank": 28,
+      "rank": 45,
       "song": {
-        "id": "jpop-1977-28",
-        "title": "風の未来",
+        "id": "jpop-1977-45",
+        "title": "夏の街",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -231,10 +210,10 @@
       "year": 1977
     },
     {
-      "rank": 68,
+      "rank": 61,
       "song": {
-        "id": "jpop-1977-68",
-        "title": "太陽フォーエバー",
+        "id": "jpop-1977-61",
+        "title": "君の花",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -247,7 +226,33 @@
       "rank": 25,
       "song": {
         "id": "jpop-1976-25",
-        "title": "君の朝",
+        "title": "永遠の夜",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-1976-29",
+        "title": "影の道",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1976-34",
+        "title": "青い世界",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -260,7 +265,7 @@
       "rank": 39,
       "song": {
         "id": "jpop-1976-39",
-        "title": "夜のかけら",
+        "title": "雨の季節",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -273,7 +278,7 @@
       "rank": 54,
       "song": {
         "id": "jpop-1976-54",
-        "title": "花の街",
+        "title": "最後の夏",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -283,10 +288,10 @@
       "year": 1976
     },
     {
-      "rank": 55,
+      "rank": 60,
       "song": {
-        "id": "jpop-1976-55",
-        "title": "青い海",
+        "id": "jpop-1976-60",
+        "title": "真夜中の夢",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -294,51 +299,64 @@
         "genre": "jpop"
       },
       "year": 1976
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1976-70",
+        "title": "未来の花",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1975-23",
+        "title": "世界のかけら",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-1975-25",
+        "title": "虹の歌",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-1975-28",
+        "title": "約束フォーエバー",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
     },
     {
       "rank": 56,
       "song": {
-        "id": "jpop-1976-56",
-        "title": "永遠の風",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1976-57",
-        "title": "波のかけら",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1976-94",
-        "title": "希望の季節",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1975-18",
-        "title": "青い花",
+        "id": "jpop-1975-56",
+        "title": "夢の夜",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -348,10 +366,10 @@
       "year": 1975
     },
     {
-      "rank": 26,
+      "rank": 71,
       "song": {
-        "id": "jpop-1975-26",
-        "title": "最後の希望",
+        "id": "jpop-1975-71",
+        "title": "冬の約束",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -361,10 +379,10 @@
       "year": 1975
     },
     {
-      "rank": 47,
+      "rank": 95,
       "song": {
-        "id": "jpop-1975-47",
-        "title": "約束の月",
+        "id": "jpop-1975-95",
+        "title": "光の夜",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"
@@ -374,23 +392,10 @@
       "year": 1975
     },
     {
-      "rank": 64,
+      "rank": 100,
       "song": {
-        "id": "jpop-1975-64",
-        "title": "虹フォーエバー",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1975-67",
-        "title": "風の世界",
+        "id": "jpop-1975-100",
+        "title": "君の冬",
         "artist": {
           "id": "a-off-course",
           "name": "オフコース"

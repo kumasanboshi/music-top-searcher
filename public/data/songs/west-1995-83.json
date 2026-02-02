@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1995-83",
-    "title": "Golden Gold",
+    "title": "Chasing Winter",
     "artist": {
-      "id": "a-britney",
-      "name": "Britney Spears"
+      "id": "a-celine",
+      "name": "Celine Dion"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 83,
   "cdInfo": [
     {
-      "title": "Golden Gold",
+      "title": "Chasing Winter",
       "type": "single",
-      "releaseDate": "1995-10-02"
+      "releaseDate": "1995-10-16"
+    },
+    {
+      "title": "Light Unplugged",
+      "type": "album",
+      "releaseDate": "1995-01-20"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,39 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 21,
       "song": {
-        "id": "west-1999-12",
-        "title": "Rose Rain",
+        "id": "west-1999-21",
+        "title": "Moon Dreams",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 23,
+      "rank": 47,
       "song": {
-        "id": "west-1999-23",
-        "title": "City Tears",
+        "id": "west-1999-47",
+        "title": "Sweet Star",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 24,
+      "rank": 68,
       "song": {
-        "id": "west-1999-24",
-        "title": "Falling Snow",
+        "id": "west-1999-68",
+        "title": "Chasing Wind",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1999-39",
-        "title": "Bridge Dreams",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1999-60",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1999-73",
-        "title": "Shining Crystal",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
@@ -104,153 +70,244 @@
       "rank": 80,
       "song": {
         "id": "west-1999-80",
-        "title": "Dancing Shadow",
+        "title": "Running Wind",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 97,
+      "rank": 82,
       "song": {
-        "id": "west-1999-97",
-        "title": "Fading Diamond",
+        "id": "west-1999-82",
+        "title": "Storm Fire",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 98,
+      "rank": 87,
       "song": {
-        "id": "west-1999-98",
-        "title": "Running Road",
+        "id": "west-1999-87",
+        "title": "Under the City",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1999
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1998-23",
+        "title": "River Fire",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1998-31",
+        "title": "Under the Ice",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1998-52",
+        "title": "Dancing Silver",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1998-53",
+        "title": "Never Dawn",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1998-57",
+        "title": "Bridge Moonlight",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1998-62",
+        "title": "Shining Winter",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1997-11",
+        "title": "Fading Flame",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1997
     },
     {
       "rank": 13,
       "song": {
-        "id": "west-1998-13",
-        "title": "Wild Rose",
+        "id": "west-1997-13",
+        "title": "Fading Thunder",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
-      "year": 1998
+      "year": 1997
     },
     {
-      "rank": 18,
+      "rank": 16,
       "song": {
-        "id": "west-1998-18",
+        "id": "west-1997-16",
+        "title": "Sun Moonlight",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1997-33",
+        "title": "Sweet Diamond",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1997-53",
+        "title": "Wind Forever",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1997-67",
         "title": "Winter Fire",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1998-30",
-        "title": "Lost in Star",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1998-32",
-        "title": "Into the Fire",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1998-47",
-        "title": "River Sky",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1997-18",
-        "title": "Into the Sky",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 21,
+      "rank": 68,
       "song": {
-        "id": "west-1997-21",
-        "title": "Under the Snow",
+        "id": "west-1997-68",
+        "title": "Rain Forever",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 65,
+      "rank": 75,
       "song": {
-        "id": "west-1997-65",
-        "title": "Falling Light",
+        "id": "west-1997-75",
+        "title": "Falling Sun",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 85,
+      "rank": 77,
       "song": {
-        "id": "west-1997-85",
-        "title": "Summer Sky",
+        "id": "west-1997-77",
+        "title": "Summer Fire",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1997-82",
+        "title": "Under the Flame",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
@@ -260,179 +317,361 @@
       "rank": 94,
       "song": {
         "id": "west-1997-94",
-        "title": "Flame Fire",
+        "title": "Dancing Gold",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 35,
+      "rank": 95,
       "song": {
-        "id": "west-1996-35",
-        "title": "Never Rose",
+        "id": "west-1997-95",
+        "title": "Gold Forever",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
-      "year": 1996
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1996-64",
-        "title": "Falling Sun",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1996-67",
-        "title": "Snow Dreams",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1996-97",
-        "title": "Fading Winter",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1995-20",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1995-79",
-        "title": "Dusk Love",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1995-97",
-        "title": "Under the Diamond",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1994-16",
-        "title": "Last Rain",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1994-38",
-        "title": "Running Dawn",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1994-51",
-        "title": "Dusk Fire",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1994-54",
-        "title": "Falling Diamond",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1994-58",
-        "title": "Golden Rose",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1994
+      "year": 1997
     },
     {
       "rank": 100,
       "song": {
-        "id": "west-1994-100",
-        "title": "Never Mountain",
+        "id": "west-1997-100",
+        "title": "Into the Bridge",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1996-41",
+        "title": "Dusk Dreams",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1996-42",
+        "title": "Golden Light",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1996-51",
+        "title": "Fading Rose",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1996-57",
+        "title": "Under the Bridge",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1996-73",
+        "title": "Chasing Star",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1996-79",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1996-89",
+        "title": "Moon Heart",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1996-95",
+        "title": "Golden Fire",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1995-28",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1995-34",
+        "title": "Wild Thunder",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1995-52",
+        "title": "Sweet Sun",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1995-54",
+        "title": "Shining Bridge",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1995-57",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1995-61",
+        "title": "Last Crystal",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1995-66",
+        "title": "Dawn Rain",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1995-82",
+        "title": "Dancing Sky",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1995-85",
+        "title": "Rose Night",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1995-89",
+        "title": "Wind Fire",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1994-14",
+        "title": "Star Fire",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1994-15",
+        "title": "Midnight Sky",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1994-19",
+        "title": "Snow Way",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1994-46",
+        "title": "Winter Tears",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1994-80",
+        "title": "Light Lights",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1994-88",
+        "title": "Diamond Love",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1994-89",
+        "title": "Winter Love",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
@@ -442,257 +681,309 @@
       "rank": 17,
       "song": {
         "id": "west-1993-17",
-        "title": "Wild Thunder",
+        "title": "Under the River",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 25,
+      "rank": 27,
       "song": {
-        "id": "west-1993-25",
-        "title": "Into the Road",
+        "id": "west-1993-27",
+        "title": "Last Ice",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 29,
+      "rank": 41,
       "song": {
-        "id": "west-1993-29",
-        "title": "Crystal Heart",
+        "id": "west-1993-41",
+        "title": "Electric Diamond",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 33,
+      "rank": 43,
       "song": {
-        "id": "west-1993-33",
-        "title": "Dusk Rain",
+        "id": "west-1993-43",
+        "title": "Running Rose",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 39,
+      "rank": 54,
       "song": {
-        "id": "west-1993-39",
-        "title": "Crystal Moonlight",
+        "id": "west-1993-54",
+        "title": "Falling Mountain",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 49,
+      "rank": 58,
       "song": {
-        "id": "west-1993-49",
-        "title": "Wild River",
+        "id": "west-1993-58",
+        "title": "Into the Silver",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 63,
+      "rank": 73,
       "song": {
-        "id": "west-1993-63",
-        "title": "Snow Sky",
+        "id": "west-1993-73",
+        "title": "Shadow Lights",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 72,
+      "rank": 74,
       "song": {
-        "id": "west-1993-72",
-        "title": "Star Love",
+        "id": "west-1993-74",
+        "title": "Light Lights",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 86,
+      "rank": 80,
       "song": {
-        "id": "west-1993-86",
-        "title": "Electric Sun",
+        "id": "west-1993-80",
+        "title": "Dancing Dusk",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 11,
+      "rank": 93,
       "song": {
-        "id": "west-1992-11",
-        "title": "Sun Way",
+        "id": "west-1993-93",
+        "title": "Fading Crystal",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1993-97",
+        "title": "Midnight Road",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1992-12",
+        "title": "Light Tears",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 21,
+      "rank": 26,
       "song": {
-        "id": "west-1992-21",
-        "title": "Sweet Light",
+        "id": "west-1992-26",
+        "title": "Falling Gold",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 32,
+      "rank": 78,
       "song": {
-        "id": "west-1992-32",
-        "title": "Electric Fire",
+        "id": "west-1992-78",
+        "title": "Chasing Crystal",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 50,
+      "rank": 80,
       "song": {
-        "id": "west-1992-50",
-        "title": "Dancing Wind",
+        "id": "west-1992-80",
+        "title": "Under the Road",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 81,
+      "rank": 13,
       "song": {
-        "id": "west-1992-81",
-        "title": "Broken Gold",
+        "id": "west-1991-13",
+        "title": "Silver Lights",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1991
     },
     {
-      "rank": 82,
+      "rank": 24,
       "song": {
-        "id": "west-1992-82",
-        "title": "Under the Ocean",
+        "id": "west-1991-24",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1991
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1991-64",
+        "title": "Road Forever",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1991
     },
     {
       "rank": 83,
       "song": {
-        "id": "west-1992-83",
-        "title": "Running Storm",
+        "id": "west-1991-83",
+        "title": "Summer Lights",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1991-22",
-        "title": "Star Heart",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 49,
+      "rank": 97,
       "song": {
-        "id": "west-1991-49",
-        "title": "Lost in Flame",
+        "id": "west-1991-97",
+        "title": "Thunder Soul",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 40,
+      "rank": 99,
       "song": {
-        "id": "west-1990-40",
-        "title": "Under the River",
+        "id": "west-1991-99",
+        "title": "Falling Star",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1990-65",
+        "title": "Snow Lights",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 92,
+      "rank": 68,
       "song": {
-        "id": "west-1990-92",
-        "title": "Wind Tears",
+        "id": "west-1990-68",
+        "title": "Falling Snow",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1990-71",
+        "title": "Storm Fire",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       },

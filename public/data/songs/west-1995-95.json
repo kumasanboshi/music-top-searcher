@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1995-95",
-    "title": "Broken Fire",
+    "title": "Midnight Sky",
     "artist": {
-      "id": "a-oasis",
-      "name": "Oasis"
+      "id": "a-rkelly",
+      "name": "R. Kelly"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 95,
   "cdInfo": [
     {
-      "title": "Broken Fire",
+      "title": "Midnight Sky",
       "type": "single",
-      "releaseDate": "1995-10-28"
+      "releaseDate": "1995-04-03"
+    },
+    {
+      "title": "City Unplugged",
+      "type": "album",
+      "releaseDate": "1995-12-06"
     }
   ],
   "externalLinks": {
@@ -23,104 +28,39 @@
   },
   "artistSongs": [
     {
-      "rank": 17,
-      "song": {
-        "id": "west-1999-17",
-        "title": "Lost in Ocean",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
       "rank": 18,
       "song": {
         "id": "west-1999-18",
-        "title": "Lost in Wave",
+        "title": "Dancing Summer",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 36,
+      "rank": 28,
       "song": {
-        "id": "west-1999-36",
-        "title": "Fading Winter",
+        "id": "west-1999-28",
+        "title": "Midnight Light",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 51,
+      "rank": 90,
       "song": {
-        "id": "west-1999-51",
-        "title": "Fading Snow",
+        "id": "west-1999-90",
+        "title": "Running Thunder",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1999-71",
-        "title": "Never Silver",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1999-74",
-        "title": "Gold Fire",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1999-77",
-        "title": "Summer Way",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1999-85",
-        "title": "Dancing Gold",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -130,192 +70,270 @@
       "rank": 94,
       "song": {
         "id": "west-1999-94",
-        "title": "Dancing Thunder",
+        "title": "Midnight Fire",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
+      "rank": 97,
+      "song": {
+        "id": "west-1999-97",
+        "title": "Electric Star",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1998-59",
+        "title": "Running Wind",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1998-73",
+        "title": "Fading Bridge",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1998-76",
+        "title": "Shining River",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1998-90",
+        "title": "Snow Love",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1997-44",
+        "title": "Rose Moonlight",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1997-47",
+        "title": "Dawn Moonlight",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
       "rank": 50,
       "song": {
-        "id": "west-1998-50",
-        "title": "Last Ice",
+        "id": "west-1997-50",
+        "title": "Fire Love",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1998
+      "year": 1997
     },
     {
-      "rank": 57,
+      "rank": 54,
       "song": {
-        "id": "west-1998-57",
-        "title": "Star Forever",
+        "id": "west-1997-54",
+        "title": "Last Wind",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1998
+      "year": 1997
     },
     {
-      "rank": 74,
+      "rank": 66,
       "song": {
-        "id": "west-1998-74",
-        "title": "Running Dawn",
+        "id": "west-1997-66",
+        "title": "Road Tears",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1998
+      "year": 1997
     },
     {
-      "rank": 86,
+      "rank": 92,
       "song": {
-        "id": "west-1998-86",
-        "title": "Shining Silver",
+        "id": "west-1997-92",
+        "title": "Wild City",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1998
+      "year": 1997
     },
     {
-      "rank": 96,
+      "rank": 24,
       "song": {
-        "id": "west-1998-96",
-        "title": "Under the Dusk",
+        "id": "west-1996-24",
+        "title": "Sun Moonlight",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1998
+      "year": 1996
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1996-33",
+        "title": "Ice Way",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1996-34",
+        "title": "Sky Love",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1996-62",
+        "title": "Shadow Dreams",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1996
     },
     {
       "rank": 67,
       "song": {
-        "id": "west-1997-67",
-        "title": "Golden City",
+        "id": "west-1996-67",
+        "title": "Last River",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1997-84",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1996-15",
-        "title": "Rain Dreams",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 37,
+      "rank": 78,
       "song": {
-        "id": "west-1996-37",
-        "title": "Into the Storm",
+        "id": "west-1996-78",
+        "title": "Electric Road",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 43,
+      "rank": 87,
       "song": {
-        "id": "west-1996-43",
-        "title": "Summer Rain",
+        "id": "west-1996-87",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 81,
+      "rank": 97,
       "song": {
-        "id": "west-1996-81",
-        "title": "Ice Fire",
+        "id": "west-1996-97",
+        "title": "Under the Road",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 82,
+      "rank": 17,
       "song": {
-        "id": "west-1996-82",
-        "title": "Dawn Heart",
+        "id": "west-1995-17",
+        "title": "Moon Night",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1996-93",
-        "title": "Broken Ice",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1995-13",
-        "title": "Into the Sky",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -325,426 +343,400 @@
       "rank": 31,
       "song": {
         "id": "west-1995-31",
-        "title": "Never Rose",
+        "title": "Into the Ice",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 42,
+      "rank": 32,
       "song": {
-        "id": "west-1995-42",
-        "title": "Midnight Rain",
+        "id": "west-1995-32",
+        "title": "Midnight Rose",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 45,
+      "rank": 35,
       "song": {
-        "id": "west-1995-45",
-        "title": "Sky Heart",
+        "id": "west-1995-35",
+        "title": "Electric Bridge",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 64,
+      "rank": 96,
       "song": {
-        "id": "west-1995-64",
-        "title": "Lost in Thunder",
+        "id": "west-1995-96",
+        "title": "Shadow Night",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 12,
+      "rank": 20,
       "song": {
-        "id": "west-1994-12",
-        "title": "Diamond Moonlight",
+        "id": "west-1994-20",
+        "title": "Gold Heart",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1994
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1994-17",
-        "title": "Star Heart",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1994-25",
-        "title": "Last Silver",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1994-87",
-        "title": "Wild Ocean",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1994-91",
-        "title": "Summer Night",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1993-18",
-        "title": "Midnight City",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1993-26",
-        "title": "Wild Ocean",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1993-68",
-        "title": "Running Crystal",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1992-18",
-        "title": "River Forever",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1992-49",
-        "title": "Ice Way",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1992-90",
-        "title": "Into the Light",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1992-100",
-        "title": "Bridge Love",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1991-13",
-        "title": "Running Winter",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1991-17",
-        "title": "Electric Wind",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
     },
     {
       "rank": 23,
       "song": {
-        "id": "west-1991-23",
-        "title": "Shining Fire",
+        "id": "west-1994-23",
+        "title": "Into the Shadow",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1991
+      "year": 1994
     },
     {
-      "rank": 33,
+      "rank": 26,
       "song": {
-        "id": "west-1991-33",
-        "title": "Shining Crystal",
+        "id": "west-1994-26",
+        "title": "Shadow Love",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1991
+      "year": 1994
     },
     {
-      "rank": 41,
+      "rank": 74,
       "song": {
-        "id": "west-1991-41",
-        "title": "Ice Sky",
+        "id": "west-1994-74",
+        "title": "Lost in Diamond",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1991
+      "year": 1994
     },
     {
-      "rank": 52,
+      "rank": 86,
       "song": {
-        "id": "west-1991-52",
-        "title": "Dusk Sky",
+        "id": "west-1994-86",
+        "title": "Last Storm",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1991
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1991-71",
-        "title": "Midnight Winter",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1991-82",
-        "title": "Sun Night",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1991-93",
-        "title": "Wild Mountain",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1991-94",
-        "title": "Ice Rain",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1991
+      "year": 1994
     },
     {
       "rank": 97,
       "song": {
-        "id": "west-1991-97",
-        "title": "Summer Forever",
+        "id": "west-1994-97",
+        "title": "Broken Silver",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1993-11",
+        "title": "Shining Thunder",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1993-30",
+        "title": "Flame Way",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1993-36",
+        "title": "River Lights",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1993-39",
+        "title": "Lost in Silver",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1993-56",
+        "title": "Electric Ocean",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1993-94",
+        "title": "Lost in Road",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1993-95",
+        "title": "Lost in Bridge",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1992-24",
+        "title": "Sweet Sky",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1992-35",
+        "title": "Mountain Soul",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1992-40",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1992-66",
+        "title": "Electric Thunder",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1992-81",
+        "title": "Dancing Dawn",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1992-82",
+        "title": "Dancing River",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1992-88",
+        "title": "Star Rain",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1991-16",
+        "title": "Broken Thunder",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 21,
+      "rank": 20,
       "song": {
-        "id": "west-1990-21",
-        "title": "Lost in Silver",
+        "id": "west-1991-20",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1990
+      "year": 1991
     },
     {
-      "rank": 30,
+      "rank": 58,
       "song": {
-        "id": "west-1990-30",
-        "title": "Last Star",
+        "id": "west-1991-58",
+        "title": "Storm Dreams",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1990
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1990-55",
-        "title": "Dusk Dreams",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      },
-      "year": 1990
+      "year": 1991
     },
     {
       "rank": 60,
       "song": {
-        "id": "west-1990-60",
-        "title": "Light Soul",
+        "id": "west-1991-60",
+        "title": "Electric Diamond",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1990
+      "year": 1991
     },
     {
-      "rank": 67,
+      "rank": 62,
       "song": {
-        "id": "west-1990-67",
-        "title": "Wind Rain",
+        "id": "west-1991-62",
+        "title": "Under the City",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
-      "year": 1990
+      "year": 1991
     },
     {
-      "rank": 72,
+      "rank": 66,
       "song": {
-        "id": "west-1990-72",
-        "title": "Wind Forever",
+        "id": "west-1991-66",
+        "title": "Storm Fire",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1990-29",
+        "title": "Dusk Sky",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },
@@ -754,10 +746,36 @@
       "rank": 77,
       "song": {
         "id": "west-1990-77",
-        "title": "Midnight Sky",
+        "title": "Running Diamond",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1990-80",
+        "title": "Wave Lights",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1990-98",
+        "title": "Last Light",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       },

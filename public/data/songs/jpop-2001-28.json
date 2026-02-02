@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-2001-28",
-    "title": "夢の影",
+    "title": "恋のかけら",
     "artist": {
-      "id": "a-greeen",
-      "name": "GReeeeN"
+      "id": "a-otsuka-ai",
+      "name": "大塚愛"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 28,
   "cdInfo": [
     {
-      "title": "夢の影",
+      "title": "恋のかけら",
       "type": "single",
-      "releaseDate": "2001-02-20"
+      "releaseDate": "2001-07-05"
+    },
+    {
+      "title": "海アルバム",
+      "type": "album",
+      "releaseDate": "2001-09-26"
     }
   ],
   "externalLinks": {
@@ -23,13 +28,104 @@
   },
   "artistSongs": [
     {
-      "rank": 19,
+      "rank": 13,
       "song": {
-        "id": "jpop-2009-19",
-        "title": "夢の季節",
+        "id": "jpop-2009-13",
+        "title": "街フォーエバー",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-2009-24",
+        "title": "影の約束",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-2009-63",
+        "title": "星の花",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-2009-66",
+        "title": "君の桜",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-2009-68",
+        "title": "森の海",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-2009-79",
+        "title": "約束のリズム",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2009-81",
+        "title": "時間の空",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-2009-91",
+        "title": "雪の道",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
@@ -38,401 +134,310 @@
     {
       "rank": 26,
       "song": {
-        "id": "jpop-2009-26",
-        "title": "冬の約束",
+        "id": "jpop-2008-26",
+        "title": "風の朝",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
-      "year": 2009
+      "year": 2008
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-2008-36",
+        "title": "街のリズム",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
     },
     {
       "rank": 49,
       "song": {
-        "id": "jpop-2009-49",
-        "title": "桜フォーエバー",
+        "id": "jpop-2008-49",
+        "title": "約束の花",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-2009-64",
-        "title": "海ストーリー",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-2009-67",
-        "title": "希望のかけら",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-2009-98",
-        "title": "太陽の歌",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-2008-17",
-        "title": "真夜中の夏",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2008
     },
     {
-      "rank": 38,
+      "rank": 78,
       "song": {
-        "id": "jpop-2008-38",
-        "title": "永遠の約束",
+        "id": "jpop-2008-78",
+        "title": "月の街",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2008
     },
     {
-      "rank": 43,
+      "rank": 86,
       "song": {
-        "id": "jpop-2008-43",
-        "title": "君の旅",
+        "id": "jpop-2008-86",
+        "title": "桜の歌",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2008
     },
     {
-      "rank": 50,
+      "rank": 19,
       "song": {
-        "id": "jpop-2008-50",
-        "title": "最後の海",
+        "id": "jpop-2007-19",
+        "title": "虹の季節",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-2008-63",
-        "title": "夢の光",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2008-97",
-        "title": "夢物語",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2007-21",
-        "title": "時間の光",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2007
     },
     {
-      "rank": 39,
+      "rank": 37,
       "song": {
-        "id": "jpop-2007-39",
-        "title": "夢の世界",
+        "id": "jpop-2007-37",
+        "title": "海メロディ",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2007
     },
     {
-      "rank": 44,
+      "rank": 48,
       "song": {
-        "id": "jpop-2007-44",
-        "title": "永遠の月",
+        "id": "jpop-2007-48",
+        "title": "虹メロディ",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2007
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-2007-51",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-2007-74",
-        "title": "涙の雨",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-2007-79",
-        "title": "夢の約束",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-2007-88",
-        "title": "恋の歌",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-2006-34",
-        "title": "恋ストーリー",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-2006-45",
-        "title": "風の海",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2006
     },
     {
       "rank": 53,
       "song": {
-        "id": "jpop-2006-53",
-        "title": "光の海",
+        "id": "jpop-2007-53",
+        "title": "風の月",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-2007-71",
+        "title": "桜ストーリー",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2007-100",
+        "title": "永遠の花",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2006-15",
+        "title": "海の空",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2006
     },
     {
-      "rank": 83,
+      "rank": 47,
       "song": {
-        "id": "jpop-2006-83",
-        "title": "森の季節",
+        "id": "jpop-2006-47",
+        "title": "涙の愛",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2006
     },
     {
-      "rank": 28,
+      "rank": 49,
       "song": {
-        "id": "jpop-2005-28",
-        "title": "世界の海",
+        "id": "jpop-2006-49",
+        "title": "風の風",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-2006-61",
+        "title": "ミッドナイト希望",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-2006-75",
+        "title": "涙の波",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2006-87",
+        "title": "時間物語",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-2006-99",
+        "title": "星の星",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-2005-30",
+        "title": "君の森",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2005
     },
     {
-      "rank": 44,
+      "rank": 85,
       "song": {
-        "id": "jpop-2005-44",
-        "title": "君の朝",
+        "id": "jpop-2005-85",
+        "title": "波の歌",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2005
     },
     {
-      "rank": 67,
+      "rank": 95,
       "song": {
-        "id": "jpop-2005-67",
-        "title": "街の光",
+        "id": "jpop-2005-95",
+        "title": "恋の希望",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2005
     },
     {
-      "rank": 69,
+      "rank": 100,
       "song": {
-        "id": "jpop-2005-69",
-        "title": "青い夢",
+        "id": "jpop-2005-100",
+        "title": "桜物語",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2005
     },
     {
-      "rank": 73,
+      "rank": 18,
       "song": {
-        "id": "jpop-2005-73",
-        "title": "波ストーリー",
+        "id": "jpop-2004-18",
+        "title": "恋の空",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-2005-84",
-        "title": "ミッドナイト約束",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-2004-13",
-        "title": "雪の光",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2004
     },
     {
-      "rank": 38,
+      "rank": 53,
       "song": {
-        "id": "jpop-2004-38",
-        "title": "影の花",
+        "id": "jpop-2004-53",
+        "title": "朝フォーエバー",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-2004-70",
-        "title": "恋のリズム",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
@@ -442,23 +447,114 @@
       "rank": 89,
       "song": {
         "id": "jpop-2004-89",
-        "title": "恋の時間",
+        "title": "君の波",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2004
     },
     {
-      "rank": 71,
+      "rank": 96,
       "song": {
-        "id": "jpop-2003-71",
-        "title": "愛の夜",
+        "id": "jpop-2004-96",
+        "title": "空ストーリー",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "jpop-2003-12",
+        "title": "雪の約束",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-2003-24",
+        "title": "約束の雨",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-2003-36",
+        "title": "星の冬",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-2003-41",
+        "title": "街メロディ",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "jpop-2003-43",
+        "title": "街の夜",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-2003-54",
+        "title": "星の未来",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-2003-84",
+        "title": "時間のかけら",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
@@ -468,270 +564,153 @@
       "rank": 90,
       "song": {
         "id": "jpop-2003-90",
-        "title": "夢の愛",
+        "title": "森サンセット",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2003
     },
     {
-      "rank": 11,
+      "rank": 96,
       "song": {
-        "id": "jpop-2002-11",
-        "title": "影の記憶",
+        "id": "jpop-2003-96",
+        "title": "未来の光",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
-      "year": 2002
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-2002-20",
-        "title": "涙の旅",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2002-21",
-        "title": "風の花",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
+      "year": 2003
     },
     {
       "rank": 22,
       "song": {
         "id": "jpop-2002-22",
-        "title": "記憶フォーエバー",
+        "title": "ミッドナイト光",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2002
     },
     {
-      "rank": 27,
+      "rank": 45,
       "song": {
-        "id": "jpop-2002-27",
-        "title": "星の記憶",
+        "id": "jpop-2002-45",
+        "title": "約束の希望",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2002
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-2002-38",
-        "title": "冬の空",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "jpop-2002-39",
-        "title": "夜フォーエバー",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-2002-64",
-        "title": "星の恋",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2002-75",
-        "title": "時間の季節",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-2002-88",
-        "title": "冬の道",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "jpop-2001-23",
-        "title": "真夜中の未来",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2001-42",
-        "title": "夢の雪",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-2001-44",
-        "title": "星の夜",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
     },
     {
       "rank": 50,
       "song": {
-        "id": "jpop-2001-50",
-        "title": "約束の雨",
+        "id": "jpop-2002-50",
+        "title": "君の森",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-2001-25",
+        "title": "太陽のリズム",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2001
     },
     {
-      "rank": 70,
+      "rank": 61,
       "song": {
-        "id": "jpop-2001-70",
-        "title": "風の夜",
+        "id": "jpop-2001-61",
+        "title": "君の夢",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2001
     },
     {
-      "rank": 82,
+      "rank": 57,
       "song": {
-        "id": "jpop-2001-82",
-        "title": "君の海",
+        "id": "jpop-2000-57",
+        "title": "ミッドナイト記憶",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2001-93",
-        "title": "夢の恋",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2000-42",
-        "title": "恋の朝",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2000
     },
     {
-      "rank": 48,
+      "rank": 63,
       "song": {
-        "id": "jpop-2000-48",
-        "title": "雨の季節",
+        "id": "jpop-2000-63",
+        "title": "永遠の雪",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },
       "year": 2000
     },
     {
-      "rank": 82,
+      "rank": 65,
       "song": {
-        "id": "jpop-2000-82",
-        "title": "夢の雪",
+        "id": "jpop-2000-65",
+        "title": "ミッドナイト波",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-2000-72",
+        "title": "波の記憶",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2000-85",
+        "title": "恋の未来",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       },

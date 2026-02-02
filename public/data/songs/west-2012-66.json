@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2012-66",
-    "title": "Ocean Heart",
+    "title": "Electric Snow",
     "artist": {
-      "id": "a-taylor",
-      "name": "Taylor Swift"
+      "id": "a-sam-smith",
+      "name": "Sam Smith"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 66,
   "cdInfo": [
     {
-      "title": "Ocean Heart",
+      "title": "Electric Snow",
       "type": "single",
-      "releaseDate": "2012-06-25"
+      "releaseDate": "2012-11-19"
+    },
+    {
+      "title": "Mountain Reloaded",
+      "type": "album",
+      "releaseDate": "2012-11-14"
     }
   ],
   "externalLinks": {
@@ -23,637 +28,182 @@
   },
   "artistSongs": [
     {
-      "rank": 35,
-      "song": {
-        "id": "west-2025-35",
-        "title": "Chasing Bridge",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2025-39",
-        "title": "Lost in Ice",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2025-51",
-        "title": "Running Wind",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2025-57",
-        "title": "Golden Snow",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2025-86",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2023-12",
-        "title": "Wild Moon",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
       "rank": 23,
       "song": {
-        "id": "west-2023-23",
-        "title": "Sweet Shadow",
+        "id": "west-2019-23",
+        "title": "Fading Flame",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2023
+      "year": 2019
     },
     {
-      "rank": 24,
+      "rank": 29,
       "song": {
-        "id": "west-2023-24",
-        "title": "Shadow Lights",
+        "id": "west-2019-29",
+        "title": "Bridge Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2023
+      "year": 2019
     },
     {
-      "rank": 94,
+      "rank": 38,
       "song": {
-        "id": "west-2023-94",
-        "title": "Into the Silver",
+        "id": "west-2019-38",
+        "title": "Moon Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2023
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2023-97",
-        "title": "Sky Night",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2023-100",
-        "title": "Electric Star",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2022-11",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2022-12",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2022-44",
-        "title": "Silver Night",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2022-72",
-        "title": "Dancing Rose",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2022-73",
-        "title": "Shadow Love",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2022-79",
-        "title": "Dawn Soul",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2022-98",
-        "title": "Wild Diamond",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2022
+      "year": 2019
     },
     {
       "rank": 56,
       "song": {
-        "id": "west-2021-56",
-        "title": "Into the River",
+        "id": "west-2019-56",
+        "title": "Broken Road",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2021-58",
-        "title": "Dancing Road",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2021-61",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2021-66",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2021-73",
-        "title": "Shining Flame",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-2020-22",
-        "title": "City Fire",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2020-25",
-        "title": "Dancing Snow",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2020-34",
-        "title": "Broken Winter",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2020-36",
-        "title": "Silver Tears",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2020-44",
-        "title": "Rain Dreams",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2020-52",
-        "title": "Into the Diamond",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2020-73",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2020-100",
-        "title": "Dancing Sun",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2019-41",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 50,
+      "rank": 77,
       "song": {
-        "id": "west-2019-50",
-        "title": "Ocean Heart",
+        "id": "west-2019-77",
+        "title": "Gold Sky",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 54,
+      "rank": 82,
       "song": {
-        "id": "west-2019-54",
-        "title": "Broken Sun",
+        "id": "west-2019-82",
+        "title": "Sky Rain",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 65,
+      "rank": 95,
       "song": {
-        "id": "west-2019-65",
-        "title": "Wild Sky",
+        "id": "west-2019-95",
+        "title": "Bridge Lights",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 80,
+      "rank": 32,
       "song": {
-        "id": "west-2019-80",
-        "title": "Ice Sky",
+        "id": "west-2018-32",
+        "title": "Storm Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2019-90",
-        "title": "Storm Dreams",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2019-98",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2018-23",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 26,
+      "rank": 74,
       "song": {
-        "id": "west-2018-26",
-        "title": "Sweet Silver",
+        "id": "west-2018-74",
+        "title": "Light Fire",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 44,
+      "rank": 13,
       "song": {
-        "id": "west-2018-44",
-        "title": "Mountain Lights",
+        "id": "west-2017-13",
+        "title": "Never Road",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2018
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2018-63",
-        "title": "Dancing Ocean",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2018-66",
-        "title": "Falling Moon",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2018-83",
-        "title": "Under the Diamond",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2018-90",
-        "title": "Midnight Silver",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2018-98",
-        "title": "River Way",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2018
+      "year": 2017
     },
     {
       "rank": 48,
       "song": {
         "id": "west-2017-48",
-        "title": "Sweet Crystal",
+        "title": "Last River",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 52,
+      "rank": 64,
       "song": {
-        "id": "west-2017-52",
-        "title": "Into the Dawn",
+        "id": "west-2017-64",
+        "title": "Falling Rose",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 55,
+      "rank": 85,
       "song": {
-        "id": "west-2017-55",
-        "title": "Lost in Star",
+        "id": "west-2017-85",
+        "title": "Road Love",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2017-89",
+        "title": "Sky Forever",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -663,153 +213,192 @@
       "rank": 25,
       "song": {
         "id": "west-2016-25",
-        "title": "Shining Thunder",
+        "title": "Golden Sky",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2016
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2016-31",
+        "title": "Never Silver",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2016-36",
+        "title": "Rain Soul",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2016-37",
+        "title": "Midnight Road",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2016-41",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2016-42",
+        "title": "Electric Dusk",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2016-60",
+        "title": "Never Gold",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2016-74",
+        "title": "Dusk Soul",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2016-86",
+        "title": "Dancing Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2015-18",
+        "title": "Gold Rain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-2015-29",
+        "title": "Rose Soul",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
     },
     {
       "rank": 33,
       "song": {
-        "id": "west-2016-33",
-        "title": "Chasing Fire",
+        "id": "west-2015-33",
+        "title": "Last Ice",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2016-80",
-        "title": "Dancing Flame",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2016-95",
-        "title": "Wild City",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2015-23",
-        "title": "Mountain Rain",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 45,
+      "rank": 60,
       "song": {
-        "id": "west-2015-45",
-        "title": "Lost in Rose",
+        "id": "west-2015-60",
+        "title": "Summer Rain",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 63,
+      "rank": 62,
       "song": {
-        "id": "west-2015-63",
-        "title": "Dancing Thunder",
+        "id": "west-2015-62",
+        "title": "Snow Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 67,
+      "rank": 75,
       "song": {
-        "id": "west-2015-67",
-        "title": "Dancing Light",
+        "id": "west-2015-75",
+        "title": "Chasing Storm",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2015-68",
-        "title": "Falling Thunder",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2015-88",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2015-91",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2015-98",
-        "title": "Under the Moon",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -819,309 +408,400 @@
       "rank": 100,
       "song": {
         "id": "west-2015-100",
-        "title": "Diamond Moonlight",
+        "title": "Electric Ice",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 32,
+      "rank": 7,
       "song": {
-        "id": "west-2014-32",
-        "title": "Dawn Night",
+        "id": "west-2014-07",
+        "title": "Stay with Me",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 79,
+      "rank": 12,
       "song": {
-        "id": "west-2014-79",
-        "title": "Last Silver",
+        "id": "west-2014-12",
+        "title": "Midnight Storm",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 93,
+      "rank": 22,
       "song": {
-        "id": "west-2014-93",
-        "title": "Wild Snow",
+        "id": "west-2014-22",
+        "title": "Shining Diamond",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 28,
+      "rank": 27,
       "song": {
-        "id": "west-2013-28",
-        "title": "Winter Night",
+        "id": "west-2014-27",
+        "title": "Broken Shadow",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2013
+      "year": 2014
     },
     {
-      "rank": 31,
+      "rank": 34,
       "song": {
-        "id": "west-2013-31",
-        "title": "Storm Way",
+        "id": "west-2014-34",
+        "title": "Snow Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2013
+      "year": 2014
     },
     {
-      "rank": 33,
+      "rank": 55,
       "song": {
-        "id": "west-2013-33",
-        "title": "Last Bridge",
+        "id": "west-2014-55",
+        "title": "Storm Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2013
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2013-54",
-        "title": "Broken Thunder",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2013-67",
-        "title": "River Lights",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2013-74",
-        "title": "Broken Bridge",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2013-94",
-        "title": "Road Heart",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2012-15",
-        "title": "Crystal Lights",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2012-16",
-        "title": "Dawn Fire",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2012-47",
-        "title": "Dancing Dusk",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
+      "year": 2014
     },
     {
       "rank": 81,
       "song": {
-        "id": "west-2012-81",
-        "title": "Falling Storm",
+        "id": "west-2014-81",
+        "title": "Lost in Thunder",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2012
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2012-86",
-        "title": "Golden Sun",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2012-94",
-        "title": "Crystal Moonlight",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      },
-      "year": 2012
+      "year": 2014
     },
     {
       "rank": 11,
       "song": {
-        "id": "west-2011-11",
-        "title": "Broken Crystal",
+        "id": "west-2013-11",
+        "title": "Falling Dusk",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2011
+      "year": 2013
     },
     {
-      "rank": 32,
+      "rank": 27,
       "song": {
-        "id": "west-2011-32",
-        "title": "Broken Storm",
+        "id": "west-2013-27",
+        "title": "Chasing Diamond",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2011
+      "year": 2013
     },
     {
-      "rank": 57,
+      "rank": 37,
       "song": {
-        "id": "west-2011-57",
-        "title": "Thunder Sky",
+        "id": "west-2013-37",
+        "title": "Light Tears",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2011
+      "year": 2013
     },
     {
-      "rank": 68,
+      "rank": 50,
       "song": {
-        "id": "west-2011-68",
-        "title": "Chasing Ocean",
+        "id": "west-2013-50",
+        "title": "Into the Sun",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2011
+      "year": 2013
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-2013-51",
+        "title": "Fire Heart",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
     },
     {
       "rank": 77,
       "song": {
-        "id": "west-2011-77",
-        "title": "Star Rain",
+        "id": "west-2013-77",
+        "title": "Golden Shadow",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2013-78",
+        "title": "Ice Dreams",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2013-79",
+        "title": "Never Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2012-19",
+        "title": "Broken Flame",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2012-32",
+        "title": "Fading Snow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2012-48",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-2012-52",
+        "title": "Summer Dreams",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-2012-59",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2012-77",
+        "title": "Running Sun",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2011-17",
+        "title": "Golden Crystal",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 25,
+      "rank": 29,
       "song": {
-        "id": "west-2010-25",
-        "title": "Winter Love",
+        "id": "west-2011-29",
+        "title": "Thunder Heart",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2011-34",
+        "title": "Ice Rain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2011-41",
+        "title": "Chasing Mountain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2011-86",
+        "title": "Dancing Wind",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2010-23",
+        "title": "Midnight Fire",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 59,
+      "rank": 49,
       "song": {
-        "id": "west-2010-59",
-        "title": "Sweet Wind",
+        "id": "west-2010-49",
+        "title": "Dancing Gold",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2010-56",
+        "title": "Running Storm",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2010-57",
+        "title": "Ice Fire",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -1131,36 +811,62 @@
       "rank": 62,
       "song": {
         "id": "west-2010-62",
-        "title": "Mountain Forever",
+        "title": "Never Bridge",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 68,
+      "rank": 66,
       "song": {
-        "id": "west-2010-68",
-        "title": "Summer Rain",
+        "id": "west-2010-66",
+        "title": "Shadow Love",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 91,
+      "rank": 72,
       "song": {
-        "id": "west-2010-91",
-        "title": "River Lights",
+        "id": "west-2010-72",
+        "title": "Running Mountain",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2010-88",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2010-92",
+        "title": "Midnight Bridge",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },

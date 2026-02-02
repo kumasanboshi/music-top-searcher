@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1988-25",
-    "title": "夢サンセット",
+    "title": "時間の光",
     "artist": {
-      "id": "a-hikaru-genji",
-      "name": "光GENJI"
+      "id": "a-boowy",
+      "name": "BOØWY"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 25,
   "cdInfo": [
     {
-      "title": "夢サンセット",
+      "title": "時間の光",
       "type": "single",
-      "releaseDate": "1988-02-22"
+      "releaseDate": "1988-12-06"
+    },
+    {
+      "title": "雪セレクション",
+      "type": "album",
+      "releaseDate": "1988-12-22"
     }
   ],
   "externalLinks": {
@@ -23,13 +28,13 @@
   },
   "artistSongs": [
     {
-      "rank": 7,
+      "rank": 12,
       "song": {
-        "id": "jpop-1989-07",
-        "title": "太陽がいっぱい",
+        "id": "jpop-1989-12",
+        "title": "青い太陽",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
@@ -39,62 +44,75 @@
       "rank": 20,
       "song": {
         "id": "jpop-1989-20",
-        "title": "星の空",
+        "title": "恋の恋",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 27,
+      "rank": 29,
       "song": {
-        "id": "jpop-1989-27",
-        "title": "真夜中の世界",
+        "id": "jpop-1989-29",
+        "title": "光のリズム",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 28,
+      "rank": 33,
       "song": {
-        "id": "jpop-1989-28",
-        "title": "約束物語",
+        "id": "jpop-1989-33",
+        "title": "恋の花",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 38,
+      "rank": 34,
       "song": {
-        "id": "jpop-1989-38",
-        "title": "ミッドナイト記憶",
+        "id": "jpop-1989-34",
+        "title": "夢の夜",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 48,
+      "rank": 44,
       "song": {
-        "id": "jpop-1989-48",
-        "title": "波の花",
+        "id": "jpop-1989-44",
+        "title": "希望フォーエバー",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1989-49",
+        "title": "真夜中の夜",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
@@ -104,101 +122,101 @@
       "rank": 62,
       "song": {
         "id": "jpop-1989-62",
-        "title": "夢の海",
+        "title": "青い光",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 71,
+      "rank": 15,
       "song": {
-        "id": "jpop-1989-71",
-        "title": "朝の約束",
+        "id": "jpop-1988-15",
+        "title": "虹の季節",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1989-82",
-        "title": "桜の約束",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1989-83",
-        "title": "涙の世界",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "jpop-1988-01",
-        "title": "パラダイス銀河",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 2,
+      "rank": 19,
       "song": {
-        "id": "jpop-1988-02",
-        "title": "ガラスの十代",
+        "id": "jpop-1988-19",
+        "title": "愛の季節",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 4,
+      "rank": 39,
       "song": {
-        "id": "jpop-1988-04",
-        "title": "Diamondハリケーン",
+        "id": "jpop-1988-39",
+        "title": "波の海",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 7,
+      "rank": 40,
       "song": {
-        "id": "jpop-1988-07",
-        "title": "剣の舞",
+        "id": "jpop-1988-40",
+        "title": "約束の夢",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "jpop-1988-62",
+        "title": "真夜中の太陽",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-1988-89",
+        "title": "影メロディ",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1988-91",
+        "title": "愛の約束",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
@@ -207,115 +225,37 @@
     {
       "rank": 43,
       "song": {
-        "id": "jpop-1988-43",
-        "title": "空フォーエバー",
+        "id": "jpop-1987-43",
+        "title": "時間の季節",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-1988-44",
-        "title": "雨の夜",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1988-46",
-        "title": "君の虹",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 4,
-      "song": {
-        "id": "jpop-1987-04",
-        "title": "STAR LIGHT",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 45,
+      "rank": 52,
       "song": {
-        "id": "jpop-1987-45",
-        "title": "風の約束",
+        "id": "jpop-1987-52",
+        "title": "旅の街",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 54,
+      "rank": 59,
       "song": {
-        "id": "jpop-1987-54",
-        "title": "夜の花",
+        "id": "jpop-1987-59",
+        "title": "希望フォーエバー",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1987-65",
-        "title": "夢の夜",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1987-81",
-        "title": "約束の夜",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1987-82",
-        "title": "夜フォーエバー",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
@@ -325,218 +265,231 @@
       "rank": 83,
       "song": {
         "id": "jpop-1987-83",
-        "title": "涙の森",
+        "title": "虹メロディ",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 53,
+      "rank": 29,
       "song": {
-        "id": "jpop-1986-53",
-        "title": "恋の光",
+        "id": "jpop-1986-29",
+        "title": "涙の夜",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 68,
+      "rank": 35,
       "song": {
-        "id": "jpop-1986-68",
-        "title": "恋の夏",
+        "id": "jpop-1986-35",
+        "title": "恋の冬",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 23,
+      "rank": 38,
       "song": {
-        "id": "jpop-1985-23",
-        "title": "最後の森",
+        "id": "jpop-1986-38",
+        "title": "約束サンセット",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
-      "year": 1985
+      "year": 1986
     },
     {
-      "rank": 25,
+      "rank": 44,
       "song": {
-        "id": "jpop-1985-25",
-        "title": "街のかけら",
+        "id": "jpop-1986-44",
+        "title": "真夜中の虹",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
-      "year": 1985
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-1985-26",
-        "title": "涙の星",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
+      "year": 1986
     },
     {
       "rank": 59,
       "song": {
-        "id": "jpop-1985-59",
-        "title": "最後の虹",
+        "id": "jpop-1986-59",
+        "title": "記憶の街",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-1986-65",
+        "title": "夢のかけら",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1986-97",
+        "title": "青い影",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1985-34",
+        "title": "恋の空",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 67,
+      "rank": 40,
       "song": {
-        "id": "jpop-1985-67",
-        "title": "世界のリズム",
+        "id": "jpop-1985-40",
+        "title": "青い愛",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 85,
+      "rank": 60,
       "song": {
-        "id": "jpop-1985-85",
-        "title": "星の海",
+        "id": "jpop-1985-60",
+        "title": "波の海",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1985
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1985-70",
+        "title": "時間サンセット",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1985-79",
+        "title": "世界の光",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-1984-22",
+        "title": "太陽の花",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1984-38",
+        "title": "光の道",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1984-73",
+        "title": "冬物語",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1984-78",
+        "title": "君の夏",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
     },
     {
       "rank": 12,
       "song": {
-        "id": "jpop-1984-12",
-        "title": "真夜中の波",
+        "id": "jpop-1983-12",
+        "title": "真夜中の未来",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-1984-42",
-        "title": "君の月",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1984-43",
-        "title": "永遠の風",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-1984-63",
-        "title": "希望の道",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1984-68",
-        "title": "森の道",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1984-72",
-        "title": "雪のかけら",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1984-83",
-        "title": "空の歌",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1983-13",
-        "title": "夜の道",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
@@ -546,23 +499,10 @@
       "rank": 14,
       "song": {
         "id": "jpop-1983-14",
-        "title": "光の街",
+        "title": "約束の光",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1983-18",
-        "title": "涙の時間",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
@@ -572,257 +512,322 @@
       "rank": 25,
       "song": {
         "id": "jpop-1983-25",
-        "title": "海の夜",
+        "title": "時間ストーリー",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 33,
+      "rank": 38,
       "song": {
-        "id": "jpop-1983-33",
-        "title": "ミッドナイト太陽",
+        "id": "jpop-1983-38",
+        "title": "旅の夜",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 66,
+      "rank": 46,
       "song": {
-        "id": "jpop-1982-66",
-        "title": "約束のリズム",
+        "id": "jpop-1983-46",
+        "title": "涙の月",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
-      "year": 1982
+      "year": 1983
     },
     {
-      "rank": 70,
+      "rank": 61,
       "song": {
-        "id": "jpop-1982-70",
-        "title": "波の歌",
+        "id": "jpop-1983-61",
+        "title": "真夜中の恋",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
-      "year": 1982
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1982-75",
-        "title": "雨の花",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-1981-11",
-        "title": "虹の海",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-1981-19",
-        "title": "冬の道",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1981-27",
-        "title": "街の道",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-1981-28",
-        "title": "桜の夜",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-1981-62",
-        "title": "恋の影",
-        "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
+      "year": 1983
     },
     {
       "rank": 64,
       "song": {
-        "id": "jpop-1981-64",
-        "title": "夏サンセット",
+        "id": "jpop-1983-64",
+        "title": "星の光",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-1982-30",
+        "title": "希望の歌",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1982-33",
+        "title": "夢の街",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-1982-44",
+        "title": "青い冬",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1982-50",
+        "title": "涙の夏",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-1982-60",
+        "title": "最後の時間",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1982-67",
+        "title": "記憶の空",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1982-81",
+        "title": "風の波",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-1981-14",
+        "title": "涙の月",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 70,
+      "rank": 25,
       "song": {
-        "id": "jpop-1981-70",
-        "title": "涙の森",
+        "id": "jpop-1981-25",
+        "title": "雨の季節",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 78,
+      "rank": 37,
       "song": {
-        "id": "jpop-1981-78",
-        "title": "夢の歌",
+        "id": "jpop-1981-37",
+        "title": "太陽の花",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 41,
+      "rank": 52,
       "song": {
-        "id": "jpop-1980-41",
-        "title": "桜のリズム",
+        "id": "jpop-1981-52",
+        "title": "朝サンセット",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1980-16",
+        "title": "星の空",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 58,
+      "rank": 17,
       "song": {
-        "id": "jpop-1980-58",
-        "title": "最後の桜",
+        "id": "jpop-1980-17",
+        "title": "君の朝",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 62,
+      "rank": 24,
       "song": {
-        "id": "jpop-1980-62",
-        "title": "星の影",
+        "id": "jpop-1980-24",
+        "title": "旅の街",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 63,
+      "rank": 35,
       "song": {
-        "id": "jpop-1980-63",
-        "title": "海の光",
+        "id": "jpop-1980-35",
+        "title": "花の季節",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 83,
+      "rank": 37,
       "song": {
-        "id": "jpop-1980-83",
-        "title": "未来の記憶",
+        "id": "jpop-1980-37",
+        "title": "青い未来",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 85,
+      "rank": 76,
       "song": {
-        "id": "jpop-1980-85",
-        "title": "冬のかけら",
+        "id": "jpop-1980-76",
+        "title": "太陽の歌",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 91,
+      "rank": 84,
       "song": {
-        "id": "jpop-1980-91",
-        "title": "最後の星",
+        "id": "jpop-1980-84",
+        "title": "恋の時間",
         "artist": {
-          "id": "a-hikaru-genji",
-          "name": "光GENJI"
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1980-86",
+        "title": "約束の星",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1980-88",
+        "title": "夜のかけら",
+        "artist": {
+          "id": "a-boowy",
+          "name": "BOØWY"
         },
         "genre": "jpop"
       },

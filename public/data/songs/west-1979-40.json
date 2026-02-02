@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1979-40",
-    "title": "Ocean Tears",
+    "title": "Ice Rain",
     "artist": {
-      "id": "a-rod-stewart",
-      "name": "Rod Stewart"
+      "id": "a-kc",
+      "name": "KC and the Sunshine Band"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 40,
   "cdInfo": [
     {
-      "title": "Ocean Tears",
+      "title": "Ice Rain",
       "type": "single",
-      "releaseDate": "1979-08-02"
+      "releaseDate": "1979-12-05"
+    },
+    {
+      "title": "Moon Stories",
+      "type": "album",
+      "releaseDate": "1979-10-15"
     }
   ],
   "externalLinks": {
@@ -23,117 +28,143 @@
   },
   "artistSongs": [
     {
-      "rank": 4,
+      "rank": 21,
       "song": {
-        "id": "west-1979-04",
-        "title": "Da Ya Think I'm Sexy?",
+        "id": "west-1979-21",
+        "title": "Diamond Moonlight",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 12,
+      "rank": 47,
       "song": {
-        "id": "west-1979-12",
-        "title": "Falling Summer",
+        "id": "west-1979-47",
+        "title": "Fading Diamond",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 36,
+      "rank": 57,
       "song": {
-        "id": "west-1979-36",
-        "title": "Snow Tears",
+        "id": "west-1979-57",
+        "title": "Running Bridge",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 45,
+      "rank": 69,
       "song": {
-        "id": "west-1979-45",
-        "title": "Lost in Bridge",
+        "id": "west-1979-69",
+        "title": "Fading Rose",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 60,
+      "rank": 85,
       "song": {
-        "id": "west-1979-60",
-        "title": "Diamond Rain",
+        "id": "west-1979-85",
+        "title": "Rain Tears",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 72,
+      "rank": 26,
       "song": {
-        "id": "west-1979-72",
-        "title": "Wild Crystal",
+        "id": "west-1978-26",
+        "title": "Ocean Rain",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1979-83",
-        "title": "Midnight Sky",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1978-38",
-        "title": "Electric Wave",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 82,
+      "rank": 60,
       "song": {
-        "id": "west-1978-82",
-        "title": "Storm Heart",
+        "id": "west-1978-60",
+        "title": "Rain Night",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1978-86",
+        "title": "Dusk Way",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1978-88",
+        "title": "Shining Gold",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1978-90",
+        "title": "River Way",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1978-94",
+        "title": "Into the Road",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
@@ -143,88 +174,62 @@
       "rank": 12,
       "song": {
         "id": "west-1977-12",
-        "title": "Winter Sky",
+        "title": "Dancing Wave",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 14,
+      "rank": 38,
       "song": {
-        "id": "west-1977-14",
-        "title": "Star Forever",
+        "id": "west-1977-38",
+        "title": "Running Shadow",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 21,
+      "rank": 52,
       "song": {
-        "id": "west-1977-21",
-        "title": "Wild Snow",
+        "id": "west-1977-52",
+        "title": "Under the Light",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 22,
+      "rank": 59,
       "song": {
-        "id": "west-1977-22",
-        "title": "Under the Road",
+        "id": "west-1977-59",
+        "title": "Into the Shadow",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 45,
+      "rank": 66,
       "song": {
-        "id": "west-1977-45",
-        "title": "Chasing Diamond",
+        "id": "west-1977-66",
+        "title": "Diamond Sky",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1977-49",
-        "title": "Under the City",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1977-50",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
@@ -234,153 +239,179 @@
       "rank": 78,
       "song": {
         "id": "west-1977-78",
-        "title": "Dancing Wind",
+        "title": "Star Night",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 79,
+      "rank": 81,
       "song": {
-        "id": "west-1977-79",
-        "title": "Wind Moonlight",
+        "id": "west-1977-81",
+        "title": "Fire Way",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 83,
+      "rank": 97,
       "song": {
-        "id": "west-1977-83",
-        "title": "Light Night",
+        "id": "west-1977-97",
+        "title": "Fading Mountain",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 57,
+      "rank": 11,
       "song": {
-        "id": "west-1976-57",
-        "title": "Star Dreams",
+        "id": "west-1976-11",
+        "title": "Electric Wave",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 60,
+      "rank": 32,
       "song": {
-        "id": "west-1976-60",
-        "title": "Light Soul",
+        "id": "west-1976-32",
+        "title": "Light Dreams",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 68,
+      "rank": 62,
       "song": {
-        "id": "west-1976-68",
-        "title": "Into the Shadow",
+        "id": "west-1976-62",
+        "title": "Electric Diamond",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 85,
+      "rank": 75,
       "song": {
-        "id": "west-1976-85",
-        "title": "River Lights",
+        "id": "west-1976-75",
+        "title": "Sweet Wind",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 100,
+      "rank": 82,
       "song": {
-        "id": "west-1976-100",
-        "title": "Diamond Tears",
+        "id": "west-1976-82",
+        "title": "Falling Wind",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 16,
+      "rank": 96,
       "song": {
-        "id": "west-1975-16",
-        "title": "Wild Sky",
+        "id": "west-1976-96",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1975-24",
+        "title": "Chasing Fire",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 40,
+      "rank": 33,
       "song": {
-        "id": "west-1975-40",
-        "title": "Broken Rain",
+        "id": "west-1975-33",
+        "title": "Under the Mountain",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 44,
+      "rank": 67,
       "song": {
-        "id": "west-1975-44",
-        "title": "Never Moon",
+        "id": "west-1975-67",
+        "title": "City Tears",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 46,
+      "rank": 70,
       "song": {
-        "id": "west-1975-46",
-        "title": "Midnight Winter",
+        "id": "west-1975-70",
+        "title": "Fire Moonlight",
         "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1975-95",
+        "title": "Into the Dusk",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },

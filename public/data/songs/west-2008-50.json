@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2008-50",
-    "title": "Chasing Road",
+    "title": "Chasing Shadow",
     "artist": {
-      "id": "a-coldplay",
-      "name": "Coldplay"
+      "id": "a-eminem",
+      "name": "Eminem"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 50,
   "cdInfo": [
     {
-      "title": "Chasing Road",
+      "title": "Chasing Shadow",
       "type": "single",
-      "releaseDate": "2008-05-11"
+      "releaseDate": "2008-12-16"
+    },
+    {
+      "title": "River Unplugged",
+      "type": "album",
+      "releaseDate": "2008-08-14"
     }
   ],
   "externalLinks": {
@@ -23,221 +28,195 @@
   },
   "artistSongs": [
     {
-      "rank": 50,
+      "rank": 7,
       "song": {
-        "id": "west-2009-50",
-        "title": "Last Dusk",
+        "id": "west-2010-07",
+        "title": "Love the Way You Lie",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem ft. Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2009-23",
+        "title": "Never Ice",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2009
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2009-57",
-        "title": "Golden Sky",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2009-60",
-        "title": "Shining Star",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2009-63",
-        "title": "Sweet Moon",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2009-85",
-        "title": "Diamond Dreams",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "west-2008-08",
-        "title": "Viva la Vida",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2008-21",
-        "title": "Electric Gold",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2008
     },
     {
       "rank": 36,
       "song": {
-        "id": "west-2008-36",
-        "title": "Broken Light",
+        "id": "west-2009-36",
+        "title": "Snow Fire",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2009-41",
+        "title": "Never Silver",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2009-45",
+        "title": "Sky Sky",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-2009-52",
+        "title": "Under the Rain",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2009-73",
+        "title": "Chasing Silver",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2008-20",
+        "title": "Broken Dawn",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 56,
+      "rank": 63,
       "song": {
-        "id": "west-2008-56",
-        "title": "Chasing Gold",
+        "id": "west-2008-63",
+        "title": "Golden Sky",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 24,
+      "rank": 66,
       "song": {
-        "id": "west-2007-24",
-        "title": "Sweet Winter",
+        "id": "west-2008-66",
+        "title": "Chasing City",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2008-72",
+        "title": "Thunder Sky",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2007-37",
+        "title": "Bridge Heart",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 50,
+      "rank": 12,
       "song": {
-        "id": "west-2007-50",
-        "title": "Fire Way",
+        "id": "west-2006-12",
+        "title": "Lost in Snow",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2007-81",
-        "title": "Lost in Moon",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2006-17",
-        "title": "Snow Heart",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 28,
+      "rank": 23,
       "song": {
-        "id": "west-2006-28",
-        "title": "Bridge Forever",
+        "id": "west-2006-23",
+        "title": "Midnight Wind",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 29,
+      "rank": 37,
       "song": {
-        "id": "west-2006-29",
-        "title": "Road Moonlight",
+        "id": "west-2006-37",
+        "title": "Thunder Moonlight",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2006-30",
-        "title": "Chasing Moon",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2006-31",
-        "title": "Winter Sky",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
@@ -247,75 +226,88 @@
       "rank": 48,
       "song": {
         "id": "west-2006-48",
-        "title": "Mountain Night",
+        "title": "Chasing Diamond",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 60,
+      "rank": 49,
       "song": {
-        "id": "west-2006-60",
-        "title": "Fading Light",
+        "id": "west-2006-49",
+        "title": "Golden Storm",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 67,
+      "rank": 55,
       "song": {
-        "id": "west-2006-67",
-        "title": "Lost in Mountain",
+        "id": "west-2006-55",
+        "title": "Diamond Dreams",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 94,
+      "rank": 59,
       "song": {
-        "id": "west-2006-94",
-        "title": "Never River",
+        "id": "west-2006-59",
+        "title": "Broken Rose",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 13,
+      "rank": 61,
       "song": {
-        "id": "west-2005-13",
-        "title": "Never Diamond",
+        "id": "west-2006-61",
+        "title": "Fading River",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2006
     },
     {
-      "rank": 25,
+      "rank": 98,
       "song": {
-        "id": "west-2005-25",
-        "title": "Dancing Rain",
+        "id": "west-2006-98",
+        "title": "Dancing Road",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-2005-11",
+        "title": "Fading Storm",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
@@ -325,426 +317,270 @@
       "rank": 38,
       "song": {
         "id": "west-2005-38",
-        "title": "Golden Sky",
+        "title": "Dawn Tears",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 59,
+      "rank": 41,
       "song": {
-        "id": "west-2005-59",
-        "title": "Last Rain",
+        "id": "west-2005-41",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2005
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2004-11",
-        "title": "Lost in Light",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2004-14",
-        "title": "Dawn Rain",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2004-19",
-        "title": "Snow Forever",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2004-20",
-        "title": "Chasing City",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2004-29",
-        "title": "Shining Snow",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2004-67",
-        "title": "Falling Rose",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2004-69",
-        "title": "Sweet Thunder",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2004-77",
-        "title": "Sweet Sun",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2004-79",
-        "title": "River Way",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2004-81",
-        "title": "Wind Night",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2003-28",
-        "title": "Dancing Ocean",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
     },
     {
       "rank": 47,
       "song": {
-        "id": "west-2003-47",
-        "title": "Dancing Mountain",
+        "id": "west-2004-47",
+        "title": "Shadow Lights",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 52,
+      "rank": 58,
       "song": {
-        "id": "west-2003-52",
-        "title": "Falling Silver",
+        "id": "west-2004-58",
+        "title": "Running Star",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 66,
+      "rank": 60,
       "song": {
-        "id": "west-2003-66",
-        "title": "Under the Sun",
+        "id": "west-2004-60",
+        "title": "Thunder Forever",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 71,
+      "rank": 74,
       "song": {
-        "id": "west-2003-71",
-        "title": "Silver Way",
+        "id": "west-2004-74",
+        "title": "Diamond Heart",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2003
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2003-96",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2003-97",
-        "title": "Midnight Snow",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2002-18",
-        "title": "Broken Rain",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2002
+      "year": 2004
     },
     {
       "rank": 24,
       "song": {
-        "id": "west-2002-24",
-        "title": "Star Forever",
+        "id": "west-2003-24",
+        "title": "Wind Forever",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2003
     },
     {
-      "rank": 35,
+      "rank": 26,
       "song": {
-        "id": "west-2002-35",
-        "title": "Fading Storm",
+        "id": "west-2003-26",
+        "title": "Storm Way",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2003
     },
     {
-      "rank": 44,
+      "rank": 27,
       "song": {
-        "id": "west-2002-44",
-        "title": "Last Rose",
+        "id": "west-2003-27",
+        "title": "Midnight Wave",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2003
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2003-65",
+        "title": "Under the Crystal",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2003
     },
     {
       "rank": 75,
       "song": {
-        "id": "west-2002-75",
-        "title": "Bridge Tears",
+        "id": "west-2003-75",
+        "title": "Midnight Shadow",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2003-79",
+        "title": "Never Storm",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2002-25",
+        "title": "Golden Summer",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 94,
+      "rank": 42,
       "song": {
-        "id": "west-2002-94",
-        "title": "Summer Sky",
+        "id": "west-2002-42",
+        "title": "Shining Summer",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 19,
+      "rank": 98,
       "song": {
-        "id": "west-2001-19",
-        "title": "Flame Soul",
+        "id": "west-2001-98",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 28,
+      "rank": 45,
       "song": {
-        "id": "west-2001-28",
-        "title": "Wave Lights",
+        "id": "west-2000-45",
+        "title": "Road Dreams",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2000
     },
     {
-      "rank": 44,
+      "rank": 56,
       "song": {
-        "id": "west-2001-44",
+        "id": "west-2000-56",
+        "title": "Wave Forever",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2000-65",
+        "title": "Last Wind",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2000-86",
+        "title": "Sky Way",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2000-89",
+        "title": "Chasing Sun",
+        "artist": {
+          "id": "a-eminem",
+          "name": "Eminem"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2000-96",
         "title": "Never Moon",
         "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2001-88",
-        "title": "Fading Mountain",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2000-13",
-        "title": "Summer Lights",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2000-32",
-        "title": "Broken Ocean",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2000-62",
-        "title": "City Soul",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2000-70",
-        "title": "Never Road",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
+          "id": "a-eminem",
+          "name": "Eminem"
         },
         "genre": "western"
       },

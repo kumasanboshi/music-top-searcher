@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1994-85",
-    "title": "Silver Lights",
+    "title": "Sweet Moon",
     "artist": {
-      "id": "a-boyz-ii-men",
-      "name": "Boyz II Men"
+      "id": "a-spice-girls",
+      "name": "Spice Girls"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 85,
   "cdInfo": [
     {
-      "title": "Silver Lights",
+      "title": "Sweet Moon",
       "type": "single",
-      "releaseDate": "1994-03-27"
+      "releaseDate": "1994-05-25"
+    },
+    {
+      "title": "Summer Chronicles",
+      "type": "album",
+      "releaseDate": "1994-08-17"
     }
   ],
   "externalLinks": {
@@ -23,26 +28,65 @@
   },
   "artistSongs": [
     {
-      "rank": 20,
+      "rank": 29,
       "song": {
-        "id": "west-1999-20",
-        "title": "Summer Rain",
+        "id": "west-1999-29",
+        "title": "Sweet Rose",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 53,
+      "rank": 30,
       "song": {
-        "id": "west-1999-53",
-        "title": "Never Sun",
+        "id": "west-1999-30",
+        "title": "Broken Wave",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1999-45",
+        "title": "Silver Love",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1999-54",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1999-58",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -52,88 +96,244 @@
       "rank": 62,
       "song": {
         "id": "west-1999-62",
-        "title": "Storm Night",
+        "title": "Gold Lights",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 54,
-      "song": {
-        "id": "west-1998-54",
-        "title": "Crystal Fire",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
       "rank": 69,
       "song": {
-        "id": "west-1998-69",
-        "title": "Winter Soul",
+        "id": "west-1999-69",
+        "title": "Never Moon",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1998-15",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 76,
+      "rank": 21,
       "song": {
-        "id": "west-1998-76",
-        "title": "Rose Heart",
+        "id": "west-1998-21",
+        "title": "Silver Soul",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 17,
+      "rank": 25,
       "song": {
-        "id": "west-1997-17",
-        "title": "Electric Rain",
+        "id": "west-1998-25",
+        "title": "Golden Wind",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1998-29",
+        "title": "Falling Snow",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1998-46",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1998-48",
+        "title": "Wild Light",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1998-60",
+        "title": "Bridge Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1998-81",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1998-96",
+        "title": "Fire Heart",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1998-97",
+        "title": "Wild Dusk",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1998-100",
+        "title": "Falling River",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1997-06",
+        "title": "Wannabe",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 47,
+      "rank": 18,
       "song": {
-        "id": "west-1997-47",
-        "title": "Dancing Star",
+        "id": "west-1997-18",
+        "title": "Falling Winter",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 90,
+      "rank": 20,
       "song": {
-        "id": "west-1997-90",
-        "title": "Falling Star",
+        "id": "west-1997-20",
+        "title": "Lost in Rain",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1997-25",
+        "title": "Moon Lights",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1997-26",
+        "title": "Never Sky",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1997-27",
+        "title": "River Night",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -143,335 +343,296 @@
       "rank": 97,
       "song": {
         "id": "west-1997-97",
-        "title": "Broken Winter",
+        "title": "Dawn Night",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1996-14",
+        "title": "Chasing Ocean",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1996-18",
+        "title": "Sweet Mountain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1996-19",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1996-26",
+        "title": "Ocean Dreams",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1996-46",
+        "title": "Snow Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1996-56",
+        "title": "Fading Wind",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1996-64",
+        "title": "Running Light",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1996-72",
+        "title": "Fading Silver",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1996-90",
+        "title": "Winter Night",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1996
     },
     {
       "rank": 100,
       "song": {
-        "id": "west-1997-100",
-        "title": "Golden Summer",
+        "id": "west-1996-100",
+        "title": "Summer Way",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1997
+      "year": 1996
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1995-13",
+        "title": "Thunder Tears",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1995-24",
+        "title": "Gold Sky",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1995-41",
+        "title": "Sky Soul",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1995-94",
+        "title": "Wild Gold",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1994-11",
+        "title": "Wild Mountain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1994-21",
+        "title": "Wild Summer",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1994-34",
+        "title": "Wild Silver",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1994-61",
+        "title": "Dawn Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1994-87",
+        "title": "Rain Soul",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
     },
     {
       "rank": 20,
       "song": {
-        "id": "west-1996-20",
-        "title": "Last Rose",
+        "id": "west-1993-20",
+        "title": "Running Wave",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1996-44",
-        "title": "Last Winter",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1996-49",
-        "title": "Ocean Love",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1996-60",
-        "title": "Fading Summer",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1996-66",
-        "title": "Wild Star",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1996-70",
-        "title": "Under the Rain",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1996-74",
-        "title": "Sky Dreams",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1996-78",
-        "title": "Sun Sky",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1996-85",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 5,
-      "song": {
-        "id": "west-1995-05",
-        "title": "On Bended Knee",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1995-29",
-        "title": "Midnight Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1995-35",
-        "title": "Electric Gold",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1995-38",
-        "title": "Falling Moon",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1995-44",
-        "title": "Rain Lights",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1995-92",
-        "title": "Last Diamond",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "west-1994-02",
-        "title": "I'll Make Love to You",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1994-44",
-        "title": "Shining Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1994-50",
-        "title": "Midnight Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1994-55",
-        "title": "Wild Dusk",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1994-68",
-        "title": "Electric Flame",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1993-35",
-        "title": "Moon Fire",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 51,
+      "rank": 33,
       "song": {
-        "id": "west-1993-51",
-        "title": "Fading Ocean",
+        "id": "west-1993-33",
+        "title": "Star Night",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 74,
+      "rank": 77,
       "song": {
-        "id": "west-1993-74",
-        "title": "City Heart",
+        "id": "west-1993-77",
+        "title": "Summer Love",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1993-88",
-        "title": "Dusk Moonlight",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -481,218 +642,192 @@
       "rank": 98,
       "song": {
         "id": "west-1993-98",
-        "title": "Sun Soul",
+        "title": "Wild Bridge",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 1,
+      "rank": 71,
       "song": {
-        "id": "west-1992-01",
-        "title": "End of the Road",
+        "id": "west-1992-71",
+        "title": "Shadow Fire",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 15,
+      "rank": 77,
       "song": {
-        "id": "west-1992-15",
-        "title": "Shining Wave",
+        "id": "west-1992-77",
+        "title": "Into the Sun",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 46,
+      "rank": 19,
       "song": {
-        "id": "west-1992-46",
-        "title": "Ocean Dreams",
+        "id": "west-1991-19",
+        "title": "Under the Crystal",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1991
     },
     {
-      "rank": 52,
+      "rank": 21,
       "song": {
-        "id": "west-1992-52",
-        "title": "Sun Night",
+        "id": "west-1991-21",
+        "title": "Last Ice",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1991
     },
     {
-      "rank": 61,
+      "rank": 28,
       "song": {
-        "id": "west-1992-61",
-        "title": "Shadow Dreams",
+        "id": "west-1991-28",
+        "title": "Flame Sky",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1991
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1991-45",
+        "title": "Under the Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1991-87",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1991-88",
+        "title": "Chasing River",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1991-96",
+        "title": "Fire Forever",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1990-19",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1990-26",
+        "title": "Golden Sun",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
     },
     {
       "rank": 69,
       "song": {
-        "id": "west-1992-69",
-        "title": "Running Light",
+        "id": "west-1990-69",
+        "title": "Chasing Summer",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1990
     },
     {
       "rank": 73,
       "song": {
-        "id": "west-1992-73",
-        "title": "Star Forever",
+        "id": "west-1990-73",
+        "title": "Rain Lights",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1992-94",
-        "title": "Summer Rain",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1991-65",
-        "title": "Shining Dusk",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1991-83",
-        "title": "Rose Night",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1990-20",
-        "title": "Wild Road",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 31,
+      "rank": 87,
       "song": {
-        "id": "west-1990-31",
-        "title": "Electric Snow",
+        "id": "west-1990-87",
+        "title": "Never Ice",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1990-38",
-        "title": "Gold Way",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1990-68",
-        "title": "Ocean Fire",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1990-82",
-        "title": "Electric Silver",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1990-93",
-        "title": "Ocean Soul",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
