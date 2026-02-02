@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-89",
-    "title": "Rain Heart",
+    "title": "Diamond Soul",
     "artist": {
-      "id": "a-queen",
-      "name": "Queen"
+      "id": "a-abba",
+      "name": "ABBA"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 89,
   "cdInfo": [
     {
-      "title": "Rain Heart",
+      "title": "Diamond Soul",
       "type": "single",
-      "releaseDate": "1977-12-20"
+      "releaseDate": "1977-04-26"
+    },
+    {
+      "title": "Rose Collection",
+      "type": "album",
+      "releaseDate": "1977-02-14"
     }
   ],
   "externalLinks": {
@@ -23,65 +28,13 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 67,
       "song": {
-        "id": "west-1980-06",
-        "title": "Crazy Little Thing Called Love",
+        "id": "west-1979-67",
+        "title": "Dancing Shadow",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1979-16",
-        "title": "Thunder Sky",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1979-17",
-        "title": "Shadow Rain",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1979-20",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1979-22",
-        "title": "Midnight Moon",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -90,102 +43,50 @@
     {
       "rank": 23,
       "song": {
-        "id": "west-1979-23",
-        "title": "Midnight Road",
+        "id": "west-1978-23",
+        "title": "Into the Crystal",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1979-26",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1979-54",
-        "title": "Crystal Love",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1979-84",
-        "title": "Last Storm",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1979-100",
-        "title": "Fading Fire",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1978-22",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 27,
+      "rank": 29,
       "song": {
-        "id": "west-1978-27",
-        "title": "City Heart",
+        "id": "west-1978-29",
+        "title": "Never Thunder",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 72,
+      "rank": 45,
       "song": {
-        "id": "west-1978-72",
-        "title": "Gold Sky",
+        "id": "west-1978-45",
+        "title": "Running Ocean",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1978-76",
+        "title": "Wind Soul",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -195,75 +96,153 @@
       "rank": 85,
       "song": {
         "id": "west-1978-85",
-        "title": "Broken Wave",
+        "title": "River Night",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 92,
+      "rank": 98,
       "song": {
-        "id": "west-1978-92",
-        "title": "Mountain Moonlight",
+        "id": "west-1978-98",
+        "title": "Light Moonlight",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1978
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1977-06",
+        "title": "Dancing Queen",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1977-32",
+        "title": "Wild Wind",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1977-45",
+        "title": "Wild Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1977-54",
+        "title": "Never Rain",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1977-71",
+        "title": "Midnight Ocean",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1977-84",
+        "title": "River Sky",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1977-98",
+        "title": "Sun Lights",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 99,
       "song": {
-        "id": "west-1978-99",
-        "title": "Broken Diamond",
+        "id": "west-1977-99",
+        "title": "Last City",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1977-53",
-        "title": "Running Diamond",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 62,
+      "rank": 94,
       "song": {
-        "id": "west-1977-62",
-        "title": "City Tears",
+        "id": "west-1976-94",
+        "title": "Dawn Tears",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1977
+      "year": 1976
     },
     {
-      "rank": 18,
+      "rank": 97,
       "song": {
-        "id": "west-1976-18",
-        "title": "Wild Wind",
+        "id": "west-1976-97",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
@@ -272,206 +251,76 @@
     {
       "rank": 22,
       "song": {
-        "id": "west-1976-22",
-        "title": "River Rain",
+        "id": "west-1975-22",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1976-26",
-        "title": "Wave Heart",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1976-32",
-        "title": "Wild Diamond",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1976-52",
-        "title": "Chasing Road",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1976-61",
-        "title": "Into the Rain",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1976-79",
-        "title": "Diamond Dreams",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1976-80",
-        "title": "Wind Lights",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1976-90",
-        "title": "Under the Shadow",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1975-19",
-        "title": "Shining Silver",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 41,
+      "rank": 54,
       "song": {
-        "id": "west-1975-41",
-        "title": "Golden Wave",
+        "id": "west-1975-54",
+        "title": "Midnight Road",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 50,
+      "rank": 85,
       "song": {
-        "id": "west-1975-50",
-        "title": "Moon Soul",
+        "id": "west-1975-85",
+        "title": "Wind Sky",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 63,
+      "rank": 91,
       "song": {
-        "id": "west-1975-63",
-        "title": "Dancing Ocean",
+        "id": "west-1975-91",
+        "title": "Falling Crystal",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 68,
+      "rank": 92,
       "song": {
-        "id": "west-1975-68",
-        "title": "Ice Heart",
+        "id": "west-1975-92",
+        "title": "Golden Snow",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 71,
+      "rank": 94,
       "song": {
-        "id": "west-1975-71",
-        "title": "Silver Tears",
+        "id": "west-1975-94",
+        "title": "Last Storm",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1975-79",
-        "title": "Diamond Fire",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1975-81",
-        "title": "Wave Forever",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },

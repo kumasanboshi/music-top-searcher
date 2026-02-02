@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2014-91",
-    "title": "Midnight Sun",
+    "title": "Wild Light",
     "artist": {
-      "id": "a-bruno-mars",
-      "name": "Bruno Mars"
+      "id": "a-khalid",
+      "name": "Khalid"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 91,
   "cdInfo": [
     {
-      "title": "Midnight Sun",
+      "title": "Wild Light",
       "type": "single",
-      "releaseDate": "2014-12-27"
+      "releaseDate": "2014-12-21"
+    },
+    {
+      "title": "City Diaries",
+      "type": "album",
+      "releaseDate": "2014-08-27"
     }
   ],
   "externalLinks": {
@@ -23,364 +28,325 @@
   },
   "artistSongs": [
     {
-      "rank": 26,
+      "rank": 6,
       "song": {
-        "id": "west-2019-26",
-        "title": "Mountain Night",
+        "id": "west-2019-06",
+        "title": "Talk",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2019
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2019-37",
-        "title": "Dusk Heart",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2019-40",
-        "title": "Mountain Forever",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2019-45",
-        "title": "Never Dawn",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2019-55",
-        "title": "Gold Way",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2019-70",
-        "title": "Running Diamond",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2018-11",
-        "title": "Shadow Soul",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2018-16",
-        "title": "Crystal Night",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2018-32",
-        "title": "Dancing Gold",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2018-37",
-        "title": "Moon Tears",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2018-55",
-        "title": "Midnight Flame",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2018-57",
-        "title": "Running Thunder",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2018-64",
-        "title": "Never Fire",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2018-73",
-        "title": "Diamond Love",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2018-77",
-        "title": "Mountain Moonlight",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-2017-03",
-        "title": "That's What I Like",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2017
     },
     {
       "rank": 14,
       "song": {
-        "id": "west-2017-14",
-        "title": "Thunder Soul",
+        "id": "west-2019-14",
+        "title": "Crystal Forever",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
-      "year": 2017
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2017-21",
-        "title": "Running Sky",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2017-38",
-        "title": "Lost in Road",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2017-82",
-        "title": "Sweet Gold",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2017-93",
-        "title": "Winter Forever",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2017-99",
-        "title": "Chasing Sky",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2017
+      "year": 2019
     },
     {
       "rank": 19,
       "song": {
-        "id": "west-2016-19",
-        "title": "Chasing Winter",
+        "id": "west-2019-19",
+        "title": "Dawn Way",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2019
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2019-20",
+        "title": "Fading Dusk",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-2019-39",
+        "title": "Bridge Sky",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2019-44",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2019-54",
+        "title": "Falling Storm",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2019-72",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2019-91",
+        "title": "Gold Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2019-92",
+        "title": "Light Rain",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2018-14",
+        "title": "Flame Sky",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2018-28",
+        "title": "Falling Star",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2018-33",
+        "title": "Never Wave",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2018-49",
+        "title": "Rain Rain",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2018-63",
+        "title": "Gold Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2018-90",
+        "title": "Wild City",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2018-97",
+        "title": "Chasing Ice",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-2017-15",
+        "title": "Broken City",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2017-57",
+        "title": "Diamond Lights",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2017-58",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2017-62",
+        "title": "Dancing Shadow",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2017-66",
+        "title": "Bridge Rain",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2017
     },
     {
       "rank": 24,
       "song": {
         "id": "west-2016-24",
-        "title": "Lost in Sun",
+        "title": "Diamond Rain",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 26,
+      "rank": 59,
       "song": {
-        "id": "west-2016-26",
-        "title": "Running Shadow",
+        "id": "west-2016-59",
+        "title": "Running Bridge",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 40,
+      "rank": 76,
       "song": {
-        "id": "west-2016-40",
-        "title": "Snow Dreams",
+        "id": "west-2016-76",
+        "title": "Lost in Road",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2016-52",
-        "title": "Lost in Crystal",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2016-66",
-        "title": "Golden Wave",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -390,218 +356,179 @@
       "rank": 79,
       "song": {
         "id": "west-2016-79",
-        "title": "Mountain Tears",
+        "title": "Sweet Shadow",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 87,
+      "rank": 36,
       "song": {
-        "id": "west-2016-87",
-        "title": "Lost in Moon",
+        "id": "west-2015-36",
+        "title": "Chasing Dusk",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2015
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2015-57",
+        "title": "Shining Dusk",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2015-66",
+        "title": "Ice Dreams",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2015-91",
+        "title": "Broken Gold",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2014-45",
+        "title": "Silver Way",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-2014-59",
+        "title": "Road Rain",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2014-66",
+        "title": "Star Dreams",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2014-69",
+        "title": "Fire Soul",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2014-77",
+        "title": "Midnight Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-2014-83",
+        "title": "Last Summer",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2014
     },
     {
       "rank": 89,
       "song": {
-        "id": "west-2016-89",
-        "title": "Road Fire",
+        "id": "west-2014-89",
+        "title": "Thunder Moonlight",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2016-98",
-        "title": "Electric Sky",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2015-24",
-        "title": "Sun Way",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2015-33",
-        "title": "Running Shadow",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2015-73",
-        "title": "Under the Gold",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2015-81",
-        "title": "Crystal Sky",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2015-94",
-        "title": "Wild Road",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2014-72",
-        "title": "Summer Lights",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 78,
+      "rank": 36,
       "song": {
-        "id": "west-2014-78",
-        "title": "Midnight Crystal",
+        "id": "west-2013-36",
+        "title": "River Heart",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2014-90",
-        "title": "Wind Soul",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-2013-07",
-        "title": "Locked Out of Heaven",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 9,
+      "rank": 53,
       "song": {
-        "id": "west-2013-09",
-        "title": "When I Was Your Man",
+        "id": "west-2013-53",
+        "title": "Star Dreams",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2013-19",
-        "title": "Thunder Rain",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2013-34",
-        "title": "River Soul",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2013-37",
-        "title": "Last Star",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -611,140 +538,192 @@
       "rank": 55,
       "song": {
         "id": "west-2013-55",
-        "title": "River Dreams",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2013-69",
-        "title": "Shining Star",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2012-23",
-        "title": "Sweet Winter",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2012-36",
-        "title": "Shining Flame",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2012-44",
-        "title": "Snow Sky",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2012-91",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2012-92",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2012-95",
-        "title": "Bridge Dreams",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-2011-06",
-        "title": "Grenade",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "west-2011-09",
-        "title": "Just the Way You Are",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2011-34",
         "title": "Sweet Moon",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2013-62",
+        "title": "Bridge Soul",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2013-97",
+        "title": "Storm Rain",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-2012-71",
+        "title": "Wave Dreams",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2012-76",
+        "title": "Lost in Ice",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2012-98",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2012-100",
+        "title": "Dancing Summer",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2011-19",
+        "title": "River Love",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-2011-24",
+        "title": "Dancing Rain",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2011-27",
+        "title": "Mountain Heart",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2011-28",
+        "title": "Lost in Storm",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2011-33",
+        "title": "Last Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2011-49",
+        "title": "Last Sky",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2011-55",
+        "title": "Diamond Heart",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2011-62",
+        "title": "Fading Fire",
+        "artist": {
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -754,23 +733,10 @@
       "rank": 64,
       "song": {
         "id": "west-2011-64",
-        "title": "Sweet Light",
+        "title": "Wild City",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2011-65",
-        "title": "Lost in Shadow",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
@@ -780,179 +746,127 @@
       "rank": 73,
       "song": {
         "id": "west-2011-73",
-        "title": "Chasing Wave",
+        "title": "Shining Silver",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 83,
+      "rank": 92,
       "song": {
-        "id": "west-2011-83",
-        "title": "Ice Love",
+        "id": "west-2011-92",
+        "title": "Golden Gold",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 90,
+      "rank": 16,
       "song": {
-        "id": "west-2011-90",
-        "title": "Dancing Ocean",
+        "id": "west-2010-16",
+        "title": "Rose Moonlight",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2011-97",
-        "title": "Shining Road",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2010-26",
-        "title": "Chasing Ice",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 31,
+      "rank": 50,
       "song": {
-        "id": "west-2010-31",
-        "title": "Electric Fire",
+        "id": "west-2010-50",
+        "title": "Wave Sky",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 33,
+      "rank": 61,
       "song": {
-        "id": "west-2010-33",
-        "title": "Storm Night",
+        "id": "west-2010-61",
+        "title": "Chasing Light",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 36,
+      "rank": 64,
       "song": {
-        "id": "west-2010-36",
-        "title": "Snow Way",
+        "id": "west-2010-64",
+        "title": "Snow Soul",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 54,
+      "rank": 68,
       "song": {
-        "id": "west-2010-54",
-        "title": "Star Heart",
+        "id": "west-2010-68",
+        "title": "Lost in City",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 58,
+      "rank": 74,
       "song": {
-        "id": "west-2010-58",
-        "title": "Chasing Rain",
+        "id": "west-2010-74",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 71,
+      "rank": 79,
       "song": {
-        "id": "west-2010-71",
-        "title": "Golden Storm",
+        "id": "west-2010-79",
+        "title": "Midnight Road",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 75,
+      "rank": 87,
       "song": {
-        "id": "west-2010-75",
-        "title": "Dawn Soul",
+        "id": "west-2010-87",
+        "title": "Wind Night",
         "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2010-81",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2010-88",
-        "title": "Falling Moon",
-        "artist": {
-          "id": "a-bruno-mars",
-          "name": "Bruno Mars"
+          "id": "a-khalid",
+          "name": "Khalid"
         },
         "genre": "western"
       },

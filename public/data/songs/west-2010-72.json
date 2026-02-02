@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2010-72",
-    "title": "Sweet City",
+    "title": "Running Mountain",
     "artist": {
-      "id": "a-adele",
-      "name": "Adele"
+      "id": "a-sam-smith",
+      "name": "Sam Smith"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 72,
   "cdInfo": [
     {
-      "title": "Sweet City",
+      "title": "Running Mountain",
       "type": "single",
-      "releaseDate": "2010-03-01"
+      "releaseDate": "2010-12-05"
+    },
+    {
+      "title": "Moon Sessions",
+      "type": "album",
+      "releaseDate": "2010-01-23"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,104 @@
   },
   "artistSongs": [
     {
-      "rank": 22,
+      "rank": 23,
       "song": {
-        "id": "west-2019-22",
-        "title": "Dancing Bridge",
+        "id": "west-2019-23",
+        "title": "Fading Flame",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 47,
+      "rank": 29,
       "song": {
-        "id": "west-2019-47",
-        "title": "Falling Mountain",
+        "id": "west-2019-29",
+        "title": "Bridge Heart",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 53,
+      "rank": 38,
       "song": {
-        "id": "west-2019-53",
-        "title": "Shining Road",
+        "id": "west-2019-38",
+        "title": "Moon Heart",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 76,
+      "rank": 56,
       "song": {
-        "id": "west-2019-76",
-        "title": "Dancing Snow",
+        "id": "west-2019-56",
+        "title": "Broken Road",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 87,
+      "rank": 77,
       "song": {
-        "id": "west-2019-87",
-        "title": "Wind Lights",
+        "id": "west-2019-77",
+        "title": "Gold Sky",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 67,
+      "rank": 82,
       "song": {
-        "id": "west-2018-67",
-        "title": "Crystal Fire",
+        "id": "west-2019-82",
+        "title": "Sky Rain",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2019-95",
+        "title": "Bridge Lights",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2018-32",
+        "title": "Storm Heart",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -104,296 +135,192 @@
       "rank": 74,
       "song": {
         "id": "west-2018-74",
-        "title": "Road Forever",
+        "title": "Light Fire",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 87,
+      "rank": 13,
       "song": {
-        "id": "west-2018-87",
-        "title": "Fire Moonlight",
+        "id": "west-2017-13",
+        "title": "Never Road",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2018-94",
-        "title": "Under the Thunder",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2017-26",
-        "title": "Bridge Night",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 28,
+      "rank": 48,
       "song": {
-        "id": "west-2017-28",
+        "id": "west-2017-48",
+        "title": "Last River",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2017-64",
+        "title": "Falling Rose",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2017-85",
+        "title": "Road Love",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2017-89",
+        "title": "Sky Forever",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2016-25",
+        "title": "Golden Sky",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2016-31",
+        "title": "Never Silver",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2016-36",
+        "title": "Rain Soul",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2016-37",
+        "title": "Midnight Road",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2016-41",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2016-42",
+        "title": "Electric Dusk",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2016-60",
         "title": "Never Gold",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2017-30",
-        "title": "Rose Forever",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2017-33",
-        "title": "Electric Diamond",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2017-47",
-        "title": "Midnight Crystal",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2017-50",
-        "title": "Broken Star",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2017-54",
-        "title": "Gold Rain",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2017-75",
-        "title": "Electric Storm",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2017-79",
-        "title": "Sweet Rain",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2016-12",
-        "title": "Star Fire",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 15,
+      "rank": 74,
       "song": {
-        "id": "west-2016-15",
-        "title": "Sweet Sun",
+        "id": "west-2016-74",
+        "title": "Dusk Soul",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 43,
+      "rank": 86,
       "song": {
-        "id": "west-2016-43",
-        "title": "Mountain Soul",
+        "id": "west-2016-86",
+        "title": "Dancing Shadow",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2016-44",
-        "title": "Sweet Thunder",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2016-53",
-        "title": "City Soul",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2016-55",
-        "title": "Winter Forever",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2016-57",
-        "title": "Broken Fire",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2016-61",
-        "title": "Never Crystal",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2016-70",
-        "title": "River Soul",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2016-76",
-        "title": "Golden Flame",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2016-94",
-        "title": "Silver Moonlight",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -403,270 +330,335 @@
       "rank": 18,
       "song": {
         "id": "west-2015-18",
-        "title": "Chasing Rain",
+        "title": "Gold Rain",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-2015-29",
+        "title": "Rose Soul",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2015-33",
+        "title": "Last Ice",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2015-60",
+        "title": "Summer Rain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2015-62",
+        "title": "Snow Heart",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2015-75",
+        "title": "Chasing Storm",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2015-100",
+        "title": "Electric Ice",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2014-07",
+        "title": "Stay with Me",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-2014-12",
+        "title": "Midnight Storm",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2014
     },
     {
       "rank": 22,
       "song": {
-        "id": "west-2015-22",
-        "title": "Under the Storm",
+        "id": "west-2014-22",
+        "title": "Shining Diamond",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2015
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2015-37",
-        "title": "Dawn Forever",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2015-53",
-        "title": "Wild Rose",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2015-54",
-        "title": "City Love",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2015-80",
-        "title": "Shadow Heart",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2015-84",
-        "title": "Road Moonlight",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2015-89",
-        "title": "Gold Fire",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2015
+      "year": 2014
     },
     {
       "rank": 27,
       "song": {
         "id": "west-2014-27",
-        "title": "Broken Light",
+        "title": "Broken Shadow",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 60,
+      "rank": 34,
       "song": {
-        "id": "west-2014-60",
-        "title": "Last Diamond",
+        "id": "west-2014-34",
+        "title": "Snow Heart",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 76,
+      "rank": 55,
       "song": {
-        "id": "west-2014-76",
-        "title": "Never Dusk",
+        "id": "west-2014-55",
+        "title": "Storm Heart",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 84,
+      "rank": 81,
       "song": {
-        "id": "west-2014-84",
-        "title": "Wild Winter",
+        "id": "west-2014-81",
+        "title": "Lost in Thunder",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 89,
+      "rank": 11,
       "song": {
-        "id": "west-2014-89",
-        "title": "Falling Moon",
+        "id": "west-2013-11",
+        "title": "Falling Dusk",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2014
+      "year": 2013
     },
     {
-      "rank": 98,
+      "rank": 27,
       "song": {
-        "id": "west-2014-98",
-        "title": "Winter Tears",
+        "id": "west-2013-27",
+        "title": "Chasing Diamond",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2014
+      "year": 2013
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2013-37",
+        "title": "Light Tears",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2013-50",
+        "title": "Into the Sun",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
     },
     {
       "rank": 51,
       "song": {
         "id": "west-2013-51",
-        "title": "Snow Sky",
+        "title": "Fire Heart",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 66,
+      "rank": 77,
       "song": {
-        "id": "west-2013-66",
-        "title": "Golden Wave",
+        "id": "west-2013-77",
+        "title": "Golden Shadow",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 75,
+      "rank": 78,
       "song": {
-        "id": "west-2013-75",
-        "title": "Last Ocean",
+        "id": "west-2013-78",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 84,
+      "rank": 79,
       "song": {
-        "id": "west-2013-84",
-        "title": "Electric Crystal",
+        "id": "west-2013-79",
+        "title": "Never Shadow",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 90,
+      "rank": 19,
       "song": {
-        "id": "west-2013-90",
-        "title": "Never Star",
+        "id": "west-2012-19",
+        "title": "Broken Flame",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2012-11",
-        "title": "Silver Forever",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 26,
+      "rank": 32,
       "song": {
-        "id": "west-2012-26",
-        "title": "Chasing Rain",
+        "id": "west-2012-32",
+        "title": "Fading Snow",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2012-48",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-2012-52",
+        "title": "Summer Dreams",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -676,140 +668,49 @@
       "rank": 59,
       "song": {
         "id": "west-2012-59",
-        "title": "Midnight Light",
+        "title": "Under the Gold",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 60,
+      "rank": 66,
       "song": {
-        "id": "west-2012-60",
-        "title": "Ocean Rain",
+        "id": "west-2012-66",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 67,
+      "rank": 77,
       "song": {
-        "id": "west-2012-67",
-        "title": "Golden Ice",
+        "id": "west-2012-77",
+        "title": "Running Sun",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 70,
+      "rank": 17,
       "song": {
-        "id": "west-2012-70",
-        "title": "Wild Flame",
+        "id": "west-2011-17",
+        "title": "Golden Crystal",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2012-74",
-        "title": "Under the Diamond",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2012-79",
-        "title": "Shining Rose",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-2011-01",
-        "title": "Rolling in the Deep",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "west-2011-08",
-        "title": "Someone Like You",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2011-14",
-        "title": "Into the Star",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2011-16",
-        "title": "Midnight Gold",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2011-27",
-        "title": "Shining Gold",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -819,140 +720,153 @@
       "rank": 29,
       "song": {
         "id": "west-2011-29",
-        "title": "Running Flame",
+        "title": "Thunder Heart",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 44,
+      "rank": 34,
       "song": {
-        "id": "west-2011-44",
-        "title": "Star Moonlight",
+        "id": "west-2011-34",
+        "title": "Ice Rain",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2011
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2011-59",
-        "title": "Under the Star",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2011-95",
-        "title": "Broken Gold",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2010-19",
-        "title": "Falling Star",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2010
     },
     {
       "rank": 41,
       "song": {
-        "id": "west-2010-41",
-        "title": "Ocean Rain",
+        "id": "west-2011-41",
+        "title": "Chasing Mountain",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2010
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2010-69",
-        "title": "Sun Heart",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2010-73",
-        "title": "Last Snow",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2010-80",
-        "title": "Fading Thunder",
-        "artist": {
-          "id": "a-adele",
-          "name": "Adele"
-        },
-        "genre": "western"
-      },
-      "year": 2010
+      "year": 2011
     },
     {
       "rank": 86,
       "song": {
-        "id": "west-2010-86",
-        "title": "Fire Lights",
+        "id": "west-2011-86",
+        "title": "Dancing Wind",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2010-23",
+        "title": "Midnight Fire",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 97,
+      "rank": 49,
       "song": {
-        "id": "west-2010-97",
-        "title": "Wind Way",
+        "id": "west-2010-49",
+        "title": "Dancing Gold",
         "artist": {
-          "id": "a-adele",
-          "name": "Adele"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2010-56",
+        "title": "Running Storm",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2010-57",
+        "title": "Ice Fire",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2010-62",
+        "title": "Never Bridge",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2010-66",
+        "title": "Shadow Love",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2010-88",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2010-92",
+        "title": "Midnight Bridge",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },

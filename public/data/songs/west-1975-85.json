@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-85",
-    "title": "Running Diamond",
+    "title": "Wind Sky",
     "artist": {
-      "id": "a-elton-john",
-      "name": "Elton John"
+      "id": "a-abba",
+      "name": "ABBA"
     },
     "genre": "western"
   },
@@ -12,8 +12,13 @@
   "rank": 85,
   "cdInfo": [
     {
-      "title": "Running Diamond",
+      "title": "Wind Sky",
       "type": "single",
+      "releaseDate": "1975-09-25"
+    },
+    {
+      "title": "The Summer Album",
+      "type": "album",
       "releaseDate": "1975-04-03"
     }
   ],
@@ -23,377 +28,299 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
-      "song": {
-        "id": "west-2022-06",
-        "title": "Cold Heart",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John & Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-1997-01",
-        "title": "Candle in the Wind 1997",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1979-59",
-        "title": "Summer Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1979-61",
-        "title": "Under the Gold",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1979-62",
-        "title": "Gold Tears",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1979-64",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1979-75",
-        "title": "Dancing Light",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1979-94",
-        "title": "Shining Snow",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1978-24",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1978-66",
-        "title": "Falling Silver",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
       "rank": 67,
       "song": {
-        "id": "west-1978-67",
-        "title": "Dancing Diamond",
+        "id": "west-1979-67",
+        "title": "Dancing Shadow",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1978
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1978-78",
-        "title": "Fading Bridge",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1978-96",
-        "title": "Thunder Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1977-17",
-        "title": "Shadow Heart",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1977-30",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1977-47",
-        "title": "Into the Ocean",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1977-92",
-        "title": "Sweet Winter",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1976-19",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1976-29",
-        "title": "Shadow Soul",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1976-66",
-        "title": "Winter Love",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1976-70",
-        "title": "Sun Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1976-88",
-        "title": "Lost in Silver",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-1975-03",
-        "title": "Philadelphia Freedom",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
+      "year": 1979
     },
     {
       "rank": 23,
       "song": {
-        "id": "west-1975-23",
-        "title": "Dawn Sky",
+        "id": "west-1978-23",
+        "title": "Into the Crystal",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1978
     },
     {
-      "rank": 27,
+      "rank": 29,
       "song": {
-        "id": "west-1975-27",
-        "title": "Last Fire",
+        "id": "west-1978-29",
+        "title": "Never Thunder",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1978
     },
     {
-      "rank": 30,
+      "rank": 45,
       "song": {
-        "id": "west-1975-30",
-        "title": "Lost in Diamond",
+        "id": "west-1978-45",
+        "title": "Running Ocean",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1978
     },
     {
-      "rank": 39,
+      "rank": 76,
       "song": {
-        "id": "west-1975-39",
-        "title": "Golden Rose",
+        "id": "west-1978-76",
+        "title": "Wind Soul",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1978
     },
     {
-      "rank": 67,
+      "rank": 85,
       "song": {
-        "id": "west-1975-67",
-        "title": "City Moonlight",
+        "id": "west-1978-85",
+        "title": "River Night",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1978
     },
     {
-      "rank": 93,
+      "rank": 98,
       "song": {
-        "id": "west-1975-93",
+        "id": "west-1978-98",
+        "title": "Light Moonlight",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1977-06",
+        "title": "Dancing Queen",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1977-32",
+        "title": "Wild Wind",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1977-45",
+        "title": "Wild Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1977-54",
+        "title": "Never Rain",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1977-71",
         "title": "Midnight Ocean",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1977-84",
+        "title": "River Sky",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1977-89",
+        "title": "Diamond Soul",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1977-98",
+        "title": "Sun Lights",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1977-99",
+        "title": "Last City",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1976-94",
+        "title": "Dawn Tears",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1976-97",
+        "title": "Electric Snow",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1975-22",
+        "title": "Lost in Sky",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1975-54",
+        "title": "Midnight Road",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1975-91",
+        "title": "Falling Crystal",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1975-92",
+        "title": "Golden Snow",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1975-94",
+        "title": "Last Storm",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
         },
         "genre": "western"
       },

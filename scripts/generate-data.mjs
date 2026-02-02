@@ -87,6 +87,15 @@ for (const batchFile of batchFiles) {
             type: e.cdType || 'single',
             releaseDate: e.releaseDate,
           },
+          ...(e.albumTitle
+            ? [
+                {
+                  title: e.albumTitle,
+                  type: 'album',
+                  releaseDate: e.albumReleaseDate,
+                },
+              ]
+            : []),
         ],
         externalLinks: {
           amazon: 'https://amazon.co.jp/dp/example1',

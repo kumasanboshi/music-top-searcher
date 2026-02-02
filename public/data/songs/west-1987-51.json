@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1987-51",
-    "title": "Road Tears",
+    "title": "Falling Winter",
     "artist": {
-      "id": "a-def-leppard",
-      "name": "Def Leppard"
+      "id": "a-tina-turner",
+      "name": "Tina Turner"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 51,
   "cdInfo": [
     {
-      "title": "Road Tears",
+      "title": "Falling Winter",
       "type": "single",
-      "releaseDate": "1987-10-09"
+      "releaseDate": "1987-08-09"
+    },
+    {
+      "title": "The Dusk Album",
+      "type": "album",
+      "releaseDate": "1987-03-25"
     }
   ],
   "externalLinks": {
@@ -23,338 +28,390 @@
   },
   "artistSongs": [
     {
+      "rank": 17,
+      "song": {
+        "id": "west-1989-17",
+        "title": "Midnight Wind",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
       "rank": 18,
       "song": {
         "id": "west-1989-18",
-        "title": "Electric Summer",
+        "title": "Running Dawn",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1989-67",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1989-89",
-        "title": "Midnight Ocean",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1989-93",
-        "title": "Never Moon",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1988-22",
-        "title": "Lost in Silver",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1988
     },
     {
       "rank": 24,
       "song": {
-        "id": "west-1988-24",
-        "title": "Ocean Heart",
+        "id": "west-1989-24",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1988
+      "year": 1989
     },
     {
-      "rank": 91,
+      "rank": 34,
       "song": {
-        "id": "west-1988-91",
-        "title": "Golden Sky",
+        "id": "west-1989-34",
+        "title": "Storm Soul",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1988
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1987-28",
-        "title": "Dusk Fire",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1987-47",
-        "title": "Golden Summer",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1987-75",
-        "title": "Wild Sky",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1987-86",
-        "title": "Gold Forever",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1987-89",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1987-92",
-        "title": "Moon Lights",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1987-97",
-        "title": "Wild Bridge",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1986-17",
-        "title": "Wild Silver",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1986-19",
-        "title": "Shining Silver",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1986-22",
-        "title": "Sky Way",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1986-30",
-        "title": "Electric Shadow",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1986-48",
-        "title": "Under the Light",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1986-59",
-        "title": "Wild Thunder",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1986-61",
-        "title": "Flame Heart",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1986-75",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1985-28",
-        "title": "Broken Moon",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1985-30",
-        "title": "Dancing Wind",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1985-46",
-        "title": "Light Rain",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1985
+      "year": 1989
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-1985-54",
-        "title": "Wind Love",
+        "id": "west-1989-54",
+        "title": "Dusk Tears",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1989-58",
+        "title": "Ice Way",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1989-80",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1988-23",
+        "title": "Storm Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1988-30",
+        "title": "Dusk Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1988-39",
+        "title": "Golden Light",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1988-43",
+        "title": "Into the Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1988-46",
+        "title": "Wild Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1988-53",
+        "title": "Ice Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1988-65",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1988-79",
+        "title": "Crystal Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1988-90",
+        "title": "Star Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1987-21",
+        "title": "Midnight Crystal",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1987-34",
+        "title": "Bridge Forever",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1987-54",
+        "title": "Electric Dusk",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1987-65",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1987-68",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1987-74",
+        "title": "Sun Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1986-14",
+        "title": "Into the Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1986-20",
+        "title": "Electric Fire",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1986-28",
+        "title": "Midnight City",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1986-32",
+        "title": "Wild Mountain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1986-52",
+        "title": "Mountain Heart",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1986-77",
+        "title": "Wild Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1986-88",
+        "title": "Moon Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1985-39",
+        "title": "Winter Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -364,75 +421,179 @@
       "rank": 59,
       "song": {
         "id": "west-1985-59",
-        "title": "Dancing Winter",
+        "title": "Electric Storm",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 75,
+      "rank": 65,
       "song": {
-        "id": "west-1985-75",
-        "title": "Sweet Sun",
+        "id": "west-1985-65",
+        "title": "Dancing Wave",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 97,
+      "rank": 83,
       "song": {
-        "id": "west-1985-97",
-        "title": "Golden Summer",
+        "id": "west-1985-83",
+        "title": "Never Silver",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 58,
+      "rank": 2,
       "song": {
-        "id": "west-1984-58",
-        "title": "Crystal Heart",
+        "id": "west-1984-02",
+        "title": "What's Love Got to Do with It",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 69,
+      "rank": 11,
       "song": {
-        "id": "west-1984-69",
-        "title": "Sweet Sun",
+        "id": "west-1984-11",
+        "title": "Mountain Soul",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 80,
+      "rank": 13,
       "song": {
-        "id": "west-1984-80",
-        "title": "Last Flame",
+        "id": "west-1984-13",
+        "title": "Never Bridge",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1984-17",
+        "title": "Sky Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1984-31",
+        "title": "Rose Heart",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1984-32",
+        "title": "Flame Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1984-38",
+        "title": "Dawn Sky",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1984-41",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1984-43",
+        "title": "Moon Love",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1984-44",
+        "title": "Dawn Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1984-46",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -442,62 +603,114 @@
       "rank": 84,
       "song": {
         "id": "west-1984-84",
-        "title": "Fading Storm",
+        "title": "Snow Moonlight",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 11,
+      "rank": 91,
       "song": {
-        "id": "west-1983-11",
-        "title": "Midnight Fire",
+        "id": "west-1984-91",
+        "title": "Running Bridge",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1984-92",
+        "title": "Under the Star",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1983-25",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 17,
+      "rank": 36,
       "song": {
-        "id": "west-1983-17",
-        "title": "Falling Silver",
+        "id": "west-1983-36",
+        "title": "Lost in Gold",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 42,
+      "rank": 38,
       "song": {
-        "id": "west-1983-42",
-        "title": "Shining Winter",
+        "id": "west-1983-38",
+        "title": "Rain Moonlight",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 69,
+      "rank": 52,
       "song": {
-        "id": "west-1983-69",
-        "title": "Ocean Tears",
+        "id": "west-1983-52",
+        "title": "Crystal Love",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1983-53",
+        "title": "Flame Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1983-58",
+        "title": "Fading Mountain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -507,88 +720,101 @@
       "rank": 77,
       "song": {
         "id": "west-1983-77",
-        "title": "Golden Flame",
+        "title": "Thunder Way",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 84,
+      "rank": 83,
       "song": {
-        "id": "west-1983-84",
-        "title": "Last Road",
+        "id": "west-1983-83",
+        "title": "Moon Rain",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 99,
+      "rank": 13,
       "song": {
-        "id": "west-1983-99",
-        "title": "Sweet Mountain",
+        "id": "west-1982-13",
+        "title": "Falling Sky",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1982-20",
-        "title": "Midnight Ice",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 81,
+      "rank": 48,
       "song": {
-        "id": "west-1982-81",
-        "title": "Rain Love",
+        "id": "west-1982-48",
+        "title": "Lost in Mountain",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 34,
+      "rank": 51,
       "song": {
-        "id": "west-1981-34",
-        "title": "Never Light",
+        "id": "west-1982-51",
+        "title": "Chasing Sun",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1981
+      "year": 1982
     },
     {
-      "rank": 42,
+      "rank": 72,
       "song": {
-        "id": "west-1981-42",
-        "title": "Ice Fire",
+        "id": "west-1982-72",
+        "title": "Rose Love",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1982-93",
+        "title": "Midnight City",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1981-19",
+        "title": "Storm Tears",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -598,101 +824,75 @@
       "rank": 63,
       "song": {
         "id": "west-1981-63",
-        "title": "Golden Thunder",
+        "title": "Wave Night",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 74,
+      "rank": 88,
       "song": {
-        "id": "west-1981-74",
-        "title": "Rain Lights",
+        "id": "west-1981-88",
+        "title": "Last Winter",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 83,
+      "rank": 49,
       "song": {
-        "id": "west-1981-83",
-        "title": "Falling Dawn",
+        "id": "west-1980-49",
+        "title": "Snow Tears",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1980-31",
-        "title": "Shining Rain",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 60,
+      "rank": 51,
       "song": {
-        "id": "west-1980-60",
-        "title": "Last Diamond",
+        "id": "west-1980-51",
+        "title": "Falling Winter",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 67,
+      "rank": 62,
       "song": {
-        "id": "west-1980-67",
-        "title": "Wind Night",
+        "id": "west-1980-62",
+        "title": "Under the Dusk",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 78,
+      "rank": 87,
       "song": {
-        "id": "west-1980-78",
-        "title": "Storm Heart",
+        "id": "west-1980-87",
+        "title": "Moon Love",
         "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1980-99",
-        "title": "Never Sun",
-        "artist": {
-          "id": "a-def-leppard",
-          "name": "Def Leppard"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },

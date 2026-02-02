@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1977-49",
-    "title": "夏の夜",
+    "title": "旅サンセット",
     "artist": {
-      "id": "a-godiego",
-      "name": "ゴダイゴ"
+      "id": "a-candies",
+      "name": "キャンディーズ"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 49,
   "cdInfo": [
     {
-      "title": "夏の夜",
+      "title": "旅サンセット",
       "type": "single",
-      "releaseDate": "1977-02-03"
+      "releaseDate": "1977-02-14"
+    },
+    {
+      "title": "ベスト・オブ・愛",
+      "type": "album",
+      "releaseDate": "1977-02-04"
     }
   ],
   "externalLinks": {
@@ -23,247 +28,156 @@
   },
   "artistSongs": [
     {
-      "rank": 7,
-      "song": {
-        "id": "jpop-1979-07",
-        "title": "銀河鉄道999",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "jpop-1979-08",
-        "title": "ガンダーラ",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1979-24",
-        "title": "風の朝",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-1979-34",
-        "title": "花ストーリー",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1979-51",
-        "title": "ミッドナイト星",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1979-52",
-        "title": "真夜中の旅",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1979-53",
-        "title": "恋の雨",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1979-57",
-        "title": "真夜中の影",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1979-58",
-        "title": "約束の記憶",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-1979-92",
-        "title": "時間の海",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1978-27",
-        "title": "約束の旅",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
       "rank": 29,
       "song": {
-        "id": "jpop-1978-29",
-        "title": "光サンセット",
+        "id": "jpop-1979-29",
+        "title": "桜の約束",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1979-54",
+        "title": "空の光",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1979-91",
+        "title": "海サンセット",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1978-05",
+        "title": "微笑がえし",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 83,
+      "rank": 21,
       "song": {
-        "id": "jpop-1978-83",
-        "title": "森の街",
+        "id": "jpop-1978-21",
+        "title": "未来の約束",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 92,
+      "rank": 44,
       "song": {
-        "id": "jpop-1978-92",
-        "title": "雪のリズム",
+        "id": "jpop-1978-44",
+        "title": "朝メロディ",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 97,
+      "rank": 47,
       "song": {
-        "id": "jpop-1978-97",
-        "title": "雪ストーリー",
+        "id": "jpop-1978-47",
+        "title": "恋の時間",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 16,
+      "rank": 85,
       "song": {
-        "id": "jpop-1977-16",
-        "title": "森の季節",
+        "id": "jpop-1978-85",
+        "title": "星の夢",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-1977-09",
+        "title": "暑中お見舞い申し上げます",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 17,
+      "rank": 30,
       "song": {
-        "id": "jpop-1977-17",
-        "title": "雪メロディ",
+        "id": "jpop-1977-30",
+        "title": "星のかけら",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 48,
+      "rank": 44,
       "song": {
-        "id": "jpop-1977-48",
-        "title": "涙の雨",
+        "id": "jpop-1977-44",
+        "title": "ミッドナイト朝",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 51,
+      "rank": 68,
       "song": {
-        "id": "jpop-1977-51",
-        "title": "虹のリズム",
+        "id": "jpop-1977-68",
+        "title": "恋の未来",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
@@ -273,23 +187,49 @@
       "rank": 72,
       "song": {
         "id": "jpop-1977-72",
-        "title": "星の恋",
+        "title": "永遠の雪",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 96,
+      "rank": 83,
       "song": {
-        "id": "jpop-1977-96",
-        "title": "影の約束",
+        "id": "jpop-1977-83",
+        "title": "涙の雪",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-1977-89",
+        "title": "約束の太陽",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1977-92",
+        "title": "花のリズム",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
@@ -299,23 +239,36 @@
       "rank": 97,
       "song": {
         "id": "jpop-1977-97",
-        "title": "青い冬",
+        "title": "世界の季節",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1977
     },
     {
-      "rank": 12,
+      "rank": 5,
       "song": {
-        "id": "jpop-1976-12",
-        "title": "雨の記憶",
+        "id": "jpop-1976-05",
+        "title": "春一番",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1976-20",
+        "title": "時間の歌",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
@@ -325,127 +278,179 @@
       "rank": 21,
       "song": {
         "id": "jpop-1976-21",
-        "title": "涙の花",
+        "title": "風のリズム",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 44,
+      "rank": 26,
       "song": {
-        "id": "jpop-1976-44",
-        "title": "世界の花",
+        "id": "jpop-1976-26",
+        "title": "記憶物語",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1976
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1976-70",
-        "title": "海の夜",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1976-76",
-        "title": "夏の道",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1976-87",
-        "title": "涙の月",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1975-27",
-        "title": "時間の花",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
     },
     {
       "rank": 59,
       "song": {
-        "id": "jpop-1975-59",
-        "title": "夢の雨",
+        "id": "jpop-1976-59",
+        "title": "冬の海",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-1976-65",
+        "title": "ミッドナイト旅",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1976-78",
+        "title": "最後の旅",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1976-79",
+        "title": "冬の歌",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1975-35",
+        "title": "ミッドナイト愛",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 86,
+      "rank": 36,
       "song": {
-        "id": "jpop-1975-86",
-        "title": "風の桜",
+        "id": "jpop-1975-36",
+        "title": "夢フォーエバー",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 92,
+      "rank": 48,
       "song": {
-        "id": "jpop-1975-92",
-        "title": "ミッドナイト希望",
+        "id": "jpop-1975-48",
+        "title": "君の空",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 96,
+      "rank": 55,
       "song": {
-        "id": "jpop-1975-96",
-        "title": "影の海",
+        "id": "jpop-1975-55",
+        "title": "虹のリズム",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1975-57",
+        "title": "ミッドナイト太陽",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-1975-61",
+        "title": "世界の記憶",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1975-74",
+        "title": "夜の夜",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1975-81",
+        "title": "ミッドナイト冬",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       },

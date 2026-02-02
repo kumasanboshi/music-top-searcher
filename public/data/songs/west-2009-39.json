@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2009-39",
-    "title": "Falling Winter",
+    "title": "Chasing Rain",
     "artist": {
-      "id": "a-amy",
-      "name": "Amy Winehouse"
+      "id": "a-nelly-furtado",
+      "name": "Nelly Furtado"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 39,
   "cdInfo": [
     {
-      "title": "Falling Winter",
+      "title": "Chasing Rain",
       "type": "single",
-      "releaseDate": "2009-12-16"
+      "releaseDate": "2009-09-27"
+    },
+    {
+      "title": "Ocean Chronicles",
+      "type": "album",
+      "releaseDate": "2009-10-28"
     }
   ],
   "externalLinks": {
@@ -23,39 +28,65 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 15,
       "song": {
-        "id": "west-2009-12",
-        "title": "Chasing Star",
+        "id": "west-2009-15",
+        "title": "River Dreams",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 31,
+      "rank": 18,
       "song": {
-        "id": "west-2009-31",
-        "title": "Lost in Rose",
+        "id": "west-2009-18",
+        "title": "Silver Rain",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 42,
+      "rank": 38,
       "song": {
-        "id": "west-2009-42",
-        "title": "Into the Shadow",
+        "id": "west-2009-38",
+        "title": "Mountain Soul",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2009-44",
+        "title": "Flame Dreams",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2009-46",
+        "title": "Broken Star",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
@@ -65,114 +96,166 @@
       "rank": 54,
       "song": {
         "id": "west-2009-54",
-        "title": "Dancing Wave",
+        "title": "Last Snow",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2009
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2009-65",
-        "title": "Storm Forever",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2009-66",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2008-17",
-        "title": "Broken Silver",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2008-48",
-        "title": "Broken Shadow",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2008-49",
-        "title": "Mountain Heart",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
     },
     {
       "rank": 67,
       "song": {
-        "id": "west-2008-67",
-        "title": "Electric Light",
+        "id": "west-2009-67",
+        "title": "River Way",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2009-72",
+        "title": "Lost in Storm",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-2008-24",
+        "title": "Last Mountain",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 13,
+      "rank": 52,
       "song": {
-        "id": "west-2007-13",
-        "title": "Lost in Bridge",
+        "id": "west-2008-52",
+        "title": "Thunder Fire",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2008-68",
+        "title": "Under the Wave",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2008-79",
+        "title": "Sweet Dawn",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2008-93",
+        "title": "Storm Fire",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-2007-15",
+        "title": "Never Road",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 42,
+      "rank": 17,
       "song": {
-        "id": "west-2007-42",
-        "title": "Wild Gold",
+        "id": "west-2007-17",
+        "title": "Wild City",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2007-22",
+        "title": "Into the City",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2007-31",
+        "title": "Golden Flame",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2007-53",
+        "title": "Into the Wave",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
@@ -182,582 +265,595 @@
       "rank": 74,
       "song": {
         "id": "west-2007-74",
-        "title": "Electric Road",
+        "title": "Fading Bridge",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 83,
+      "rank": 90,
       "song": {
-        "id": "west-2007-83",
-        "title": "Road Moonlight",
+        "id": "west-2007-90",
+        "title": "Thunder Lights",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 95,
+      "rank": 3,
       "song": {
-        "id": "west-2007-95",
-        "title": "Into the Diamond",
+        "id": "west-2006-03",
+        "title": "Promiscuous",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2006-16",
-        "title": "Flame Rain",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
       "year": 2006
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2006-18",
-        "title": "Star Lights",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2006-43",
-        "title": "River Soul",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2006-47",
-        "title": "Wild Diamond",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2006-51",
-        "title": "Never Moon",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2006-79",
-        "title": "Fading Dawn",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2006-97",
-        "title": "Ice Dreams",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2006-99",
-        "title": "Wild Gold",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2005-42",
-        "title": "Road Fire",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2005-47",
-        "title": "Wild Dusk",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2005-53",
-        "title": "Sweet Storm",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2005-61",
-        "title": "Lost in City",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2005-78",
-        "title": "Ocean Dreams",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2005-91",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2005-96",
-        "title": "Never Silver",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2004-31",
-        "title": "Flame Night",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2004-39",
-        "title": "Silver Night",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2004-41",
-        "title": "Crystal Rain",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2004-43",
-        "title": "Snow Tears",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2004-57",
-        "title": "Ice Tears",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
     },
     {
       "rank": 13,
       "song": {
-        "id": "west-2002-13",
-        "title": "Sun Moonlight",
+        "id": "west-2006-13",
+        "title": "Diamond Heart",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2002
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2002-15",
-        "title": "Winter Tears",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2002-21",
-        "title": "City Way",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
+      "year": 2006
     },
     {
       "rank": 28,
       "song": {
-        "id": "west-2002-28",
-        "title": "Flame Moonlight",
+        "id": "west-2006-28",
+        "title": "Thunder Love",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2002
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2002-48",
-        "title": "Fading Bridge",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2002-55",
-        "title": "Sweet Dusk",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2002-57",
-        "title": "Under the Dawn",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2002-66",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2002-73",
-        "title": "Summer Love",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2001-40",
-        "title": "Thunder Heart",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
+      "year": 2006
     },
     {
       "rank": 46,
       "song": {
-        "id": "west-2001-46",
-        "title": "Winter Lights",
+        "id": "west-2006-46",
+        "title": "Midnight Rose",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2006
     },
     {
-      "rank": 58,
+      "rank": 95,
       "song": {
-        "id": "west-2001-58",
-        "title": "Broken Snow",
+        "id": "west-2006-95",
+        "title": "Electric Dawn",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2006
     },
     {
-      "rank": 59,
+      "rank": 31,
       "song": {
-        "id": "west-2001-59",
-        "title": "Broken Ice",
+        "id": "west-2005-31",
+        "title": "Shining Storm",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2005
     },
     {
-      "rank": 65,
+      "rank": 49,
       "song": {
-        "id": "west-2001-65",
-        "title": "Under the Rain",
+        "id": "west-2005-49",
+        "title": "Never Summer",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2005
     },
     {
-      "rank": 68,
+      "rank": 55,
       "song": {
-        "id": "west-2001-68",
-        "title": "Running Snow",
+        "id": "west-2005-55",
+        "title": "Running Crystal",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2005
     },
     {
-      "rank": 11,
+      "rank": 69,
       "song": {
-        "id": "west-2000-11",
-        "title": "Midnight Fire",
+        "id": "west-2005-69",
+        "title": "Diamond Dreams",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2000
+      "year": 2005
     },
     {
-      "rank": 56,
+      "rank": 71,
       "song": {
-        "id": "west-2000-56",
-        "title": "Winter Moonlight",
+        "id": "west-2005-71",
+        "title": "Never Moon",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },
-      "year": 2000
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2000-63",
-        "title": "Electric Wave",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2000-64",
-        "title": "Golden Moon",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2000-65",
-        "title": "Flame Sky",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2000-76",
-        "title": "Dancing Wave",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2000
+      "year": 2005
     },
     {
       "rank": 86,
       "song": {
-        "id": "west-2000-86",
-        "title": "Rain Sky",
+        "id": "west-2005-86",
+        "title": "Midnight Gold",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2005-100",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2004-32",
+        "title": "Star Heart",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2004-75",
+        "title": "Midnight Rose",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2004-95",
+        "title": "Never Sun",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2003-25",
+        "title": "Storm Heart",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2003-28",
+        "title": "Snow Tears",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2003-37",
+        "title": "Rose Fire",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2003-40",
+        "title": "Flame Lights",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2003-44",
+        "title": "Running Storm",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2003-53",
+        "title": "Dancing Fire",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2003-57",
+        "title": "Golden City",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2003-80",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2003-89",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2002-16",
+        "title": "Running Silver",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2002-22",
+        "title": "Dancing Crystal",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2002-27",
+        "title": "Star Way",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-2002-29",
+        "title": "Rain Night",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2002-32",
+        "title": "Lost in Bridge",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2002-45",
+        "title": "Running Summer",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2002-86",
+        "title": "Shining Gold",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2001-49",
+        "title": "Lost in Crystal",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2001-56",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2001-62",
+        "title": "Light Way",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2001-67",
+        "title": "Midnight Summer",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2001-77",
+        "title": "Winter Rain",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2001-91",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-2000-38",
+        "title": "Ocean Lights",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-2000-43",
+        "title": "Sky Fire",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2000-54",
+        "title": "Electric Sun",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2000-67",
+        "title": "Under the Mountain",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2000-77",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2000-79",
+        "title": "Electric Shadow",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2000-94",
+        "title": "Midnight Wind",
+        "artist": {
+          "id": "a-nelly-furtado",
+          "name": "Nelly Furtado"
         },
         "genre": "western"
       },

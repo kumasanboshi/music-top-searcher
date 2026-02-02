@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2000-76",
-    "title": "Dancing Wave",
+    "title": "Snow Soul",
     "artist": {
-      "id": "a-amy",
-      "name": "Amy Winehouse"
+      "id": "a-maroon-5",
+      "name": "Maroon 5"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 76,
   "cdInfo": [
     {
-      "title": "Dancing Wave",
+      "title": "Snow Soul",
       "type": "single",
-      "releaseDate": "2000-06-11"
+      "releaseDate": "2000-01-16"
+    },
+    {
+      "title": "Summer Stories",
+      "type": "album",
+      "releaseDate": "2000-12-04"
     }
   ],
   "externalLinks": {
@@ -23,195 +28,299 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 10,
       "song": {
-        "id": "west-2009-12",
-        "title": "Chasing Star",
+        "id": "west-2018-10",
+        "title": "Girls Like You",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5 ft. Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2015-09",
+        "title": "Sugar",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-2012-04",
+        "title": "Payphone",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2011-10",
+        "title": "Moves Like Jagger",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2009-30",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 31,
+      "rank": 98,
       "song": {
-        "id": "west-2009-31",
-        "title": "Lost in Rose",
+        "id": "west-2009-98",
+        "title": "Moon Soul",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2008-37",
+        "title": "Golden Winter",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2008-40",
+        "title": "City Lights",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2008-44",
+        "title": "Wild City",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2008-55",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2008-61",
+        "title": "Wind Fire",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2008-62",
+        "title": "Sweet Ocean",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2008-96",
+        "title": "Wave Tears",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2007-07",
+        "title": "Makes Me Wonder",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-2007-11",
+        "title": "Under the Flame",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2007-30",
+        "title": "Gold Sky",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2007
     },
     {
       "rank": 39,
       "song": {
-        "id": "west-2009-39",
-        "title": "Falling Winter",
+        "id": "west-2007-39",
+        "title": "Chasing Wind",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2009
+      "year": 2007
     },
     {
-      "rank": 42,
+      "rank": 46,
       "song": {
-        "id": "west-2009-42",
-        "title": "Into the Shadow",
+        "id": "west-2007-46",
+        "title": "Flame Rain",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2009
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2009-54",
-        "title": "Dancing Wave",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2009-65",
-        "title": "Storm Forever",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2009-66",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2008-17",
-        "title": "Broken Silver",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
+      "year": 2007
     },
     {
       "rank": 48,
       "song": {
-        "id": "west-2008-48",
-        "title": "Broken Shadow",
+        "id": "west-2007-48",
+        "title": "Summer Love",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2008-49",
-        "title": "Mountain Heart",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2008-67",
-        "title": "Electric Light",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2007-13",
-        "title": "Lost in Bridge",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 42,
+      "rank": 54,
       "song": {
-        "id": "west-2007-42",
-        "title": "Wild Gold",
+        "id": "west-2007-54",
+        "title": "Shining Thunder",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 74,
+      "rank": 57,
       "song": {
-        "id": "west-2007-74",
-        "title": "Electric Road",
+        "id": "west-2007-57",
+        "title": "Sun Night",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 83,
+      "rank": 92,
       "song": {
-        "id": "west-2007-83",
-        "title": "Road Moonlight",
+        "id": "west-2007-92",
+        "title": "Lost in Rain",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2007-93",
+        "title": "Under the Mountain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -221,543 +330,673 @@
       "rank": 95,
       "song": {
         "id": "west-2007-95",
-        "title": "Into the Diamond",
+        "title": "Crystal Night",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 16,
+      "rank": 58,
       "song": {
-        "id": "west-2006-16",
-        "title": "Flame Rain",
+        "id": "west-2006-58",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 18,
+      "rank": 70,
       "song": {
-        "id": "west-2006-18",
-        "title": "Star Lights",
+        "id": "west-2006-70",
+        "title": "Flame Heart",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 43,
+      "rank": 71,
       "song": {
-        "id": "west-2006-43",
-        "title": "River Soul",
+        "id": "west-2006-71",
+        "title": "Star Sky",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 47,
+      "rank": 75,
       "song": {
-        "id": "west-2006-47",
-        "title": "Wild Diamond",
+        "id": "west-2006-75",
+        "title": "Rose Tears",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2006
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2006-51",
-        "title": "Never Moon",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2006-79",
-        "title": "Fading Dawn",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2006-97",
-        "title": "Ice Dreams",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2006-99",
-        "title": "Wild Gold",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2005-42",
-        "title": "Road Fire",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2005-47",
-        "title": "Wild Dusk",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2005-53",
-        "title": "Sweet Storm",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2005-61",
-        "title": "Lost in City",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2005-78",
-        "title": "Ocean Dreams",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2005-91",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2005-96",
-        "title": "Never Silver",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2004-31",
-        "title": "Flame Night",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2004-39",
-        "title": "Silver Night",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2004-41",
-        "title": "Crystal Rain",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2004-43",
-        "title": "Snow Tears",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2004
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-2004-57",
-        "title": "Ice Tears",
+        "id": "west-2005-57",
+        "title": "Wave Rain",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2005-60",
+        "title": "Under the City",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2005-72",
+        "title": "Fire Sky",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2005-76",
+        "title": "Electric Dusk",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2005-77",
+        "title": "Falling Sun",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-2005-83",
+        "title": "Falling Rose",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2005-87",
+        "title": "Storm Moonlight",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2005-99",
+        "title": "Last Summer",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2004-03",
+        "title": "This Love",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 13,
+      "rank": 30,
       "song": {
-        "id": "west-2002-13",
-        "title": "Sun Moonlight",
+        "id": "west-2004-30",
+        "title": "Wild Ocean",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2004
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2004-37",
+        "title": "Last Sky",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2004-50",
+        "title": "Chasing Dawn",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2004-62",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2004-64",
+        "title": "Golden Rain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2004-65",
+        "title": "Light Way",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2004-72",
+        "title": "Dawn Fire",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2004-76",
+        "title": "Dawn Moonlight",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2004-81",
+        "title": "Electric Mountain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2003-32",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2003-33",
+        "title": "Falling Wave",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2003-73",
+        "title": "Sweet Shadow",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2003-81",
+        "title": "Chasing Dusk",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
     },
     {
       "rank": 15,
       "song": {
         "id": "west-2002-15",
-        "title": "Winter Tears",
+        "title": "Road Fire",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 21,
+      "rank": 35,
       "song": {
-        "id": "west-2002-21",
-        "title": "City Way",
+        "id": "west-2002-35",
+        "title": "Chasing River",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 28,
+      "rank": 44,
       "song": {
-        "id": "west-2002-28",
-        "title": "Flame Moonlight",
+        "id": "west-2002-44",
+        "title": "Broken Dusk",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2002
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2002-61",
+        "title": "Into the Storm",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2002-65",
+        "title": "Dancing Thunder",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-2002-71",
+        "title": "Moon Dreams",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2002-79",
+        "title": "Chasing Wave",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2002-80",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2002-95",
+        "title": "Midnight Bridge",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2002-99",
+        "title": "Dawn Fire",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2001-23",
+        "title": "Rose Forever",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2001-50",
+        "title": "Never Dusk",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2001-79",
+        "title": "Shadow Love",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2001-87",
+        "title": "Never City",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2001-88",
+        "title": "Golden Storm",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2001-100",
+        "title": "Into the River",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2000-23",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
     },
     {
       "rank": 48,
       "song": {
-        "id": "west-2002-48",
-        "title": "Fading Bridge",
+        "id": "west-2000-48",
+        "title": "Lost in Winter",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2000
     },
     {
-      "rank": 55,
+      "rank": 50,
       "song": {
-        "id": "west-2002-55",
-        "title": "Sweet Dusk",
+        "id": "west-2000-50",
+        "title": "Fire Moonlight",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2000
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-2002-57",
-        "title": "Under the Dawn",
+        "id": "west-2000-57",
+        "title": "River Heart",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2000
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2000-62",
+        "title": "Wild Shadow",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
     },
     {
       "rank": 66,
       "song": {
-        "id": "west-2002-66",
-        "title": "Midnight Road",
+        "id": "west-2000-66",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2002-73",
-        "title": "Summer Love",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2001-40",
-        "title": "Thunder Heart",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2001-46",
-        "title": "Winter Lights",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2001-58",
-        "title": "Broken Snow",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2001-59",
-        "title": "Broken Ice",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2001-65",
-        "title": "Under the Rain",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2001-68",
-        "title": "Running Snow",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2000-11",
-        "title": "Midnight Fire",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 56,
+      "rank": 69,
       "song": {
-        "id": "west-2000-56",
-        "title": "Winter Moonlight",
+        "id": "west-2000-69",
+        "title": "Ice Tears",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 63,
+      "rank": 83,
       "song": {
-        "id": "west-2000-63",
-        "title": "Electric Wave",
+        "id": "west-2000-83",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 64,
+      "rank": 100,
       "song": {
-        "id": "west-2000-64",
-        "title": "Golden Moon",
+        "id": "west-2000-100",
+        "title": "Broken Dawn",
         "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2000-65",
-        "title": "Flame Sky",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2000-86",
-        "title": "Rain Sky",
-        "artist": {
-          "id": "a-amy",
-          "name": "Amy Winehouse"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1995-67",
-    "title": "ミッドナイト虹",
+    "title": "雨の夜",
     "artist": {
-      "id": "a-yellow-monkey",
-      "name": "THE YELLOW MONKEY"
+      "id": "a-hamasaki-ayumi",
+      "name": "浜崎あゆみ"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 67,
   "cdInfo": [
     {
-      "title": "ミッドナイト虹",
+      "title": "雨の夜",
       "type": "single",
-      "releaseDate": "1995-02-13"
+      "releaseDate": "1995-06-19"
+    },
+    {
+      "title": "夢の旅",
+      "type": "album",
+      "releaseDate": "1995-09-20"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,845 @@
   },
   "artistSongs": [
     {
-      "rank": 34,
+      "rank": 36,
       "song": {
-        "id": "jpop-1999-34",
-        "title": "風の光",
+        "id": "jpop-2009-36",
+        "title": "涙の桜",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2009
     },
     {
       "rank": 49,
       "song": {
-        "id": "jpop-1999-49",
-        "title": "涙の未来",
+        "id": "jpop-2009-49",
+        "title": "希望の夜",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2009
     },
     {
-      "rank": 53,
+      "rank": 82,
       "song": {
-        "id": "jpop-1999-53",
-        "title": "希望の約束",
+        "id": "jpop-2009-82",
+        "title": "虹の道",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2009
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2009-89",
+        "title": "愛ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-2008-32",
+        "title": "風のかけら",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2008-55",
+        "title": "夢の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2008-85",
+        "title": "海の歌",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2008-92",
+        "title": "記憶ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-2008-98",
+        "title": "恋の時間",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2008-100",
+        "title": "朝の街",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2007-11",
+        "title": "雨の海",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "jpop-2007-12",
+        "title": "星の雪",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2007-15",
+        "title": "未来の記憶",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-2007-17",
+        "title": "永遠の雪",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-2007-52",
+        "title": "時間のリズム",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2006-46",
+        "title": "風の時間",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2006-48",
+        "title": "永遠の愛",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-2006-79",
+        "title": "時間ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-2005-35",
+        "title": "夏の空",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-2005-47",
+        "title": "星の時間",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-2005-60",
+        "title": "希望ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-2005-64",
+        "title": "青い夜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2005-92",
+        "title": "花の季節",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-2004-28",
+        "title": "花の約束",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-2004-29",
+        "title": "森のリズム",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-2004-32",
+        "title": "涙の約束",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2004-38",
+        "title": "最後の影",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-2004-40",
+        "title": "桜の約束",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-2004-44",
+        "title": "約束メロディ",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-2004-51",
+        "title": "影の記憶",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2004-83",
+        "title": "花ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2004-87",
+        "title": "夢の希望",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2003-04",
+        "title": "No way to say",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-2003-19",
+        "title": "冬サンセット",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-2003-44",
+        "title": "空の空",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2003-46",
+        "title": "約束の冬",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-2003-68",
+        "title": "光の夜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
     },
     {
       "rank": 76,
       "song": {
-        "id": "jpop-1999-76",
-        "title": "風の道",
+        "id": "jpop-2003-76",
+        "title": "街の歌",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2003
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2003-88",
+        "title": "未来の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2003-89",
+        "title": "夢の世界",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-2003-93",
+        "title": "風の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-2002-01",
+        "title": "H",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2002-04",
+        "title": "Voyage",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-2002-64",
+        "title": "君の旅",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2002-94",
+        "title": "影の空",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
     },
     {
       "rank": 95,
       "song": {
-        "id": "jpop-1999-95",
-        "title": "夢の約束",
+        "id": "jpop-2002-95",
+        "title": "未来サンセット",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-2001-05",
+        "title": "M",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-2001-06",
+        "title": "Dearest",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-2001-30",
+        "title": "記憶フォーエバー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-2001-39",
+        "title": "風の月",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2001-46",
+        "title": "桜の季節",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2001-88",
+        "title": "夏ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-2000-06",
+        "title": "SEASONS",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-2000-31",
+        "title": "約束の桜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-2000-86",
+        "title": "夢の雨",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2000-89",
+        "title": "時間ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-2000-95",
+        "title": "ミッドナイト影",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1999-03",
+        "title": "A",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 14,
+      "rank": 6,
       "song": {
-        "id": "jpop-1998-14",
-        "title": "雪メロディ",
+        "id": "jpop-1999-06",
+        "title": "Boys & Girls",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1999-07",
+        "title": "monochrome",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "jpop-1999-12",
+        "title": "希望の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1999-16",
+        "title": "冬フォーエバー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1999-20",
+        "title": "青い月",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1999-84",
+        "title": "雪の光",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1998-13",
+        "title": "風の影",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -104,75 +876,88 @@
       "rank": 23,
       "song": {
         "id": "jpop-1998-23",
-        "title": "最後の恋",
+        "title": "雨サンセット",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 37,
+      "rank": 35,
       "song": {
-        "id": "jpop-1998-37",
-        "title": "影フォーエバー",
+        "id": "jpop-1998-35",
+        "title": "光メロディ",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 56,
+      "rank": 58,
       "song": {
-        "id": "jpop-1998-56",
-        "title": "青い影",
+        "id": "jpop-1998-58",
+        "title": "星の旅",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 94,
+      "rank": 72,
       "song": {
-        "id": "jpop-1998-94",
-        "title": "時間の歌",
+        "id": "jpop-1998-72",
+        "title": "青い冬",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 100,
+      "rank": 89,
       "song": {
-        "id": "jpop-1998-100",
-        "title": "希望の季節",
+        "id": "jpop-1998-89",
+        "title": "ミッドナイト愛",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 36,
+      "rank": 28,
       "song": {
-        "id": "jpop-1997-36",
-        "title": "雨の約束",
+        "id": "jpop-1997-28",
+        "title": "愛のリズム",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1997-42",
+        "title": "青い記憶",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -182,426 +967,309 @@
       "rank": 47,
       "song": {
         "id": "jpop-1997-47",
-        "title": "月の街",
+        "title": "雨の季節",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 50,
+      "rank": 48,
       "song": {
-        "id": "jpop-1997-50",
-        "title": "君の夜",
+        "id": "jpop-1997-48",
+        "title": "最後の風",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 69,
+      "rank": 66,
       "song": {
-        "id": "jpop-1997-69",
-        "title": "青い桜",
+        "id": "jpop-1997-66",
+        "title": "世界メロディ",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1997-73",
-        "title": "海の花",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1997-80",
-        "title": "風の桜",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1996-21",
-        "title": "風サンセット",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1996-37",
-        "title": "恋の歌",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "jpop-1996-59",
-        "title": "夢の雨",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1996-76",
-        "title": "波の記憶",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
     },
     {
       "rank": 77,
       "song": {
-        "id": "jpop-1996-77",
-        "title": "未来ストーリー",
+        "id": "jpop-1997-77",
+        "title": "花の空",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1997-90",
+        "title": "星の季節",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1997-94",
+        "title": "青い風",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-1996-24",
+        "title": "桜ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1996
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-1996-29",
+        "title": "愛メロディ",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1996-71",
+        "title": "雪の季節",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1995-31",
+        "title": "旅の夜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1995-38",
+        "title": "夢の波",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1995-75",
+        "title": "未来物語",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1995-81",
+        "title": "波の道",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
     },
     {
       "rank": 82,
       "song": {
-        "id": "jpop-1996-82",
-        "title": "最後の星",
+        "id": "jpop-1995-82",
+        "title": "夢の花",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1996-87",
-        "title": "光ストーリー",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1996-100",
-        "title": "夏の光",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1995-14",
-        "title": "ミッドナイト希望",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 17,
+      "rank": 12,
       "song": {
-        "id": "jpop-1995-17",
-        "title": "最後の約束",
+        "id": "jpop-1994-12",
+        "title": "街の光",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1995
+      "year": 1994
     },
     {
-      "rank": 25,
+      "rank": 16,
       "song": {
-        "id": "jpop-1995-25",
-        "title": "ミッドナイト雨",
+        "id": "jpop-1994-16",
+        "title": "世界の街",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1995
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-1995-30",
-        "title": "ミッドナイト桜",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1995-45",
-        "title": "雪の花",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1995-61",
-        "title": "約束物語",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1995-70",
-        "title": "夜の歌",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1995-85",
-        "title": "君の花",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
+      "year": 1994
     },
     {
       "rank": 22,
       "song": {
         "id": "jpop-1994-22",
-        "title": "最後の森",
+        "title": "星の星",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 24,
+      "rank": 16,
       "song": {
-        "id": "jpop-1994-24",
-        "title": "海フォーエバー",
+        "id": "jpop-1993-16",
+        "title": "夢の夢",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1994-36",
-        "title": "夏の記憶",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1994-43",
-        "title": "風の森",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1994-52",
-        "title": "星の冬",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1994-58",
-        "title": "星の太陽",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1994-60",
-        "title": "影サンセット",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1994-65",
-        "title": "夢の光",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1994-89",
-        "title": "恋の雨",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1993-68",
-        "title": "星の波",
-        "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 72,
+      "rank": 27,
       "song": {
-        "id": "jpop-1993-72",
-        "title": "記憶の街",
+        "id": "jpop-1993-27",
+        "title": "時間の約束",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 79,
+      "rank": 45,
       "song": {
-        "id": "jpop-1993-79",
-        "title": "風の希望",
+        "id": "jpop-1993-45",
+        "title": "ミッドナイト雨",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-1993-46",
+        "title": "夏のリズム",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1993-69",
+        "title": "太陽の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1993-70",
+        "title": "森物語",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1993-82",
+        "title": "永遠の森",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -611,88 +1279,140 @@
       "rank": 12,
       "song": {
         "id": "jpop-1992-12",
-        "title": "真夜中の夜",
+        "title": "未来フォーエバー",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 39,
+      "rank": 42,
       "song": {
-        "id": "jpop-1992-39",
-        "title": "影物語",
+        "id": "jpop-1992-42",
+        "title": "星の歌",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 87,
+      "rank": 61,
       "song": {
-        "id": "jpop-1992-87",
-        "title": "永遠の約束",
+        "id": "jpop-1992-61",
+        "title": "希望の花",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 94,
+      "rank": 63,
       "song": {
-        "id": "jpop-1992-94",
-        "title": "星のかけら",
+        "id": "jpop-1992-63",
+        "title": "未来のリズム",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 95,
+      "rank": 69,
       "song": {
-        "id": "jpop-1992-95",
-        "title": "花のかけら",
+        "id": "jpop-1992-69",
+        "title": "虹のリズム",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 84,
+      "rank": 74,
       "song": {
-        "id": "jpop-1991-84",
-        "title": "森ストーリー",
+        "id": "jpop-1992-74",
+        "title": "星メロディ",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1992-78",
+        "title": "ミッドナイト恋",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1991-56",
+        "title": "朝メロディ",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 14,
+      "rank": 61,
       "song": {
-        "id": "jpop-1990-14",
-        "title": "虹物語",
+        "id": "jpop-1991-61",
+        "title": "青い未来",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "jpop-1990-18",
+        "title": "波のかけら",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1990-26",
+        "title": "太陽のかけら",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -702,62 +1422,62 @@
       "rank": 33,
       "song": {
         "id": "jpop-1990-33",
-        "title": "ミッドナイト時間",
+        "title": "影の季節",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 34,
+      "rank": 38,
       "song": {
-        "id": "jpop-1990-34",
-        "title": "花の道",
+        "id": "jpop-1990-38",
+        "title": "空の街",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 83,
+      "rank": 41,
       "song": {
-        "id": "jpop-1990-83",
-        "title": "風の希望",
+        "id": "jpop-1990-41",
+        "title": "雨物語",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 86,
+      "rank": 58,
       "song": {
-        "id": "jpop-1990-86",
-        "title": "真夜中の世界",
+        "id": "jpop-1990-58",
+        "title": "涙の旅",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 93,
+      "rank": 90,
       "song": {
-        "id": "jpop-1990-93",
-        "title": "旅の空",
+        "id": "jpop-1990-90",
+        "title": "約束メロディ",
         "artist": {
-          "id": "a-yellow-monkey",
-          "name": "THE YELLOW MONKEY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },

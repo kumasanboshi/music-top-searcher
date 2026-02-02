@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2005-98",
-    "title": "Crystal Way",
+    "title": "Sun Moonlight",
     "artist": {
-      "id": "a-avril",
-      "name": "Avril Lavigne"
+      "id": "a-rihanna",
+      "name": "Rihanna"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 98,
   "cdInfo": [
     {
-      "title": "Crystal Way",
+      "title": "Sun Moonlight",
       "type": "single",
-      "releaseDate": "2005-10-13"
+      "releaseDate": "2005-01-26"
+    },
+    {
+      "title": "Bridge Chronicles",
+      "type": "album",
+      "releaseDate": "2005-04-28"
     }
   ],
   "externalLinks": {
@@ -23,169 +28,104 @@
   },
   "artistSongs": [
     {
-      "rank": 41,
+      "rank": 4,
       "song": {
-        "id": "west-2009-41",
-        "title": "Dawn Sky",
+        "id": "west-2016-04",
+        "title": "Work",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna ft. Drake"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2012-06",
+        "title": "We Found Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2010-10",
+        "title": "Rude Boy",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2009-35",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 67,
+      "rank": 55,
       "song": {
-        "id": "west-2009-67",
-        "title": "Falling Ice",
+        "id": "west-2009-55",
+        "title": "Electric Rose",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 82,
+      "rank": 58,
       "song": {
-        "id": "west-2009-82",
-        "title": "Dancing Flame",
+        "id": "west-2009-58",
+        "title": "Midnight Wind",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 98,
+      "rank": 65,
       "song": {
-        "id": "west-2009-98",
-        "title": "Lost in Snow",
+        "id": "west-2009-65",
+        "title": "Thunder Love",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 100,
+      "rank": 9,
       "song": {
-        "id": "west-2009-100",
-        "title": "Star Rain",
+        "id": "west-2008-09",
+        "title": "Disturbia",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2008-18",
-        "title": "Golden City",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2008-26",
-        "title": "Shining Shadow",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2008-27",
-        "title": "Running Flame",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2008-31",
-        "title": "Diamond Way",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2008-60",
-        "title": "Chasing Summer",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2008-70",
-        "title": "Wind Tears",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2008-73",
-        "title": "Golden Shadow",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2008-91",
-        "title": "Lost in River",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
@@ -194,245 +134,232 @@
     {
       "rank": 14,
       "song": {
-        "id": "west-2007-14",
-        "title": "Chasing Silver",
+        "id": "west-2008-14",
+        "title": "Broken Winter",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2007
+      "year": 2008
     },
     {
-      "rank": 17,
+      "rank": 46,
       "song": {
-        "id": "west-2007-17",
-        "title": "Electric Rain",
+        "id": "west-2008-46",
+        "title": "Golden River",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2007
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2007-29",
-        "title": "Lost in Wave",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2007-36",
-        "title": "Chasing Bridge",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2007-73",
-        "title": "River Sky",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2006-13",
-        "title": "Mountain Love",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2006-34",
-        "title": "Golden Shadow",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2006-54",
-        "title": "Ice Fire",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2005-15",
-        "title": "Shining Summer",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2005-44",
-        "title": "Falling Wind",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2005-45",
-        "title": "Falling Storm",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2005-51",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2005-56",
-        "title": "Lost in Ice",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2005
+      "year": 2008
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-2005-57",
-        "title": "Electric Sun",
+        "id": "west-2008-57",
+        "title": "Fading City",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-2007-02",
+        "title": "Umbrella",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2007-28",
+        "title": "Lost in Winter",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2007-72",
+        "title": "Last Fire",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2007-96",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2006-07",
+        "title": "SOS",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2006-33",
+        "title": "Ice Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2006-45",
+        "title": "Snow Night",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2006-56",
+        "title": "Broken Thunder",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2006-66",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2006-80",
+        "title": "Falling Light",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2006-97",
+        "title": "Gold Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2005-73",
+        "title": "Lost in Crystal",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 63,
+      "rank": 80,
       "song": {
-        "id": "west-2005-63",
-        "title": "Snow Way",
+        "id": "west-2005-80",
+        "title": "Running City",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 94,
+      "rank": 19,
       "song": {
-        "id": "west-2005-94",
-        "title": "Sky Fire",
+        "id": "west-2004-19",
+        "title": "Electric Sky",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2004-34",
-        "title": "Running Sky",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 47,
+      "rank": 22,
       "song": {
-        "id": "west-2004-47",
-        "title": "Into the Flame",
+        "id": "west-2004-22",
+        "title": "Storm Night",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2004-50",
-        "title": "Summer Fire",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
@@ -442,10 +369,23 @@
       "rank": 55,
       "song": {
         "id": "west-2004-55",
-        "title": "Moon Dreams",
+        "title": "Fading Silver",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2004-73",
+        "title": "Wave Sky",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
@@ -455,179 +395,270 @@
       "rank": 89,
       "song": {
         "id": "west-2004-89",
-        "title": "Broken Summer",
+        "title": "Sweet Fire",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 14,
+      "rank": 38,
       "song": {
-        "id": "west-2003-14",
-        "title": "Snow Night",
+        "id": "west-2003-38",
+        "title": "Into the Mountain",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 18,
+      "rank": 51,
       "song": {
-        "id": "west-2003-18",
-        "title": "Into the Wave",
+        "id": "west-2003-51",
+        "title": "Sweet Wave",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2003
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2003-66",
+        "title": "Mountain Dreams",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2003-82",
+        "title": "Golden Dawn",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2003-96",
+        "title": "Rose Lights",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2002-30",
+        "title": "Ocean Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-2002-39",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2002-40",
+        "title": "City Rain",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2002
     },
     {
       "rank": 50,
       "song": {
-        "id": "west-2003-50",
-        "title": "Chasing Silver",
+        "id": "west-2002-50",
+        "title": "Chasing Snow",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2003-72",
-        "title": "Running Moon",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2003-88",
-        "title": "Summer Forever",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2002-26",
-        "title": "River Dreams",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 29,
+      "rank": 73,
       "song": {
-        "id": "west-2002-29",
-        "title": "Never Light",
+        "id": "west-2002-73",
+        "title": "Falling Ocean",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 34,
+      "rank": 100,
       "song": {
-        "id": "west-2002-34",
-        "title": "Wild City",
+        "id": "west-2002-100",
+        "title": "Lost in Fire",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
       "year": 2002
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2001-32",
+        "title": "Star Love",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2001-37",
+        "title": "Into the Storm",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2001-58",
+        "title": "Midnight Sky",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2001-84",
+        "title": "Sweet Mountain",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2000-19",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2000-49",
+        "title": "Dawn Tears",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2000-53",
+        "title": "Golden Star",
+        "artist": {
+          "id": "a-rihanna",
+          "name": "Rihanna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
     },
     {
       "rank": 68,
       "song": {
-        "id": "west-2002-68",
-        "title": "Sun Love",
+        "id": "west-2000-68",
+        "title": "Lost in Rose",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
-      "year": 2002
+      "year": 2000
     },
     {
-      "rank": 74,
+      "rank": 87,
       "song": {
-        "id": "west-2002-74",
-        "title": "Bridge Way",
+        "id": "west-2000-87",
+        "title": "Lost in Gold",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2001-29",
-        "title": "Wave Sky",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2001-63",
-        "title": "Wild Sun",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2000-54",
-        "title": "Summer Fire",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },
@@ -637,23 +668,10 @@
       "rank": 90,
       "song": {
         "id": "west-2000-90",
-        "title": "Crystal Dreams",
+        "title": "Dancing Storm",
         "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2000-94",
-        "title": "Storm Tears",
-        "artist": {
-          "id": "a-avril",
-          "name": "Avril Lavigne"
+          "id": "a-rihanna",
+          "name": "Rihanna"
         },
         "genre": "western"
       },

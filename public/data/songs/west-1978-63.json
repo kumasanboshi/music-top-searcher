@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-63",
-    "title": "Broken Ice",
+    "title": "Chasing Dusk",
     "artist": {
-      "id": "a-carpenters",
-      "name": "The Carpenters"
+      "id": "a-billy-joel",
+      "name": "Billy Joel"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 63,
   "cdInfo": [
     {
-      "title": "Broken Ice",
+      "title": "Chasing Dusk",
       "type": "single",
-      "releaseDate": "1978-10-14"
+      "releaseDate": "1978-01-20"
+    },
+    {
+      "title": "Sun Unplugged",
+      "type": "album",
+      "releaseDate": "1978-07-06"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,91 @@
   },
   "artistSongs": [
     {
-      "rank": 21,
+      "rank": 9,
       "song": {
-        "id": "west-1979-21",
-        "title": "Lost in Star",
+        "id": "west-1980-09",
+        "title": "It's Still Rock and Roll to Me",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1979-11",
+        "title": "Sun Soul",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 32,
+      "rank": 16,
       "song": {
-        "id": "west-1979-32",
-        "title": "Sweet Thunder",
+        "id": "west-1979-16",
+        "title": "Crystal Heart",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 58,
+      "rank": 28,
       "song": {
-        "id": "west-1979-58",
-        "title": "Fire Rain",
+        "id": "west-1979-28",
+        "title": "Broken Rain",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 65,
+      "rank": 30,
       "song": {
-        "id": "west-1979-65",
-        "title": "Broken Star",
+        "id": "west-1979-30",
+        "title": "Midnight Bridge",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 68,
+      "rank": 39,
       "song": {
-        "id": "west-1979-68",
-        "title": "Lost in Flame",
+        "id": "west-1979-39",
+        "title": "Wild Silver",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 82,
+      "rank": 43,
       "song": {
-        "id": "west-1979-82",
-        "title": "Dawn Tears",
+        "id": "west-1979-43",
+        "title": "Shining Dawn",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
@@ -104,244 +122,166 @@
       "rank": 87,
       "song": {
         "id": "west-1979-87",
-        "title": "Chasing Ice",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 11,
+      "rank": 31,
       "song": {
-        "id": "west-1978-11",
-        "title": "Chasing Summer",
+        "id": "west-1978-31",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 21,
+      "rank": 67,
       "song": {
-        "id": "west-1978-21",
-        "title": "Broken Fire",
+        "id": "west-1978-67",
+        "title": "Wild Ocean",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 28,
+      "rank": 91,
       "song": {
-        "id": "west-1978-28",
-        "title": "Sweet Rose",
+        "id": "west-1978-91",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 49,
+      "rank": 13,
       "song": {
-        "id": "west-1978-49",
-        "title": "Wild Moon",
+        "id": "west-1977-13",
+        "title": "Lost in Ocean",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1978-57",
-        "title": "Running Winter",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1978-60",
-        "title": "Wind Lights",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1978-88",
-        "title": "River Forever",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1978-94",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1977-25",
-        "title": "Sky Sky",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 32,
+      "rank": 50,
       "song": {
-        "id": "west-1977-32",
-        "title": "Ice Moonlight",
+        "id": "west-1977-50",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 73,
+      "rank": 63,
       "song": {
-        "id": "west-1977-73",
-        "title": "Rose Rain",
+        "id": "west-1977-63",
+        "title": "Under the Silver",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 90,
+      "rank": 77,
       "song": {
-        "id": "west-1977-90",
-        "title": "Chasing Shadow",
+        "id": "west-1977-77",
+        "title": "Ocean Tears",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 97,
+      "rank": 96,
       "song": {
-        "id": "west-1977-97",
-        "title": "Flame Tears",
+        "id": "west-1977-96",
+        "title": "Dancing Rain",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 23,
+      "rank": 26,
       "song": {
-        "id": "west-1976-23",
-        "title": "Lost in River",
+        "id": "west-1976-26",
+        "title": "Fire Dreams",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 28,
+      "rank": 47,
       "song": {
-        "id": "west-1976-28",
-        "title": "Summer Lights",
+        "id": "west-1976-47",
+        "title": "Under the Sun",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 33,
+      "rank": 56,
       "song": {
-        "id": "west-1976-33",
-        "title": "Star Night",
+        "id": "west-1976-56",
+        "title": "Winter Soul",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 45,
+      "rank": 61,
       "song": {
-        "id": "west-1976-45",
-        "title": "Never Star",
+        "id": "west-1976-61",
+        "title": "Midnight Sky",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1976-72",
-        "title": "Chasing Summer",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
@@ -351,49 +291,23 @@
       "rank": 73,
       "song": {
         "id": "west-1976-73",
-        "title": "Star Sky",
+        "title": "Flame Fire",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 17,
+      "rank": 27,
       "song": {
-        "id": "west-1975-17",
-        "title": "Light Forever",
+        "id": "west-1975-27",
+        "title": "Chasing City",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1975-26",
-        "title": "Light Love",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1975-33",
-        "title": "Snow Rain",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
@@ -403,10 +317,23 @@
       "rank": 35,
       "song": {
         "id": "west-1975-35",
-        "title": "Lost in Fire",
+        "title": "Shining City",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1975-36",
+        "title": "Moon Rain",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
@@ -416,36 +343,49 @@
       "rank": 48,
       "song": {
         "id": "west-1975-48",
-        "title": "Ocean Lights",
+        "title": "Shining Wind",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 74,
+      "rank": 55,
       "song": {
-        "id": "west-1975-74",
-        "title": "Broken Dusk",
+        "id": "west-1975-55",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 75,
+      "rank": 69,
       "song": {
-        "id": "west-1975-75",
-        "title": "Under the Dusk",
+        "id": "west-1975-69",
+        "title": "Fading Thunder",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1975-73",
+        "title": "Summer Way",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
@@ -455,23 +395,23 @@
       "rank": 83,
       "song": {
         "id": "west-1975-83",
-        "title": "Lost in Bridge",
+        "title": "Wind Tears",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 100,
+      "rank": 89,
       "song": {
-        "id": "west-1975-100",
-        "title": "Into the Star",
+        "id": "west-1975-89",
+        "title": "Lost in Rose",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },

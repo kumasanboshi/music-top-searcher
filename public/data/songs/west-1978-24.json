@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-24",
-    "title": "Ice Forever",
+    "title": "Midnight Ice",
     "artist": {
-      "id": "a-elton-john",
-      "name": "Elton John"
+      "id": "a-ewf",
+      "name": "Earth, Wind & Fire"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 24,
   "cdInfo": [
     {
-      "title": "Ice Forever",
+      "title": "Midnight Ice",
       "type": "single",
-      "releaseDate": "1978-08-18"
+      "releaseDate": "1978-12-15"
+    },
+    {
+      "title": "Thunder Chronicles",
+      "type": "album",
+      "releaseDate": "1978-02-05"
     }
   ],
   "externalLinks": {
@@ -23,91 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 26,
       "song": {
-        "id": "west-2022-06",
-        "title": "Cold Heart",
+        "id": "west-1979-26",
+        "title": "Crystal Forever",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John & Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-1997-01",
-        "title": "Candle in the Wind 1997",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1979-59",
-        "title": "Summer Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 61,
+      "rank": 76,
       "song": {
-        "id": "west-1979-61",
-        "title": "Under the Gold",
+        "id": "west-1979-76",
+        "title": "Ice Lights",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1979-62",
-        "title": "Gold Tears",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1979-64",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1979-75",
-        "title": "Dancing Light",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
@@ -117,283 +57,309 @@
       "rank": 94,
       "song": {
         "id": "west-1979-94",
-        "title": "Shining Snow",
+        "title": "Last Wave",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 66,
+      "rank": 32,
       "song": {
-        "id": "west-1978-66",
-        "title": "Falling Silver",
+        "id": "west-1978-32",
+        "title": "Fading Gold",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 67,
+      "rank": 40,
       "song": {
-        "id": "west-1978-67",
-        "title": "Dancing Diamond",
+        "id": "west-1978-40",
+        "title": "Golden Dawn",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1978
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1978-56",
+        "title": "Wave Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1978-57",
+        "title": "Flame Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1977-33",
+        "title": "Fire Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1977-90",
+        "title": "Sweet Light",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1976-28",
+        "title": "Ocean Heart",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1976-69",
+        "title": "Lost in Wind",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 78,
       "song": {
-        "id": "west-1978-78",
-        "title": "Fading Bridge",
+        "id": "west-1976-78",
+        "title": "Chasing Ice",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
-      "year": 1978
+      "year": 1976
     },
     {
-      "rank": 96,
+      "rank": 90,
       "song": {
-        "id": "west-1978-96",
-        "title": "Thunder Fire",
+        "id": "west-1976-90",
+        "title": "Thunder Soul",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
-      "year": 1978
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1977-17",
-        "title": "Shadow Heart",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1977-30",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1977-47",
-        "title": "Into the Ocean",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
+      "year": 1976
     },
     {
       "rank": 92,
       "song": {
-        "id": "west-1977-92",
-        "title": "Sweet Winter",
+        "id": "west-1976-92",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1976-19",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 29,
+      "rank": 93,
       "song": {
-        "id": "west-1976-29",
-        "title": "Shadow Soul",
+        "id": "west-1976-93",
+        "title": "Dancing Ocean",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1976-66",
-        "title": "Winter Love",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1976-70",
-        "title": "Sun Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1976-88",
-        "title": "Lost in Silver",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-1975-03",
-        "title": "Philadelphia Freedom",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1975-23",
-        "title": "Dawn Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1975-27",
-        "title": "Last Fire",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
     },
     {
       "rank": 30,
       "song": {
         "id": "west-1975-30",
-        "title": "Lost in Diamond",
+        "title": "Sweet River",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 39,
+      "rank": 41,
       "song": {
-        "id": "west-1975-39",
-        "title": "Golden Rose",
+        "id": "west-1975-41",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 67,
+      "rank": 43,
       "song": {
-        "id": "west-1975-67",
-        "title": "City Moonlight",
+        "id": "west-1975-43",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 85,
+      "rank": 50,
       "song": {
-        "id": "west-1975-85",
-        "title": "Running Diamond",
+        "id": "west-1975-50",
+        "title": "Never Light",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 93,
+      "rank": 53,
       "song": {
-        "id": "west-1975-93",
-        "title": "Midnight Ocean",
+        "id": "west-1975-53",
+        "title": "Last Moon",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1975-62",
+        "title": "Summer Moonlight",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1975-71",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1975-77",
+        "title": "Electric Moon",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1975-86",
+        "title": "Running Mountain",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1975-87",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1975-98",
+        "title": "Sweet City",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },

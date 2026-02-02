@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2022-76",
-    "title": "Chasing Shadow",
+    "title": "Broken Wave",
     "artist": {
-      "id": "a-latto",
-      "name": "Latto"
+      "id": "a-olivia",
+      "name": "Olivia Rodrigo"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 76,
   "cdInfo": [
     {
-      "title": "Chasing Shadow",
+      "title": "Broken Wave",
       "type": "single",
-      "releaseDate": "2022-05-16"
+      "releaseDate": "2022-02-13"
+    },
+    {
+      "title": "Mountain Anthology",
+      "type": "album",
+      "releaseDate": "2022-01-10"
     }
   ],
   "externalLinks": {
@@ -23,195 +28,130 @@
   },
   "artistSongs": [
     {
-      "rank": 19,
+      "rank": 20,
       "song": {
-        "id": "west-2025-19",
+        "id": "west-2025-20",
+        "title": "Midnight Diamond",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2025-26",
+        "title": "Silver Lights",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2025-27",
+        "title": "Lost in Star",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2025-35",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-2025-39",
+        "title": "Dawn Sky",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2025-45",
+        "title": "Rain Moonlight",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2025-82",
+        "title": "Fire Tears",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2025-99",
+        "title": "Shining Rain",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2023-13",
         "title": "Midnight Summer",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2025-25",
-        "title": "Rose Forever",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2025-49",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2025-50",
-        "title": "Rain Rain",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2025-52",
-        "title": "Last Crystal",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2025-56",
-        "title": "Ocean Night",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2025-85",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2025-88",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2025-97",
-        "title": "Sky Soul",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2023-49",
-        "title": "Last Bridge",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
       "year": 2023
     },
     {
-      "rank": 59,
+      "rank": 24,
       "song": {
-        "id": "west-2023-59",
-        "title": "Flame Sky",
+        "id": "west-2023-24",
+        "title": "Diamond Soul",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2023-66",
-        "title": "Never Snow",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2023-72",
-        "title": "Ocean Sky",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2023-85",
-        "title": "Gold Sky",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2023-87",
-        "title": "Falling Dawn",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
@@ -220,219 +160,284 @@
     {
       "rank": 29,
       "song": {
+        "id": "west-2023-29",
+        "title": "Gold Forever",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2023-46",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2023-67",
+        "title": "Sky Soul",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2023-78",
+        "title": "Star Tears",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2023-89",
+        "title": "Last Winter",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2022-16",
+        "title": "Crystal Rain",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 29,
+      "song": {
         "id": "west-2022-29",
-        "title": "Storm Night",
+        "title": "Under the Gold",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
       "year": 2022
     },
     {
-      "rank": 94,
+      "rank": 30,
       "song": {
-        "id": "west-2022-94",
-        "title": "Never Sky",
+        "id": "west-2022-30",
+        "title": "Ocean Moonlight",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
       "year": 2022
     },
     {
-      "rank": 100,
+      "rank": 40,
       "song": {
-        "id": "west-2022-100",
-        "title": "Sweet Shadow",
+        "id": "west-2022-40",
+        "title": "Dancing Storm",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
       "year": 2022
     },
     {
-      "rank": 22,
+      "rank": 49,
       "song": {
-        "id": "west-2021-22",
-        "title": "Wind Soul",
+        "id": "west-2022-49",
+        "title": "Shining Dawn",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2022
     },
     {
-      "rank": 27,
+      "rank": 55,
       "song": {
-        "id": "west-2021-27",
-        "title": "Sky Lights",
+        "id": "west-2022-55",
+        "title": "Fading City",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2022
     },
     {
-      "rank": 31,
+      "rank": 60,
       "song": {
-        "id": "west-2021-31",
-        "title": "Falling Summer",
+        "id": "west-2022-60",
+        "title": "Running Sun",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2022
     },
     {
-      "rank": 34,
+      "rank": 97,
       "song": {
-        "id": "west-2021-34",
-        "title": "Last Flame",
+        "id": "west-2022-97",
+        "title": "Dusk Lights",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2022
     },
     {
       "rank": 40,
       "song": {
         "id": "west-2021-40",
-        "title": "City Rain",
+        "title": "Fading River",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
       "year": 2021
     },
     {
-      "rank": 41,
+      "rank": 45,
       "song": {
-        "id": "west-2021-41",
-        "title": "Golden Thunder",
+        "id": "west-2021-45",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
       "year": 2021
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2021-48",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2021-51",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2020-11",
-        "title": "Sweet Rose",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2020-14",
-        "title": "Fading Snow",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2020-42",
-        "title": "Shining Storm",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2020-63",
-        "title": "Shining Sky",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2020
     },
     {
       "rank": 72,
       "song": {
-        "id": "west-2020-72",
-        "title": "Sweet Crystal",
+        "id": "west-2021-72",
+        "title": "Road Love",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2021-85",
+        "title": "Moon Sky",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2020-33",
+        "title": "Summer Way",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },
       "year": 2020
     },
     {
-      "rank": 99,
+      "rank": 40,
       "song": {
-        "id": "west-2020-99",
-        "title": "Last Thunder",
+        "id": "west-2020-40",
+        "title": "Broken Thunder",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2020-60",
+        "title": "Electric Light",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2020-93",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2020-95",
+        "title": "Electric Winter",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       },

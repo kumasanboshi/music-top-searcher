@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1997-20",
-    "title": "朝ストーリー",
+    "title": "影のリズム",
     "artist": {
-      "id": "a-elt",
-      "name": "Every Little Thing"
+      "id": "a-glay",
+      "name": "GLAY"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 20,
   "cdInfo": [
     {
-      "title": "朝ストーリー",
+      "title": "影のリズム",
       "type": "single",
-      "releaseDate": "1997-09-23"
+      "releaseDate": "1997-10-24"
+    },
+    {
+      "title": "ALL TIME 虹",
+      "type": "album",
+      "releaseDate": "1997-12-10"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,39 @@
   },
   "artistSongs": [
     {
-      "rank": 19,
+      "rank": 9,
       "song": {
-        "id": "jpop-1999-19",
-        "title": "冬の空",
+        "id": "jpop-2001-09",
+        "title": "GLOBAL COMMUNICATION",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-1999-10",
+        "title": "Winter, again",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 28,
+      "rank": 11,
       "song": {
-        "id": "jpop-1999-28",
-        "title": "森の記憶",
+        "id": "jpop-1999-11",
+        "title": "青い海",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1999-41",
-        "title": "朝の記憶",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1999-65",
-        "title": "青い夢",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1999-71",
-        "title": "花の道",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1999-73",
-        "title": "虹の光",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
@@ -103,37 +69,167 @@
     {
       "rank": 32,
       "song": {
-        "id": "jpop-1998-32",
-        "title": "世界の夜",
+        "id": "jpop-1999-32",
+        "title": "恋の朝",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-1999-36",
+        "title": "桜メロディ",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1999-42",
+        "title": "恋の約束",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1999-47",
+        "title": "虹のリズム",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1999-69",
+        "title": "永遠の風",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1999-78",
+        "title": "星の海",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-1999-98",
+        "title": "夏の夜",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1998-03",
+        "title": "誘惑",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 86,
+      "rank": 5,
       "song": {
-        "id": "jpop-1998-86",
-        "title": "星の記憶",
+        "id": "jpop-1998-05",
+        "title": "SOUL LOVE",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 88,
+      "rank": 30,
       "song": {
-        "id": "jpop-1998-88",
-        "title": "虹の花",
+        "id": "jpop-1998-30",
+        "title": "涙の月",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1998-34",
+        "title": "君の空",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1998-81",
+        "title": "影の季節",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1998-91",
+        "title": "太陽の夜",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
@@ -143,192 +239,322 @@
       "rank": 96,
       "song": {
         "id": "jpop-1998-96",
-        "title": "虹の空",
+        "title": "朝のかけら",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 22,
+      "rank": 4,
       "song": {
-        "id": "jpop-1997-22",
-        "title": "朝のかけら",
+        "id": "jpop-1997-04",
+        "title": "HOWEVER",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 62,
+      "rank": 26,
       "song": {
-        "id": "jpop-1997-62",
-        "title": "最後の空",
+        "id": "jpop-1997-26",
+        "title": "朝の光",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 86,
+      "rank": 39,
       "song": {
-        "id": "jpop-1997-86",
-        "title": "記憶の海",
+        "id": "jpop-1997-39",
+        "title": "冬の歌",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 11,
+      "rank": 50,
       "song": {
-        "id": "jpop-1996-11",
-        "title": "涙の旅",
+        "id": "jpop-1997-50",
+        "title": "花の街",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1997-54",
+        "title": "時間物語",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1997-57",
+        "title": "朝物語",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1997-100",
+        "title": "波フォーエバー",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1996-07",
+        "title": "BELOVED",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 30,
+      "rank": 18,
       "song": {
-        "id": "jpop-1996-30",
-        "title": "旅の夜",
+        "id": "jpop-1996-18",
+        "title": "約束の世界",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 38,
+      "rank": 19,
       "song": {
-        "id": "jpop-1996-38",
-        "title": "青い月",
+        "id": "jpop-1996-19",
+        "title": "夏の夜",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 49,
+      "rank": 31,
       "song": {
-        "id": "jpop-1996-49",
-        "title": "星の風",
+        "id": "jpop-1996-31",
+        "title": "街の道",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 53,
+      "rank": 39,
       "song": {
-        "id": "jpop-1996-53",
-        "title": "空の夜",
+        "id": "jpop-1996-39",
+        "title": "真夜中の風",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1996
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-1996-45",
+        "title": "星の季節",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1996-73",
+        "title": "君の雪",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1996-76",
+        "title": "愛の街",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1996-78",
+        "title": "桜の花",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1996-97",
+        "title": "星の時間",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1995-13",
+        "title": "恋の海",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-1995-28",
+        "title": "ミッドナイト波",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1995-58",
+        "title": "恋の記憶",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
     },
     {
       "rank": 61,
       "song": {
-        "id": "jpop-1996-61",
-        "title": "冬メロディ",
+        "id": "jpop-1995-61",
+        "title": "夜の街",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
-      "year": 1996
+      "year": 1995
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1995-74",
+        "title": "約束の空",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
     },
     {
       "rank": 85,
       "song": {
-        "id": "jpop-1996-85",
-        "title": "風のかけら",
+        "id": "jpop-1995-85",
+        "title": "風の記憶",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1996-86",
-        "title": "永遠の森",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1995-33",
-        "title": "時間のリズム",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 75,
+      "rank": 89,
       "song": {
-        "id": "jpop-1995-75",
-        "title": "風の約束",
+        "id": "jpop-1995-89",
+        "title": "永遠の星",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1995-80",
-        "title": "旅の花",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
@@ -338,192 +564,322 @@
       "rank": 19,
       "song": {
         "id": "jpop-1994-19",
-        "title": "空の街",
+        "title": "星の花",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 42,
+      "rank": 24,
       "song": {
-        "id": "jpop-1994-42",
-        "title": "桜の約束",
+        "id": "jpop-1994-24",
+        "title": "波の道",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 67,
+      "rank": 28,
       "song": {
-        "id": "jpop-1994-67",
-        "title": "約束の夜",
+        "id": "jpop-1994-28",
+        "title": "ミッドナイト森",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 96,
+      "rank": 60,
       "song": {
-        "id": "jpop-1994-96",
-        "title": "桜物語",
+        "id": "jpop-1994-60",
+        "title": "記憶フォーエバー",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 98,
+      "rank": 61,
       "song": {
-        "id": "jpop-1994-98",
-        "title": "愛のリズム",
+        "id": "jpop-1994-61",
+        "title": "夢の雨",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 16,
+      "rank": 64,
       "song": {
-        "id": "jpop-1993-16",
-        "title": "青い約束",
+        "id": "jpop-1994-64",
+        "title": "青い時間",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
-      "year": 1993
+      "year": 1994
     },
     {
-      "rank": 49,
+      "rank": 65,
       "song": {
-        "id": "jpop-1993-49",
-        "title": "未来メロディ",
+        "id": "jpop-1994-65",
+        "title": "希望のかけら",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
-      "year": 1993
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1993-52",
-        "title": "月の道",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
+      "year": 1994
     },
     {
       "rank": 73,
       "song": {
-        "id": "jpop-1993-73",
-        "title": "夜の約束",
+        "id": "jpop-1994-73",
+        "title": "海の道",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1994-88",
+        "title": "月の海",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-1994-93",
+        "title": "時間ストーリー",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1994-99",
+        "title": "光の夜",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1993-20",
+        "title": "影メロディ",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 90,
+      "rank": 23,
       "song": {
-        "id": "jpop-1993-90",
-        "title": "君の雨",
+        "id": "jpop-1993-23",
+        "title": "太陽物語",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 36,
+      "rank": 26,
       "song": {
-        "id": "jpop-1992-36",
-        "title": "涙の月",
+        "id": "jpop-1993-26",
+        "title": "雨のリズム",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-1993-48",
+        "title": "風の街",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1993-94",
+        "title": "雪の花",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1992-26",
+        "title": "影の街",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 40,
+      "rank": 37,
       "song": {
-        "id": "jpop-1992-40",
-        "title": "ミッドナイト冬",
+        "id": "jpop-1992-37",
+        "title": "風の海",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 83,
+      "rank": 55,
       "song": {
-        "id": "jpop-1992-83",
-        "title": "風の太陽",
+        "id": "jpop-1992-55",
+        "title": "君の風",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 97,
+      "rank": 67,
       "song": {
-        "id": "jpop-1992-97",
-        "title": "海ストーリー",
+        "id": "jpop-1992-67",
+        "title": "旅の空",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 34,
+      "rank": 75,
       "song": {
-        "id": "jpop-1991-34",
-        "title": "希望の街",
+        "id": "jpop-1992-75",
+        "title": "未来の夜",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-1991-19",
+        "title": "風の空",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-1991-25",
+        "title": "真夜中の桜",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-1991-28",
+        "title": "恋の光",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1991-33",
+        "title": "涙の光",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
@@ -533,140 +889,192 @@
       "rank": 51,
       "song": {
         "id": "jpop-1991-51",
-        "title": "夏の歌",
+        "title": "愛のリズム",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 66,
+      "rank": 63,
       "song": {
-        "id": "jpop-1991-66",
-        "title": "雨の夜",
+        "id": "jpop-1991-63",
+        "title": "空物語",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1991
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1991-73",
-        "title": "青い希望",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1991-86",
-        "title": "恋の影",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1990-27",
-        "title": "希望メロディ",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-1990-28",
-        "title": "最後の花",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1990-43",
-        "title": "記憶の光",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-1990-48",
-        "title": "太陽サンセット",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
     },
     {
       "rank": 67,
       "song": {
-        "id": "jpop-1990-67",
-        "title": "約束の旅",
+        "id": "jpop-1991-67",
+        "title": "冬サンセット",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1991-70",
+        "title": "森物語",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1991-72",
+        "title": "愛の約束",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1990-13",
+        "title": "雨のかけら",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 75,
+      "rank": 34,
       "song": {
-        "id": "jpop-1990-75",
-        "title": "波の歌",
+        "id": "jpop-1990-34",
+        "title": "夏の空",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 89,
+      "rank": 49,
       "song": {
-        "id": "jpop-1990-89",
-        "title": "風の夜",
+        "id": "jpop-1990-49",
+        "title": "星の約束",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1990-50",
+        "title": "空の海",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-1990-55",
+        "title": "ミッドナイト森",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1990-56",
+        "title": "旅メロディ",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-1990-66",
+        "title": "星の歌",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1990-71",
+        "title": "君の森",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1990-73",
+        "title": "夏の夜",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-1990-87",
+        "title": "桜の光",
+        "artist": {
+          "id": "a-glay",
+          "name": "GLAY"
         },
         "genre": "jpop"
       },

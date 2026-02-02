@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1999-12",
-    "title": "青い星",
+    "title": "希望の花",
     "artist": {
-      "id": "a-glay",
-      "name": "GLAY"
+      "id": "a-hamasaki-ayumi",
+      "name": "浜崎あゆみ"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 12,
   "cdInfo": [
     {
-      "title": "青い星",
+      "title": "希望の花",
       "type": "single",
-      "releaseDate": "1999-04-02"
+      "releaseDate": "1999-12-11"
+    },
+    {
+      "title": "海の旅",
+      "type": "album",
+      "releaseDate": "1999-07-17"
     }
   ],
   "externalLinks": {
@@ -23,273 +28,858 @@
   },
   "artistSongs": [
     {
-      "rank": 9,
+      "rank": 36,
       "song": {
-        "id": "jpop-2001-09",
-        "title": "GLOBAL COMMUNICATION",
+        "id": "jpop-2009-36",
+        "title": "涙の桜",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-2009-49",
+        "title": "希望の夜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2009-82",
+        "title": "虹の道",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2009-89",
+        "title": "愛ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-2008-32",
+        "title": "風のかけら",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2008-55",
+        "title": "夢の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2008-85",
+        "title": "海の歌",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2008-92",
+        "title": "記憶ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-2008-98",
+        "title": "恋の時間",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2008-100",
+        "title": "朝の街",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2007-11",
+        "title": "雨の海",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "jpop-2007-12",
+        "title": "星の雪",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2007-15",
+        "title": "未来の記憶",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-2007-17",
+        "title": "永遠の雪",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-2007-52",
+        "title": "時間のリズム",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2006-46",
+        "title": "風の時間",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2006-48",
+        "title": "永遠の愛",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-2006-79",
+        "title": "時間ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-2005-35",
+        "title": "夏の空",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-2005-47",
+        "title": "星の時間",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-2005-60",
+        "title": "希望ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-2005-64",
+        "title": "青い夜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2005-92",
+        "title": "花の季節",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-2004-28",
+        "title": "花の約束",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-2004-29",
+        "title": "森のリズム",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-2004-32",
+        "title": "涙の約束",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2004-38",
+        "title": "最後の影",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-2004-40",
+        "title": "桜の約束",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-2004-44",
+        "title": "約束メロディ",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-2004-51",
+        "title": "影の記憶",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2004-83",
+        "title": "花ストーリー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2004-87",
+        "title": "夢の希望",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2003-04",
+        "title": "No way to say",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-2003-19",
+        "title": "冬サンセット",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-2003-44",
+        "title": "空の空",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2003-46",
+        "title": "約束の冬",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-2003-68",
+        "title": "光の夜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-2003-76",
+        "title": "街の歌",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2003-88",
+        "title": "未来の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2003-89",
+        "title": "夢の世界",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-2003-93",
+        "title": "風の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-2002-01",
+        "title": "H",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2002-04",
+        "title": "Voyage",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-2002-64",
+        "title": "君の旅",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2002-94",
+        "title": "影の空",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-2002-95",
+        "title": "未来サンセット",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-2001-05",
+        "title": "M",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 2001
     },
     {
-      "rank": 10,
+      "rank": 6,
       "song": {
-        "id": "jpop-1999-10",
-        "title": "Winter, again",
+        "id": "jpop-2001-06",
+        "title": "Dearest",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2001
     },
     {
-      "rank": 11,
+      "rank": 30,
       "song": {
-        "id": "jpop-1999-11",
-        "title": "夢の未来",
+        "id": "jpop-2001-30",
+        "title": "記憶フォーエバー",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2001
     },
     {
-      "rank": 17,
+      "rank": 39,
       "song": {
-        "id": "jpop-1999-17",
-        "title": "希望の道",
+        "id": "jpop-2001-39",
+        "title": "風の月",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2001
     },
     {
-      "rank": 18,
+      "rank": 46,
       "song": {
-        "id": "jpop-1999-18",
-        "title": "君の風",
+        "id": "jpop-2001-46",
+        "title": "桜の季節",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2001
     },
     {
-      "rank": 22,
+      "rank": 88,
       "song": {
-        "id": "jpop-1999-22",
-        "title": "真夜中の夢",
+        "id": "jpop-2001-88",
+        "title": "夏ストーリー",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2001
     },
     {
-      "rank": 29,
+      "rank": 6,
       "song": {
-        "id": "jpop-1999-29",
-        "title": "永遠の桜",
+        "id": "jpop-2000-06",
+        "title": "SEASONS",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2000
     },
     {
       "rank": 31,
       "song": {
-        "id": "jpop-1999-31",
-        "title": "涙の虹",
+        "id": "jpop-2000-31",
+        "title": "約束の桜",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2000
     },
     {
-      "rank": 42,
+      "rank": 86,
       "song": {
-        "id": "jpop-1999-42",
-        "title": "恋の風",
+        "id": "jpop-2000-86",
+        "title": "夢の雨",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2000
     },
     {
-      "rank": 48,
+      "rank": 89,
       "song": {
-        "id": "jpop-1999-48",
-        "title": "夢の月",
+        "id": "jpop-2000-89",
+        "title": "時間ストーリー",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2000
     },
     {
-      "rank": 60,
+      "rank": 95,
       "song": {
-        "id": "jpop-1999-60",
-        "title": "恋の道",
+        "id": "jpop-2000-95",
+        "title": "ミッドナイト影",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1999
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1999-70",
-        "title": "涙の夏",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1999-72",
-        "title": "朝の海",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1999-81",
-        "title": "未来物語",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1999-98",
-        "title": "森物語",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
+      "year": 2000
     },
     {
       "rank": 3,
       "song": {
-        "id": "jpop-1998-03",
-        "title": "誘惑",
+        "id": "jpop-1999-03",
+        "title": "A",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-1999-06",
+        "title": "Boys & Girls",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1999-07",
+        "title": "monochrome",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1999-16",
+        "title": "冬フォーエバー",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1999-20",
+        "title": "青い月",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1999-84",
+        "title": "雪の光",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1998-13",
+        "title": "風の影",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 5,
+      "rank": 23,
       "song": {
-        "id": "jpop-1998-05",
-        "title": "SOUL LOVE",
+        "id": "jpop-1998-23",
+        "title": "雨サンセット",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 25,
+      "rank": 35,
       "song": {
-        "id": "jpop-1998-25",
-        "title": "雨の季節",
+        "id": "jpop-1998-35",
+        "title": "光メロディ",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-1998-34",
-        "title": "夜ストーリー",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-1998-44",
-        "title": "愛の道",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1998-57",
-        "title": "星の森",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -299,361 +889,244 @@
       "rank": 58,
       "song": {
         "id": "jpop-1998-58",
-        "title": "世界の記憶",
+        "title": "星の旅",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 68,
+      "rank": 72,
       "song": {
-        "id": "jpop-1998-68",
-        "title": "街の記憶",
+        "id": "jpop-1998-72",
+        "title": "青い冬",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 71,
+      "rank": 89,
       "song": {
-        "id": "jpop-1998-71",
-        "title": "時間フォーエバー",
+        "id": "jpop-1998-89",
+        "title": "ミッドナイト愛",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 74,
+      "rank": 28,
       "song": {
-        "id": "jpop-1998-74",
-        "title": "夜サンセット",
+        "id": "jpop-1997-28",
+        "title": "愛のリズム",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1998-78",
-        "title": "海フォーエバー",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 4,
-      "song": {
-        "id": "jpop-1997-04",
-        "title": "HOWEVER",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 30,
+      "rank": 42,
       "song": {
-        "id": "jpop-1997-30",
-        "title": "森メロディ",
+        "id": "jpop-1997-42",
+        "title": "青い記憶",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 37,
+      "rank": 47,
       "song": {
-        "id": "jpop-1997-37",
-        "title": "街のリズム",
+        "id": "jpop-1997-47",
+        "title": "雨の季節",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 38,
+      "rank": 48,
       "song": {
-        "id": "jpop-1997-38",
-        "title": "虹の約束",
+        "id": "jpop-1997-48",
+        "title": "最後の風",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 45,
+      "rank": 66,
       "song": {
-        "id": "jpop-1997-45",
-        "title": "冬の街",
+        "id": "jpop-1997-66",
+        "title": "世界メロディ",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 49,
+      "rank": 77,
       "song": {
-        "id": "jpop-1997-49",
-        "title": "風の未来",
+        "id": "jpop-1997-77",
+        "title": "花の空",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 67,
+      "rank": 90,
       "song": {
-        "id": "jpop-1997-67",
-        "title": "街の空",
+        "id": "jpop-1997-90",
+        "title": "星の季節",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 88,
+      "rank": 94,
       "song": {
-        "id": "jpop-1997-88",
-        "title": "真夜中の波",
+        "id": "jpop-1997-94",
+        "title": "青い風",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1997
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1997-96",
-        "title": "星の朝",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "jpop-1996-07",
-        "title": "BELOVED",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1996-13",
-        "title": "花の歌",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
     },
     {
       "rank": 24,
       "song": {
         "id": "jpop-1996-24",
-        "title": "約束の空",
+        "title": "桜ストーリー",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1996
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1996-27",
-        "title": "太陽の季節",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1996-51",
-        "title": "夢の記憶",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1996-67",
-        "title": "雨の記憶",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-1996-69",
-        "title": "旅の歌",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1996-79",
-        "title": "星の記憶",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1995-15",
-        "title": "空サンセット",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1995-21",
-        "title": "朝の海",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
     },
     {
       "rank": 29,
       "song": {
-        "id": "jpop-1995-29",
-        "title": "真夜中の空",
+        "id": "jpop-1996-29",
+        "title": "愛メロディ",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1996-71",
+        "title": "雪の季節",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1995-31",
+        "title": "旅の夜",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 32,
+      "rank": 38,
       "song": {
-        "id": "jpop-1995-32",
-        "title": "花の夜",
+        "id": "jpop-1995-38",
+        "title": "夢の波",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 53,
+      "rank": 67,
       "song": {
-        "id": "jpop-1995-53",
-        "title": "夏のかけら",
+        "id": "jpop-1995-67",
+        "title": "雨の夜",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 64,
+      "rank": 75,
       "song": {
-        "id": "jpop-1995-64",
-        "title": "旅の光",
+        "id": "jpop-1995-75",
+        "title": "未来物語",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1995-81",
+        "title": "波の道",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -663,296 +1136,296 @@
       "rank": 82,
       "song": {
         "id": "jpop-1995-82",
-        "title": "夜の約束",
+        "title": "夢の花",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 20,
+      "rank": 12,
       "song": {
-        "id": "jpop-1994-20",
-        "title": "君の波",
+        "id": "jpop-1994-12",
+        "title": "街の光",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 32,
+      "rank": 16,
       "song": {
-        "id": "jpop-1994-32",
-        "title": "星の約束",
+        "id": "jpop-1994-16",
+        "title": "世界の街",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 56,
+      "rank": 22,
       "song": {
-        "id": "jpop-1994-56",
-        "title": "永遠の雪",
+        "id": "jpop-1994-22",
+        "title": "星の星",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 63,
+      "rank": 16,
       "song": {
-        "id": "jpop-1994-63",
-        "title": "森の記憶",
+        "id": "jpop-1993-16",
+        "title": "夢の夢",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1994-81",
-        "title": "世界サンセット",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1994-94",
-        "title": "未来フォーエバー",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-1993-25",
-        "title": "旅物語",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1993
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-1993-54",
-        "title": "夢の恋",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1993-96",
-        "title": "愛の歌",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1992-35",
-        "title": "記憶サンセット",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1992-51",
-        "title": "桜フォーエバー",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1992-52",
-        "title": "青い星",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-1992-64",
-        "title": "青い約束",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1992-75",
-        "title": "夢物語",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
     },
     {
       "rank": 27,
       "song": {
-        "id": "jpop-1991-27",
-        "title": "空の道",
+        "id": "jpop-1993-27",
+        "title": "時間の約束",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1991
+      "year": 1993
     },
     {
-      "rank": 39,
+      "rank": 45,
       "song": {
-        "id": "jpop-1991-39",
-        "title": "夢の雨",
+        "id": "jpop-1993-45",
+        "title": "ミッドナイト雨",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1991
+      "year": 1993
     },
     {
-      "rank": 55,
+      "rank": 46,
       "song": {
-        "id": "jpop-1991-55",
-        "title": "夢のかけら",
+        "id": "jpop-1993-46",
+        "title": "夏のリズム",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1991
+      "year": 1993
     },
     {
-      "rank": 63,
+      "rank": 69,
       "song": {
-        "id": "jpop-1991-63",
-        "title": "夜の記憶",
+        "id": "jpop-1993-69",
+        "title": "太陽の花",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1991
+      "year": 1993
     },
     {
-      "rank": 85,
+      "rank": 70,
       "song": {
-        "id": "jpop-1991-85",
-        "title": "永遠の雨",
+        "id": "jpop-1993-70",
+        "title": "森物語",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
-      "year": 1991
+      "year": 1993
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1993-82",
+        "title": "永遠の森",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
     },
     {
       "rank": 12,
       "song": {
-        "id": "jpop-1990-12",
-        "title": "風の恋",
+        "id": "jpop-1992-12",
+        "title": "未来フォーエバー",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1992-42",
+        "title": "星の歌",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-1992-61",
+        "title": "希望の花",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1992-63",
+        "title": "未来のリズム",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1992-69",
+        "title": "虹のリズム",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1992-74",
+        "title": "星メロディ",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1992-78",
+        "title": "ミッドナイト恋",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1991-56",
+        "title": "朝メロディ",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-1991-61",
+        "title": "青い未来",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "jpop-1990-18",
+        "title": "波のかけら",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 15,
+      "rank": 26,
       "song": {
-        "id": "jpop-1990-15",
-        "title": "影の海",
+        "id": "jpop-1990-26",
+        "title": "太陽のかけら",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 17,
+      "rank": 33,
       "song": {
-        "id": "jpop-1990-17",
-        "title": "記憶ストーリー",
+        "id": "jpop-1990-33",
+        "title": "影の季節",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -962,10 +1435,10 @@
       "rank": 38,
       "song": {
         "id": "jpop-1990-38",
-        "title": "森の海",
+        "title": "空の街",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
@@ -975,75 +1448,36 @@
       "rank": 41,
       "song": {
         "id": "jpop-1990-41",
-        "title": "風の街",
+        "title": "雨物語",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 42,
+      "rank": 58,
       "song": {
-        "id": "jpop-1990-42",
-        "title": "記憶サンセット",
+        "id": "jpop-1990-58",
+        "title": "涙の旅",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 56,
+      "rank": 90,
       "song": {
-        "id": "jpop-1990-56",
-        "title": "永遠の夏",
+        "id": "jpop-1990-90",
+        "title": "約束メロディ",
         "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1990-71",
-        "title": "旅の街",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1990-85",
-        "title": "記憶のかけら",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1990-100",
-        "title": "冬の道",
-        "artist": {
-          "id": "a-glay",
-          "name": "GLAY"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       },

@@ -15,6 +15,11 @@
       "title": "Viva la Vida",
       "type": "single",
       "releaseDate": "2008-01-01"
+    },
+    {
+      "title": "Star Diaries",
+      "type": "album",
+      "releaseDate": "2008-10-22"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 50,
+      "rank": 42,
       "song": {
-        "id": "west-2009-50",
-        "title": "Last Dusk",
+        "id": "west-2009-42",
+        "title": "Shadow Dreams",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -39,7 +44,7 @@
       "rank": 57,
       "song": {
         "id": "west-2009-57",
-        "title": "Golden Sky",
+        "title": "Into the Light",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -52,7 +57,7 @@
       "rank": 60,
       "song": {
         "id": "west-2009-60",
-        "title": "Shining Star",
+        "title": "Wild Dusk",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -62,10 +67,10 @@
       "year": 2009
     },
     {
-      "rank": 63,
+      "rank": 77,
       "song": {
-        "id": "west-2009-63",
-        "title": "Sweet Moon",
+        "id": "west-2009-77",
+        "title": "Wave Forever",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -75,10 +80,10 @@
       "year": 2009
     },
     {
-      "rank": 85,
+      "rank": 79,
       "song": {
-        "id": "west-2009-85",
-        "title": "Diamond Dreams",
+        "id": "west-2009-79",
+        "title": "Broken Sky",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -88,10 +93,10 @@
       "year": 2009
     },
     {
-      "rank": 21,
+      "rank": 15,
       "song": {
-        "id": "west-2008-21",
-        "title": "Electric Gold",
+        "id": "west-2008-15",
+        "title": "City Moonlight",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -101,10 +106,10 @@
       "year": 2008
     },
     {
-      "rank": 36,
+      "rank": 26,
       "song": {
-        "id": "west-2008-36",
-        "title": "Broken Light",
+        "id": "west-2008-26",
+        "title": "Midnight Bridge",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -114,10 +119,10 @@
       "year": 2008
     },
     {
-      "rank": 50,
+      "rank": 43,
       "song": {
-        "id": "west-2008-50",
-        "title": "Chasing Road",
+        "id": "west-2008-43",
+        "title": "Electric Bridge",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -127,10 +132,10 @@
       "year": 2008
     },
     {
-      "rank": 56,
+      "rank": 76,
       "song": {
-        "id": "west-2008-56",
-        "title": "Chasing Gold",
+        "id": "west-2008-76",
+        "title": "Lost in Flame",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -140,10 +145,49 @@
       "year": 2008
     },
     {
-      "rank": 24,
+      "rank": 78,
       "song": {
-        "id": "west-2007-24",
-        "title": "Sweet Winter",
+        "id": "west-2008-78",
+        "title": "Last Rain",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2008-82",
+        "title": "Diamond Love",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2008-92",
+        "title": "Last Diamond",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2007-18",
+        "title": "Crystal Dreams",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -153,10 +197,10 @@
       "year": 2007
     },
     {
-      "rank": 50,
+      "rank": 27,
       "song": {
-        "id": "west-2007-50",
-        "title": "Fire Way",
+        "id": "west-2007-27",
+        "title": "Dawn Tears",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -166,10 +210,10 @@
       "year": 2007
     },
     {
-      "rank": 81,
+      "rank": 44,
       "song": {
-        "id": "west-2007-81",
-        "title": "Lost in Moon",
+        "id": "west-2007-44",
+        "title": "Last Road",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -179,49 +223,23 @@
       "year": 2007
     },
     {
-      "rank": 17,
+      "rank": 98,
       "song": {
-        "id": "west-2006-17",
-        "title": "Snow Heart",
+        "id": "west-2007-98",
+        "title": "Electric Flame",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
         },
         "genre": "western"
       },
-      "year": 2006
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2006-28",
-        "title": "Bridge Forever",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2006-29",
-        "title": "Road Moonlight",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2006
+      "year": 2007
     },
     {
       "rank": 30,
       "song": {
         "id": "west-2006-30",
-        "title": "Chasing Moon",
+        "title": "Moon Lights",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -231,10 +249,10 @@
       "year": 2006
     },
     {
-      "rank": 31,
+      "rank": 52,
       "song": {
-        "id": "west-2006-31",
-        "title": "Winter Sky",
+        "id": "west-2006-52",
+        "title": "Dawn Forever",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -244,10 +262,10 @@
       "year": 2006
     },
     {
-      "rank": 48,
+      "rank": 53,
       "song": {
-        "id": "west-2006-48",
-        "title": "Mountain Night",
+        "id": "west-2006-53",
+        "title": "Fading City",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -257,10 +275,10 @@
       "year": 2006
     },
     {
-      "rank": 60,
+      "rank": 54,
       "song": {
-        "id": "west-2006-60",
-        "title": "Fading Light",
+        "id": "west-2006-54",
+        "title": "River Heart",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -270,10 +288,10 @@
       "year": 2006
     },
     {
-      "rank": 67,
+      "rank": 62,
       "song": {
-        "id": "west-2006-67",
-        "title": "Lost in Mountain",
+        "id": "west-2006-62",
+        "title": "Chasing Sun",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -283,10 +301,10 @@
       "year": 2006
     },
     {
-      "rank": 94,
+      "rank": 64,
       "song": {
-        "id": "west-2006-94",
-        "title": "Never River",
+        "id": "west-2006-64",
+        "title": "Into the Bridge",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -296,10 +314,49 @@
       "year": 2006
     },
     {
-      "rank": 13,
+      "rank": 76,
       "song": {
-        "id": "west-2005-13",
-        "title": "Never Diamond",
+        "id": "west-2006-76",
+        "title": "Shining Gold",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2006-78",
+        "title": "Falling Sun",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2006-90",
+        "title": "Midnight Silver",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-2005-24",
+        "title": "Mountain Soul",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -309,10 +366,10 @@
       "year": 2005
     },
     {
-      "rank": 25,
+      "rank": 29,
       "song": {
-        "id": "west-2005-25",
-        "title": "Dancing Rain",
+        "id": "west-2005-29",
+        "title": "Electric Flame",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -322,10 +379,10 @@
       "year": 2005
     },
     {
-      "rank": 38,
+      "rank": 50,
       "song": {
-        "id": "west-2005-38",
-        "title": "Golden Sky",
+        "id": "west-2005-50",
+        "title": "Light Moonlight",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -335,10 +392,49 @@
       "year": 2005
     },
     {
-      "rank": 59,
+      "rank": 62,
       "song": {
-        "id": "west-2005-59",
-        "title": "Last Rain",
+        "id": "west-2005-62",
+        "title": "Golden Dawn",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2005-81",
+        "title": "Running Summer",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2005-89",
+        "title": "Electric Bridge",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2005-90",
+        "title": "Storm Rain",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -351,7 +447,7 @@
       "rank": 11,
       "song": {
         "id": "west-2004-11",
-        "title": "Lost in Light",
+        "title": "City Rain",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -361,10 +457,10 @@
       "year": 2004
     },
     {
-      "rank": 14,
+      "rank": 15,
       "song": {
-        "id": "west-2004-14",
-        "title": "Dawn Rain",
+        "id": "west-2004-15",
+        "title": "Electric Flame",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -374,10 +470,10 @@
       "year": 2004
     },
     {
-      "rank": 19,
+      "rank": 49,
       "song": {
-        "id": "west-2004-19",
-        "title": "Snow Forever",
+        "id": "west-2004-49",
+        "title": "Moon Lights",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -387,10 +483,23 @@
       "year": 2004
     },
     {
-      "rank": 20,
+      "rank": 66,
       "song": {
-        "id": "west-2004-20",
-        "title": "Chasing City",
+        "id": "west-2004-66",
+        "title": "City Forever",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2004-93",
+        "title": "Golden Wind",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -402,86 +511,8 @@
     {
       "rank": 29,
       "song": {
-        "id": "west-2004-29",
-        "title": "Shining Snow",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2004-67",
-        "title": "Falling Rose",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2004-69",
-        "title": "Sweet Thunder",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2004-77",
-        "title": "Sweet Sun",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2004-79",
-        "title": "River Way",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2004-81",
-        "title": "Wind Night",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2003-28",
-        "title": "Dancing Ocean",
+        "id": "west-2003-29",
+        "title": "Never Light",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -491,10 +522,10 @@
       "year": 2003
     },
     {
-      "rank": 47,
+      "rank": 41,
       "song": {
-        "id": "west-2003-47",
-        "title": "Dancing Mountain",
+        "id": "west-2003-41",
+        "title": "Fire Sky",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -504,10 +535,10 @@
       "year": 2003
     },
     {
-      "rank": 52,
+      "rank": 76,
       "song": {
-        "id": "west-2003-52",
-        "title": "Falling Silver",
+        "id": "west-2003-76",
+        "title": "Into the Dusk",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -517,62 +548,10 @@
       "year": 2003
     },
     {
-      "rank": 66,
+      "rank": 23,
       "song": {
-        "id": "west-2003-66",
-        "title": "Under the Sun",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2003-71",
-        "title": "Silver Way",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2003-96",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2003-97",
-        "title": "Midnight Snow",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2002-18",
-        "title": "Broken Rain",
+        "id": "west-2002-23",
+        "title": "River Lights",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -582,10 +561,10 @@
       "year": 2002
     },
     {
-      "rank": 24,
+      "rank": 56,
       "song": {
-        "id": "west-2002-24",
-        "title": "Star Forever",
+        "id": "west-2002-56",
+        "title": "Lost in Mountain",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -595,10 +574,10 @@
       "year": 2002
     },
     {
-      "rank": 35,
+      "rank": 59,
       "song": {
-        "id": "west-2002-35",
-        "title": "Fading Storm",
+        "id": "west-2002-59",
+        "title": "Shadow Fire",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -608,10 +587,23 @@
       "year": 2002
     },
     {
-      "rank": 44,
+      "rank": 64,
       "song": {
-        "id": "west-2002-44",
-        "title": "Last Rose",
+        "id": "west-2002-64",
+        "title": "Dancing Ice",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2002-68",
+        "title": "Never Thunder",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -624,7 +616,46 @@
       "rank": 75,
       "song": {
         "id": "west-2002-75",
-        "title": "Bridge Tears",
+        "title": "Dancing Sky",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2002-76",
+        "title": "Lost in Flame",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2002-77",
+        "title": "Shining Wind",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2002-89",
+        "title": "Road Dreams",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -637,7 +668,7 @@
       "rank": 94,
       "song": {
         "id": "west-2002-94",
-        "title": "Summer Sky",
+        "title": "Star Sky",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -647,10 +678,23 @@
       "year": 2002
     },
     {
-      "rank": 19,
+      "rank": 98,
       "song": {
-        "id": "west-2001-19",
-        "title": "Flame Soul",
+        "id": "west-2002-98",
+        "title": "Sky Soul",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-2001-15",
+        "title": "Fading Storm",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -660,10 +704,10 @@
       "year": 2001
     },
     {
-      "rank": 28,
+      "rank": 57,
       "song": {
-        "id": "west-2001-28",
-        "title": "Wave Lights",
+        "id": "west-2001-57",
+        "title": "Dancing Moon",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -673,10 +717,10 @@
       "year": 2001
     },
     {
-      "rank": 44,
+      "rank": 75,
       "song": {
-        "id": "west-2001-44",
-        "title": "Never Moon",
+        "id": "west-2001-75",
+        "title": "Falling River",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -686,10 +730,10 @@
       "year": 2001
     },
     {
-      "rank": 88,
+      "rank": 86,
       "song": {
-        "id": "west-2001-88",
-        "title": "Fading Mountain",
+        "id": "west-2001-86",
+        "title": "Sweet Storm",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -699,10 +743,23 @@
       "year": 2001
     },
     {
-      "rank": 13,
+      "rank": 94,
       "song": {
-        "id": "west-2000-13",
-        "title": "Summer Lights",
+        "id": "west-2001-94",
+        "title": "Electric Bridge",
+        "artist": {
+          "id": "a-coldplay",
+          "name": "Coldplay"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2000-21",
+        "title": "Ice Forever",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -712,10 +769,10 @@
       "year": 2000
     },
     {
-      "rank": 32,
+      "rank": 36,
       "song": {
-        "id": "west-2000-32",
-        "title": "Broken Ocean",
+        "id": "west-2000-36",
+        "title": "Never Ice",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"
@@ -725,23 +782,10 @@
       "year": 2000
     },
     {
-      "rank": 62,
+      "rank": 80,
       "song": {
-        "id": "west-2000-62",
-        "title": "City Soul",
-        "artist": {
-          "id": "a-coldplay",
-          "name": "Coldplay"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2000-70",
-        "title": "Never Road",
+        "id": "west-2000-80",
+        "title": "Dancing Diamond",
         "artist": {
           "id": "a-coldplay",
           "name": "Coldplay"

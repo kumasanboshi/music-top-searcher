@@ -62,7 +62,8 @@ function SongDetailPage() {
           <h2 className={styles.sectionTitle}>CD情報</h2>
           {cdInfo.map((cd, i) => (
             <div key={i} className={styles.cdItem}>
-              <span>{cd.title}</span> / <span>{cd.type}</span>
+              <span>{cd.title}</span> /{' '}
+              <span>{cd.type === 'album' ? 'アルバム' : 'シングル'}</span>
               {cd.releaseDate && <span> ({cd.releaseDate})</span>}
             </div>
           ))}

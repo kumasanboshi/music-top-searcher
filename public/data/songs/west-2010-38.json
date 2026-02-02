@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2010-38",
-    "title": "Sweet Mountain",
+    "title": "Last Rain",
     "artist": {
-      "id": "a-weeknd",
-      "name": "The Weeknd"
+      "id": "a-bruno-mars",
+      "name": "Bruno Mars"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 38,
   "cdInfo": [
     {
-      "title": "Sweet Mountain",
+      "title": "Last Rain",
       "type": "single",
-      "releaseDate": "2010-05-16"
+      "releaseDate": "2010-10-10"
+    },
+    {
+      "title": "Dusk Unplugged",
+      "type": "album",
+      "releaseDate": "2010-07-02"
     }
   ],
   "externalLinks": {
@@ -23,377 +28,65 @@
   },
   "artistSongs": [
     {
-      "rank": 28,
+      "rank": 53,
       "song": {
-        "id": "west-2025-28",
-        "title": "Star Soul",
+        "id": "west-2019-53",
+        "title": "Thunder Heart",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2025
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2025-33",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2025-72",
-        "title": "Electric Flame",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2025-81",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2023-37",
-        "title": "Crystal Heart",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2023-39",
-        "title": "City Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2023-60",
-        "title": "Wind Moonlight",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2023-64",
-        "title": "Electric Crystal",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2023-80",
-        "title": "Midnight Rose",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2023-89",
-        "title": "Ice Love",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2022-31",
-        "title": "Gold Dreams",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2022-57",
-        "title": "Silver Tears",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2021-12",
-        "title": "Flame Way",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2021-14",
-        "title": "Silver Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2021-30",
-        "title": "Midnight Summer",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2020-16",
-        "title": "Wild Silver",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2020-39",
-        "title": "Gold Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2020-40",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2020-51",
-        "title": "Running Star",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
+      "year": 2019
     },
     {
       "rank": 66,
       "song": {
-        "id": "west-2020-66",
-        "title": "Wild Moon",
+        "id": "west-2019-66",
+        "title": "Electric Sky",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2020-83",
-        "title": "Electric Bridge",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2020-87",
-        "title": "Fire Forever",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2020-96",
-        "title": "Falling Shadow",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2019-57",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 61,
+      "rank": 73,
       "song": {
-        "id": "west-2019-61",
-        "title": "Broken Bridge",
+        "id": "west-2019-73",
+        "title": "Wind Tears",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 64,
+      "rank": 11,
       "song": {
-        "id": "west-2019-64",
-        "title": "Dawn Fire",
+        "id": "west-2018-11",
+        "title": "Fading Thunder",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2019-82",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2018-33",
-        "title": "Rose Sky",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 35,
+      "rank": 36,
       "song": {
-        "id": "west-2018-35",
-        "title": "Last Wave",
+        "id": "west-2018-36",
+        "title": "Midnight City",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
@@ -403,75 +96,88 @@
       "rank": 43,
       "song": {
         "id": "west-2018-43",
-        "title": "Sweet Shadow",
+        "title": "Dancing Wind",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 68,
+      "rank": 54,
       "song": {
-        "id": "west-2018-68",
-        "title": "Electric Star",
+        "id": "west-2018-54",
+        "title": "Fire Way",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 80,
+      "rank": 60,
       "song": {
-        "id": "west-2018-80",
-        "title": "River Rain",
+        "id": "west-2018-60",
+        "title": "Never Diamond",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 93,
+      "rank": 3,
       "song": {
-        "id": "west-2018-93",
-        "title": "Midnight River",
+        "id": "west-2017-03",
+        "title": "That's What I Like",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2017-11",
-        "title": "Light Night",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 31,
+      "rank": 49,
       "song": {
-        "id": "west-2017-31",
-        "title": "Road Tears",
+        "id": "west-2017-49",
+        "title": "Wild Crystal",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2017-50",
+        "title": "Ice Lights",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2017-63",
+        "title": "Diamond Heart",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
@@ -481,231 +187,231 @@
       "rank": 67,
       "song": {
         "id": "west-2017-67",
-        "title": "Ocean Dreams",
+        "title": "Falling Dusk",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2017
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2017-76",
+        "title": "Falling Sky",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2017-92",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-2016-15",
+        "title": "Star Tears",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2016-45",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2016-46",
+        "title": "Wave Sky",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2016-49",
+        "title": "Under the Rain",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2016-56",
+        "title": "Sweet Rain",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2016
     },
     {
       "rank": 73,
       "song": {
-        "id": "west-2017-73",
-        "title": "Last Wave",
+        "id": "west-2016-73",
+        "title": "Golden Bridge",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2016
     },
     {
-      "rank": 87,
+      "rank": 94,
       "song": {
-        "id": "west-2017-87",
-        "title": "Lost in Dusk",
+        "id": "west-2016-94",
+        "title": "Under the Dawn",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2016
     },
     {
-      "rank": 88,
+      "rank": 14,
       "song": {
-        "id": "west-2017-88",
-        "title": "Sweet Ocean",
+        "id": "west-2015-14",
+        "title": "Road Way",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2015
     },
     {
       "rank": 17,
       "song": {
-        "id": "west-2016-17",
-        "title": "Running Flame",
+        "id": "west-2015-17",
+        "title": "Sky Forever",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2015
     },
     {
-      "rank": 21,
+      "rank": 24,
       "song": {
-        "id": "west-2016-21",
-        "title": "Silver Lights",
+        "id": "west-2015-24",
+        "title": "Falling Diamond",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2015
     },
     {
-      "rank": 29,
+      "rank": 34,
       "song": {
-        "id": "west-2016-29",
-        "title": "Golden Rain",
+        "id": "west-2015-34",
+        "title": "Snow Moonlight",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2015
     },
     {
-      "rank": 31,
+      "rank": 39,
       "song": {
-        "id": "west-2016-31",
-        "title": "Running Summer",
+        "id": "west-2015-39",
+        "title": "Chasing City",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2015
     },
     {
-      "rank": 37,
+      "rank": 45,
       "song": {
-        "id": "west-2016-37",
-        "title": "Wild Wave",
+        "id": "west-2015-45",
+        "title": "Electric Rose",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2015
     },
     {
-      "rank": 41,
+      "rank": 47,
       "song": {
-        "id": "west-2016-41",
-        "title": "Sun Way",
+        "id": "west-2015-47",
+        "title": "Under the City",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2016
+      "year": 2015
     },
     {
       "rank": 88,
       "song": {
-        "id": "west-2016-88",
-        "title": "Snow Fire",
+        "id": "west-2015-88",
+        "title": "Last Shadow",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2016-90",
-        "title": "Into the Diamond",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2016-99",
-        "title": "Snow Forever",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2015-27",
-        "title": "Never Road",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2015-55",
-        "title": "Lost in Gold",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2015-69",
-        "title": "Dancing Shadow",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2015-78",
-        "title": "Thunder Forever",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2015-96",
-        "title": "Into the River",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
@@ -715,504 +421,439 @@
       "rank": 97,
       "song": {
         "id": "west-2015-97",
-        "title": "Last Wave",
+        "title": "Sun Tears",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 19,
+      "rank": 52,
       "song": {
-        "id": "west-2014-19",
-        "title": "Into the Ice",
+        "id": "west-2014-52",
+        "title": "Winter Love",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 22,
+      "rank": 54,
       "song": {
-        "id": "west-2014-22",
-        "title": "Never Bridge",
+        "id": "west-2014-54",
+        "title": "Running Silver",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2014
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2014-26",
-        "title": "Never Thunder",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2014-40",
-        "title": "Golden Wave",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2014-51",
-        "title": "Chasing Road",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2014-53",
-        "title": "Sun Moonlight",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2014-67",
-        "title": "Under the City",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2014-81",
-        "title": "Under the Dawn",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2013-14",
-        "title": "City Forever",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2013-18",
-        "title": "Wild Moon",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2013-21",
-        "title": "Shining Flame",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2013-26",
-        "title": "Never Diamond",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2013-42",
-        "title": "Into the Ice",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2013-56",
-        "title": "Running Star",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2013-60",
-        "title": "Electric Gold",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2013-81",
-        "title": "Fire Tears",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2013
     },
     {
       "rank": 92,
       "song": {
-        "id": "west-2013-92",
-        "title": "Running Rose",
+        "id": "west-2014-92",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2013-07",
+        "title": "Locked Out of Heaven",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 12,
+      "rank": 9,
       "song": {
-        "id": "west-2012-12",
-        "title": "Never Bridge",
+        "id": "west-2013-09",
+        "title": "When I Was Your Man",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2012
+      "year": 2013
     },
     {
-      "rank": 22,
+      "rank": 15,
       "song": {
-        "id": "west-2012-22",
-        "title": "Shadow Night",
+        "id": "west-2013-15",
+        "title": "Running Mountain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2012
+      "year": 2013
     },
     {
-      "rank": 39,
+      "rank": 17,
       "song": {
-        "id": "west-2012-39",
-        "title": "Sweet Sun",
+        "id": "west-2013-17",
+        "title": "Dawn Rain",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2012
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2012-49",
-        "title": "Dancing Thunder",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2012-55",
-        "title": "Storm Dreams",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2012-63",
-        "title": "Rain Moonlight",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2012-99",
-        "title": "Snow Rain",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2011-19",
-        "title": "Crystal Lights",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
+      "year": 2013
     },
     {
       "rank": 33,
       "song": {
-        "id": "west-2011-33",
-        "title": "Last Rain",
+        "id": "west-2013-33",
+        "title": "Shining Moon",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2011
+      "year": 2013
     },
     {
-      "rank": 53,
+      "rank": 45,
       "song": {
-        "id": "west-2011-53",
-        "title": "Moon Soul",
+        "id": "west-2013-45",
+        "title": "Lost in City",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
-      "year": 2011
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2011-55",
-        "title": "Sky Lights",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2011-67",
-        "title": "Midnight Winter",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2011-79",
-        "title": "Running Rose",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2011-91",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2011-92",
-        "title": "Last Summer",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2011-100",
-        "title": "Running Mountain",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2010-12",
-        "title": "Sky Heart",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2010-20",
-        "title": "Wind Forever",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2010-46",
-        "title": "Running Moon",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      },
-      "year": 2010
+      "year": 2013
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-2010-57",
-        "title": "Never Dawn",
+        "id": "west-2013-57",
+        "title": "Dusk Way",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2013-64",
+        "title": "Storm Tears",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2013-66",
+        "title": "Midnight Moon",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2013-96",
+        "title": "City Night",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2012-17",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2012-28",
+        "title": "River Heart",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2012-53",
+        "title": "Road Soul",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2012-56",
+        "title": "Never Dusk",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2012-57",
+        "title": "Dawn Way",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2012-73",
+        "title": "Sun Dreams",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2012-78",
+        "title": "Wild Snow",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2012-84",
+        "title": "Last Snow",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2012-95",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2011-06",
+        "title": "Grenade",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2011-09",
+        "title": "Just the Way You Are",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2011-22",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2011-50",
+        "title": "Into the Sun",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2011-61",
+        "title": "Winter Love",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2011-81",
+        "title": "Never Wave",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2011-94",
+        "title": "Sky Tears",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2010-13",
+        "title": "Shining Diamond",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 96,
+      "rank": 21,
       "song": {
-        "id": "west-2010-96",
-        "title": "Running Crystal",
+        "id": "west-2010-21",
+        "title": "Wind Soul",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2010-35",
+        "title": "Thunder Soul",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2010-41",
+        "title": "Into the Crystal",
+        "artist": {
+          "id": "a-bruno-mars",
+          "name": "Bruno Mars"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2010-23",
-    "title": "Dancing Ocean",
+    "title": "Midnight Fire",
     "artist": {
-      "id": "a-imagine-dragons",
-      "name": "Imagine Dragons"
+      "id": "a-sam-smith",
+      "name": "Sam Smith"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 23,
   "cdInfo": [
     {
-      "title": "Dancing Ocean",
+      "title": "Midnight Fire",
       "type": "single",
-      "releaseDate": "2010-08-15"
+      "releaseDate": "2010-04-15"
+    },
+    {
+      "title": "Snow Unplugged",
+      "type": "album",
+      "releaseDate": "2010-01-25"
     }
   ],
   "externalLinks": {
@@ -23,260 +28,299 @@
   },
   "artistSongs": [
     {
-      "rank": 16,
+      "rank": 23,
       "song": {
-        "id": "west-2019-16",
-        "title": "Sky Love",
+        "id": "west-2019-23",
+        "title": "Fading Flame",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 25,
+      "rank": 29,
       "song": {
-        "id": "west-2019-25",
-        "title": "Crystal Heart",
+        "id": "west-2019-29",
+        "title": "Bridge Heart",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2019
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2019-39",
-        "title": "Flame Rain",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2019-43",
-        "title": "Golden River",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2019-67",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2019-75",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2019-84",
-        "title": "Rain Love",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2019-91",
-        "title": "Flame Night",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2018-19",
-        "title": "Fire Forever",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2018-34",
-        "title": "Ocean Love",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2018
     },
     {
       "rank": 38,
       "song": {
-        "id": "west-2018-38",
-        "title": "Electric Rain",
+        "id": "west-2019-38",
+        "title": "Moon Heart",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2019-56",
+        "title": "Broken Road",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2019-77",
+        "title": "Gold Sky",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2019-82",
+        "title": "Sky Rain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2019-95",
+        "title": "Bridge Lights",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2018-32",
+        "title": "Storm Heart",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 52,
+      "rank": 74,
       "song": {
-        "id": "west-2018-52",
-        "title": "Ocean Lights",
+        "id": "west-2018-74",
+        "title": "Light Fire",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 96,
+      "rank": 13,
       "song": {
-        "id": "west-2018-96",
-        "title": "Summer Dreams",
+        "id": "west-2017-13",
+        "title": "Never Road",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-2017-07",
-        "title": "Believer",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 8,
+      "rank": 48,
       "song": {
-        "id": "west-2017-08",
-        "title": "Thunder",
+        "id": "west-2017-48",
+        "title": "Last River",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 20,
+      "rank": 64,
       "song": {
-        "id": "west-2017-20",
-        "title": "Running Diamond",
+        "id": "west-2017-64",
+        "title": "Falling Rose",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 39,
+      "rank": 85,
       "song": {
-        "id": "west-2017-39",
-        "title": "City Heart",
+        "id": "west-2017-85",
+        "title": "Road Love",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 46,
+      "rank": 89,
       "song": {
-        "id": "west-2017-46",
-        "title": "Falling Dawn",
+        "id": "west-2017-89",
+        "title": "Sky Forever",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 69,
+      "rank": 25,
       "song": {
-        "id": "west-2017-69",
-        "title": "Fire Soul",
+        "id": "west-2016-25",
+        "title": "Golden Sky",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
-      "year": 2017
+      "year": 2016
     },
     {
-      "rank": 14,
+      "rank": 31,
       "song": {
-        "id": "west-2016-14",
-        "title": "Running Ice",
+        "id": "west-2016-31",
+        "title": "Never Silver",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2016-36",
+        "title": "Rain Soul",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2016-37",
+        "title": "Midnight Road",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2016-41",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2016-42",
+        "title": "Electric Dusk",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2016-60",
+        "title": "Never Gold",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2016-74",
+        "title": "Dusk Soul",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2016-86",
+        "title": "Dancing Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -285,479 +329,427 @@
     {
       "rank": 18,
       "song": {
-        "id": "west-2016-18",
-        "title": "Midnight Rain",
+        "id": "west-2015-18",
+        "title": "Gold Rain",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2016-20",
-        "title": "Wind Heart",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2016-38",
-        "title": "Fading Thunder",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2016-65",
-        "title": "Golden Fire",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2016-68",
-        "title": "Dancing Rain",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2016-72",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2016-73",
-        "title": "Lost in City",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2016-83",
-        "title": "Electric Moon",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2015-11",
-        "title": "Gold Love",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 51,
+      "rank": 29,
       "song": {
-        "id": "west-2015-51",
-        "title": "Chasing Summer",
+        "id": "west-2015-29",
+        "title": "Rose Soul",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 87,
+      "rank": 33,
       "song": {
-        "id": "west-2015-87",
-        "title": "Sweet Mountain",
+        "id": "west-2015-33",
+        "title": "Last Ice",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 93,
+      "rank": 60,
       "song": {
-        "id": "west-2015-93",
-        "title": "Thunder Fire",
+        "id": "west-2015-60",
+        "title": "Summer Rain",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2015
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2015-62",
+        "title": "Snow Heart",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2015-75",
+        "title": "Chasing Storm",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2015-100",
+        "title": "Electric Ice",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2014-07",
+        "title": "Stay with Me",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2014
     },
     {
       "rank": 12,
       "song": {
         "id": "west-2014-12",
-        "title": "Rose Sky",
+        "title": "Midnight Storm",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 39,
+      "rank": 22,
       "song": {
-        "id": "west-2014-39",
-        "title": "Sweet Wind",
+        "id": "west-2014-22",
+        "title": "Shining Diamond",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 85,
+      "rank": 27,
       "song": {
-        "id": "west-2014-85",
-        "title": "Sky Sky",
+        "id": "west-2014-27",
+        "title": "Broken Shadow",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 87,
+      "rank": 34,
       "song": {
-        "id": "west-2014-87",
+        "id": "west-2014-34",
+        "title": "Snow Heart",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2014-55",
+        "title": "Storm Heart",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2014-81",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-2013-11",
+        "title": "Falling Dusk",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2013-27",
         "title": "Chasing Diamond",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2014-100",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-2013-03",
-        "title": "Radioactive",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 17,
+      "rank": 37,
       "song": {
-        "id": "west-2013-17",
-        "title": "Lost in Mountain",
+        "id": "west-2013-37",
+        "title": "Light Tears",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 40,
+      "rank": 50,
       "song": {
-        "id": "west-2013-40",
-        "title": "Ocean Heart",
+        "id": "west-2013-50",
+        "title": "Into the Sun",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 47,
+      "rank": 51,
       "song": {
-        "id": "west-2013-47",
-        "title": "Winter Rain",
+        "id": "west-2013-51",
+        "title": "Fire Heart",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2013
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2013-77",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2013-78",
+        "title": "Ice Dreams",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-2013-79",
+        "title": "Never Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2012-19",
+        "title": "Broken Flame",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2012-32",
+        "title": "Fading Snow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
     },
     {
       "rank": 48,
       "song": {
-        "id": "west-2013-48",
-        "title": "Chasing Dawn",
+        "id": "west-2012-48",
+        "title": "Lost in Fire",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2013-58",
-        "title": "Gold Soul",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2013-65",
-        "title": "Wild Winter",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2013-98",
-        "title": "Dawn Heart",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2013-100",
-        "title": "City Tears",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2012-38",
-        "title": "Star Fire",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2012
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2012-46",
-        "title": "Running Snow",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2012-64",
-        "title": "Summer Moonlight",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2012-73",
-        "title": "Falling Star",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2012-80",
-        "title": "Moon Tears",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2012-85",
-        "title": "Star Heart",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2012-96",
-        "title": "Running Silver",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2011-13",
-        "title": "Thunder Lights",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2011-47",
-        "title": "Midnight Moon",
-        "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
-        },
-        "genre": "western"
-      },
-      "year": 2011
     },
     {
       "rank": 52,
       "song": {
-        "id": "west-2011-52",
-        "title": "Snow Way",
+        "id": "west-2012-52",
+        "title": "Summer Dreams",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-2012-59",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2012-66",
+        "title": "Electric Snow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2012-77",
+        "title": "Running Sun",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2011-17",
+        "title": "Golden Crystal",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 62,
+      "rank": 29,
       "song": {
-        "id": "west-2011-62",
-        "title": "Ocean Heart",
+        "id": "west-2011-29",
+        "title": "Thunder Heart",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2011-34",
+        "title": "Ice Rain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2011-41",
+        "title": "Chasing Mountain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
@@ -767,75 +759,114 @@
       "rank": 86,
       "song": {
         "id": "west-2011-86",
-        "title": "Dusk Way",
+        "title": "Dancing Wind",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 42,
+      "rank": 49,
       "song": {
-        "id": "west-2010-42",
-        "title": "Fading Snow",
+        "id": "west-2010-49",
+        "title": "Dancing Gold",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 43,
+      "rank": 56,
       "song": {
-        "id": "west-2010-43",
-        "title": "Last River",
+        "id": "west-2010-56",
+        "title": "Running Storm",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 53,
+      "rank": 57,
       "song": {
-        "id": "west-2010-53",
-        "title": "Electric Flame",
+        "id": "west-2010-57",
+        "title": "Ice Fire",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 63,
+      "rank": 62,
       "song": {
-        "id": "west-2010-63",
-        "title": "Dancing City",
+        "id": "west-2010-62",
+        "title": "Never Bridge",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 82,
+      "rank": 66,
       "song": {
-        "id": "west-2010-82",
-        "title": "Running Star",
+        "id": "west-2010-66",
+        "title": "Shadow Love",
         "artist": {
-          "id": "a-imagine-dragons",
-          "name": "Imagine Dragons"
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2010-72",
+        "title": "Running Mountain",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2010-88",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2010-92",
+        "title": "Midnight Bridge",
+        "artist": {
+          "id": "a-sam-smith",
+          "name": "Sam Smith"
         },
         "genre": "western"
       },

@@ -15,6 +15,11 @@
       "title": "Take a Bow",
       "type": "single",
       "releaseDate": "1995-01-01"
+    },
+    {
+      "title": "Moon Unplugged",
+      "type": "album",
+      "releaseDate": "1995-01-12"
     }
   ],
   "externalLinks": {
@@ -62,10 +67,10 @@
       "year": 1989
     },
     {
-      "rank": 61,
+      "rank": 21,
       "song": {
-        "id": "west-1989-61",
-        "title": "Last Ice",
+        "id": "west-1989-21",
+        "title": "Flame Heart",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -73,38 +78,64 @@
         "genre": "western"
       },
       "year": 1989
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1989-90",
-        "title": "Last Shadow",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1988-25",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
     },
     {
       "rank": 30,
       "song": {
-        "id": "west-1988-30",
-        "title": "Fading Star",
+        "id": "west-1989-30",
+        "title": "Never Winter",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1989-55",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1989-63",
+        "title": "Flame Fire",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1989-87",
+        "title": "Midnight Summer",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1988-20",
+        "title": "Moon Fire",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -114,10 +145,10 @@
       "year": 1988
     },
     {
-      "rank": 34,
+      "rank": 22,
       "song": {
-        "id": "west-1988-34",
-        "title": "Wild Star",
+        "id": "west-1988-22",
+        "title": "Shining Road",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -127,10 +158,10 @@
       "year": 1988
     },
     {
-      "rank": 45,
+      "rank": 55,
       "song": {
-        "id": "west-1988-45",
-        "title": "Lost in Gold",
+        "id": "west-1988-55",
+        "title": "Wild Dusk",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -140,10 +171,10 @@
       "year": 1988
     },
     {
-      "rank": 65,
+      "rank": 80,
       "song": {
-        "id": "west-1988-65",
-        "title": "Diamond Moonlight",
+        "id": "west-1988-80",
+        "title": "Under the Crystal",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -153,49 +184,10 @@
       "year": 1988
     },
     {
-      "rank": 66,
+      "rank": 82,
       "song": {
-        "id": "west-1988-66",
-        "title": "Wild Fire",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1988-71",
-        "title": "Dawn Fire",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1988-74",
-        "title": "Silver Moonlight",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1988-83",
-        "title": "Thunder Lights",
+        "id": "west-1988-82",
+        "title": "Summer Tears",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -218,10 +210,10 @@
       "year": 1987
     },
     {
-      "rank": 23,
+      "rank": 16,
       "song": {
-        "id": "west-1987-23",
-        "title": "Rain Night",
+        "id": "west-1987-16",
+        "title": "Shadow Fire",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -231,10 +223,10 @@
       "year": 1987
     },
     {
-      "rank": 54,
+      "rank": 17,
       "song": {
-        "id": "west-1987-54",
-        "title": "Sun Forever",
+        "id": "west-1987-17",
+        "title": "Shadow Heart",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -244,10 +236,10 @@
       "year": 1987
     },
     {
-      "rank": 55,
+      "rank": 33,
       "song": {
-        "id": "west-1987-55",
-        "title": "Fading Diamond",
+        "id": "west-1987-33",
+        "title": "Chasing Mountain",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -257,10 +249,10 @@
       "year": 1987
     },
     {
-      "rank": 57,
+      "rank": 37,
       "song": {
-        "id": "west-1987-57",
-        "title": "Wind Moonlight",
+        "id": "west-1987-37",
+        "title": "Winter Tears",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -270,10 +262,10 @@
       "year": 1987
     },
     {
-      "rank": 62,
+      "rank": 80,
       "song": {
-        "id": "west-1987-62",
-        "title": "Fire Night",
+        "id": "west-1987-80",
+        "title": "Last Wave",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -283,10 +275,10 @@
       "year": 1987
     },
     {
-      "rank": 63,
+      "rank": 97,
       "song": {
-        "id": "west-1987-63",
-        "title": "Sweet Dusk",
+        "id": "west-1987-97",
+        "title": "Rose Lights",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -322,10 +314,10 @@
       "year": 1986
     },
     {
-      "rank": 15,
+      "rank": 13,
       "song": {
-        "id": "west-1986-15",
-        "title": "Lost in Moon",
+        "id": "west-1986-13",
+        "title": "Last Star",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -335,10 +327,10 @@
       "year": 1986
     },
     {
-      "rank": 28,
+      "rank": 21,
       "song": {
-        "id": "west-1986-28",
-        "title": "Sweet Mountain",
+        "id": "west-1986-21",
+        "title": "Chasing Mountain",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -348,10 +340,10 @@
       "year": 1986
     },
     {
-      "rank": 31,
+      "rank": 61,
       "song": {
-        "id": "west-1986-31",
-        "title": "Silver Dreams",
+        "id": "west-1986-61",
+        "title": "Fading Storm",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -361,10 +353,23 @@
       "year": 1986
     },
     {
-      "rank": 41,
+      "rank": 66,
       "song": {
-        "id": "west-1986-41",
-        "title": "Midnight Wind",
+        "id": "west-1986-66",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1986-94",
+        "title": "Falling River",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -387,10 +392,10 @@
       "year": 1985
     },
     {
-      "rank": 29,
+      "rank": 40,
       "song": {
-        "id": "west-1985-29",
-        "title": "Storm Tears",
+        "id": "west-1985-40",
+        "title": "Never Flame",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -400,10 +405,10 @@
       "year": 1985
     },
     {
-      "rank": 49,
+      "rank": 54,
       "song": {
-        "id": "west-1985-49",
-        "title": "Chasing Crystal",
+        "id": "west-1985-54",
+        "title": "Sweet Flame",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -413,10 +418,10 @@
       "year": 1985
     },
     {
-      "rank": 60,
+      "rank": 90,
       "song": {
-        "id": "west-1985-60",
-        "title": "Fading Ice",
+        "id": "west-1985-90",
+        "title": "Into the Mountain",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -426,10 +431,23 @@
       "year": 1985
     },
     {
-      "rank": 60,
+      "rank": 91,
       "song": {
-        "id": "west-1984-60",
-        "title": "Last Gold",
+        "id": "west-1985-91",
+        "title": "Wild Flame",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1984-35",
+        "title": "Fire Soul",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -439,10 +457,23 @@
       "year": 1984
     },
     {
-      "rank": 65,
+      "rank": 36,
       "song": {
-        "id": "west-1984-65",
-        "title": "Into the Wind",
+        "id": "west-1984-36",
+        "title": "Winter Dreams",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1984-75",
+        "title": "Crystal Fire",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -455,7 +486,7 @@
       "rank": 77,
       "song": {
         "id": "west-1984-77",
-        "title": "Sweet City",
+        "title": "Dawn Fire",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -465,10 +496,10 @@
       "year": 1984
     },
     {
-      "rank": 79,
+      "rank": 100,
       "song": {
-        "id": "west-1984-79",
-        "title": "Wild River",
+        "id": "west-1984-100",
+        "title": "Dancing Dusk",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -478,49 +509,23 @@
       "year": 1984
     },
     {
-      "rank": 82,
+      "rank": 24,
       "song": {
-        "id": "west-1984-82",
-        "title": "Mountain Fire",
+        "id": "west-1983-24",
+        "title": "Light Tears",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1983
     },
     {
-      "rank": 91,
+      "rank": 37,
       "song": {
-        "id": "west-1984-91",
-        "title": "Snow Forever",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1984-98",
-        "title": "Broken City",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1983-12",
-        "title": "Broken Ocean",
+        "id": "west-1983-37",
+        "title": "Road Dreams",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -533,7 +538,7 @@
       "rank": 75,
       "song": {
         "id": "west-1983-75",
-        "title": "Last Ocean",
+        "title": "Dancing Crystal",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -543,23 +548,10 @@
       "year": 1983
     },
     {
-      "rank": 85,
+      "rank": 91,
       "song": {
-        "id": "west-1983-85",
-        "title": "Into the Ice",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1983-88",
-        "title": "Storm Sky",
+        "id": "west-1983-91",
+        "title": "Chasing Diamond",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -572,7 +564,7 @@
       "rank": 11,
       "song": {
         "id": "west-1982-11",
-        "title": "Broken Road",
+        "title": "Chasing Wind",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -582,10 +574,10 @@
       "year": 1982
     },
     {
-      "rank": 17,
+      "rank": 30,
       "song": {
-        "id": "west-1982-17",
-        "title": "Running Wind",
+        "id": "west-1982-30",
+        "title": "Shining Road",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -595,10 +587,10 @@
       "year": 1982
     },
     {
-      "rank": 24,
+      "rank": 43,
       "song": {
-        "id": "west-1982-24",
-        "title": "Chasing Flame",
+        "id": "west-1982-43",
+        "title": "Electric Winter",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -608,10 +600,10 @@
       "year": 1982
     },
     {
-      "rank": 34,
+      "rank": 55,
       "song": {
-        "id": "west-1982-34",
-        "title": "Never Star",
+        "id": "west-1982-55",
+        "title": "Midnight Wave",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -619,77 +611,51 @@
         "genre": "western"
       },
       "year": 1982
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1982-44",
-        "title": "Ice Night",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1982-69",
-        "title": "Chasing Winter",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1982-97",
-        "title": "Chasing Crystal",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1981-31",
-        "title": "City Way",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1981-57",
-        "title": "Wild Silver",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1981
     },
     {
       "rank": 80,
       "song": {
-        "id": "west-1981-80",
-        "title": "Fading Summer",
+        "id": "west-1982-80",
+        "title": "Last Rose",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1982-84",
+        "title": "Shining Flame",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1982-96",
+        "title": "Dusk Sky",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1981-15",
+        "title": "Golden Rain",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -699,10 +665,10 @@
       "year": 1981
     },
     {
-      "rank": 92,
+      "rank": 21,
       "song": {
-        "id": "west-1981-92",
-        "title": "Fire Way",
+        "id": "west-1981-21",
+        "title": "Falling Summer",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -710,12 +676,90 @@
         "genre": "western"
       },
       "year": 1981
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1981-33",
+        "title": "Fading Snow",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1981-52",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1981-90",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1981-97",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1980-22",
+        "title": "Road Forever",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1980-28",
+        "title": "Broken Crystal",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
     },
     {
       "rank": 34,
       "song": {
         "id": "west-1980-34",
-        "title": "Winter Way",
+        "title": "Under the Star",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -725,10 +769,10 @@
       "year": 1980
     },
     {
-      "rank": 35,
+      "rank": 75,
       "song": {
-        "id": "west-1980-35",
-        "title": "Road Dreams",
+        "id": "west-1980-75",
+        "title": "Rose Love",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -738,10 +782,10 @@
       "year": 1980
     },
     {
-      "rank": 37,
+      "rank": 76,
       "song": {
-        "id": "west-1980-37",
-        "title": "Thunder Way",
+        "id": "west-1980-76",
+        "title": "Running Thunder",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"
@@ -751,49 +795,10 @@
       "year": 1980
     },
     {
-      "rank": 46,
+      "rank": 89,
       "song": {
-        "id": "west-1980-46",
-        "title": "Fading Sky",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1980-58",
-        "title": "Electric Sky",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1980-59",
-        "title": "Silver Heart",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1980-84",
-        "title": "Wave Soul",
+        "id": "west-1980-89",
+        "title": "Running Light",
         "artist": {
           "id": "a-madonna",
           "name": "Madonna"

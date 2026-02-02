@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1998-36",
-    "title": "Under the River",
+    "title": "Never Bridge",
     "artist": {
-      "id": "a-green-day",
-      "name": "Green Day"
+      "id": "a-nirvana",
+      "name": "Nirvana"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 36,
   "cdInfo": [
     {
-      "title": "Under the River",
+      "title": "Never Bridge",
       "type": "single",
-      "releaseDate": "1998-08-20"
+      "releaseDate": "1998-01-23"
+    },
+    {
+      "title": "Storm Sessions",
+      "type": "album",
+      "releaseDate": "1998-07-11"
     }
   ],
   "externalLinks": {
@@ -23,104 +28,91 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 12,
       "song": {
-        "id": "west-2005-06",
-        "title": "Boulevard of Broken Dreams",
+        "id": "west-1999-12",
+        "title": "Under the Winter",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1999-19",
-        "title": "Silver Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 61,
+      "rank": 35,
       "song": {
-        "id": "west-1999-61",
-        "title": "Crystal Night",
+        "id": "west-1999-35",
+        "title": "Flame Moonlight",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 70,
+      "rank": 36,
       "song": {
-        "id": "west-1999-70",
-        "title": "Falling Wind",
+        "id": "west-1999-36",
+        "title": "Crystal Soul",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 72,
+      "rank": 89,
       "song": {
-        "id": "west-1999-72",
-        "title": "Bridge Heart",
+        "id": "west-1999-89",
+        "title": "Ocean Dreams",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 95,
+      "rank": 18,
       "song": {
-        "id": "west-1999-95",
-        "title": "Thunder Love",
+        "id": "west-1998-18",
+        "title": "Sweet Winter",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1998-11",
-        "title": "Wind Love",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 23,
+      "rank": 20,
       "song": {
-        "id": "west-1998-23",
-        "title": "Shadow Love",
+        "id": "west-1998-20",
+        "title": "Falling Winter",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1998-32",
+        "title": "Lost in Light",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -130,36 +122,49 @@
       "rank": 42,
       "song": {
         "id": "west-1998-42",
-        "title": "Last Storm",
+        "title": "Running Rose",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 43,
+      "rank": 51,
       "song": {
-        "id": "west-1998-43",
-        "title": "Road Forever",
+        "id": "west-1998-51",
+        "title": "Running Sun",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 45,
+      "rank": 65,
       "song": {
-        "id": "west-1998-45",
-        "title": "Golden Crystal",
+        "id": "west-1998-65",
+        "title": "Running Crystal",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1998-66",
+        "title": "Electric Storm",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -169,36 +174,49 @@
       "rank": 75,
       "song": {
         "id": "west-1998-75",
-        "title": "Never Rose",
+        "title": "Last River",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 83,
+      "rank": 79,
       "song": {
-        "id": "west-1998-83",
-        "title": "Broken Snow",
+        "id": "west-1998-79",
+        "title": "Under the Diamond",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 97,
+      "rank": 80,
       "song": {
-        "id": "west-1998-97",
-        "title": "Sky Love",
+        "id": "west-1998-80",
+        "title": "Golden Silver",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1998-93",
+        "title": "Gold Forever",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -208,49 +226,62 @@
       "rank": 99,
       "song": {
         "id": "west-1998-99",
-        "title": "Moon Moonlight",
+        "title": "Lost in City",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 35,
+      "rank": 17,
       "song": {
-        "id": "west-1997-35",
-        "title": "City Fire",
+        "id": "west-1997-17",
+        "title": "Falling Sky",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 45,
+      "rank": 40,
       "song": {
-        "id": "west-1997-45",
-        "title": "Mountain Love",
+        "id": "west-1997-40",
+        "title": "Sun Rain",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 50,
+      "rank": 59,
       "song": {
-        "id": "west-1997-50",
-        "title": "Fire Fire",
+        "id": "west-1997-59",
+        "title": "Broken Mountain",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1997-61",
+        "title": "Midnight Wave",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -260,153 +291,101 @@
       "rank": 72,
       "song": {
         "id": "west-1997-72",
-        "title": "Shining Wave",
+        "title": "Into the Dusk",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 79,
+      "rank": 13,
       "song": {
-        "id": "west-1997-79",
-        "title": "Dancing Summer",
+        "id": "west-1996-13",
+        "title": "Road Love",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1997-86",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1996-14",
-        "title": "Under the Winter",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 24,
+      "rank": 43,
       "song": {
-        "id": "west-1996-24",
-        "title": "Golden River",
+        "id": "west-1996-43",
+        "title": "Midnight River",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 25,
+      "rank": 60,
       "song": {
-        "id": "west-1996-25",
-        "title": "Lost in Shadow",
+        "id": "west-1996-60",
+        "title": "Star Love",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 53,
+      "rank": 74,
       "song": {
-        "id": "west-1996-53",
-        "title": "Last Dusk",
+        "id": "west-1996-74",
+        "title": "Sweet Light",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 55,
+      "rank": 80,
       "song": {
-        "id": "west-1996-55",
-        "title": "Under the Moon",
+        "id": "west-1996-80",
+        "title": "Shining Wind",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 87,
+      "rank": 91,
       "song": {
-        "id": "west-1996-87",
-        "title": "Electric Diamond",
+        "id": "west-1996-91",
+        "title": "Ocean Way",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 88,
+      "rank": 92,
       "song": {
-        "id": "west-1996-88",
-        "title": "River Heart",
+        "id": "west-1996-92",
+        "title": "Storm Lights",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1996-90",
-        "title": "Sweet Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1996-98",
-        "title": "Into the River",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -416,88 +395,36 @@
       "rank": 19,
       "song": {
         "id": "west-1995-19",
-        "title": "Fire Sky",
+        "title": "Ocean Forever",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 21,
+      "rank": 12,
       "song": {
-        "id": "west-1995-21",
-        "title": "Running Crystal",
+        "id": "west-1994-12",
+        "title": "Sweet Sun",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
-      "year": 1995
+      "year": 1994
     },
     {
-      "rank": 33,
+      "rank": 22,
       "song": {
-        "id": "west-1995-33",
-        "title": "Storm Sky",
+        "id": "west-1994-22",
+        "title": "Silver Sky",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1995-50",
-        "title": "River Night",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1995-70",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1995-86",
-        "title": "Bridge Moonlight",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1994-34",
-        "title": "Last Wind",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -507,283 +434,309 @@
       "rank": 39,
       "song": {
         "id": "west-1994-39",
-        "title": "Sky Dreams",
+        "title": "Electric Summer",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1994
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1994-62",
-        "title": "Sun Night",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1994-75",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1994-76",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1994-82",
-        "title": "Wave Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1994-83",
-        "title": "Chasing Winter",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1994-89",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1994-93",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1994-95",
-        "title": "Electric Road",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1994-96",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1993-12",
-        "title": "Fading Flame",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1993-28",
-        "title": "Midnight Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1993-44",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1993
     },
     {
       "rank": 48,
       "song": {
-        "id": "west-1993-48",
-        "title": "Storm Way",
+        "id": "west-1994-48",
+        "title": "Thunder Sky",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1994-52",
+        "title": "Sweet Mountain",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1994-66",
+        "title": "Ocean Way",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1994-71",
+        "title": "River Rain",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1993-21",
+        "title": "Fading Light",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 78,
+      "rank": 32,
       "song": {
-        "id": "west-1993-78",
-        "title": "Fading Road",
+        "id": "west-1993-32",
+        "title": "Dancing Rose",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 44,
+      "rank": 35,
       "song": {
-        "id": "west-1992-44",
-        "title": "Electric River",
+        "id": "west-1993-35",
+        "title": "Wave Way",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1993-65",
+        "title": "Golden Flame",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1993-71",
+        "title": "Dawn Lights",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1993-88",
+        "title": "Running Shadow",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1993-89",
+        "title": "Diamond Heart",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1992-14",
+        "title": "Electric Rain",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 59,
+      "rank": 18,
       "song": {
-        "id": "west-1992-59",
-        "title": "Thunder Fire",
+        "id": "west-1992-18",
+        "title": "Running Sky",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 62,
+      "rank": 28,
       "song": {
-        "id": "west-1992-62",
-        "title": "Road Dreams",
+        "id": "west-1992-28",
+        "title": "Fading Silver",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 95,
+      "rank": 31,
       "song": {
-        "id": "west-1992-95",
-        "title": "Light Love",
+        "id": "west-1992-31",
+        "title": "Summer Love",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 25,
+      "rank": 34,
       "song": {
-        "id": "west-1991-25",
-        "title": "Dancing Ocean",
+        "id": "west-1992-34",
+        "title": "Sweet Summer",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1992-38",
+        "title": "Into the Summer",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1992-39",
+        "title": "Shining Flame",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1992-46",
+        "title": "Shining Storm",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1992-63",
+        "title": "Broken Silver",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1992-69",
+        "title": "Moon Way",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1991-49",
+        "title": "Dawn Love",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 42,
+      "rank": 53,
       "song": {
-        "id": "west-1991-42",
-        "title": "Last Rose",
+        "id": "west-1991-53",
+        "title": "Last Shadow",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1991-67",
-        "title": "Shining Light",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -793,36 +746,10 @@
       "rank": 69,
       "song": {
         "id": "west-1991-69",
-        "title": "Dancing Dusk",
+        "title": "Mountain Moonlight",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1991-80",
-        "title": "Mountain Night",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1991-90",
-        "title": "City Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
@@ -832,140 +759,127 @@
       "rank": 92,
       "song": {
         "id": "west-1991-92",
-        "title": "Bridge Fire",
+        "title": "Sweet Wave",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 12,
+      "rank": 30,
       "song": {
-        "id": "west-1990-12",
-        "title": "Shadow Rain",
+        "id": "west-1990-30",
+        "title": "Star Soul",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 23,
+      "rank": 31,
       "song": {
-        "id": "west-1990-23",
-        "title": "Gold Moonlight",
+        "id": "west-1990-31",
+        "title": "Last Fire",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 35,
+      "rank": 34,
       "song": {
-        "id": "west-1990-35",
-        "title": "Flame Soul",
+        "id": "west-1990-34",
+        "title": "Never Fire",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 62,
+      "rank": 51,
       "song": {
-        "id": "west-1990-62",
-        "title": "Into the Gold",
+        "id": "west-1990-51",
+        "title": "Midnight Light",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 74,
+      "rank": 53,
       "song": {
-        "id": "west-1990-74",
-        "title": "Shining City",
+        "id": "west-1990-53",
+        "title": "Lost in Ocean",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 81,
+      "rank": 57,
       "song": {
-        "id": "west-1990-81",
-        "title": "Wave Heart",
+        "id": "west-1990-57",
+        "title": "Lost in Wind",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 96,
+      "rank": 88,
       "song": {
-        "id": "west-1990-96",
-        "title": "Storm Lights",
+        "id": "west-1990-88",
+        "title": "Midnight Shadow",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 97,
+      "rank": 90,
       "song": {
-        "id": "west-1990-97",
-        "title": "Flame Dreams",
+        "id": "west-1990-90",
+        "title": "Sweet Ocean",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 98,
+      "rank": 94,
       "song": {
-        "id": "west-1990-98",
-        "title": "Running Moon",
+        "id": "west-1990-94",
+        "title": "Dusk Moonlight",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1990-100",
-        "title": "Lost in Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       },

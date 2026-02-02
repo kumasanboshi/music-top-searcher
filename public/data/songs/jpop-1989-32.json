@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1989-32",
-    "title": "最後の希望",
+    "title": "記憶ストーリー",
     "artist": {
-      "id": "a-nakamori-akina",
-      "name": "中森明菜"
+      "id": "a-checkers",
+      "name": "チェッカーズ"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 32,
   "cdInfo": [
     {
-      "title": "最後の希望",
+      "title": "記憶ストーリー",
       "type": "single",
-      "releaseDate": "1989-07-19"
+      "releaseDate": "1989-03-17"
+    },
+    {
+      "title": "恋セレクション",
+      "type": "album",
+      "releaseDate": "1989-05-19"
     }
   ],
   "externalLinks": {
@@ -23,143 +28,117 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 16,
       "song": {
-        "id": "jpop-1989-14",
-        "title": "海の街",
+        "id": "jpop-1989-16",
+        "title": "恋の太陽",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 52,
+      "rank": 40,
       "song": {
-        "id": "jpop-1989-52",
-        "title": "恋の夜",
+        "id": "jpop-1989-40",
+        "title": "波の海",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 85,
+      "rank": 90,
       "song": {
-        "id": "jpop-1989-85",
-        "title": "永遠の夢",
+        "id": "jpop-1989-90",
+        "title": "青い雨",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 89,
+      "rank": 94,
       "song": {
-        "id": "jpop-1989-89",
-        "title": "君の桜",
+        "id": "jpop-1989-94",
+        "title": "約束の桜",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1989-97",
-        "title": "夢の虹",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1989-99",
-        "title": "真夜中の旅",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "jpop-1988-09",
-        "title": "TATTOO",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1988-17",
-        "title": "夢の海",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
     },
     {
       "rank": 32,
       "song": {
         "id": "jpop-1988-32",
-        "title": "ミッドナイト記憶",
+        "title": "朝ストーリー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 36,
+      "rank": 35,
       "song": {
-        "id": "jpop-1988-36",
-        "title": "雪のかけら",
+        "id": "jpop-1988-35",
+        "title": "夜ストーリー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 53,
+      "rank": 52,
       "song": {
-        "id": "jpop-1988-53",
-        "title": "約束フォーエバー",
+        "id": "jpop-1988-52",
+        "title": "風ストーリー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1988-57",
+        "title": "星の朝",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1988-74",
+        "title": "永遠の希望",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -169,10 +148,23 @@
       "rank": 80,
       "song": {
         "id": "jpop-1988-80",
-        "title": "冬の道",
+        "title": "星の記憶",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1988-92",
+        "title": "君の冬",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -182,49 +174,36 @@
       "rank": 98,
       "song": {
         "id": "jpop-1988-98",
-        "title": "約束の海",
+        "title": "朝のかけら",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 2,
+      "rank": 19,
       "song": {
-        "id": "jpop-1987-02",
-        "title": "TANGO NOIR",
+        "id": "jpop-1987-19",
+        "title": "青い冬",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 7,
+      "rank": 20,
       "song": {
-        "id": "jpop-1987-07",
-        "title": "BLONDE",
+        "id": "jpop-1987-20",
+        "title": "夢の海",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1987-21",
-        "title": "愛ストーリー",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -234,10 +213,62 @@
       "rank": 34,
       "song": {
         "id": "jpop-1987-34",
-        "title": "星の雪",
+        "title": "夢の虹",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1987-35",
+        "title": "記憶の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-1987-36",
+        "title": "花の街",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1987-49",
+        "title": "風物語",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1987-69",
+        "title": "太陽ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -247,75 +278,36 @@
       "rank": 71,
       "song": {
         "id": "jpop-1987-71",
-        "title": "星の影",
+        "title": "永遠の月",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 72,
+      "rank": 86,
       "song": {
-        "id": "jpop-1987-72",
-        "title": "君の海",
+        "id": "jpop-1987-86",
+        "title": "風の光",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 1,
+      "rank": 25,
       "song": {
-        "id": "jpop-1986-01",
-        "title": "DESIRE -情熱-",
+        "id": "jpop-1986-25",
+        "title": "森の海",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "jpop-1986-08",
-        "title": "ジプシー・クイーン",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-1986-11",
-        "title": "時間の道",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1986-24",
-        "title": "風ストーリー",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -325,361 +317,231 @@
       "rank": 27,
       "song": {
         "id": "jpop-1986-27",
-        "title": "涙の朝",
+        "title": "夢の記憶",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 50,
+      "rank": 30,
       "song": {
-        "id": "jpop-1986-50",
-        "title": "風の星",
+        "id": "jpop-1986-30",
+        "title": "森フォーエバー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 59,
+      "rank": 33,
       "song": {
-        "id": "jpop-1986-59",
-        "title": "風の波",
+        "id": "jpop-1986-33",
+        "title": "星の街",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 60,
+      "rank": 54,
       "song": {
-        "id": "jpop-1986-60",
-        "title": "最後の雪",
+        "id": "jpop-1986-54",
+        "title": "夢の恋",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 63,
+      "rank": 87,
       "song": {
-        "id": "jpop-1986-63",
-        "title": "約束の旅",
+        "id": "jpop-1986-87",
+        "title": "森ストーリー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 73,
+      "rank": 1,
       "song": {
-        "id": "jpop-1986-73",
-        "title": "雪のかけら",
+        "id": "jpop-1985-01",
+        "title": "ジュリアに傷心",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1986-79",
-        "title": "真夜中の太陽",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1986-84",
-        "title": "永遠の朝",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "jpop-1985-02",
-        "title": "ミ・アモーレ",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 5,
+      "rank": 4,
       "song": {
-        "id": "jpop-1985-05",
-        "title": "飾りじゃないのよ涙は",
+        "id": "jpop-1985-04",
+        "title": "あの娘とスキャンダル",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "jpop-1985-07",
-        "title": "SAND BEIGE -砂漠へ-",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1985-18",
-        "title": "夢の海",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1985-22",
-        "title": "希望の花",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1985-76",
-        "title": "希望の光",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1985-84",
-        "title": "星の風",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "jpop-1984-06",
-        "title": "十戒(1984)",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "jpop-1984-07",
-        "title": "北ウイング",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
     },
     {
       "rank": 8,
       "song": {
-        "id": "jpop-1984-08",
-        "title": "飾りじゃないのよ涙は",
+        "id": "jpop-1985-08",
+        "title": "俺たちのロカビリーナイト",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 25,
+      "rank": 20,
       "song": {
-        "id": "jpop-1984-25",
-        "title": "君の波",
+        "id": "jpop-1985-20",
+        "title": "風の約束",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1985
     },
     {
       "rank": 35,
       "song": {
-        "id": "jpop-1984-35",
-        "title": "星の海",
+        "id": "jpop-1985-35",
+        "title": "ミッドナイト約束",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1985
     },
     {
       "rank": 46,
       "song": {
-        "id": "jpop-1984-46",
-        "title": "世界ストーリー",
+        "id": "jpop-1985-46",
+        "title": "冬ストーリー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1985-67",
+        "title": "涙の風",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1985-83",
+        "title": "空のかけら",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1985-100",
+        "title": "旅サンセット",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-1984-03",
+        "title": "涙のリクエスト",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 47,
+      "rank": 4,
       "song": {
-        "id": "jpop-1984-47",
-        "title": "空の光",
+        "id": "jpop-1984-04",
+        "title": "星屑のステージ",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 56,
+      "rank": 9,
       "song": {
-        "id": "jpop-1984-56",
-        "title": "花の花",
+        "id": "jpop-1984-09",
+        "title": "哀しくてジェラシー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 62,
+      "rank": 14,
       "song": {
-        "id": "jpop-1984-62",
-        "title": "世界の海",
+        "id": "jpop-1984-14",
+        "title": "真夜中の約束",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1984-66",
-        "title": "海フォーエバー",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1984-79",
-        "title": "夢の冬",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1984-89",
-        "title": "ミッドナイト波",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1984-96",
-        "title": "夢の花",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -688,193 +550,232 @@
     {
       "rank": 24,
       "song": {
-        "id": "jpop-1983-24",
-        "title": "ミッドナイト雨",
+        "id": "jpop-1984-24",
+        "title": "青い雪",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1984-26",
+        "title": "波の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-1984-32",
+        "title": "世界の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1984-39",
+        "title": "希望の季節",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1984-67",
+        "title": "風の夢",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1984-75",
+        "title": "恋の夜",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1984-85",
+        "title": "夏の光",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1984-90",
+        "title": "雪の光",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1983-70",
+        "title": "星の夢",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 38,
+      "rank": 87,
       "song": {
-        "id": "jpop-1983-38",
-        "title": "恋の記憶",
+        "id": "jpop-1983-87",
+        "title": "光フォーエバー",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 41,
+      "rank": 96,
       "song": {
-        "id": "jpop-1983-41",
-        "title": "星の未来",
+        "id": "jpop-1983-96",
+        "title": "旅の花",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 42,
+      "rank": 14,
       "song": {
-        "id": "jpop-1983-42",
-        "title": "夢メロディ",
+        "id": "jpop-1982-14",
+        "title": "未来の約束",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1983
+      "year": 1982
     },
     {
       "rank": 59,
       "song": {
-        "id": "jpop-1983-59",
-        "title": "最後の雨",
+        "id": "jpop-1982-59",
+        "title": "星物語",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1983-71",
-        "title": "空の記憶",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1983-88",
-        "title": "冬の花",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1983-100",
-        "title": "旅の空",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-1982-25",
-        "title": "雨の街",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 34,
+      "rank": 93,
       "song": {
-        "id": "jpop-1982-34",
-        "title": "夏の光",
+        "id": "jpop-1982-93",
+        "title": "青い恋",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 41,
+      "rank": 23,
       "song": {
-        "id": "jpop-1982-41",
-        "title": "海の海",
+        "id": "jpop-1981-23",
+        "title": "影の光",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1982-45",
-        "title": "夢の季節",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1982-77",
-        "title": "希望ストーリー",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1981-12",
-        "title": "世界の花",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 14,
+      "rank": 58,
       "song": {
-        "id": "jpop-1981-14",
-        "title": "青い星",
+        "id": "jpop-1981-58",
+        "title": "愛の記憶",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-1981-66",
+        "title": "冬の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1981-70",
+        "title": "太陽ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -883,115 +784,63 @@
     {
       "rank": 33,
       "song": {
-        "id": "jpop-1981-33",
-        "title": "時間ストーリー",
+        "id": "jpop-1980-33",
+        "title": "街の空",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1981
+      "year": 1980
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-1980-40",
+        "title": "海ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
     },
     {
       "rank": 59,
       "song": {
-        "id": "jpop-1981-59",
-        "title": "ミッドナイト森",
+        "id": "jpop-1980-59",
+        "title": "風の光",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1981-76",
-        "title": "希望ストーリー",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1981-77",
-        "title": "夢の夜",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1981-79",
-        "title": "虹フォーエバー",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1981-89",
-        "title": "冬の歌",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-1980-44",
-        "title": "街の海",
-        "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 77,
+      "rank": 71,
       "song": {
-        "id": "jpop-1980-77",
-        "title": "花の光",
+        "id": "jpop-1980-71",
+        "title": "風の雪",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 84,
+      "rank": 82,
       "song": {
-        "id": "jpop-1980-84",
-        "title": "星の恋",
+        "id": "jpop-1980-82",
+        "title": "恋の街",
         "artist": {
-          "id": "a-nakamori-akina",
-          "name": "中森明菜"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },

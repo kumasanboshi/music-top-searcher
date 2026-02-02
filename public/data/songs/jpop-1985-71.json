@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-1985-71",
-    "title": "愛フォーエバー",
+    "title": "未来の約束",
     "artist": {
       "id": "a-tm-network",
       "name": "TM NETWORK"
@@ -12,9 +12,14 @@
   "rank": 71,
   "cdInfo": [
     {
-      "title": "愛フォーエバー",
+      "title": "未来の約束",
       "type": "single",
-      "releaseDate": "1985-10-07"
+      "releaseDate": "1985-10-19"
+    },
+    {
+      "title": "海セレクション",
+      "type": "album",
+      "releaseDate": "1985-01-09"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 23,
+      "rank": 17,
       "song": {
-        "id": "jpop-1989-23",
-        "title": "夢の影",
+        "id": "jpop-1989-17",
+        "title": "恋の時間",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -36,10 +41,10 @@
       "year": 1989
     },
     {
-      "rank": 46,
+      "rank": 24,
       "song": {
-        "id": "jpop-1989-46",
-        "title": "旅の約束",
+        "id": "jpop-1989-24",
+        "title": "青い虹",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -49,10 +54,10 @@
       "year": 1989
     },
     {
-      "rank": 51,
+      "rank": 31,
       "song": {
-        "id": "jpop-1989-51",
-        "title": "永遠の影",
+        "id": "jpop-1989-31",
+        "title": "約束フォーエバー",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -62,10 +67,10 @@
       "year": 1989
     },
     {
-      "rank": 54,
+      "rank": 47,
       "song": {
-        "id": "jpop-1989-54",
-        "title": "涙の雪",
+        "id": "jpop-1989-47",
+        "title": "朝メロディ",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -75,10 +80,10 @@
       "year": 1989
     },
     {
-      "rank": 57,
+      "rank": 63,
       "song": {
-        "id": "jpop-1989-57",
-        "title": "恋の星",
+        "id": "jpop-1989-63",
+        "title": "君の朝",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -88,10 +93,10 @@
       "year": 1989
     },
     {
-      "rank": 60,
+      "rank": 67,
       "song": {
-        "id": "jpop-1989-60",
-        "title": "約束サンセット",
+        "id": "jpop-1989-67",
+        "title": "光のかけら",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -99,103 +104,25 @@
         "genre": "jpop"
       },
       "year": 1989
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1989-70",
-        "title": "君の光",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1989-95",
-        "title": "旅のリズム",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-1988-34",
-        "title": "桜の街",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-1988-40",
-        "title": "涙の夜",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1988-51",
-        "title": "希望サンセット",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1988-66",
-        "title": "約束の恋",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1988-77",
-        "title": "虹のかけら",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
     },
     {
       "rank": 87,
       "song": {
-        "id": "jpop-1988-87",
-        "title": "星のリズム",
+        "id": "jpop-1989-87",
+        "title": "未来の光",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1988-73",
+        "title": "風の太陽",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -205,10 +132,10 @@
       "year": 1988
     },
     {
-      "rank": 90,
+      "rank": 84,
       "song": {
-        "id": "jpop-1988-90",
-        "title": "雨の海",
+        "id": "jpop-1988-84",
+        "title": "恋の空",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -231,10 +158,10 @@
       "year": 1987
     },
     {
-      "rank": 18,
+      "rank": 66,
       "song": {
-        "id": "jpop-1987-18",
-        "title": "恋の星",
+        "id": "jpop-1987-66",
+        "title": "希望の記憶",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -244,10 +171,10 @@
       "year": 1987
     },
     {
-      "rank": 29,
+      "rank": 87,
       "song": {
-        "id": "jpop-1987-29",
-        "title": "世界の空",
+        "id": "jpop-1987-87",
+        "title": "愛の光",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -257,10 +184,10 @@
       "year": 1987
     },
     {
-      "rank": 38,
+      "rank": 88,
       "song": {
-        "id": "jpop-1987-38",
-        "title": "ミッドナイト未来",
+        "id": "jpop-1987-88",
+        "title": "森の歌",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -270,10 +197,10 @@
       "year": 1987
     },
     {
-      "rank": 50,
+      "rank": 89,
       "song": {
-        "id": "jpop-1987-50",
-        "title": "虹の約束",
+        "id": "jpop-1987-89",
+        "title": "涙の風",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -283,36 +210,114 @@
       "year": 1987
     },
     {
-      "rank": 67,
+      "rank": 32,
       "song": {
-        "id": "jpop-1987-67",
-        "title": "月の歌",
+        "id": "jpop-1986-32",
+        "title": "朝の歌",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
         },
         "genre": "jpop"
       },
-      "year": 1987
+      "year": 1986
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-1986-40",
+        "title": "君の月",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-1986-61",
+        "title": "冬のかけら",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1986-69",
+        "title": "約束の朝",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1986-71",
+        "title": "最後の朝",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1986-73",
+        "title": "恋の世界",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1986-74",
+        "title": "ミッドナイト花",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1986-85",
+        "title": "光物語",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
     },
     {
       "rank": 86,
       "song": {
-        "id": "jpop-1987-86",
-        "title": "雪の夜",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-1986-42",
-        "title": "星の花",
+        "id": "jpop-1986-86",
+        "title": "ミッドナイト夢",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -322,10 +327,10 @@
       "year": 1986
     },
     {
-      "rank": 45,
+      "rank": 88,
       "song": {
-        "id": "jpop-1986-45",
-        "title": "君の旅",
+        "id": "jpop-1986-88",
+        "title": "涙の世界",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -333,103 +338,25 @@
         "genre": "jpop"
       },
       "year": 1986
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1986-90",
-        "title": "最後の花",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1985-31",
-        "title": "風の森",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1985-36",
-        "title": "星の空",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1985-43",
-        "title": "恋の影",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-1985-54",
-        "title": "海の海",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1985-58",
-        "title": "雪の花",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1985-72",
-        "title": "希望ストーリー",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
     },
     {
       "rank": 93,
       "song": {
-        "id": "jpop-1985-93",
-        "title": "夏の街",
+        "id": "jpop-1986-93",
+        "title": "時間のリズム",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-1985-21",
+        "title": "永遠の約束",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -439,88 +366,179 @@
       "year": 1985
     },
     {
-      "rank": 19,
+      "rank": 27,
       "song": {
-        "id": "jpop-1984-19",
-        "title": "波の街",
+        "id": "jpop-1985-27",
+        "title": "太陽物語",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 31,
+      "rank": 42,
       "song": {
-        "id": "jpop-1984-31",
-        "title": "海の花",
+        "id": "jpop-1985-42",
+        "title": "影の花",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 37,
+      "rank": 78,
       "song": {
-        "id": "jpop-1984-37",
-        "title": "光の花",
+        "id": "jpop-1985-78",
+        "title": "未来の夜",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 51,
+      "rank": 80,
       "song": {
-        "id": "jpop-1984-51",
-        "title": "記憶ストーリー",
+        "id": "jpop-1985-80",
+        "title": "青い旅",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
         },
         "genre": "jpop"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 70,
+      "rank": 95,
       "song": {
-        "id": "jpop-1984-70",
-        "title": "愛の歌",
+        "id": "jpop-1985-95",
+        "title": "恋の雪",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
         },
         "genre": "jpop"
       },
-      "year": 1984
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1984-90",
-        "title": "愛の約束",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
+      "year": 1985
     },
     {
       "rank": 15,
       "song": {
-        "id": "jpop-1983-15",
-        "title": "夜のリズム",
+        "id": "jpop-1984-15",
+        "title": "月の夜",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1984-16",
+        "title": "風サンセット",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-1984-21",
+        "title": "風の光",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1984-35",
+        "title": "恋の歌",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1984-49",
+        "title": "波物語",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-1984-61",
+        "title": "約束ストーリー",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1984-72",
+        "title": "光の空",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-1984-89",
+        "title": "森の光",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1983-13",
+        "title": "空のリズム",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -530,10 +548,10 @@
       "year": 1983
     },
     {
-      "rank": 36,
+      "rank": 33,
       "song": {
-        "id": "jpop-1983-36",
-        "title": "永遠の桜",
+        "id": "jpop-1983-33",
+        "title": "森の海",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -546,7 +564,7 @@
       "rank": 49,
       "song": {
         "id": "jpop-1983-49",
-        "title": "ミッドナイト海",
+        "title": "風サンセット",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -556,10 +574,10 @@
       "year": 1983
     },
     {
-      "rank": 85,
+      "rank": 58,
       "song": {
-        "id": "jpop-1983-85",
-        "title": "朝メロディ",
+        "id": "jpop-1983-58",
+        "title": "街の空",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -569,88 +587,36 @@
       "year": 1983
     },
     {
-      "rank": 37,
+      "rank": 68,
       "song": {
-        "id": "jpop-1982-37",
-        "title": "愛メロディ",
+        "id": "jpop-1983-68",
+        "title": "旅のリズム",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
         },
         "genre": "jpop"
       },
-      "year": 1982
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-1982-44",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-1982-47",
-        "title": "記憶の季節",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-1982-69",
-        "title": "恋の雪",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1982-79",
-        "title": "朝フォーエバー",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1982-80",
-        "title": "永遠の旅",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
+      "year": 1983
     },
     {
       "rank": 82,
       "song": {
-        "id": "jpop-1982-82",
-        "title": "ミッドナイト旅",
+        "id": "jpop-1983-82",
+        "title": "約束物語",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-1982-29",
+        "title": "雪の季節",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -660,10 +626,62 @@
       "year": 1982
     },
     {
-      "rank": 18,
+      "rank": 72,
       "song": {
-        "id": "jpop-1981-18",
-        "title": "記憶のリズム",
+        "id": "jpop-1982-72",
+        "title": "虹の記憶",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1982-83",
+        "title": "恋の花",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1982-84",
+        "title": "ミッドナイト雪",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1982-96",
+        "title": "波の海",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1981-33",
+        "title": "恋の夜",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"
@@ -673,9 +691,152 @@
       "year": 1981
     },
     {
-      "rank": 22,
+      "rank": 40,
       "song": {
-        "id": "jpop-1981-22",
+        "id": "jpop-1981-40",
+        "title": "君の雪",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-1981-48",
+        "title": "太陽サンセット",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-1981-55",
+        "title": "永遠の世界",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1981-63",
+        "title": "真夜中の夜",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1981-69",
+        "title": "希望の道",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1981-80",
+        "title": "青い雨",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-1980-15",
+        "title": "約束の未来",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1980-34",
+        "title": "星のリズム",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-1980-36",
+        "title": "森の空",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-1980-48",
+        "title": "光のかけら",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "jpop-1980-62",
+        "title": "旅の季節",
+        "artist": {
+          "id": "a-tm-network",
+          "name": "TM NETWORK"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1980-67",
         "title": "星の花",
         "artist": {
           "id": "a-tm-network",
@@ -683,195 +844,13 @@
         },
         "genre": "jpop"
       },
-      "year": 1981
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-1981-25",
-        "title": "虹物語",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1981-41",
-        "title": "ミッドナイト月",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1981-66",
-        "title": "夢の夏",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
+      "year": 1980
     },
     {
       "rank": 68,
       "song": {
-        "id": "jpop-1981-68",
-        "title": "月の約束",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1981-94",
-        "title": "ミッドナイト太陽",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1981-97",
-        "title": "青い愛",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1980-17",
-        "title": "君の約束",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1980-21",
-        "title": "月のかけら",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "jpop-1980-23",
-        "title": "太陽の道",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1980-35",
-        "title": "未来の歌",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-1980-42",
-        "title": "桜の記憶",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-1980-47",
-        "title": "旅物語",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1980-86",
-        "title": "青い記憶",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1980-96",
-        "title": "夢の朝",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1980-100",
-        "title": "ミッドナイト未来",
+        "id": "jpop-1980-68",
+        "title": "雪の記憶",
         "artist": {
           "id": "a-tm-network",
           "name": "TM NETWORK"

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-28",
-    "title": "Sweet Rose",
+    "title": "Star Lights",
     "artist": {
-      "id": "a-carpenters",
-      "name": "The Carpenters"
+      "id": "a-queen",
+      "name": "Queen"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 28,
   "cdInfo": [
     {
-      "title": "Sweet Rose",
+      "title": "Star Lights",
       "type": "single",
-      "releaseDate": "1978-01-28"
+      "releaseDate": "1978-09-06"
+    },
+    {
+      "title": "Rose Unplugged",
+      "type": "album",
+      "releaseDate": "1978-08-19"
     }
   ],
   "externalLinks": {
@@ -23,455 +28,390 @@
   },
   "artistSongs": [
     {
-      "rank": 21,
+      "rank": 6,
       "song": {
-        "id": "west-1979-21",
-        "title": "Lost in Star",
+        "id": "west-1980-06",
+        "title": "Crazy Little Thing Called Love",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1979-14",
+        "title": "Sun Sky",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 32,
+      "rank": 17,
       "song": {
-        "id": "west-1979-32",
-        "title": "Sweet Thunder",
+        "id": "west-1979-17",
+        "title": "Rose Lights",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 58,
+      "rank": 36,
       "song": {
-        "id": "west-1979-58",
-        "title": "Fire Rain",
+        "id": "west-1979-36",
+        "title": "Into the Rose",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 65,
+      "rank": 37,
       "song": {
-        "id": "west-1979-65",
-        "title": "Broken Star",
+        "id": "west-1979-37",
+        "title": "Golden Thunder",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 68,
+      "rank": 56,
       "song": {
-        "id": "west-1979-68",
-        "title": "Lost in Flame",
+        "id": "west-1979-56",
+        "title": "Sky Dreams",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1979-82",
-        "title": "Dawn Tears",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1979-87",
-        "title": "Chasing Ice",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1978-11",
-        "title": "Chasing Summer",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1978-21",
-        "title": "Broken Fire",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1978-49",
-        "title": "Wild Moon",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1978-57",
-        "title": "Running Winter",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1978-60",
-        "title": "Wind Lights",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1978-63",
-        "title": "Broken Ice",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1978-88",
-        "title": "River Forever",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1978-94",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1977-25",
-        "title": "Sky Sky",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1977-32",
-        "title": "Ice Moonlight",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1977
     },
     {
       "rank": 73,
       "song": {
-        "id": "west-1977-73",
-        "title": "Rose Rain",
+        "id": "west-1979-73",
+        "title": "Sky Sky",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1979-96",
+        "title": "Dancing Diamond",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1978-19",
+        "title": "Crystal Moonlight",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1978-22",
+        "title": "Running Road",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1978-62",
+        "title": "Ice Fire",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1978-64",
+        "title": "Shadow Dreams",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1978-65",
+        "title": "Moon Night",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1978-70",
+        "title": "Wild City",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1978-83",
+        "title": "Broken Summer",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1978-96",
+        "title": "Dancing Ocean",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1977-22",
+        "title": "Rose Lights",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 90,
+      "rank": 57,
       "song": {
-        "id": "west-1977-90",
-        "title": "Chasing Shadow",
+        "id": "west-1977-57",
+        "title": "Midnight Mountain",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 97,
+      "rank": 64,
       "song": {
-        "id": "west-1977-97",
-        "title": "Flame Tears",
+        "id": "west-1977-64",
+        "title": "City Soul",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 23,
+      "rank": 82,
       "song": {
-        "id": "west-1976-23",
-        "title": "Lost in River",
+        "id": "west-1977-82",
+        "title": "Electric Star",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1977
     },
     {
-      "rank": 28,
+      "rank": 94,
       "song": {
-        "id": "west-1976-28",
-        "title": "Summer Lights",
+        "id": "west-1977-94",
+        "title": "Midnight Gold",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
-      "year": 1976
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1976-33",
-        "title": "Star Night",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1976
+      "year": 1977
     },
     {
       "rank": 45,
       "song": {
         "id": "west-1976-45",
-        "title": "Never Star",
+        "title": "Storm Forever",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 72,
+      "rank": 46,
       "song": {
-        "id": "west-1976-72",
-        "title": "Chasing Summer",
+        "id": "west-1976-46",
+        "title": "Dancing Star",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 73,
+      "rank": 51,
       "song": {
-        "id": "west-1976-73",
-        "title": "Star Sky",
+        "id": "west-1976-51",
+        "title": "Silver Night",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 17,
+      "rank": 71,
       "song": {
-        "id": "west-1975-17",
-        "title": "Light Forever",
+        "id": "west-1976-71",
+        "title": "Running Wave",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1975-15",
+        "title": "Fading Flame",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 26,
+      "rank": 45,
       "song": {
-        "id": "west-1975-26",
-        "title": "Light Love",
+        "id": "west-1975-45",
+        "title": "Golden Moon",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 33,
+      "rank": 58,
       "song": {
-        "id": "west-1975-33",
-        "title": "Snow Rain",
+        "id": "west-1975-58",
+        "title": "Chasing Sun",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 35,
+      "rank": 90,
       "song": {
-        "id": "west-1975-35",
-        "title": "Lost in Fire",
+        "id": "west-1975-90",
+        "title": "Diamond Soul",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 48,
+      "rank": 93,
       "song": {
-        "id": "west-1975-48",
-        "title": "Ocean Lights",
+        "id": "west-1975-93",
+        "title": "Fading Shadow",
         "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1975-74",
-        "title": "Broken Dusk",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1975-75",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1975-83",
-        "title": "Lost in Bridge",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1975-100",
-        "title": "Into the Star",
-        "artist": {
-          "id": "a-carpenters",
-          "name": "The Carpenters"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },

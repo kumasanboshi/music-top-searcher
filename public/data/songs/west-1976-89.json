@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1976-89",
-    "title": "Chasing Storm",
+    "title": "Never Winter",
     "artist": {
-      "id": "a-billy-joel",
-      "name": "Billy Joel"
+      "id": "a-chicago",
+      "name": "Chicago"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 89,
   "cdInfo": [
     {
-      "title": "Chasing Storm",
+      "title": "Never Winter",
       "type": "single",
-      "releaseDate": "1976-07-09"
+      "releaseDate": "1976-06-01"
+    },
+    {
+      "title": "Crystal Stories",
+      "type": "album",
+      "releaseDate": "1976-08-03"
     }
   ],
   "externalLinks": {
@@ -23,117 +28,221 @@
   },
   "artistSongs": [
     {
-      "rank": 9,
+      "rank": 1,
       "song": {
-        "id": "west-1980-09",
-        "title": "It's Still Rock and Roll to Me",
+        "id": "west-1989-01",
+        "title": "Look Away",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1989
     },
     {
-      "rank": 11,
+      "rank": 10,
       "song": {
-        "id": "west-1979-11",
-        "title": "Falling Sky",
+        "id": "west-1982-10",
+        "title": "Hard to Say I'm Sorry",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1979-19",
+        "title": "Sweet Rain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 46,
+      "rank": 23,
       "song": {
-        "id": "west-1979-46",
-        "title": "River Tears",
+        "id": "west-1979-23",
+        "title": "Storm Dreams",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1979-76",
-        "title": "Running Sun",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1978-16",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 25,
       "song": {
-        "id": "west-1978-25",
-        "title": "Thunder Night",
+        "id": "west-1979-25",
+        "title": "Electric Road",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1979-32",
+        "title": "Diamond Way",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1979-41",
+        "title": "Rose Soul",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1979-54",
+        "title": "Light Tears",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1979-63",
+        "title": "Chasing Thunder",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1979-74",
+        "title": "Fading Wind",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1979-83",
+        "title": "Golden Wind",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1979-86",
+        "title": "Shadow Heart",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1979-97",
+        "title": "River Sky",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1978-15",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 33,
+      "rank": 30,
       "song": {
-        "id": "west-1978-33",
-        "title": "Winter Rain",
+        "id": "west-1978-30",
+        "title": "Dancing Fire",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 35,
+      "rank": 37,
       "song": {
-        "id": "west-1978-35",
-        "title": "Sun Tears",
+        "id": "west-1978-37",
+        "title": "Sun Rain",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 50,
+      "rank": 42,
       "song": {
-        "id": "west-1978-50",
-        "title": "Falling Ice",
+        "id": "west-1978-42",
+        "title": "Shining Light",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -143,10 +252,10 @@
       "rank": 51,
       "song": {
         "id": "west-1978-51",
-        "title": "Golden Road",
+        "title": "Lost in Star",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -156,114 +265,257 @@
       "rank": 79,
       "song": {
         "id": "west-1978-79",
-        "title": "Midnight Diamond",
+        "title": "Lost in Diamond",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 83,
+      "rank": 82,
       "song": {
-        "id": "west-1978-83",
-        "title": "Ocean Heart",
+        "id": "west-1978-82",
+        "title": "Wild Ice",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 15,
+      "rank": 97,
       "song": {
-        "id": "west-1977-15",
-        "title": "Running Gold",
+        "id": "west-1978-97",
+        "title": "River Love",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1977-11",
+        "title": "Chasing Gold",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 33,
+      "rank": 16,
       "song": {
-        "id": "west-1977-33",
-        "title": "Electric Gold",
+        "id": "west-1977-16",
+        "title": "Snow Moonlight",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 34,
+      "rank": 19,
       "song": {
-        "id": "west-1977-34",
-        "title": "Dusk Fire",
+        "id": "west-1977-19",
+        "title": "Chasing Silver",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 38,
+      "rank": 21,
       "song": {
-        "id": "west-1977-38",
-        "title": "Falling Sky",
+        "id": "west-1977-21",
+        "title": "Sky Heart",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 76,
+      "rank": 24,
       "song": {
-        "id": "west-1977-76",
-        "title": "Lost in Ice",
+        "id": "west-1977-24",
+        "title": "Mountain Way",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 88,
+      "rank": 26,
       "song": {
-        "id": "west-1977-88",
-        "title": "Winter Soul",
+        "id": "west-1977-26",
+        "title": "Falling Ice",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 17,
+      "rank": 27,
       "song": {
-        "id": "west-1976-17",
-        "title": "Golden Snow",
+        "id": "west-1977-27",
+        "title": "Summer Soul",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1977-47",
+        "title": "Wild Dusk",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1977-48",
+        "title": "Fading Summer",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1977-49",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1977-55",
+        "title": "Fading City",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1977-68",
+        "title": "Never Winter",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1977-79",
+        "title": "Dawn Forever",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1977-86",
+        "title": "Chasing Fire",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1977-93",
+        "title": "Rain Tears",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1976-13",
+        "title": "Into the Ice",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1976-16",
+        "title": "Golden Ice",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -273,10 +525,10 @@
       "rank": 24,
       "song": {
         "id": "west-1976-24",
-        "title": "Mountain Lights",
+        "title": "Silver Soul",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -286,75 +538,23 @@
       "rank": 25,
       "song": {
         "id": "west-1976-25",
-        "title": "Ocean Night",
+        "title": "Wind Sky",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 36,
+      "rank": 29,
       "song": {
-        "id": "west-1976-36",
-        "title": "Falling Mountain",
+        "id": "west-1976-29",
+        "title": "Chasing Sun",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1976-74",
-        "title": "Flame Soul",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1976-81",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1976-83",
-        "title": "Dancing Mountain",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1976-93",
-        "title": "Midnight River",
-        "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -363,37 +563,89 @@
     {
       "rank": 31,
       "song": {
-        "id": "west-1975-31",
-        "title": "Last River",
+        "id": "west-1976-31",
+        "title": "Snow Rain",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 45,
+      "rank": 33,
       "song": {
-        "id": "west-1975-45",
-        "title": "Golden Gold",
+        "id": "west-1976-33",
+        "title": "Electric Crystal",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 84,
+      "rank": 39,
       "song": {
-        "id": "west-1975-84",
-        "title": "Dusk Soul",
+        "id": "west-1976-39",
+        "title": "Falling Thunder",
         "artist": {
-          "id": "a-billy-joel",
-          "name": "Billy Joel"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1976-43",
+        "title": "Sweet Shadow",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1976-49",
+        "title": "River Forever",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1976-70",
+        "title": "Dancing Light",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1975-68",
+        "title": "Fading Bridge",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },

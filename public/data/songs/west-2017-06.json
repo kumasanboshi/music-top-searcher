@@ -15,6 +15,11 @@
       "title": "Rockstar",
       "type": "single",
       "releaseDate": "2017-01-01"
+    },
+    {
+      "title": "River Stories",
+      "type": "album",
+      "releaseDate": "2017-08-25"
     }
   ],
   "externalLinks": {
@@ -75,10 +80,10 @@
       "year": 2019
     },
     {
-      "rank": 44,
+      "rank": 26,
       "song": {
-        "id": "west-2019-44",
-        "title": "Golden Sun",
+        "id": "west-2019-26",
+        "title": "Broken River",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -88,10 +93,10 @@
       "year": 2019
     },
     {
-      "rank": 79,
+      "rank": 28,
       "song": {
-        "id": "west-2019-79",
-        "title": "Chasing Gold",
+        "id": "west-2019-28",
+        "title": "Diamond Forever",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -101,10 +106,62 @@
       "year": 2019
     },
     {
-      "rank": 89,
+      "rank": 41,
       "song": {
-        "id": "west-2019-89",
-        "title": "Dawn Moonlight",
+        "id": "west-2019-41",
+        "title": "Shining Thunder",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2019-55",
+        "title": "Winter Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2019-63",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2019-87",
+        "title": "River Tears",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2019-97",
+        "title": "Broken Light",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -140,10 +197,10 @@
       "year": 2018
     },
     {
-      "rank": 20,
+      "rank": 26,
       "song": {
-        "id": "west-2018-20",
-        "title": "Electric Gold",
+        "id": "west-2018-26",
+        "title": "City Night",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -153,10 +210,10 @@
       "year": 2018
     },
     {
-      "rank": 36,
+      "rank": 34,
       "song": {
-        "id": "west-2018-36",
-        "title": "Wave Rain",
+        "id": "west-2018-34",
+        "title": "Electric Wave",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -166,10 +223,10 @@
       "year": 2018
     },
     {
-      "rank": 42,
+      "rank": 35,
       "song": {
-        "id": "west-2018-42",
-        "title": "Chasing Diamond",
+        "id": "west-2018-35",
+        "title": "Ocean Night",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -179,10 +236,10 @@
       "year": 2018
     },
     {
-      "rank": 48,
+      "rank": 45,
       "song": {
-        "id": "west-2018-48",
-        "title": "Dawn Soul",
+        "id": "west-2018-45",
+        "title": "Last Thunder",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -190,285 +247,259 @@
         "genre": "western"
       },
       "year": 2018
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2018-59",
-        "title": "Broken Crystal",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2018-72",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2018-75",
-        "title": "Dancing Summer",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2017-13",
-        "title": "Moon Lights",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2017-18",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2017-29",
-        "title": "Lost in Mountain",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2017-32",
-        "title": "Silver Heart",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2017-51",
-        "title": "Golden Dawn",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2017-63",
-        "title": "Road Dreams",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2017-70",
-        "title": "Rain Fire",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2017-74",
-        "title": "Wave Love",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2017-92",
-        "title": "Falling Flame",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2016-13",
-        "title": "Golden Storm",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2016-64",
-        "title": "Sweet Storm",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2016-84",
-        "title": "Sun Rain",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2015-38",
-        "title": "Golden Road",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2015-43",
-        "title": "Lost in Rain",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2015
     },
     {
       "rank": 46,
       "song": {
-        "id": "west-2015-46",
-        "title": "Broken Bridge",
+        "id": "west-2018-46",
+        "title": "Sweet River",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2018
     },
     {
-      "rank": 75,
+      "rank": 77,
       "song": {
-        "id": "west-2015-75",
-        "title": "Crystal Night",
+        "id": "west-2018-77",
+        "title": "Rose Forever",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2018
     },
     {
-      "rank": 76,
+      "rank": 80,
       "song": {
-        "id": "west-2015-76",
-        "title": "Snow Fire",
+        "id": "west-2018-80",
+        "title": "Fading Diamond",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2018
     },
     {
-      "rank": 82,
+      "rank": 91,
       "song": {
-        "id": "west-2015-82",
-        "title": "Midnight Rose",
+        "id": "west-2018-91",
+        "title": "Dawn Rain",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2015
+      "year": 2018
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2018-93",
+        "title": "Sun Love",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2017-20",
+        "title": "Lost in Ocean",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2017-25",
+        "title": "Moon Soul",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2017-31",
+        "title": "Wild Sun",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-2017-38",
+        "title": "Under the Mountain",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2017-45",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2017-65",
+        "title": "Never Bridge",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2017-72",
+        "title": "Into the Summer",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2017-77",
+        "title": "Shining Wave",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2017-81",
+        "title": "Ice Sky",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
     },
     {
       "rank": 86,
       "song": {
-        "id": "west-2015-86",
-        "title": "Electric Dawn",
+        "id": "west-2017-86",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2017-94",
+        "title": "Broken Sky",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2016-14",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-2016-70",
+        "title": "Under the City",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2016-72",
+        "title": "Shadow Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2015-22",
+        "title": "Storm Sky",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -478,10 +509,36 @@
       "year": 2015
     },
     {
-      "rank": 95,
+      "rank": 27,
       "song": {
-        "id": "west-2015-95",
-        "title": "Falling Sun",
+        "id": "west-2015-27",
+        "title": "Dusk Night",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2015-28",
+        "title": "Under the Thunder",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2015-30",
+        "title": "Ice Tears",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -493,73 +550,73 @@
     {
       "rank": 44,
       "song": {
-        "id": "west-2014-44",
-        "title": "Flame Tears",
+        "id": "west-2015-44",
+        "title": "Wind Soul",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2014
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2014-52",
-        "title": "Dancing Moon",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2014
+      "year": 2015
     },
     {
       "rank": 55,
       "song": {
-        "id": "west-2014-55",
-        "title": "Lost in Star",
+        "id": "west-2015-55",
+        "title": "Fire Lights",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2014
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2014-77",
-        "title": "Shining Flame",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2014-82",
-        "title": "Last Snow",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2014
+      "year": 2015
     },
     {
       "rank": 83,
       "song": {
-        "id": "west-2014-83",
-        "title": "Golden Snow",
+        "id": "west-2015-83",
+        "title": "Sky Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2015-96",
+        "title": "River Love",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2015-98",
+        "title": "Light Dreams",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2014-32",
+        "title": "Golden Diamond",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -569,10 +626,62 @@
       "year": 2014
     },
     {
-      "rank": 15,
+      "rank": 35,
       "song": {
-        "id": "west-2013-15",
-        "title": "Bridge Lights",
+        "id": "west-2014-35",
+        "title": "Shining Snow",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2014-75",
+        "title": "Fading Fire",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2014-84",
+        "title": "Into the Bridge",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2014-94",
+        "title": "Dawn Sky",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2013-13",
+        "title": "Shining Dawn",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -582,10 +691,10 @@
       "year": 2013
     },
     {
-      "rank": 16,
+      "rank": 14,
       "song": {
-        "id": "west-2013-16",
-        "title": "Bridge Night",
+        "id": "west-2013-14",
+        "title": "Lost in Ocean",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -595,10 +704,10 @@
       "year": 2013
     },
     {
-      "rank": 59,
+      "rank": 26,
       "song": {
-        "id": "west-2013-59",
-        "title": "Dancing Summer",
+        "id": "west-2013-26",
+        "title": "Diamond Way",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -608,10 +717,10 @@
       "year": 2013
     },
     {
-      "rank": 77,
+      "rank": 56,
       "song": {
-        "id": "west-2013-77",
-        "title": "Golden Ice",
+        "id": "west-2013-56",
+        "title": "Under the Wave",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -621,10 +730,10 @@
       "year": 2013
     },
     {
-      "rank": 79,
+      "rank": 74,
       "song": {
-        "id": "west-2013-79",
-        "title": "Electric Mountain",
+        "id": "west-2013-74",
+        "title": "Shadow Soul",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -634,49 +743,10 @@
       "year": 2013
     },
     {
-      "rank": 89,
+      "rank": 26,
       "song": {
-        "id": "west-2013-89",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2012-24",
-        "title": "Fire Dreams",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2012-28",
-        "title": "Last Shadow",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2012-31",
-        "title": "Fire Rain",
+        "id": "west-2012-26",
+        "title": "Last Bridge",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -689,7 +759,7 @@
       "rank": 40,
       "song": {
         "id": "west-2012-40",
-        "title": "Wild Dawn",
+        "title": "Broken Ocean",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -699,10 +769,10 @@
       "year": 2012
     },
     {
-      "rank": 53,
+      "rank": 64,
       "song": {
-        "id": "west-2012-53",
-        "title": "Never Storm",
+        "id": "west-2012-64",
+        "title": "Light Soul",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -712,10 +782,10 @@
       "year": 2012
     },
     {
-      "rank": 54,
+      "rank": 68,
       "song": {
-        "id": "west-2012-54",
-        "title": "Mountain Soul",
+        "id": "west-2012-68",
+        "title": "Dusk Forever",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -725,10 +795,10 @@
       "year": 2012
     },
     {
-      "rank": 84,
+      "rank": 88,
       "song": {
-        "id": "west-2012-84",
-        "title": "Electric Thunder",
+        "id": "west-2012-88",
+        "title": "Sun Heart",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -738,10 +808,36 @@
       "year": 2012
     },
     {
-      "rank": 36,
+      "rank": 91,
       "song": {
-        "id": "west-2011-36",
-        "title": "Road Soul",
+        "id": "west-2012-91",
+        "title": "Under the Mountain",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2012-96",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2011-35",
+        "title": "Running Wind",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -751,10 +847,49 @@
       "year": 2011
     },
     {
-      "rank": 17,
+      "rank": 69,
       "song": {
-        "id": "west-2010-17",
-        "title": "River Tears",
+        "id": "west-2011-69",
+        "title": "Thunder Dreams",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-2011-71",
+        "title": "Into the Gold",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2011-90",
+        "title": "Rose Night",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2010-34",
+        "title": "Sky Night",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -764,10 +899,10 @@
       "year": 2010
     },
     {
-      "rank": 18,
+      "rank": 37,
       "song": {
-        "id": "west-2010-18",
-        "title": "Snow Dreams",
+        "id": "west-2010-37",
+        "title": "Thunder Forever",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"
@@ -777,49 +912,10 @@
       "year": 2010
     },
     {
-      "rank": 32,
+      "rank": 99,
       "song": {
-        "id": "west-2010-32",
-        "title": "Falling Wind",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2010-61",
-        "title": "Ocean Soul",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2010-87",
-        "title": "Broken Wave",
-        "artist": {
-          "id": "a-post-malone",
-          "name": "Post Malone"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2010-100",
-        "title": "Fire Forever",
+        "id": "west-2010-99",
+        "title": "Sweet Moon",
         "artist": {
           "id": "a-post-malone",
           "name": "Post Malone"

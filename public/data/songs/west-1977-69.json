@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1977-69",
-    "title": "Sky Forever",
+    "title": "Electric Sun",
     "artist": {
       "id": "a-fleetwood-mac",
       "name": "Fleetwood Mac"
@@ -12,9 +12,14 @@
   "rank": 69,
   "cdInfo": [
     {
-      "title": "Sky Forever",
+      "title": "Electric Sun",
       "type": "single",
-      "releaseDate": "1977-12-27"
+      "releaseDate": "1977-01-02"
+    },
+    {
+      "title": "Sun Sessions",
+      "type": "album",
+      "releaseDate": "1977-01-22"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 18,
       "song": {
-        "id": "west-1979-14",
-        "title": "Winter Soul",
+        "id": "west-1979-18",
+        "title": "Star Soul",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -36,10 +41,10 @@
       "year": 1979
     },
     {
-      "rank": 55,
+      "rank": 33,
       "song": {
-        "id": "west-1979-55",
-        "title": "Wave Love",
+        "id": "west-1979-33",
+        "title": "Last Fire",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -49,10 +54,10 @@
       "year": 1979
     },
     {
-      "rank": 69,
+      "rank": 45,
       "song": {
-        "id": "west-1979-69",
-        "title": "Falling Bridge",
+        "id": "west-1979-45",
+        "title": "Wild Ocean",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -60,90 +65,38 @@
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1979-73",
-        "title": "Golden Star",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1978-13",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1978-14",
-        "title": "Running Snow",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1978-31",
-        "title": "Shadow Rain",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1978-40",
-        "title": "Dancing Gold",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1978-43",
-        "title": "Snow Dreams",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 62,
       "song": {
-        "id": "west-1978-62",
-        "title": "Golden Dusk",
+        "id": "west-1979-62",
+        "title": "Wind Way",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1979-66",
+        "title": "Chasing Rose",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1978-18",
+        "title": "Electric River",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -153,10 +106,10 @@
       "year": 1978
     },
     {
-      "rank": 64,
+      "rank": 21,
       "song": {
-        "id": "west-1978-64",
-        "title": "Wave Moonlight",
+        "id": "west-1978-21",
+        "title": "Into the Wind",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -166,10 +119,49 @@
       "year": 1978
     },
     {
-      "rank": 75,
+      "rank": 27,
       "song": {
-        "id": "west-1978-75",
-        "title": "Moon Lights",
+        "id": "west-1978-27",
+        "title": "Wild Sun",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1978-36",
+        "title": "Into the Rose",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1978-50",
+        "title": "Star Fire",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1978-59",
+        "title": "Wind Heart",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -182,20 +174,7 @@
       "rank": 81,
       "song": {
         "id": "west-1978-81",
-        "title": "Electric Ocean",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1978-90",
-        "title": "Rose Heart",
+        "title": "Running Sun",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -218,10 +197,10 @@
       "year": 1977
     },
     {
-      "rank": 19,
+      "rank": 15,
       "song": {
-        "id": "west-1977-19",
-        "title": "Moon Fire",
+        "id": "west-1977-15",
+        "title": "Midnight Ice",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -231,10 +210,10 @@
       "year": 1977
     },
     {
-      "rank": 41,
+      "rank": 39,
       "song": {
-        "id": "west-1977-41",
-        "title": "Wild Dawn",
+        "id": "west-1977-39",
+        "title": "Falling Thunder",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -244,10 +223,10 @@
       "year": 1977
     },
     {
-      "rank": 52,
+      "rank": 61,
       "song": {
-        "id": "west-1977-52",
-        "title": "Dancing Moon",
+        "id": "west-1977-61",
+        "title": "City Fire",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -257,36 +236,10 @@
       "year": 1977
     },
     {
-      "rank": 59,
+      "rank": 18,
       "song": {
-        "id": "west-1977-59",
-        "title": "Light Dreams",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1977-96",
-        "title": "River Night",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1976-31",
-        "title": "Sweet Rose",
+        "id": "west-1976-18",
+        "title": "Sun Night",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -296,10 +249,10 @@
       "year": 1976
     },
     {
-      "rank": 59,
+      "rank": 21,
       "song": {
-        "id": "west-1976-59",
-        "title": "Lost in Snow",
+        "id": "west-1976-21",
+        "title": "Star Moonlight",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -309,23 +262,10 @@
       "year": 1976
     },
     {
-      "rank": 62,
+      "rank": 22,
       "song": {
-        "id": "west-1976-62",
-        "title": "Golden Storm",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1976-76",
-        "title": "Golden River",
+        "id": "west-1976-22",
+        "title": "Light Heart",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -337,8 +277,73 @@
     {
       "rank": 34,
       "song": {
-        "id": "west-1975-34",
-        "title": "Running Sun",
+        "id": "west-1976-34",
+        "title": "Fire Heart",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1976-35",
+        "title": "Into the City",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1976-48",
+        "title": "Gold Way",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1976-67",
+        "title": "Shining Summer",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1976-85",
+        "title": "Light Forever",
+        "artist": {
+          "id": "a-fleetwood-mac",
+          "name": "Fleetwood Mac"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1975-12",
+        "title": "Golden Star",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -348,10 +353,10 @@
       "year": 1975
     },
     {
-      "rank": 51,
+      "rank": 74,
       "song": {
-        "id": "west-1975-51",
-        "title": "Never Summer",
+        "id": "west-1975-74",
+        "title": "Under the Wind",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -361,10 +366,10 @@
       "year": 1975
     },
     {
-      "rank": 69,
+      "rank": 81,
       "song": {
-        "id": "west-1975-69",
-        "title": "Lost in Summer",
+        "id": "west-1975-81",
+        "title": "River Love",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -374,10 +379,10 @@
       "year": 1975
     },
     {
-      "rank": 80,
+      "rank": 84,
       "song": {
-        "id": "west-1975-80",
-        "title": "Midnight Rose",
+        "id": "west-1975-84",
+        "title": "Shadow Moonlight",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"
@@ -387,10 +392,10 @@
       "year": 1975
     },
     {
-      "rank": 95,
+      "rank": 99,
       "song": {
-        "id": "west-1975-95",
-        "title": "Thunder Soul",
+        "id": "west-1975-99",
+        "title": "Broken Diamond",
         "artist": {
           "id": "a-fleetwood-mac",
           "name": "Fleetwood Mac"

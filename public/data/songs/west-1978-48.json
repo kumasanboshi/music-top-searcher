@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1978-48",
-    "title": "Running Flame",
+    "title": "Lost in Wave",
     "artist": {
       "id": "a-wings",
       "name": "Paul McCartney & Wings"
@@ -12,9 +12,14 @@
   "rank": 48,
   "cdInfo": [
     {
-      "title": "Running Flame",
+      "title": "Lost in Wave",
       "type": "single",
-      "releaseDate": "1978-10-10"
+      "releaseDate": "1978-03-20"
+    },
+    {
+      "title": "Best of Rose",
+      "type": "album",
+      "releaseDate": "1978-06-21"
     }
   ],
   "externalLinks": {
@@ -23,36 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 18,
-      "song": {
-        "id": "west-1979-18",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1979-30",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
       "rank": 38,
       "song": {
         "id": "west-1979-38",
-        "title": "Falling Light",
+        "title": "Chasing Fire",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -62,10 +41,10 @@
       "year": 1979
     },
     {
-      "rank": 52,
+      "rank": 44,
       "song": {
-        "id": "west-1979-52",
-        "title": "Diamond Dreams",
+        "id": "west-1979-44",
+        "title": "Sweet Winter",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -73,103 +52,51 @@
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1979-53",
-        "title": "River Moonlight",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1979-66",
-        "title": "Last Thunder",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1979-78",
-        "title": "Fading Crystal",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1979-80",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1979-98",
-        "title": "Running Diamond",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1978-39",
-        "title": "Electric Silver",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1978-56",
-        "title": "Sun Fire",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 59,
       "song": {
-        "id": "west-1978-59",
-        "title": "Shining Sun",
+        "id": "west-1979-59",
+        "title": "Moon Tears",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1979-89",
+        "title": "Fire Way",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1979-92",
+        "title": "Never Shadow",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1978-25",
+        "title": "Never Ice",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -179,10 +106,10 @@
       "year": 1978
     },
     {
-      "rank": 69,
+      "rank": 43,
       "song": {
-        "id": "west-1978-69",
-        "title": "Never Road",
+        "id": "west-1978-43",
+        "title": "Gold Rain",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -192,10 +119,10 @@
       "year": 1978
     },
     {
-      "rank": 86,
+      "rank": 54,
       "song": {
-        "id": "west-1978-86",
-        "title": "Rose Way",
+        "id": "west-1978-54",
+        "title": "Midnight Moon",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -205,10 +132,10 @@
       "year": 1978
     },
     {
-      "rank": 98,
+      "rank": 93,
       "song": {
-        "id": "west-1978-98",
-        "title": "Ice Tears",
+        "id": "west-1978-93",
+        "title": "Under the City",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -218,10 +145,10 @@
       "year": 1978
     },
     {
-      "rank": 18,
+      "rank": 25,
       "song": {
-        "id": "west-1977-18",
-        "title": "River Lights",
+        "id": "west-1977-25",
+        "title": "Chasing Thunder",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -231,10 +158,10 @@
       "year": 1977
     },
     {
-      "rank": 37,
+      "rank": 34,
       "song": {
-        "id": "west-1977-37",
-        "title": "Under the Flame",
+        "id": "west-1977-34",
+        "title": "Into the Bridge",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -244,10 +171,10 @@
       "year": 1977
     },
     {
-      "rank": 56,
+      "rank": 35,
       "song": {
-        "id": "west-1977-56",
-        "title": "Diamond Dreams",
+        "id": "west-1977-35",
+        "title": "Never Bridge",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -257,23 +184,10 @@
       "year": 1977
     },
     {
-      "rank": 61,
+      "rank": 76,
       "song": {
-        "id": "west-1977-61",
-        "title": "Falling Mountain",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1977-81",
-        "title": "Broken Gold",
+        "id": "west-1977-76",
+        "title": "Wild Summer",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -296,10 +210,36 @@
       "year": 1976
     },
     {
+      "rank": 19,
+      "song": {
+        "id": "west-1976-19",
+        "title": "Rain Way",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1976-20",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
       "rank": 27,
       "song": {
         "id": "west-1976-27",
-        "title": "Ice Heart",
+        "title": "Running Diamond",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -309,10 +249,10 @@
       "year": 1976
     },
     {
-      "rank": 38,
+      "rank": 36,
       "song": {
-        "id": "west-1976-38",
-        "title": "Lost in Dusk",
+        "id": "west-1976-36",
+        "title": "Rain Forever",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -322,10 +262,10 @@
       "year": 1976
     },
     {
-      "rank": 40,
+      "rank": 63,
       "song": {
-        "id": "west-1976-40",
-        "title": "Sweet Gold",
+        "id": "west-1976-63",
+        "title": "Shining Moon",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -335,10 +275,10 @@
       "year": 1976
     },
     {
-      "rank": 43,
+      "rank": 68,
       "song": {
-        "id": "west-1976-43",
-        "title": "Into the Wind",
+        "id": "west-1976-68",
+        "title": "Golden City",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -348,10 +288,10 @@
       "year": 1976
     },
     {
-      "rank": 71,
+      "rank": 83,
       "song": {
-        "id": "west-1976-71",
-        "title": "Sweet Star",
+        "id": "west-1976-83",
+        "title": "Storm Love",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
@@ -361,36 +301,62 @@
       "year": 1976
     },
     {
-      "rank": 78,
+      "rank": 13,
       "song": {
-        "id": "west-1976-78",
-        "title": "Midnight Dusk",
+        "id": "west-1975-13",
+        "title": "Fading Mountain",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1975
     },
     {
-      "rank": 91,
+      "rank": 37,
       "song": {
-        "id": "west-1976-91",
-        "title": "Mountain Fire",
+        "id": "west-1975-37",
+        "title": "Wild Sun",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1975
     },
     {
-      "rank": 15,
+      "rank": 57,
       "song": {
-        "id": "west-1975-15",
-        "title": "Moon Tears",
+        "id": "west-1975-57",
+        "title": "Fading City",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1975-66",
+        "title": "Ice Love",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1975-100",
+        "title": "Electric Light",
         "artist": {
           "id": "a-wings",
           "name": "Paul McCartney & Wings"

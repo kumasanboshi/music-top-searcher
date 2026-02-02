@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1989-61",
-    "title": "Last Ice",
+    "title": "Under the Ocean",
     "artist": {
-      "id": "a-madonna",
-      "name": "Madonna"
+      "id": "a-whitney",
+      "name": "Whitney Houston"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 61,
   "cdInfo": [
     {
-      "title": "Last Ice",
+      "title": "Under the Ocean",
       "type": "single",
-      "releaseDate": "1989-11-02"
+      "releaseDate": "1989-02-12"
+    },
+    {
+      "title": "Star Chronicles",
+      "type": "album",
+      "releaseDate": "1989-01-22"
     }
   ],
   "externalLinks": {
@@ -23,390 +28,1001 @@
   },
   "artistSongs": [
     {
-      "rank": 10,
+      "rank": 22,
       "song": {
-        "id": "west-2000-10",
-        "title": "Music",
+        "id": "west-1999-22",
+        "title": "Storm Way",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
-      "year": 2000
+      "year": 1999
     },
     {
-      "rank": 8,
+      "rank": 50,
       "song": {
-        "id": "west-1995-08",
-        "title": "Take a Bow",
+        "id": "west-1999-50",
+        "title": "Chasing Rain",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1999-51",
+        "title": "Golden Wave",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1999-61",
+        "title": "Never Thunder",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1999-70",
+        "title": "Wild Bridge",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1999-96",
+        "title": "Never Dusk",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1998-14",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1998-24",
+        "title": "Lost in Dawn",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1998-45",
+        "title": "Golden Bridge",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1998-55",
+        "title": "Thunder Dreams",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1998-63",
+        "title": "Fading Road",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1998-70",
+        "title": "Thunder Forever",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1998-87",
+        "title": "Under the Sun",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1998-98",
+        "title": "Sky Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1997-22",
+        "title": "Rose Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1997-91",
+        "title": "Moon Sky",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1997-96",
+        "title": "Wild Wave",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1996-15",
+        "title": "Into the Bridge",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1996-23",
+        "title": "Winter Soul",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1996-37",
+        "title": "Storm Way",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1996-81",
+        "title": "Running Shadow",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1995-47",
+        "title": "Wild Moon",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 4,
+      "rank": 53,
       "song": {
-        "id": "west-1990-04",
-        "title": "Vogue",
+        "id": "west-1995-53",
+        "title": "Into the Winter",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1995-62",
+        "title": "Shadow Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1995-79",
+        "title": "Chasing Ocean",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1994-45",
+        "title": "Dancing Diamond",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1993-26",
+        "title": "Falling Rose",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1993-46",
+        "title": "Chasing Diamond",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1993-47",
+        "title": "Silver Love",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1993-49",
+        "title": "River Love",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1993-79",
+        "title": "Silver Night",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1993-90",
+        "title": "Sweet Snow",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1992-15",
+        "title": "Chasing Winter",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1992-54",
+        "title": "Storm Moonlight",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1992-57",
+        "title": "City Soul",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1992-58",
+        "title": "Silver Dreams",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1992-100",
+        "title": "Dancing Rose",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1991-15",
+        "title": "Crystal Night",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1991-26",
+        "title": "Midnight Moon",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1991-44",
+        "title": "Falling Crystal",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1991-46",
+        "title": "Midnight Gold",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1991-61",
+        "title": "Midnight Flame",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1991-80",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1991-91",
+        "title": "Sky Dreams",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1991-94",
+        "title": "Falling Flame",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1991-95",
+        "title": "Summer Tears",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1990-25",
+        "title": "Running Wave",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 10,
+      "rank": 36,
       "song": {
-        "id": "west-1989-10",
-        "title": "Like a Prayer",
+        "id": "west-1990-36",
+        "title": "Midnight Rose",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
-      "year": 1989
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1989-90",
-        "title": "Last Shadow",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1988-25",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1988-30",
-        "title": "Fading Star",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1988-34",
-        "title": "Wild Star",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1988-45",
-        "title": "Lost in Gold",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1988-65",
-        "title": "Diamond Moonlight",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1988-66",
-        "title": "Wild Fire",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1988-71",
-        "title": "Dawn Fire",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1988-74",
-        "title": "Silver Moonlight",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1988-83",
-        "title": "Thunder Lights",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 10,
-      "song": {
-        "id": "west-1987-10",
-        "title": "Open Your Heart",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1987-23",
-        "title": "Rain Night",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1987-54",
-        "title": "Sun Forever",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1987-55",
-        "title": "Fading Diamond",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1987-57",
-        "title": "Wind Moonlight",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1987-62",
-        "title": "Fire Night",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1987-63",
-        "title": "Sweet Dusk",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "west-1986-09",
-        "title": "Papa Don't Preach",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 10,
-      "song": {
-        "id": "west-1986-10",
-        "title": "Live to Tell",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1986-15",
-        "title": "Lost in Moon",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1986-28",
-        "title": "Sweet Mountain",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1986-31",
-        "title": "Silver Dreams",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1986
+      "year": 1990
     },
     {
       "rank": 41,
       "song": {
-        "id": "west-1986-41",
-        "title": "Midnight Wind",
+        "id": "west-1990-41",
+        "title": "Into the Flame",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1990-89",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1990-93",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1990-95",
+        "title": "Fading Dusk",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1989-33",
+        "title": "Lost in Light",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1989-47",
+        "title": "Fire Sky",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1989-50",
+        "title": "Diamond Tears",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1989-64",
+        "title": "Bridge Way",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1989-65",
+        "title": "Gold Heart",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1988-16",
+        "title": "Storm Sky",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1988-76",
+        "title": "River Tears",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1987-14",
+        "title": "Sweet Shadow",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1987-22",
+        "title": "Moon Tears",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1987-49",
+        "title": "Light Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1987-73",
+        "title": "Rain Forever",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1987-82",
+        "title": "Rose Moonlight",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1987-96",
+        "title": "Running City",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1986-12",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 2,
+      "rank": 18,
       "song": {
-        "id": "west-1985-02",
-        "title": "Like a Virgin",
+        "id": "west-1986-18",
+        "title": "Fading Winter",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1986-22",
+        "title": "City Forever",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1986-42",
+        "title": "Dancing Mountain",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1986-48",
+        "title": "Under the Crystal",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1986-54",
+        "title": "Rose Way",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1986-67",
+        "title": "Last Dawn",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1985-13",
+        "title": "Sky Soul",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 29,
+      "rank": 14,
       "song": {
-        "id": "west-1985-29",
-        "title": "Storm Tears",
+        "id": "west-1985-14",
+        "title": "Light Heart",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 49,
+      "rank": 18,
       "song": {
-        "id": "west-1985-49",
-        "title": "Chasing Crystal",
+        "id": "west-1985-18",
+        "title": "Midnight Snow",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1985-37",
+        "title": "Summer Dreams",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1985-45",
+        "title": "Wave Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
@@ -416,179 +1032,127 @@
       "rank": 60,
       "song": {
         "id": "west-1985-60",
-        "title": "Fading Ice",
+        "title": "Rain Heart",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 60,
-      "song": {
-        "id": "west-1984-60",
-        "title": "Last Gold",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1984-65",
-        "title": "Into the Wind",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1984-77",
-        "title": "Sweet City",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
       "rank": 79,
       "song": {
-        "id": "west-1984-79",
-        "title": "Wild River",
+        "id": "west-1985-79",
+        "title": "Into the Sky",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1985-97",
+        "title": "Light Dreams",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1984-74",
+        "title": "Road Fire",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 82,
+      "rank": 94,
       "song": {
-        "id": "west-1984-82",
-        "title": "Mountain Fire",
+        "id": "west-1984-94",
+        "title": "Mountain Moonlight",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 91,
+      "rank": 17,
       "song": {
-        "id": "west-1984-91",
-        "title": "Snow Forever",
+        "id": "west-1983-17",
+        "title": "Under the Summer",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1984-98",
-        "title": "Broken City",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1983-12",
-        "title": "Broken Ocean",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 75,
+      "rank": 26,
       "song": {
-        "id": "west-1983-75",
-        "title": "Last Ocean",
+        "id": "west-1983-26",
+        "title": "Star Rain",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 85,
+      "rank": 64,
       "song": {
-        "id": "west-1983-85",
-        "title": "Into the Ice",
+        "id": "west-1983-64",
+        "title": "Fading Fire",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 88,
+      "rank": 67,
       "song": {
-        "id": "west-1983-88",
-        "title": "Storm Sky",
+        "id": "west-1983-67",
+        "title": "Sky Forever",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1983
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1982-11",
-        "title": "Broken Road",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1982
     },
     {
       "rank": 17,
       "song": {
         "id": "west-1982-17",
-        "title": "Running Wind",
+        "title": "Gold Sky",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
@@ -598,205 +1162,218 @@
       "rank": 24,
       "song": {
         "id": "west-1982-24",
-        "title": "Chasing Flame",
+        "title": "Summer Way",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 34,
+      "rank": 50,
       "song": {
-        "id": "west-1982-34",
-        "title": "Never Star",
+        "id": "west-1982-50",
+        "title": "Into the Rose",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 44,
+      "rank": 52,
       "song": {
-        "id": "west-1982-44",
-        "title": "Ice Night",
+        "id": "west-1982-52",
+        "title": "Fading Rose",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1982
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1982-83",
+        "title": "Light Soul",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1982-87",
+        "title": "Dancing Sun",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1981-11",
+        "title": "Wind Soul",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1981-16",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1981-56",
+        "title": "Silver Night",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1981-67",
+        "title": "City Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1981
     },
     {
       "rank": 69,
       "song": {
-        "id": "west-1982-69",
-        "title": "Chasing Winter",
+        "id": "west-1981-69",
+        "title": "Wind Way",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1982-97",
-        "title": "Chasing Crystal",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1981-31",
-        "title": "City Way",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 57,
+      "rank": 85,
       "song": {
-        "id": "west-1981-57",
-        "title": "Wild Silver",
+        "id": "west-1981-85",
+        "title": "Sun Fire",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1981
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1981-86",
+        "title": "Sweet Ice",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1981-98",
+        "title": "Winter Forever",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1981-99",
+        "title": "Running River",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1980-13",
+        "title": "Broken Fire",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      },
+      "year": 1980
     },
     {
       "rank": 80,
       "song": {
-        "id": "west-1981-80",
-        "title": "Fading Summer",
+        "id": "west-1980-80",
+        "title": "Lost in Winter",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1981-92",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1980-34",
-        "title": "Winter Way",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 35,
+      "rank": 98,
       "song": {
-        "id": "west-1980-35",
-        "title": "Road Dreams",
+        "id": "west-1980-98",
+        "title": "Mountain Soul",
         "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1980-37",
-        "title": "Thunder Way",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1980-46",
-        "title": "Fading Sky",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1980-58",
-        "title": "Electric Sky",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1980-59",
-        "title": "Silver Heart",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1980-84",
-        "title": "Wave Soul",
-        "artist": {
-          "id": "a-madonna",
-          "name": "Madonna"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       },

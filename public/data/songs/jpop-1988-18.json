@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1988-18",
-    "title": "花の歌",
+    "title": "最後の桜",
     "artist": {
-      "id": "a-shonentai",
-      "name": "少年隊"
+      "id": "a-matsuda-seiko",
+      "name": "松田聖子"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 18,
   "cdInfo": [
     {
-      "title": "花の歌",
+      "title": "最後の桜",
       "type": "single",
-      "releaseDate": "1988-04-16"
+      "releaseDate": "1988-08-08"
+    },
+    {
+      "title": "波の世界",
+      "type": "album",
+      "releaseDate": "1988-09-11"
     }
   ],
   "externalLinks": {
@@ -23,39 +28,65 @@
   },
   "artistSongs": [
     {
-      "rank": 16,
+      "rank": 18,
       "song": {
-        "id": "jpop-1989-16",
-        "title": "青い約束",
+        "id": "jpop-1989-18",
+        "title": "恋の記憶",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 41,
+      "rank": 70,
       "song": {
-        "id": "jpop-1989-41",
-        "title": "空の空",
+        "id": "jpop-1989-70",
+        "title": "約束の朝",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 65,
+      "rank": 73,
       "song": {
-        "id": "jpop-1989-65",
-        "title": "約束の約束",
+        "id": "jpop-1989-73",
+        "title": "恋ストーリー",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1989-78",
+        "title": "恋の森",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1989-79",
+        "title": "虹のリズム",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
@@ -65,49 +96,62 @@
       "rank": 80,
       "song": {
         "id": "jpop-1989-80",
-        "title": "風の愛",
+        "title": "森の海",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 11,
+      "rank": 82,
       "song": {
-        "id": "jpop-1988-11",
-        "title": "光の街",
+        "id": "jpop-1989-82",
+        "title": "愛の季節",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-1988-21",
+        "title": "夢の夢",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 29,
+      "rank": 23,
       "song": {
-        "id": "jpop-1988-29",
-        "title": "星の海",
+        "id": "jpop-1988-23",
+        "title": "君の夢",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 47,
+      "rank": 43,
       "song": {
-        "id": "jpop-1988-47",
-        "title": "夢のリズム",
+        "id": "jpop-1988-43",
+        "title": "冬ストーリー",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
@@ -117,179 +161,166 @@
       "rank": 49,
       "song": {
         "id": "jpop-1988-49",
-        "title": "雪物語",
+        "title": "雨のリズム",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1988
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1988-50",
-        "title": "風の影",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1988-70",
-        "title": "世界のリズム",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "jpop-1987-08",
-        "title": "君だけに",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1987-12",
-        "title": "ミッドナイト海",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1987-37",
-        "title": "風の雨",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-1987-44",
-        "title": "雪の花",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1987-46",
-        "title": "世界の夜",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-1987-47",
-        "title": "恋の街",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
     },
     {
       "rank": 68,
       "song": {
-        "id": "jpop-1987-68",
-        "title": "愛サンセット",
+        "id": "jpop-1988-68",
+        "title": "約束の虹",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1988-76",
+        "title": "永遠の星",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1988-88",
+        "title": "波の記憶",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1987-33",
+        "title": "風の桜",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 3,
+      "rank": 39,
       "song": {
-        "id": "jpop-1986-03",
-        "title": "仮面舞踏会",
+        "id": "jpop-1987-39",
+        "title": "月物語",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
-      "year": 1986
+      "year": 1987
     },
     {
-      "rank": 10,
+      "rank": 54,
       "song": {
-        "id": "jpop-1986-10",
-        "title": "仮面ライダーBLACK",
+        "id": "jpop-1987-54",
+        "title": "君の愛",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
-      "year": 1986
+      "year": 1987
     },
     {
-      "rank": 15,
+      "rank": 67,
       "song": {
-        "id": "jpop-1986-15",
-        "title": "風の影",
+        "id": "jpop-1987-67",
+        "title": "朝の道",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
-      "year": 1986
+      "year": 1987
     },
     {
-      "rank": 18,
+      "rank": 70,
       "song": {
-        "id": "jpop-1986-18",
-        "title": "雪ストーリー",
+        "id": "jpop-1987-70",
+        "title": "恋の旅",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1987-73",
+        "title": "約束の希望",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1987-96",
+        "title": "風の空",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1987-100",
+        "title": "最後の雪",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1986-16",
+        "title": "時間の海",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
@@ -299,36 +330,36 @@
       "rank": 22,
       "song": {
         "id": "jpop-1986-22",
-        "title": "朝の光",
+        "title": "涙の未来",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 39,
+      "rank": 31,
       "song": {
-        "id": "jpop-1986-39",
-        "title": "風の光",
+        "id": "jpop-1986-31",
+        "title": "夢の希望",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 61,
+      "rank": 36,
       "song": {
-        "id": "jpop-1986-61",
-        "title": "最後の冬",
+        "id": "jpop-1986-36",
+        "title": "時間メロディ",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
@@ -338,101 +369,179 @@
       "rank": 77,
       "song": {
         "id": "jpop-1986-77",
-        "title": "森の記憶",
+        "title": "朝の道",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 80,
+      "rank": 91,
       "song": {
-        "id": "jpop-1986-80",
-        "title": "風フォーエバー",
+        "id": "jpop-1986-91",
+        "title": "最後の波",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 94,
+      "rank": 10,
       "song": {
-        "id": "jpop-1986-94",
-        "title": "最後の約束",
+        "id": "jpop-1985-10",
+        "title": "天使のウィンク",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1985-27",
-        "title": "太陽の街",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 53,
+      "rank": 28,
       "song": {
-        "id": "jpop-1985-53",
-        "title": "虹サンセット",
+        "id": "jpop-1985-28",
+        "title": "恋の旅",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 79,
+      "rank": 49,
       "song": {
-        "id": "jpop-1985-79",
-        "title": "月の約束",
+        "id": "jpop-1985-49",
+        "title": "影の街",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 94,
+      "rank": 50,
       "song": {
-        "id": "jpop-1985-94",
-        "title": "涙の時間",
+        "id": "jpop-1985-50",
+        "title": "永遠の時間",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 24,
+      "rank": 52,
       "song": {
-        "id": "jpop-1984-24",
-        "title": "約束のリズム",
+        "id": "jpop-1985-52",
+        "title": "最後の影",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-1985-64",
+        "title": "街の記憶",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-1985-66",
+        "title": "雨の約束",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1985-75",
+        "title": "夢の記憶",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1985-86",
+        "title": "海の光",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1985-99",
+        "title": "空のリズム",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1984-05",
+        "title": "Rock'n Rouge",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-1984-29",
+        "title": "星の希望",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
@@ -442,127 +551,153 @@
       "rank": 33,
       "song": {
         "id": "jpop-1984-33",
-        "title": "恋の影",
+        "title": "永遠の未来",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 39,
+      "rank": 41,
       "song": {
-        "id": "jpop-1984-39",
-        "title": "永遠の太陽",
+        "id": "jpop-1984-41",
+        "title": "恋の季節",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 53,
+      "rank": 56,
       "song": {
-        "id": "jpop-1984-53",
-        "title": "君の太陽",
+        "id": "jpop-1984-56",
+        "title": "約束のかけら",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 64,
+      "rank": 57,
       "song": {
-        "id": "jpop-1984-64",
-        "title": "夢の影",
+        "id": "jpop-1984-57",
+        "title": "恋の夏",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 76,
+      "rank": 59,
       "song": {
-        "id": "jpop-1984-76",
-        "title": "君の桜",
+        "id": "jpop-1984-59",
+        "title": "真夜中の朝",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 77,
+      "rank": 62,
       "song": {
-        "id": "jpop-1984-77",
-        "title": "桜ストーリー",
+        "id": "jpop-1984-62",
+        "title": "朝の道",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 93,
+      "rank": 81,
       "song": {
-        "id": "jpop-1984-93",
-        "title": "街サンセット",
+        "id": "jpop-1984-81",
+        "title": "風の夏",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 99,
+      "rank": 88,
       "song": {
-        "id": "jpop-1984-99",
-        "title": "星の太陽",
+        "id": "jpop-1984-88",
+        "title": "涙の桜",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 19,
+      "rank": 97,
       "song": {
-        "id": "jpop-1983-19",
-        "title": "風の月",
+        "id": "jpop-1984-97",
+        "title": "星のリズム",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1983-07",
+        "title": "SWEET MEMORIES",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 30,
+      "rank": 9,
       "song": {
-        "id": "jpop-1983-30",
-        "title": "真夜中の影",
+        "id": "jpop-1983-09",
+        "title": "ガラスの林檎",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1983-23",
+        "title": "太陽の光",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
@@ -572,75 +707,127 @@
       "rank": 55,
       "song": {
         "id": "jpop-1983-55",
-        "title": "恋ストーリー",
+        "title": "世界の約束",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 18,
+      "rank": 59,
       "song": {
-        "id": "jpop-1982-18",
-        "title": "希望のかけら",
+        "id": "jpop-1983-59",
+        "title": "夢の夜",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1983-76",
+        "title": "記憶フォーエバー",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1983-79",
+        "title": "桜の道",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1983-80",
+        "title": "星の森",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1983-84",
+        "title": "波の光",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "jpop-1982-02",
+        "title": "赤いスイートピー",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 23,
+      "rank": 5,
       "song": {
-        "id": "jpop-1982-23",
-        "title": "恋サンセット",
+        "id": "jpop-1982-05",
+        "title": "渚のバルコニー",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 26,
+      "rank": 9,
       "song": {
-        "id": "jpop-1982-26",
-        "title": "星の花",
+        "id": "jpop-1982-09",
+        "title": "小麦色のマーメイド",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 51,
+      "rank": 13,
       "song": {
-        "id": "jpop-1982-51",
-        "title": "君の桜",
+        "id": "jpop-1982-13",
+        "title": "太陽の空",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1982-53",
-        "title": "記憶の記憶",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
@@ -650,127 +837,270 @@
       "rank": 57,
       "song": {
         "id": "jpop-1982-57",
-        "title": "約束の空",
+        "title": "影フォーエバー",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
       "year": 1982
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1982-65",
-        "title": "恋の影",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-1981-48",
-        "title": "星の記憶",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
     },
     {
       "rank": 61,
       "song": {
-        "id": "jpop-1981-61",
-        "title": "空の空",
+        "id": "jpop-1982-61",
+        "title": "海の季節",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },
-      "year": 1981
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1981-71",
-        "title": "希望物語",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1981-90",
-        "title": "涙の冬",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1980-18",
-        "title": "夢の影",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1980-46",
-        "title": "冬の季節",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1980-60",
-        "title": "君の星",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
+      "year": 1982
     },
     {
       "rank": 76,
       "song": {
-        "id": "jpop-1980-76",
-        "title": "希望の記憶",
+        "id": "jpop-1982-76",
+        "title": "月の花",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1982-82",
+        "title": "空メロディ",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1981-05",
+        "title": "風立ちぬ",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-1981-07",
+        "title": "白いパラソル",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-1981-09",
+        "title": "チェリーブラッサム",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-1981-45",
+        "title": "恋の朝",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1981-49",
+        "title": "雪メロディ",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1981-74",
+        "title": "冬の夜",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1981-83",
+        "title": "永遠の森",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1981-88",
+        "title": "永遠の朝",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1981-96",
+        "title": "記憶フォーエバー",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "jpop-1980-05",
+        "title": "青い珊瑚礁",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-1980-10",
+        "title": "裸足の季節",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-1980-22",
+        "title": "星の愛",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-1980-32",
+        "title": "影ストーリー",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1980-54",
+        "title": "希望の花",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1980-56",
+        "title": "約束メロディ",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1980-80",
+        "title": "未来の街",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-1980-93",
+        "title": "涙の時間",
+        "artist": {
+          "id": "a-matsuda-seiko",
+          "name": "松田聖子"
         },
         "genre": "jpop"
       },

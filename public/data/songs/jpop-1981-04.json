@@ -15,6 +15,11 @@
       "title": "長い夜",
       "type": "single",
       "releaseDate": "1981-01-01"
+    },
+    {
+      "title": "時間コレクション",
+      "type": "album",
+      "releaseDate": "1981-02-21"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 31,
+      "rank": 21,
       "song": {
-        "id": "jpop-1979-31",
-        "title": "星の愛",
+        "id": "jpop-1979-21",
+        "title": "太陽の季節",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -36,10 +41,10 @@
       "year": 1979
     },
     {
-      "rank": 54,
+      "rank": 46,
       "song": {
-        "id": "jpop-1979-54",
-        "title": "真夜中の月",
+        "id": "jpop-1979-46",
+        "title": "朝のかけら",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -52,7 +57,7 @@
       "rank": 59,
       "song": {
         "id": "jpop-1979-59",
-        "title": "ミッドナイト朝",
+        "title": "星の街",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -60,129 +65,51 @@
         "genre": "jpop"
       },
       "year": 1979
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1979-60",
-        "title": "雪のかけら",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-1979-64",
-        "title": "真夜中の風",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1979-78",
-        "title": "約束の夏",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-1978-28",
-        "title": "真夜中の雨",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1978-37",
-        "title": "約束の夢",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1978-66",
-        "title": "永遠の愛",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1978-76",
-        "title": "月の花",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1977-14",
-        "title": "約束の季節",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1977-31",
-        "title": "涙の記憶",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
     },
     {
       "rank": 42,
       "song": {
-        "id": "jpop-1977-42",
-        "title": "夢ストーリー",
+        "id": "jpop-1978-42",
+        "title": "太陽メロディ",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1978-83",
+        "title": "記憶の道",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1978-97",
+        "title": "風の道",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1977-20",
+        "title": "街メロディ",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -192,10 +119,10 @@
       "year": 1977
     },
     {
-      "rank": 47,
+      "rank": 21,
       "song": {
-        "id": "jpop-1977-47",
-        "title": "永遠の夜",
+        "id": "jpop-1977-21",
+        "title": "波の夜",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -203,103 +130,90 @@
         "genre": "jpop"
       },
       "year": 1977
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1977-52",
-        "title": "ミッドナイト世界",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-1977-55",
-        "title": "時間の花",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1977-67",
-        "title": "記憶の光",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1977-73",
-        "title": "時間ストーリー",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1977-88",
-        "title": "希望の季節",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1976-14",
-        "title": "世界の約束",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1976-15",
-        "title": "恋の夜",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
     },
     {
       "rank": 22,
       "song": {
-        "id": "jpop-1976-22",
-        "title": "約束の夢",
+        "id": "jpop-1977-22",
+        "title": "雪の夜",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1977-50",
+        "title": "夏の海",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1977-54",
+        "title": "街のかけら",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1977-57",
+        "title": "風の森",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1977-63",
+        "title": "光の光",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1977-71",
+        "title": "夢の街",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "jpop-1976-27",
+        "title": "太陽の海",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -309,10 +223,10 @@
       "year": 1976
     },
     {
-      "rank": 37,
+      "rank": 32,
       "song": {
-        "id": "jpop-1976-37",
-        "title": "恋の希望",
+        "id": "jpop-1976-32",
+        "title": "星の雪",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -322,10 +236,10 @@
       "year": 1976
     },
     {
-      "rank": 51,
+      "rank": 94,
       "song": {
-        "id": "jpop-1976-51",
-        "title": "森の約束",
+        "id": "jpop-1976-94",
+        "title": "君の虹",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -335,101 +249,23 @@
       "year": 1976
     },
     {
-      "rank": 52,
+      "rank": 40,
       "song": {
-        "id": "jpop-1976-52",
-        "title": "約束の未来",
+        "id": "jpop-1975-40",
+        "title": "記憶の空",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1975
     },
     {
       "rank": 65,
       "song": {
-        "id": "jpop-1976-65",
-        "title": "夏の夜",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1976-79",
-        "title": "最後の愛",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1975-13",
-        "title": "愛サンセット",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1975-51",
-        "title": "夢の海",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1975-52",
-        "title": "希望のリズム",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1975-53",
-        "title": "時間メロディ",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1975-84",
-        "title": "森のリズム",
+        "id": "jpop-1975-65",
+        "title": "夢の未来",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"

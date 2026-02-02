@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1981-54",
-    "title": "風の光",
+    "title": "夢ストーリー",
     "artist": {
-      "id": "a-anzenchitai",
-      "name": "安全地帯"
+      "id": "a-hamada-shogo",
+      "name": "浜田省吾"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 54,
   "cdInfo": [
     {
-      "title": "風の光",
+      "title": "夢ストーリー",
       "type": "single",
-      "releaseDate": "1981-05-07"
+      "releaseDate": "1981-08-12"
+    },
+    {
+      "title": "ALL TIME 希望",
+      "type": "album",
+      "releaseDate": "1981-09-26"
     }
   ],
   "externalLinks": {
@@ -23,13 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 50,
+      "rank": 2,
       "song": {
-        "id": "jpop-1989-50",
-        "title": "桜の道",
+        "id": "jpop-1992-02",
+        "title": "悲しみは雪のように",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-1989-25",
+        "title": "風の夜",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -39,335 +57,361 @@
       "rank": 59,
       "song": {
         "id": "jpop-1989-59",
-        "title": "太陽のかけら",
+        "title": "月の街",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 22,
+      "rank": 64,
       "song": {
-        "id": "jpop-1988-22",
-        "title": "雪ストーリー",
+        "id": "jpop-1989-64",
+        "title": "朝の歌",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1988
+      "year": 1989
     },
     {
-      "rank": 28,
+      "rank": 72,
       "song": {
-        "id": "jpop-1988-28",
-        "title": "愛の道",
+        "id": "jpop-1989-72",
+        "title": "世界の歌",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1988
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1988-85",
-        "title": "光の夜",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1987-27",
-        "title": "永遠の影",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1987-36",
-        "title": "夏ストーリー",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1987-70",
-        "title": "影のリズム",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1987-89",
-        "title": "永遠の虹",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1987-96",
-        "title": "夜の空",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1987-100",
-        "title": "太陽フォーエバー",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1986-14",
-        "title": "風の旅",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-1986-19",
-        "title": "涙の愛",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-1986-26",
-        "title": "ミッドナイト空",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1986-78",
-        "title": "冬の街",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1986-99",
-        "title": "森の道",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "jpop-1985-06",
-        "title": "悲しみにさよなら",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1985-12",
-        "title": "夢の夜",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "jpop-1985-39",
-        "title": "星の星",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1985-50",
-        "title": "夏の約束",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1985-60",
-        "title": "朝のリズム",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
+      "year": 1989
     },
     {
       "rank": 74,
       "song": {
-        "id": "jpop-1985-74",
-        "title": "世界のかけら",
+        "id": "jpop-1989-74",
+        "title": "青い夜",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1985
+      "year": 1989
     },
     {
-      "rank": 78,
+      "rank": 84,
       "song": {
-        "id": "jpop-1985-78",
-        "title": "君の風",
+        "id": "jpop-1989-84",
+        "title": "涙の約束",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1985
+      "year": 1989
     },
     {
-      "rank": 86,
+      "rank": 93,
       "song": {
-        "id": "jpop-1985-86",
-        "title": "旅の歌",
+        "id": "jpop-1989-93",
+        "title": "夏の道",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1985
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1985-91",
-        "title": "夏の夜",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
+      "year": 1989
     },
     {
       "rank": 100,
       "song": {
-        "id": "jpop-1985-100",
-        "title": "虹の光",
+        "id": "jpop-1989-100",
+        "title": "風の月",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1988-20",
+        "title": "星の約束",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-1988-53",
+        "title": "空の海",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1988-77",
+        "title": "影のかけら",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-1988-87",
+        "title": "波の街",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1988-100",
+        "title": "空メロディ",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1987-23",
+        "title": "ミッドナイト影",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1987-57",
+        "title": "影の記憶",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1987-77",
+        "title": "世界の季節",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1986-58",
+        "title": "恋の星",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1986-68",
+        "title": "青い雨",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1986-82",
+        "title": "影フォーエバー",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-1985-15",
+        "title": "太陽の夜",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 2,
+      "rank": 26,
       "song": {
-        "id": "jpop-1984-02",
-        "title": "ワインレッドの心",
+        "id": "jpop-1985-26",
+        "title": "風の夏",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1985-77",
+        "title": "花の道",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1985-85",
+        "title": "永遠の空",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-1984-19",
+        "title": "未来の道",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "jpop-1984-43",
+        "title": "旅の道",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1984-68",
+        "title": "夜のリズム",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1984-77",
+        "title": "虹の季節",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1984-92",
+        "title": "永遠の虹",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1984-96",
+        "title": "約束の雨",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -376,102 +420,76 @@
     {
       "rank": 11,
       "song": {
-        "id": "jpop-1984-11",
-        "title": "青い愛",
+        "id": "jpop-1983-11",
+        "title": "恋の光",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1984-22",
-        "title": "月の季節",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "jpop-1984-32",
-        "title": "風の未来",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1983-17",
-        "title": "恋の雨",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 21,
+      "rank": 19,
       "song": {
-        "id": "jpop-1983-21",
-        "title": "希望メロディ",
+        "id": "jpop-1983-19",
+        "title": "花の花",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 54,
+      "rank": 26,
       "song": {
-        "id": "jpop-1983-54",
-        "title": "最後の約束",
+        "id": "jpop-1983-26",
+        "title": "星の旅",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 56,
+      "rank": 29,
       "song": {
-        "id": "jpop-1983-56",
-        "title": "未来の花",
+        "id": "jpop-1983-29",
+        "title": "永遠の冬",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 62,
+      "rank": 39,
       "song": {
-        "id": "jpop-1983-62",
-        "title": "涙の記憶",
+        "id": "jpop-1983-39",
+        "title": "街の歌",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-1983-60",
+        "title": "夢の時間",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -481,23 +499,10 @@
       "rank": 65,
       "song": {
         "id": "jpop-1983-65",
-        "title": "約束の未来",
+        "title": "風の夏",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1983-73",
-        "title": "雪ストーリー",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -507,75 +512,75 @@
       "rank": 16,
       "song": {
         "id": "jpop-1982-16",
-        "title": "太陽の歌",
+        "title": "永遠の愛",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 22,
+      "rank": 25,
       "song": {
-        "id": "jpop-1982-22",
-        "title": "約束の道",
+        "id": "jpop-1982-25",
+        "title": "街の約束",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 59,
+      "rank": 26,
       "song": {
-        "id": "jpop-1982-59",
-        "title": "夜フォーエバー",
+        "id": "jpop-1982-26",
+        "title": "愛の空",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 74,
+      "rank": 37,
       "song": {
-        "id": "jpop-1982-74",
-        "title": "空のかけら",
+        "id": "jpop-1982-37",
+        "title": "海の夜",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 76,
+      "rank": 68,
       "song": {
-        "id": "jpop-1982-76",
-        "title": "恋の虹",
+        "id": "jpop-1982-68",
+        "title": "時間の夜",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 87,
+      "rank": 69,
       "song": {
-        "id": "jpop-1982-87",
-        "title": "時間のリズム",
+        "id": "jpop-1982-69",
+        "title": "君の雨",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -585,140 +590,179 @@
       "rank": 89,
       "song": {
         "id": "jpop-1982-89",
-        "title": "記憶のかけら",
+        "title": "街の夜",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 96,
+      "rank": 27,
       "song": {
-        "id": "jpop-1982-96",
-        "title": "君の星",
+        "id": "jpop-1981-27",
+        "title": "恋の街",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-1981-38",
-        "title": "恋の愛",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1981
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-1981-61",
+        "title": "海のリズム",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-1981-65",
+        "title": "約束の桜",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1981-76",
+        "title": "約束の道",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1981-90",
+        "title": "波の海",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-1980-29",
+        "title": "風の冬",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-1980-30",
+        "title": "星フォーエバー",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-1980-41",
+        "title": "世界の約束",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1980-47",
+        "title": "涙の波",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-1980-65",
+        "title": "影のリズム",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
     },
     {
       "rank": 72,
       "song": {
-        "id": "jpop-1981-72",
-        "title": "真夜中の約束",
+        "id": "jpop-1980-72",
+        "title": "桜の道",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1981-73",
-        "title": "約束の未来",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-1980-25",
-        "title": "夢メロディ",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 37,
+      "rank": 91,
       "song": {
-        "id": "jpop-1980-37",
-        "title": "海の夜",
+        "id": "jpop-1980-91",
+        "title": "世界の花",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 71,
+      "rank": 99,
       "song": {
-        "id": "jpop-1980-71",
-        "title": "青い太陽",
+        "id": "jpop-1980-99",
+        "title": "君の雨",
         "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1980-74",
-        "title": "青い夜",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1980-80",
-        "title": "涙の約束",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1980-89",
-        "title": "風の愛",
-        "artist": {
-          "id": "a-anzenchitai",
-          "name": "安全地帯"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },

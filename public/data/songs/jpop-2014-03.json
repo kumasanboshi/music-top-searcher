@@ -15,6 +15,11 @@
       "title": "前しか向かねえ",
       "type": "single",
       "releaseDate": "2014-01-01"
+    },
+    {
+      "title": "森ストーリーズ",
+      "type": "album",
+      "releaseDate": "2014-12-15"
     }
   ],
   "externalLinks": {
@@ -23,75 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2019-12",
-        "title": "光の道",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-2019-13",
-        "title": "夢の月",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2019-18",
-        "title": "風の虹",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2019-25",
-        "title": "冬ストーリー",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "jpop-2019-29",
-        "title": "約束の海",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
       "rank": 32,
       "song": {
         "id": "jpop-2019-32",
-        "title": "太陽の空",
+        "title": "夢の雨",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -101,10 +41,10 @@
       "year": 2019
     },
     {
-      "rank": 39,
+      "rank": 46,
       "song": {
-        "id": "jpop-2019-39",
-        "title": "旅のかけら",
+        "id": "jpop-2019-46",
+        "title": "青い影",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -114,10 +54,10 @@
       "year": 2019
     },
     {
-      "rank": 52,
+      "rank": 57,
       "song": {
-        "id": "jpop-2019-52",
-        "title": "桜の記憶",
+        "id": "jpop-2019-57",
+        "title": "花の海",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -127,10 +67,10 @@
       "year": 2019
     },
     {
-      "rank": 71,
+      "rank": 70,
       "song": {
-        "id": "jpop-2019-71",
-        "title": "森の花",
+        "id": "jpop-2019-70",
+        "title": "星の季節",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -140,23 +80,10 @@
       "year": 2019
     },
     {
-      "rank": 73,
+      "rank": 93,
       "song": {
-        "id": "jpop-2019-73",
-        "title": "真夜中の星",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2019-81",
-        "title": "星の雪",
+        "id": "jpop-2019-93",
+        "title": "涙の街",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -179,10 +106,10 @@
       "year": 2018
     },
     {
-      "rank": 16,
+      "rank": 25,
       "song": {
-        "id": "jpop-2018-16",
-        "title": "ミッドナイト雨",
+        "id": "jpop-2018-25",
+        "title": "旅の記憶",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -192,10 +119,10 @@
       "year": 2018
     },
     {
-      "rank": 47,
+      "rank": 65,
       "song": {
-        "id": "jpop-2018-47",
-        "title": "恋の朝",
+        "id": "jpop-2018-65",
+        "title": "涙の森",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -205,10 +132,10 @@
       "year": 2018
     },
     {
-      "rank": 80,
+      "rank": 67,
       "song": {
-        "id": "jpop-2018-80",
-        "title": "朝の記憶",
+        "id": "jpop-2018-67",
+        "title": "真夜中の夢",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -218,10 +145,23 @@
       "year": 2018
     },
     {
-      "rank": 87,
+      "rank": 91,
       "song": {
-        "id": "jpop-2018-87",
-        "title": "風サンセット",
+        "id": "jpop-2018-91",
+        "title": "世界の街",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-2018-99",
+        "title": "真夜中の星",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -244,10 +184,10 @@
       "year": 2017
     },
     {
-      "rank": 13,
+      "rank": 18,
       "song": {
-        "id": "jpop-2017-13",
-        "title": "未来の空",
+        "id": "jpop-2017-18",
+        "title": "街の約束",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -257,10 +197,10 @@
       "year": 2017
     },
     {
-      "rank": 85,
+      "rank": 98,
       "song": {
-        "id": "jpop-2017-85",
-        "title": "愛ストーリー",
+        "id": "jpop-2017-98",
+        "title": "桜のかけら",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -299,7 +239,33 @@
       "rank": 11,
       "song": {
         "id": "jpop-2016-11",
-        "title": "夢の星",
+        "title": "夢の季節",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-2016-31",
+        "title": "世界の道",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "jpop-2016-36",
+        "title": "虹物語",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -312,7 +278,7 @@
       "rank": 44,
       "song": {
         "id": "jpop-2016-44",
-        "title": "真夜中の森",
+        "title": "真夜中の旅",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -322,49 +288,10 @@
       "year": 2016
     },
     {
-      "rank": 51,
+      "rank": 56,
       "song": {
-        "id": "jpop-2016-51",
-        "title": "旅の花",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-2016-57",
-        "title": "風の桜",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-2016-69",
-        "title": "恋サンセット",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-2016-70",
-        "title": "青い虹",
+        "id": "jpop-2016-56",
+        "title": "永遠の海",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -377,7 +304,7 @@
       "rank": 76,
       "song": {
         "id": "jpop-2016-76",
-        "title": "街サンセット",
+        "title": "星サンセット",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -387,23 +314,10 @@
       "year": 2016
     },
     {
-      "rank": 77,
+      "rank": 92,
       "song": {
-        "id": "jpop-2016-77",
-        "title": "街の夜",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-2016-78",
-        "title": "永遠の夏",
+        "id": "jpop-2016-92",
+        "title": "君の記憶",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -439,10 +353,10 @@
       "year": 2015
     },
     {
-      "rank": 20,
+      "rank": 27,
       "song": {
-        "id": "jpop-2015-20",
-        "title": "光のリズム",
+        "id": "jpop-2015-27",
+        "title": "ミッドナイト街",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -452,10 +366,10 @@
       "year": 2015
     },
     {
-      "rank": 37,
+      "rank": 43,
       "song": {
-        "id": "jpop-2015-37",
-        "title": "恋の夢",
+        "id": "jpop-2015-43",
+        "title": "ミッドナイト夏",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -465,10 +379,10 @@
       "year": 2015
     },
     {
-      "rank": 60,
+      "rank": 53,
       "song": {
-        "id": "jpop-2015-60",
-        "title": "風の道",
+        "id": "jpop-2015-53",
+        "title": "恋メロディ",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -478,10 +392,10 @@
       "year": 2015
     },
     {
-      "rank": 78,
+      "rank": 57,
       "song": {
-        "id": "jpop-2015-78",
-        "title": "青い雪",
+        "id": "jpop-2015-57",
+        "title": "桜物語",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -491,10 +405,10 @@
       "year": 2015
     },
     {
-      "rank": 79,
+      "rank": 65,
       "song": {
-        "id": "jpop-2015-79",
-        "title": "雨のリズム",
+        "id": "jpop-2015-65",
+        "title": "未来ストーリー",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -504,10 +418,36 @@
       "year": 2015
     },
     {
-      "rank": 89,
+      "rank": 66,
       "song": {
-        "id": "jpop-2015-89",
-        "title": "朝の光",
+        "id": "jpop-2015-66",
+        "title": "風の愛",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2015-87",
+        "title": "希望のリズム",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2015-97",
+        "title": "波フォーエバー",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -556,10 +496,10 @@
       "year": 2014
     },
     {
-      "rank": 14,
+      "rank": 13,
       "song": {
-        "id": "jpop-2014-14",
-        "title": "空の光",
+        "id": "jpop-2014-13",
+        "title": "青い海",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -569,10 +509,10 @@
       "year": 2014
     },
     {
-      "rank": 15,
+      "rank": 49,
       "song": {
-        "id": "jpop-2014-15",
-        "title": "涙の空",
+        "id": "jpop-2014-49",
+        "title": "太陽サンセット",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -582,10 +522,10 @@
       "year": 2014
     },
     {
-      "rank": 17,
+      "rank": 55,
       "song": {
-        "id": "jpop-2014-17",
-        "title": "青い約束",
+        "id": "jpop-2014-55",
+        "title": "波の歌",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -595,10 +535,10 @@
       "year": 2014
     },
     {
-      "rank": 27,
+      "rank": 59,
       "song": {
-        "id": "jpop-2014-27",
-        "title": "時間のかけら",
+        "id": "jpop-2014-59",
+        "title": "恋物語",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -608,36 +548,10 @@
       "year": 2014
     },
     {
-      "rank": 82,
+      "rank": 63,
       "song": {
-        "id": "jpop-2014-82",
-        "title": "光の海",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-2014-88",
-        "title": "愛ストーリー",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-2014-91",
-        "title": "最後の雪",
+        "id": "jpop-2014-63",
+        "title": "夢の世界",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -712,10 +626,10 @@
       "year": 2013
     },
     {
-      "rank": 18,
+      "rank": 41,
       "song": {
-        "id": "jpop-2013-18",
-        "title": "虹メロディ",
+        "id": "jpop-2013-41",
+        "title": "虹ストーリー",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -725,10 +639,10 @@
       "year": 2013
     },
     {
-      "rank": 22,
+      "rank": 47,
       "song": {
-        "id": "jpop-2013-22",
-        "title": "虹の街",
+        "id": "jpop-2013-47",
+        "title": "記憶のリズム",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -738,10 +652,10 @@
       "year": 2013
     },
     {
-      "rank": 71,
+      "rank": 64,
       "song": {
-        "id": "jpop-2013-71",
-        "title": "約束の光",
+        "id": "jpop-2013-64",
+        "title": "太陽ストーリー",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -751,23 +665,10 @@
       "year": 2013
     },
     {
-      "rank": 78,
+      "rank": 85,
       "song": {
-        "id": "jpop-2013-78",
-        "title": "恋の海",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2013-86",
-        "title": "波フォーエバー",
+        "id": "jpop-2013-85",
+        "title": "約束の未来",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -842,10 +743,62 @@
       "year": 2012
     },
     {
-      "rank": 16,
+      "rank": 21,
       "song": {
-        "id": "jpop-2012-16",
-        "title": "希望フォーエバー",
+        "id": "jpop-2012-21",
+        "title": "虹の街",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-2012-22",
+        "title": "夜の街",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-2012-41",
+        "title": "街の記憶",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2012-48",
+        "title": "海の記憶",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2012-50",
+        "title": "旅の記憶",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -858,7 +811,7 @@
       "rank": 55,
       "song": {
         "id": "jpop-2012-55",
-        "title": "時間物語",
+        "title": "風の記憶",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -868,10 +821,10 @@
       "year": 2012
     },
     {
-      "rank": 84,
+      "rank": 62,
       "song": {
-        "id": "jpop-2012-84",
-        "title": "太陽メロディ",
+        "id": "jpop-2012-62",
+        "title": "桜サンセット",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -881,10 +834,10 @@
       "year": 2012
     },
     {
-      "rank": 87,
+      "rank": 65,
       "song": {
-        "id": "jpop-2012-87",
-        "title": "桜の記憶",
+        "id": "jpop-2012-65",
+        "title": "海の夜",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -894,10 +847,10 @@
       "year": 2012
     },
     {
-      "rank": 95,
+      "rank": 72,
       "song": {
-        "id": "jpop-2012-95",
-        "title": "希望ストーリー",
+        "id": "jpop-2012-72",
+        "title": "夢ストーリー",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -972,10 +925,10 @@
       "year": 2011
     },
     {
-      "rank": 39,
+      "rank": 12,
       "song": {
-        "id": "jpop-2011-39",
-        "title": "太陽ストーリー",
+        "id": "jpop-2011-12",
+        "title": "虹の空",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -985,10 +938,10 @@
       "year": 2011
     },
     {
-      "rank": 61,
+      "rank": 25,
       "song": {
-        "id": "jpop-2011-61",
-        "title": "空の道",
+        "id": "jpop-2011-25",
+        "title": "真夜中の波",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -998,10 +951,10 @@
       "year": 2011
     },
     {
-      "rank": 62,
+      "rank": 60,
       "song": {
-        "id": "jpop-2011-62",
-        "title": "記憶の記憶",
+        "id": "jpop-2011-60",
+        "title": "約束の風",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1011,10 +964,23 @@
       "year": 2011
     },
     {
-      "rank": 68,
+      "rank": 65,
       "song": {
-        "id": "jpop-2011-68",
-        "title": "海の季節",
+        "id": "jpop-2011-65",
+        "title": "雪のリズム",
+        "artist": {
+          "id": "a-akb48",
+          "name": "AKB48"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-2011-70",
+        "title": "旅サンセット",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1076,10 +1042,10 @@
       "year": 2010
     },
     {
-      "rank": 31,
+      "rank": 21,
       "song": {
-        "id": "jpop-2010-31",
-        "title": "森サンセット",
+        "id": "jpop-2010-21",
+        "title": "永遠の雪",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1089,10 +1055,10 @@
       "year": 2010
     },
     {
-      "rank": 50,
+      "rank": 44,
       "song": {
-        "id": "jpop-2010-50",
-        "title": "虹の空",
+        "id": "jpop-2010-44",
+        "title": "旅ストーリー",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1102,10 +1068,10 @@
       "year": 2010
     },
     {
-      "rank": 55,
+      "rank": 53,
       "song": {
-        "id": "jpop-2010-55",
-        "title": "星の未来",
+        "id": "jpop-2010-53",
+        "title": "時間の光",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1115,10 +1081,10 @@
       "year": 2010
     },
     {
-      "rank": 56,
+      "rank": 64,
       "song": {
-        "id": "jpop-2010-56",
-        "title": "記憶の花",
+        "id": "jpop-2010-64",
+        "title": "未来の約束",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1128,10 +1094,10 @@
       "year": 2010
     },
     {
-      "rank": 63,
+      "rank": 71,
       "song": {
-        "id": "jpop-2010-63",
-        "title": "恋の夜",
+        "id": "jpop-2010-71",
+        "title": "星ストーリー",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1141,10 +1107,10 @@
       "year": 2010
     },
     {
-      "rank": 65,
+      "rank": 73,
       "song": {
-        "id": "jpop-2010-65",
-        "title": "空の光",
+        "id": "jpop-2010-73",
+        "title": "夏の海",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"
@@ -1154,36 +1120,10 @@
       "year": 2010
     },
     {
-      "rank": 76,
+      "rank": 98,
       "song": {
-        "id": "jpop-2010-76",
-        "title": "君の風",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-2010-79",
-        "title": "愛メロディ",
-        "artist": {
-          "id": "a-akb48",
-          "name": "AKB48"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-2010-84",
-        "title": "永遠の花",
+        "id": "jpop-2010-98",
+        "title": "希望の記憶",
         "artist": {
           "id": "a-akb48",
           "name": "AKB48"

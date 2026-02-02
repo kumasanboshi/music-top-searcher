@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-2023-94",
-    "title": "永遠の花",
+    "title": "永遠の朝",
     "artist": {
       "id": "a-ryokuoushoku",
       "name": "緑黄色社会"
@@ -12,8 +12,13 @@
   "rank": 94,
   "cdInfo": [
     {
-      "title": "永遠の花",
+      "title": "永遠の朝",
       "type": "single",
+      "releaseDate": "2023-02-26"
+    },
+    {
+      "title": "太陽の旅",
+      "type": "album",
       "releaseDate": "2023-12-15"
     }
   ],
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 19,
+      "rank": 15,
       "song": {
-        "id": "jpop-2025-19",
-        "title": "朝ストーリー",
+        "id": "jpop-2025-15",
+        "title": "冬の約束",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -36,10 +41,10 @@
       "year": 2025
     },
     {
-      "rank": 28,
+      "rank": 34,
       "song": {
-        "id": "jpop-2025-28",
-        "title": "君の世界",
+        "id": "jpop-2025-34",
+        "title": "雨の季節",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -49,10 +54,10 @@
       "year": 2025
     },
     {
-      "rank": 41,
+      "rank": 37,
       "song": {
-        "id": "jpop-2025-41",
-        "title": "街の夜",
+        "id": "jpop-2025-37",
+        "title": "永遠の光",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -60,103 +65,103 @@
         "genre": "jpop"
       },
       "year": 2025
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-2025-56",
-        "title": "約束の恋",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-2025-77",
-        "title": "冬の夜",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-2025-89",
-        "title": "記憶の海",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-2023-20",
-        "title": "君の愛",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2023-21",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
     },
     {
       "rank": 45,
       "song": {
-        "id": "jpop-2023-45",
-        "title": "約束の虹",
+        "id": "jpop-2025-45",
+        "title": "海の記憶",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
         },
         "genre": "jpop"
       },
-      "year": 2023
+      "year": 2025
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2025-55",
+        "title": "希望の街",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
     },
     {
       "rank": 59,
       "song": {
-        "id": "jpop-2023-59",
-        "title": "風の世界",
+        "id": "jpop-2025-59",
+        "title": "愛の季節",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
         },
         "genre": "jpop"
       },
-      "year": 2023
+      "year": 2025
     },
     {
       "rank": 66,
       "song": {
-        "id": "jpop-2023-66",
-        "title": "夢の記憶",
+        "id": "jpop-2025-66",
+        "title": "街の約束",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2025-83",
+        "title": "未来フォーエバー",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2025-88",
+        "title": "雪物語",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2025-97",
+        "title": "朝フォーエバー",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-2023-29",
+        "title": "虹のかけら",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -166,10 +171,10 @@
       "year": 2023
     },
     {
-      "rank": 98,
+      "rank": 31,
       "song": {
-        "id": "jpop-2023-98",
-        "title": "太陽のかけら",
+        "id": "jpop-2023-31",
+        "title": "太陽の季節",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -179,10 +184,127 @@
       "year": 2023
     },
     {
-      "rank": 25,
+      "rank": 35,
       "song": {
-        "id": "jpop-2022-25",
-        "title": "空の約束",
+        "id": "jpop-2023-35",
+        "title": "世界の空",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-2023-54",
+        "title": "真夜中の冬",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-2023-65",
+        "title": "愛フォーエバー",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-2023-68",
+        "title": "未来の空",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-2023-74",
+        "title": "真夜中の桜",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2023-82",
+        "title": "雪の約束",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2023-83",
+        "title": "恋の夏",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2023-85",
+        "title": "恋の未来",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-2023-90",
+        "title": "記憶物語",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-2022-39",
+        "title": "世界物語",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -195,7 +317,7 @@
       "rank": 42,
       "song": {
         "id": "jpop-2022-42",
-        "title": "夢の夏",
+        "title": "君の希望",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -205,10 +327,10 @@
       "year": 2022
     },
     {
-      "rank": 51,
+      "rank": 70,
       "song": {
-        "id": "jpop-2022-51",
-        "title": "恋の朝",
+        "id": "jpop-2022-70",
+        "title": "希望の光",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -218,10 +340,10 @@
       "year": 2022
     },
     {
-      "rank": 53,
+      "rank": 76,
       "song": {
-        "id": "jpop-2022-53",
-        "title": "星の影",
+        "id": "jpop-2022-76",
+        "title": "桜サンセット",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -231,36 +353,10 @@
       "year": 2022
     },
     {
-      "rank": 67,
+      "rank": 91,
       "song": {
-        "id": "jpop-2022-67",
-        "title": "空の街",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-2022-72",
-        "title": "君の桜",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-2022-73",
-        "title": "世界のリズム",
+        "id": "jpop-2022-91",
+        "title": "冬の夜",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -273,7 +369,7 @@
       "rank": 14,
       "song": {
         "id": "jpop-2021-14",
-        "title": "希望の海",
+        "title": "冬の約束",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -283,10 +379,10 @@
       "year": 2021
     },
     {
-      "rank": 18,
+      "rank": 26,
       "song": {
-        "id": "jpop-2021-18",
-        "title": "夢の太陽",
+        "id": "jpop-2021-26",
+        "title": "君の時間",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -296,10 +392,10 @@
       "year": 2021
     },
     {
-      "rank": 19,
+      "rank": 33,
       "song": {
-        "id": "jpop-2021-19",
-        "title": "恋の未来",
+        "id": "jpop-2021-33",
+        "title": "恋の空",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -309,10 +405,10 @@
       "year": 2021
     },
     {
-      "rank": 20,
+      "rank": 37,
       "song": {
-        "id": "jpop-2021-20",
-        "title": "影の花",
+        "id": "jpop-2021-37",
+        "title": "風の太陽",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -322,10 +418,10 @@
       "year": 2021
     },
     {
-      "rank": 40,
+      "rank": 53,
       "song": {
-        "id": "jpop-2021-40",
-        "title": "世界サンセット",
+        "id": "jpop-2021-53",
+        "title": "約束の波",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -338,7 +434,7 @@
       "rank": 55,
       "song": {
         "id": "jpop-2021-55",
-        "title": "青い桜",
+        "title": "桜ストーリー",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -348,10 +444,10 @@
       "year": 2021
     },
     {
-      "rank": 62,
+      "rank": 57,
       "song": {
-        "id": "jpop-2021-62",
-        "title": "風の朝",
+        "id": "jpop-2021-57",
+        "title": "波の光",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -361,10 +457,10 @@
       "year": 2021
     },
     {
-      "rank": 63,
+      "rank": 85,
       "song": {
-        "id": "jpop-2021-63",
-        "title": "影のリズム",
+        "id": "jpop-2021-85",
+        "title": "真夜中の雪",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
@@ -372,129 +468,12 @@
         "genre": "jpop"
       },
       "year": 2021
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-2021-76",
-        "title": "風の記憶",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-2021-77",
-        "title": "夜の約束",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-2020-22",
-        "title": "夢の海",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-2020-40",
-        "title": "恋の花",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-2020-46",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-2020-48",
-        "title": "青い空",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-2020-62",
-        "title": "最後の虹",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
     },
     {
       "rank": 65,
       "song": {
         "id": "jpop-2020-65",
-        "title": "未来メロディ",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2020-86",
-        "title": "約束ストーリー",
-        "artist": {
-          "id": "a-ryokuoushoku",
-          "name": "緑黄色社会"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-2020-88",
-        "title": "時間の道",
+        "title": "月のかけら",
         "artist": {
           "id": "a-ryokuoushoku",
           "name": "緑黄色社会"
