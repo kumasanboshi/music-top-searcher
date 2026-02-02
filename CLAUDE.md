@@ -24,13 +24,13 @@ npm run format:check # フォーマットチェック
 ## Project Structure
 ```
 src/
-├── components/    #
-├── pages/         #
-├── services/      #
-├── hooks/         #
-├── types/         #
-├── utils/         #
-└── constants/     #
+├── components/    # 共通UIコンポーネント（OfflineBanner）
+├── pages/         # ページコンポーネント（TopPage, YearSelectPage, RankingListPage, SongDetailPage, SearchPage）
+├── services/      # データ取得サービス（rankingService, songService, searchService）
+├── hooks/         # カスタムフック（useOnlineStatus）
+├── types/         # 型定義（Genre, Song, Artist, Ranking, SongDetail等）
+├── utils/         # ユーティリティ（validateRanking）
+└── __tests__/     # テストファイル
 ```
 
 ## Important Files
@@ -39,9 +39,11 @@ src/
 - `docs/CONTRIBUTING.md` - コーディング規約・開発フロー
 
 ## Domain Terms
-<!-- プロジェクト固有の用語を記載 -->
-- **Term1**: 説明
-- **Term2**: 説明
+- **Genre（ジャンル）**: jpop（邦楽）または western（洋楽）
+- **Decade（年代）**: late1970s, 1980s, 1990s, 2000s, 2010s, 2020s の6区分
+- **RankingEntry**: ランキング内の1エントリ（順位・曲・年）
+- **SongDetail**: 楽曲詳細（曲情報・CD情報・外部リンク・同アーティスト曲）
+- **TOP100**: 各年・各ジャンルのヒット曲上位100曲
 
 ## Guidelines
 - 不明点は確認してから実装
