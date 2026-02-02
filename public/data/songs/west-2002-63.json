@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2002-63",
-    "title": "City Love",
+    "title": "Rain Soul",
     "artist": {
-      "id": "a-kanye",
-      "name": "Kanye West"
+      "id": "a-avril",
+      "name": "Avril Lavigne"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 63,
   "cdInfo": [
     {
-      "title": "City Love",
+      "title": "Rain Soul",
       "type": "single",
-      "releaseDate": "2002-02-02"
+      "releaseDate": "2002-07-20"
+    },
+    {
+      "title": "Crystal Anthology",
+      "type": "album",
+      "releaseDate": "2002-03-05"
     }
   ],
   "externalLinks": {
@@ -23,13 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 45,
+      "rank": 20,
       "song": {
-        "id": "west-2009-45",
-        "title": "Shining Thunder",
+        "id": "west-2009-20",
+        "title": "Golden Moon",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2009-33",
+        "title": "Shining Moon",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -39,140 +57,179 @@
       "rank": 47,
       "song": {
         "id": "west-2009-47",
-        "title": "Last Summer",
+        "title": "Lost in Flame",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2009
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2009-52",
-        "title": "Bridge Heart",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2009-62",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2009-73",
-        "title": "Crystal Fire",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2009-76",
-        "title": "Fire Forever",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2009-95",
-        "title": "Fading Winter",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2008-11",
-        "title": "Never Ocean",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2008-32",
-        "title": "Under the Thunder",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2008-65",
-        "title": "Sweet Wave",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2008
     },
     {
       "rank": 71,
       "song": {
-        "id": "west-2008-71",
-        "title": "Into the Sky",
+        "id": "west-2009-71",
+        "title": "Falling Crystal",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2009-80",
+        "title": "Dawn Lights",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2009-93",
+        "title": "Wave Night",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2009-100",
+        "title": "Rose Soul",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2008-18",
+        "title": "Electric Winter",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 72,
+      "rank": 19,
       "song": {
-        "id": "west-2008-72",
-        "title": "Flame Way",
+        "id": "west-2008-19",
+        "title": "Fire Dreams",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2008-21",
+        "title": "Sweet Winter",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2008-35",
+        "title": "Falling City",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-2008-38",
+        "title": "Storm Rain",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2008-67",
+        "title": "City Tears",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2008-69",
+        "title": "Dusk Fire",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2008-84",
+        "title": "Midnight Summer",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2008-94",
+        "title": "Lost in Crystal",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -182,127 +239,153 @@
       "rank": 95,
       "song": {
         "id": "west-2008-95",
-        "title": "Golden Wave",
+        "title": "Fading Ocean",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 97,
+      "rank": 35,
       "song": {
-        "id": "west-2008-97",
-        "title": "Lost in Sun",
+        "id": "west-2007-35",
+        "title": "Broken Rose",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2007-48",
-        "title": "Electric Crystal",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 56,
+      "rank": 40,
       "song": {
-        "id": "west-2007-56",
-        "title": "Star Heart",
+        "id": "west-2007-40",
+        "title": "Shadow Way",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 63,
+      "rank": 43,
       "song": {
-        "id": "west-2007-63",
-        "title": "Thunder Heart",
+        "id": "west-2007-43",
+        "title": "Falling Wind",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 88,
+      "rank": 62,
       "song": {
-        "id": "west-2007-88",
-        "title": "Sweet Storm",
+        "id": "west-2007-62",
+        "title": "Wave Soul",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2007
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2007-68",
+        "title": "Summer Forever",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2007-99",
+        "title": "Midnight Rain",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2006-16",
+        "title": "Moon Sky",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2006
     },
     {
       "rank": 21,
       "song": {
         "id": "west-2006-21",
-        "title": "Last Mountain",
+        "title": "Winter Rain",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 27,
+      "rank": 26,
       "song": {
-        "id": "west-2006-27",
-        "title": "Midnight Sun",
+        "id": "west-2006-26",
+        "title": "Ice Night",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 70,
+      "rank": 38,
       "song": {
-        "id": "west-2006-70",
-        "title": "Wild Shadow",
+        "id": "west-2006-38",
+        "title": "Chasing Wave",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 71,
+      "rank": 72,
       "song": {
-        "id": "west-2006-71",
-        "title": "Ocean Sky",
+        "id": "west-2006-72",
+        "title": "Falling Ice",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -312,88 +395,75 @@
       "rank": 74,
       "song": {
         "id": "west-2006-74",
-        "title": "Ocean Dreams",
+        "title": "Dusk Soul",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 85,
+      "rank": 86,
       "song": {
-        "id": "west-2006-85",
-        "title": "Electric River",
+        "id": "west-2006-86",
+        "title": "Summer Dreams",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 89,
+      "rank": 87,
       "song": {
-        "id": "west-2006-89",
-        "title": "Sky Tears",
+        "id": "west-2006-87",
+        "title": "Electric Bridge",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 92,
+      "rank": 13,
       "song": {
-        "id": "west-2006-92",
-        "title": "Storm Night",
+        "id": "west-2005-13",
+        "title": "Shadow Fire",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2005-19",
-        "title": "Dawn Fire",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 22,
+      "rank": 27,
       "song": {
-        "id": "west-2005-22",
-        "title": "Dancing Light",
+        "id": "west-2005-27",
+        "title": "Golden Silver",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 23,
+      "rank": 32,
       "song": {
-        "id": "west-2005-23",
-        "title": "Dawn Forever",
+        "id": "west-2005-32",
+        "title": "Thunder Way",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -403,10 +473,10 @@
       "rank": 33,
       "song": {
         "id": "west-2005-33",
-        "title": "Dusk Lights",
+        "title": "Wind Soul",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -416,166 +486,140 @@
       "rank": 34,
       "song": {
         "id": "west-2005-34",
-        "title": "Ice Tears",
+        "title": "Sun Dreams",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 40,
+      "rank": 66,
       "song": {
-        "id": "west-2005-40",
-        "title": "Dancing Shadow",
+        "id": "west-2005-66",
+        "title": "Under the Bridge",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 48,
+      "rank": 83,
       "song": {
-        "id": "west-2005-48",
-        "title": "Thunder Heart",
+        "id": "west-2004-83",
+        "title": "Shining Sun",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2004
     },
     {
-      "rank": 52,
+      "rank": 88,
       "song": {
-        "id": "west-2005-52",
-        "title": "Fading Crystal",
+        "id": "west-2004-88",
+        "title": "Running River",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2004
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2003-30",
+        "title": "Midnight Sun",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2003-42",
+        "title": "Running Ocean",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2003-45",
+        "title": "Running Bridge",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-2003-49",
+        "title": "Thunder Love",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2003-55",
+        "title": "Chasing Gold",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2003
     },
     {
       "rank": 58,
       "song": {
-        "id": "west-2005-58",
-        "title": "Dusk Heart",
+        "id": "west-2003-58",
+        "title": "Wave Rain",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2005-69",
-        "title": "Summer Moonlight",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2005-74",
-        "title": "Rain Forever",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2005-79",
-        "title": "Midnight Storm",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2004-32",
-        "title": "Rain Forever",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2004-60",
-        "title": "Never Flame",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2003-15",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 26,
+      "rank": 70,
       "song": {
-        "id": "west-2003-26",
-        "title": "Thunder Rain",
+        "id": "west-2003-70",
+        "title": "Running River",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2003-56",
-        "title": "Storm Forever",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -585,10 +629,36 @@
       "rank": 90,
       "song": {
         "id": "west-2003-90",
-        "title": "Electric City",
+        "title": "Wild Rain",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2003-93",
+        "title": "Shining Gold",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2003-94",
+        "title": "Broken Crystal",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -598,101 +668,88 @@
       "rank": 95,
       "song": {
         "id": "west-2003-95",
-        "title": "Electric Road",
+        "title": "Crystal Night",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 98,
+      "rank": 100,
       "song": {
-        "id": "west-2003-98",
-        "title": "Wild Wind",
+        "id": "west-2003-100",
+        "title": "Falling Dusk",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 30,
+      "rank": 46,
       "song": {
-        "id": "west-2002-30",
-        "title": "Sweet Sky",
+        "id": "west-2002-46",
+        "title": "Lost in Light",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 54,
+      "rank": 70,
       "song": {
-        "id": "west-2002-54",
-        "title": "Rain Love",
+        "id": "west-2002-70",
+        "title": "City Tears",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 58,
+      "rank": 78,
       "song": {
-        "id": "west-2002-58",
-        "title": "Broken Sun",
+        "id": "west-2002-78",
+        "title": "River Forever",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 23,
+      "rank": 12,
       "song": {
-        "id": "west-2001-23",
-        "title": "Midnight Snow",
+        "id": "west-2001-12",
+        "title": "River Soul",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 31,
+      "rank": 48,
       "song": {
-        "id": "west-2001-31",
-        "title": "Broken Winter",
+        "id": "west-2001-48",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2001-45",
-        "title": "Flame Fire",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -702,88 +759,75 @@
       "rank": 51,
       "song": {
         "id": "west-2001-51",
-        "title": "Chasing Wind",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 62,
+      "rank": 52,
       "song": {
-        "id": "west-2001-62",
-        "title": "Lost in Light",
+        "id": "west-2001-52",
+        "title": "Shining City",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 66,
+      "rank": 27,
       "song": {
-        "id": "west-2001-66",
-        "title": "Last Light",
+        "id": "west-2000-27",
+        "title": "Dawn Lights",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2001-92",
-        "title": "Broken Storm",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2001-99",
-        "title": "Sky Fire",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2000-23",
-        "title": "Under the Snow",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 50,
+      "rank": 31,
       "song": {
-        "id": "west-2000-50",
-        "title": "Under the Sky",
+        "id": "west-2000-31",
+        "title": "Snow Love",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2000-32",
+        "title": "Sweet Ice",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2000-41",
+        "title": "Snow Way",
+        "artist": {
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },
@@ -793,36 +837,10 @@
       "rank": 52,
       "song": {
         "id": "west-2000-52",
-        "title": "Sweet Sun",
+        "title": "Falling Light",
         "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2000-61",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2000-69",
-        "title": "Never Ocean",
-        "artist": {
-          "id": "a-kanye",
-          "name": "Kanye West"
+          "id": "a-avril",
+          "name": "Avril Lavigne"
         },
         "genre": "western"
       },

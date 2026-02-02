@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-2021-16",
-    "title": "Road Dreams",
+    "title": "Summer Sky",
     "artist": {
       "id": "a-doja-cat",
       "name": "Doja Cat"
@@ -12,9 +12,14 @@
   "rank": 16,
   "cdInfo": [
     {
-      "title": "Road Dreams",
+      "title": "Summer Sky",
       "type": "single",
-      "releaseDate": "2021-06-01"
+      "releaseDate": "2021-10-07"
+    },
+    {
+      "title": "Summer Diaries",
+      "type": "album",
+      "releaseDate": "2021-04-13"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 15,
+      "rank": 13,
       "song": {
-        "id": "west-2025-15",
-        "title": "Running Star",
+        "id": "west-2025-13",
+        "title": "Rose Rain",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -36,10 +41,10 @@
       "year": 2025
     },
     {
-      "rank": 55,
+      "rank": 33,
       "song": {
-        "id": "west-2025-55",
-        "title": "Flame Love",
+        "id": "west-2025-33",
+        "title": "Chasing Fire",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -49,10 +54,88 @@
       "year": 2025
     },
     {
-      "rank": 65,
+      "rank": 40,
       "song": {
-        "id": "west-2025-65",
-        "title": "Light Sky",
+        "id": "west-2025-40",
+        "title": "Golden Winter",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2025-60",
+        "title": "Electric Light",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2025-66",
+        "title": "Chasing Winter",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2025-76",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2025-80",
+        "title": "Shining Bridge",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2025-81",
+        "title": "Wind Way",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2025-94",
+        "title": "Never Flame",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -75,114 +158,49 @@
       "year": 2023
     },
     {
-      "rank": 13,
-      "song": {
-        "id": "west-2023-13",
-        "title": "Running Flame",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2023-38",
-        "title": "Sun Heart",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2023-53",
-        "title": "Lost in Summer",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2023-65",
-        "title": "Chasing Silver",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2023-71",
-        "title": "Last Dawn",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2023-76",
-        "title": "Never Silver",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2023-77",
-        "title": "Light Dreams",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2023-91",
-        "title": "Last Crystal",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
       "rank": 16,
       "song": {
-        "id": "west-2022-16",
-        "title": "Winter Rain",
+        "id": "west-2023-16",
+        "title": "Last Storm",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2023-72",
+        "title": "Star Love",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2023-100",
+        "title": "Flame Love",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2022-48",
+        "title": "Dancing Mountain",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -192,10 +210,10 @@
       "year": 2022
     },
     {
-      "rank": 37,
+      "rank": 51,
       "song": {
-        "id": "west-2022-37",
-        "title": "Under the Star",
+        "id": "west-2022-51",
+        "title": "Winter Sky",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -205,10 +223,10 @@
       "year": 2022
     },
     {
-      "rank": 53,
+      "rank": 75,
       "song": {
-        "id": "west-2022-53",
-        "title": "Wind Forever",
+        "id": "west-2022-75",
+        "title": "Into the Ice",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -218,36 +236,10 @@
       "year": 2022
     },
     {
-      "rank": 56,
+      "rank": 81,
       "song": {
-        "id": "west-2022-56",
-        "title": "Wind Fire",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2022-61",
-        "title": "City Tears",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2022-84",
-        "title": "Bridge Soul",
+        "id": "west-2022-81",
+        "title": "Bridge Dreams",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -270,10 +262,10 @@
       "year": 2021
     },
     {
-      "rank": 25,
+      "rank": 26,
       "song": {
-        "id": "west-2021-25",
-        "title": "Storm Dreams",
+        "id": "west-2021-26",
+        "title": "Never Ocean",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -283,10 +275,10 @@
       "year": 2021
     },
     {
-      "rank": 29,
+      "rank": 49,
       "song": {
-        "id": "west-2021-29",
-        "title": "Running Star",
+        "id": "west-2021-49",
+        "title": "Under the Dusk",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -296,10 +288,10 @@
       "year": 2021
     },
     {
-      "rank": 50,
+      "rank": 51,
       "song": {
-        "id": "west-2021-50",
-        "title": "Thunder Dreams",
+        "id": "west-2021-51",
+        "title": "Sweet Rain",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -309,10 +301,23 @@
       "year": 2021
     },
     {
-      "rank": 55,
+      "rank": 53,
       "song": {
-        "id": "west-2021-55",
-        "title": "City Forever",
+        "id": "west-2021-53",
+        "title": "Diamond Rain",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2021-81",
+        "title": "Road Night",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -335,10 +340,23 @@
       "year": 2020
     },
     {
+      "rank": 17,
+      "song": {
+        "id": "west-2020-17",
+        "title": "Ice Sky",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
       "rank": 23,
       "song": {
         "id": "west-2020-23",
-        "title": "Broken Sky",
+        "title": "Fading Sun",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -348,10 +366,10 @@
       "year": 2020
     },
     {
-      "rank": 27,
+      "rank": 61,
       "song": {
-        "id": "west-2020-27",
-        "title": "Falling Winter",
+        "id": "west-2020-61",
+        "title": "Road Love",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -361,10 +379,10 @@
       "year": 2020
     },
     {
-      "rank": 30,
+      "rank": 70,
       "song": {
-        "id": "west-2020-30",
-        "title": "Moon Way",
+        "id": "west-2020-70",
+        "title": "Broken Rose",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -374,10 +392,10 @@
       "year": 2020
     },
     {
-      "rank": 35,
+      "rank": 76,
       "song": {
-        "id": "west-2020-35",
-        "title": "Under the Storm",
+        "id": "west-2020-76",
+        "title": "Chasing Wind",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -387,36 +405,10 @@
       "year": 2020
     },
     {
-      "rank": 48,
+      "rank": 89,
       "song": {
-        "id": "west-2020-48",
-        "title": "Running Sky",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2020-58",
-        "title": "Running Flame",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2020-88",
-        "title": "Snow Heart",
+        "id": "west-2020-89",
+        "title": "Running Ice",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"

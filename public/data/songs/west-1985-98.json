@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1985-98",
-    "title": "Running Wave",
+    "title": "Road Dreams",
     "artist": {
-      "id": "a-phil-collins",
-      "name": "Phil Collins"
+      "id": "a-mj",
+      "name": "Michael Jackson"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 98,
   "cdInfo": [
     {
-      "title": "Running Wave",
+      "title": "Road Dreams",
       "type": "single",
-      "releaseDate": "1985-05-08"
+      "releaseDate": "1985-01-22"
+    },
+    {
+      "title": "Dawn Unplugged",
+      "type": "album",
+      "releaseDate": "1985-11-22"
     }
   ],
   "externalLinks": {
@@ -23,299 +28,351 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 13,
       "song": {
-        "id": "west-1990-06",
-        "title": "Another Day in Paradise",
+        "id": "west-1989-13",
+        "title": "Last Road",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1989-20",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 33,
+      "rank": 43,
       "song": {
-        "id": "west-1989-33",
-        "title": "Golden Dusk",
+        "id": "west-1989-43",
+        "title": "Dusk Rain",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 39,
+      "rank": 44,
       "song": {
-        "id": "west-1989-39",
-        "title": "Chasing City",
+        "id": "west-1989-44",
+        "title": "Last Mountain",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 59,
+      "rank": 49,
       "song": {
-        "id": "west-1989-59",
-        "title": "Under the Thunder",
+        "id": "west-1989-49",
+        "title": "Ocean Way",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 82,
+      "rank": 70,
       "song": {
-        "id": "west-1989-82",
-        "title": "Chasing Rose",
+        "id": "west-1989-70",
+        "title": "Dancing Thunder",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1989
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1989-83",
+        "title": "Flame Lights",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1988-13",
+        "title": "Snow Forever",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1988-91",
+        "title": "Under the Winter",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1988-98",
+        "title": "Midnight Wave",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1987-19",
+        "title": "Sweet Ice",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1987-50",
+        "title": "Never Winter",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1987-57",
+        "title": "Electric Thunder",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1987-67",
+        "title": "Road Dreams",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1987-81",
+        "title": "Dancing Gold",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1987-85",
+        "title": "Into the Mountain",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1987
     },
     {
       "rank": 88,
       "song": {
-        "id": "west-1989-88",
-        "title": "Fire Night",
+        "id": "west-1987-88",
+        "title": "Sweet Mountain",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1988-21",
-        "title": "Midnight Shadow",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1988-37",
-        "title": "Gold Dreams",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1988-59",
-        "title": "Last Snow",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1988-69",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1988-87",
-        "title": "Fading Moon",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1987-39",
-        "title": "Never Dusk",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 46,
+      "rank": 29,
       "song": {
-        "id": "west-1987-46",
-        "title": "Broken Bridge",
+        "id": "west-1986-29",
+        "title": "Shadow Fire",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
-      "year": 1987
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1987-56",
-        "title": "Crystal Love",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1987-71",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1987
+      "year": 1986
     },
     {
       "rank": 36,
       "song": {
         "id": "west-1986-36",
-        "title": "Lost in Rain",
+        "title": "Chasing Silver",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 95,
+      "rank": 43,
       "song": {
-        "id": "west-1986-95",
-        "title": "Under the Sun",
+        "id": "west-1986-43",
+        "title": "Storm Night",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 52,
+      "rank": 53,
       "song": {
-        "id": "west-1985-52",
-        "title": "Never Ice",
+        "id": "west-1986-53",
+        "title": "Shining Ocean",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1986-63",
+        "title": "Dancing Crystal",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1986-68",
+        "title": "Sweet Ice",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1986-78",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1985-16",
+        "title": "Wave Tears",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 62,
+      "rank": 36,
       "song": {
-        "id": "west-1985-62",
-        "title": "Falling Snow",
+        "id": "west-1985-36",
+        "title": "Last Rain",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 69,
+      "rank": 48,
       "song": {
-        "id": "west-1985-69",
-        "title": "Last Light",
+        "id": "west-1985-48",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 81,
+      "rank": 71,
       "song": {
-        "id": "west-1985-81",
-        "title": "Midnight Fire",
+        "id": "west-1985-71",
+        "title": "Golden Storm",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1985-83",
-        "title": "Dancing Shadow",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
@@ -325,127 +382,166 @@
       "rank": 95,
       "song": {
         "id": "west-1985-95",
-        "title": "Under the Fire",
+        "title": "Broken Sky",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 6,
+      "rank": 18,
       "song": {
-        "id": "west-1984-06",
-        "title": "Against All Odds (Take a Look at Me Now)",
+        "id": "west-1984-18",
+        "title": "Fading Crystal",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 25,
+      "rank": 23,
       "song": {
-        "id": "west-1984-25",
-        "title": "Dancing Storm",
+        "id": "west-1984-23",
+        "title": "Lost in Flame",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 67,
+      "rank": 26,
       "song": {
-        "id": "west-1984-67",
-        "title": "Diamond Rain",
+        "id": "west-1984-26",
+        "title": "Fading River",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 92,
+      "rank": 27,
       "song": {
-        "id": "west-1984-92",
-        "title": "Electric Sky",
+        "id": "west-1984-27",
+        "title": "Fading Moon",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 32,
+      "rank": 30,
       "song": {
-        "id": "west-1983-32",
-        "title": "Dancing Sun",
+        "id": "west-1984-30",
+        "title": "Fading Light",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
-      "year": 1983
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1983-36",
-        "title": "Into the Road",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1983
+      "year": 1984
     },
     {
       "rank": 51,
       "song": {
-        "id": "west-1983-51",
-        "title": "Under the Ocean",
+        "id": "west-1984-51",
+        "title": "Falling Sun",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1984
     },
     {
-      "rank": 66,
+      "rank": 55,
       "song": {
-        "id": "west-1983-66",
-        "title": "Sun Forever",
+        "id": "west-1984-55",
+        "title": "Golden Moon",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1984
     },
     {
-      "rank": 81,
+      "rank": 56,
       "song": {
-        "id": "west-1983-81",
-        "title": "Running Snow",
+        "id": "west-1984-56",
+        "title": "Rose Dreams",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1984-73",
+        "title": "Midnight City",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1984-79",
+        "title": "Wave Tears",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1984-88",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1983-15",
+        "title": "Into the City",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
@@ -454,24 +550,206 @@
     {
       "rank": 19,
       "song": {
-        "id": "west-1982-19",
-        "title": "Golden Dusk",
+        "id": "west-1983-19",
+        "title": "Never City",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1983-40",
+        "title": "Wild Ice",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1983-41",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1983-44",
+        "title": "Sweet Star",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1983-59",
+        "title": "Wind Dreams",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1983-60",
+        "title": "Shining Thunder",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1983-68",
+        "title": "Summer Dreams",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1983-84",
+        "title": "Wild Storm",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1983-87",
+        "title": "Moon Lights",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1983-92",
+        "title": "Snow Tears",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1982-18",
+        "title": "Lost in Wave",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 35,
+      "rank": 38,
       "song": {
-        "id": "west-1982-35",
-        "title": "Running Light",
+        "id": "west-1982-38",
+        "title": "Sweet Summer",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1982-42",
+        "title": "Diamond Forever",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1982-53",
+        "title": "Dancing Silver",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1982-57",
+        "title": "Gold Soul",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1982-75",
+        "title": "Thunder Night",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
@@ -480,154 +758,115 @@
     {
       "rank": 48,
       "song": {
-        "id": "west-1982-48",
-        "title": "Midnight Fire",
+        "id": "west-1981-48",
+        "title": "Sun Tears",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1982-55",
-        "title": "Diamond Love",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1982-59",
-        "title": "Gold Love",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1982-71",
-        "title": "Golden River",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1982-99",
-        "title": "Thunder Soul",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1981-47",
-        "title": "Moon Rain",
-        "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 66,
+      "rank": 49,
       "song": {
-        "id": "west-1981-66",
-        "title": "Star Love",
+        "id": "west-1981-49",
+        "title": "Wind Fire",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 84,
+      "rank": 72,
       "song": {
-        "id": "west-1981-84",
-        "title": "Dancing Diamond",
+        "id": "west-1981-72",
+        "title": "Midnight Diamond",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 16,
+      "rank": 96,
       "song": {
-        "id": "west-1980-16",
-        "title": "Dancing Bridge",
+        "id": "west-1981-96",
+        "title": "Electric Summer",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1980-12",
+        "title": "Running Bridge",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 21,
+      "rank": 32,
       "song": {
-        "id": "west-1980-21",
-        "title": "Sweet Winter",
+        "id": "west-1980-32",
+        "title": "Summer Love",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 64,
+      "rank": 33,
       "song": {
-        "id": "west-1980-64",
-        "title": "Never Wave",
+        "id": "west-1980-33",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 79,
+      "rank": 93,
       "song": {
-        "id": "west-1980-79",
-        "title": "Under the Bridge",
+        "id": "west-1980-93",
+        "title": "Midnight Winter",
         "artist": {
-          "id": "a-phil-collins",
-          "name": "Phil Collins"
+          "id": "a-mj",
+          "name": "Michael Jackson"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1980-100",
+        "title": "Bridge Moonlight",
+        "artist": {
+          "id": "a-mj",
+          "name": "Michael Jackson"
         },
         "genre": "western"
       },

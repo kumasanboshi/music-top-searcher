@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-1987-11",
-    "title": "冬の歌",
+    "title": "ミッドナイト虹",
     "artist": {
       "id": "a-rebecca",
       "name": "レベッカ"
@@ -12,9 +12,14 @@
   "rank": 11,
   "cdInfo": [
     {
-      "title": "冬の歌",
+      "title": "ミッドナイト虹",
       "type": "single",
-      "releaseDate": "1987-09-22"
+      "releaseDate": "1987-11-21"
+    },
+    {
+      "title": "ALL TIME 海",
+      "type": "album",
+      "releaseDate": "1987-09-21"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 13,
+      "rank": 58,
       "song": {
-        "id": "jpop-1989-13",
-        "title": "光の道",
+        "id": "jpop-1989-58",
+        "title": "星のリズム",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -36,10 +41,10 @@
       "year": 1989
     },
     {
-      "rank": 26,
+      "rank": 75,
       "song": {
-        "id": "jpop-1989-26",
-        "title": "桜の記憶",
+        "id": "jpop-1989-75",
+        "title": "風の記憶",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -49,10 +54,10 @@
       "year": 1989
     },
     {
-      "rank": 42,
+      "rank": 83,
       "song": {
-        "id": "jpop-1989-42",
-        "title": "恋の虹",
+        "id": "jpop-1989-83",
+        "title": "桜物語",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -62,10 +67,10 @@
       "year": 1989
     },
     {
-      "rank": 61,
+      "rank": 85,
       "song": {
-        "id": "jpop-1989-61",
-        "title": "君の約束",
+        "id": "jpop-1989-85",
+        "title": "冬の海",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -75,10 +80,10 @@
       "year": 1989
     },
     {
-      "rank": 68,
+      "rank": 92,
       "song": {
-        "id": "jpop-1989-68",
-        "title": "光の夜",
+        "id": "jpop-1989-92",
+        "title": "真夜中の桜",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -88,10 +93,10 @@
       "year": 1989
     },
     {
-      "rank": 79,
+      "rank": 95,
       "song": {
-        "id": "jpop-1989-79",
-        "title": "影サンセット",
+        "id": "jpop-1989-95",
+        "title": "夢の約束",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -99,25 +104,12 @@
         "genre": "jpop"
       },
       "year": 1989
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1988-21",
-        "title": "風の旅",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
     },
     {
       "rank": 24,
       "song": {
         "id": "jpop-1988-24",
-        "title": "風の街",
+        "title": "雪サンセット",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -127,10 +119,36 @@
       "year": 1988
     },
     {
-      "rank": 38,
+      "rank": 27,
       "song": {
-        "id": "jpop-1988-38",
-        "title": "希望の夜",
+        "id": "jpop-1988-27",
+        "title": "月の街",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-1988-28",
+        "title": "恋の約束",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1988-33",
+        "title": "真夜中の花",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -143,7 +161,7 @@
       "rank": 42,
       "song": {
         "id": "jpop-1988-42",
-        "title": "永遠の雪",
+        "title": "桜フォーエバー",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -153,10 +171,10 @@
       "year": 1988
     },
     {
-      "rank": 45,
+      "rank": 48,
       "song": {
-        "id": "jpop-1988-45",
-        "title": "波のリズム",
+        "id": "jpop-1988-48",
+        "title": "恋の歌",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -166,10 +184,10 @@
       "year": 1988
     },
     {
-      "rank": 52,
+      "rank": 64,
       "song": {
-        "id": "jpop-1988-52",
-        "title": "希望メロディ",
+        "id": "jpop-1988-64",
+        "title": "夏物語",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -179,10 +197,10 @@
       "year": 1988
     },
     {
-      "rank": 57,
+      "rank": 72,
       "song": {
-        "id": "jpop-1988-57",
-        "title": "森の季節",
+        "id": "jpop-1988-72",
+        "title": "風の光",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -192,36 +210,10 @@
       "year": 1988
     },
     {
-      "rank": 73,
+      "rank": 90,
       "song": {
-        "id": "jpop-1988-73",
-        "title": "夢の雨",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1988-76",
-        "title": "青い太陽",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1988-99",
-        "title": "約束のリズム",
+        "id": "jpop-1988-90",
+        "title": "桜ストーリー",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -244,10 +236,10 @@
       "year": 1987
     },
     {
-      "rank": 20,
+      "rank": 18,
       "song": {
-        "id": "jpop-1987-20",
-        "title": "真夜中の恋",
+        "id": "jpop-1987-18",
+        "title": "夢の朝",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -257,10 +249,10 @@
       "year": 1987
     },
     {
-      "rank": 24,
+      "rank": 41,
       "song": {
-        "id": "jpop-1987-24",
-        "title": "星の花",
+        "id": "jpop-1987-41",
+        "title": "太陽の花",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -270,10 +262,49 @@
       "year": 1987
     },
     {
-      "rank": 30,
+      "rank": 45,
       "song": {
-        "id": "jpop-1987-30",
-        "title": "涙の月",
+        "id": "jpop-1987-45",
+        "title": "月の街",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-1987-65",
+        "title": "虹サンセット",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1987-68",
+        "title": "星メロディ",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1987-74",
+        "title": "永遠の未来",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -285,47 +316,8 @@
     {
       "rank": 42,
       "song": {
-        "id": "jpop-1987-42",
-        "title": "夢の月",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1987-84",
-        "title": "月のかけら",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1987-91",
-        "title": "恋の桜",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1986-17",
-        "title": "約束の約束",
+        "id": "jpop-1986-42",
+        "title": "世界ストーリー",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -335,10 +327,10 @@
       "year": 1986
     },
     {
-      "rank": 32,
+      "rank": 48,
       "song": {
-        "id": "jpop-1986-32",
-        "title": "ミッドナイト冬",
+        "id": "jpop-1986-48",
+        "title": "星の季節",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -348,10 +340,10 @@
       "year": 1986
     },
     {
-      "rank": 65,
+      "rank": 53,
       "song": {
-        "id": "jpop-1986-65",
-        "title": "青い桜",
+        "id": "jpop-1986-53",
+        "title": "風の雪",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -361,10 +353,10 @@
       "year": 1986
     },
     {
-      "rank": 66,
+      "rank": 62,
       "song": {
-        "id": "jpop-1986-66",
-        "title": "光サンセット",
+        "id": "jpop-1986-62",
+        "title": "月メロディ",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -374,10 +366,10 @@
       "year": 1986
     },
     {
-      "rank": 72,
+      "rank": 81,
       "song": {
-        "id": "jpop-1986-72",
-        "title": "森の季節",
+        "id": "jpop-1986-81",
+        "title": "夜の街",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -387,10 +379,10 @@
       "year": 1986
     },
     {
-      "rank": 92,
+      "rank": 89,
       "song": {
-        "id": "jpop-1986-92",
-        "title": "恋の道",
+        "id": "jpop-1986-89",
+        "title": "森の空",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -400,10 +392,10 @@
       "year": 1986
     },
     {
-      "rank": 93,
+      "rank": 100,
       "song": {
-        "id": "jpop-1986-93",
-        "title": "記憶の歌",
+        "id": "jpop-1986-100",
+        "title": "青い希望",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -411,12 +403,25 @@
         "genre": "jpop"
       },
       "year": 1986
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "jpop-1985-18",
+        "title": "虹の記憶",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
     },
     {
       "rank": 29,
       "song": {
         "id": "jpop-1985-29",
-        "title": "青い太陽",
+        "title": "夢の空",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -426,10 +431,10 @@
       "year": 1985
     },
     {
-      "rank": 40,
+      "rank": 32,
       "song": {
-        "id": "jpop-1985-40",
-        "title": "青い星",
+        "id": "jpop-1985-32",
+        "title": "桜の記憶",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -437,90 +442,103 @@
         "genre": "jpop"
       },
       "year": 1985
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-1985-55",
-        "title": "約束の月",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1985-61",
-        "title": "涙の愛",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1984-13",
-        "title": "風ストーリー",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1984-15",
-        "title": "空の道",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1984-21",
-        "title": "最後の桜",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1984-36",
-        "title": "風フォーエバー",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
     },
     {
       "rank": 41,
       "song": {
-        "id": "jpop-1984-41",
-        "title": "朝の空",
+        "id": "jpop-1985-41",
+        "title": "最後の太陽",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "jpop-1985-43",
+        "title": "君の雨",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1985-54",
+        "title": "朝の道",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1985-68",
+        "title": "星の桜",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1985-90",
+        "title": "森の空",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1985-96",
+        "title": "約束の空",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1985-97",
+        "title": "桜のリズム",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1984-58",
+        "title": "星の愛",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -530,10 +548,10 @@
       "year": 1984
     },
     {
-      "rank": 82,
+      "rank": 64,
       "song": {
-        "id": "jpop-1984-82",
-        "title": "夏の季節",
+        "id": "jpop-1984-64",
+        "title": "約束の冬",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -543,10 +561,10 @@
       "year": 1984
     },
     {
-      "rank": 84,
+      "rank": 86,
       "song": {
-        "id": "jpop-1984-84",
-        "title": "時間の道",
+        "id": "jpop-1984-86",
+        "title": "雪の季節",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -556,10 +574,36 @@
       "year": 1984
     },
     {
-      "rank": 23,
+      "rank": 93,
       "song": {
-        "id": "jpop-1983-23",
-        "title": "永遠の星",
+        "id": "jpop-1984-93",
+        "title": "約束物語",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1983-17",
+        "title": "約束の空",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "jpop-1983-27",
+        "title": "約束の朝",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -572,7 +616,7 @@
       "rank": 32,
       "song": {
         "id": "jpop-1983-32",
-        "title": "時間の空",
+        "title": "約束の海",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -582,10 +626,10 @@
       "year": 1983
     },
     {
-      "rank": 43,
+      "rank": 36,
       "song": {
-        "id": "jpop-1983-43",
-        "title": "約束の太陽",
+        "id": "jpop-1983-36",
+        "title": "海の海",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -595,10 +639,10 @@
       "year": 1983
     },
     {
-      "rank": 46,
+      "rank": 66,
       "song": {
-        "id": "jpop-1983-46",
-        "title": "記憶ストーリー",
+        "id": "jpop-1983-66",
+        "title": "希望の空",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -608,10 +652,10 @@
       "year": 1983
     },
     {
-      "rank": 57,
+      "rank": 71,
       "song": {
-        "id": "jpop-1983-57",
-        "title": "夢の歌",
+        "id": "jpop-1983-71",
+        "title": "星サンセット",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -621,10 +665,10 @@
       "year": 1983
     },
     {
-      "rank": 58,
+      "rank": 75,
       "song": {
-        "id": "jpop-1983-58",
-        "title": "花フォーエバー",
+        "id": "jpop-1983-75",
+        "title": "時間のリズム",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -634,9 +678,22 @@
       "year": 1983
     },
     {
-      "rank": 60,
+      "rank": 94,
       "song": {
-        "id": "jpop-1983-60",
+        "id": "jpop-1983-94",
+        "title": "朝フォーエバー",
+        "artist": {
+          "id": "a-rebecca",
+          "name": "レベッカ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1982-23",
         "title": "世界フォーエバー",
         "artist": {
           "id": "a-rebecca",
@@ -644,39 +701,13 @@
         },
         "genre": "jpop"
       },
-      "year": 1983
+      "year": 1982
     },
     {
-      "rank": 77,
+      "rank": 39,
       "song": {
-        "id": "jpop-1983-77",
-        "title": "星の空",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1983-91",
-        "title": "風の夜",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1982-17",
-        "title": "朝の花",
+        "id": "jpop-1982-39",
+        "title": "青い星",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -686,49 +717,10 @@
       "year": 1982
     },
     {
-      "rank": 35,
+      "rank": 36,
       "song": {
-        "id": "jpop-1982-35",
-        "title": "雪フォーエバー",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1982-78",
-        "title": "太陽サンセット",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1982-99",
-        "title": "恋フォーエバー",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1981-60",
-        "title": "恋の夏",
+        "id": "jpop-1981-36",
+        "title": "未来物語",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -738,10 +730,10 @@
       "year": 1981
     },
     {
-      "rank": 80,
+      "rank": 46,
       "song": {
-        "id": "jpop-1981-80",
-        "title": "記憶メロディ",
+        "id": "jpop-1981-46",
+        "title": "夏の道",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -751,10 +743,10 @@
       "year": 1981
     },
     {
-      "rank": 83,
+      "rank": 62,
       "song": {
-        "id": "jpop-1981-83",
-        "title": "夢の海",
+        "id": "jpop-1981-62",
+        "title": "約束の夜",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -764,10 +756,10 @@
       "year": 1981
     },
     {
-      "rank": 91,
+      "rank": 72,
       "song": {
-        "id": "jpop-1981-91",
-        "title": "約束の約束",
+        "id": "jpop-1981-72",
+        "title": "朝の空",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -777,10 +769,10 @@
       "year": 1981
     },
     {
-      "rank": 14,
+      "rank": 27,
       "song": {
-        "id": "jpop-1980-14",
-        "title": "永遠の花",
+        "id": "jpop-1980-27",
+        "title": "永遠の愛",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -790,10 +782,10 @@
       "year": 1980
     },
     {
-      "rank": 50,
+      "rank": 69,
       "song": {
-        "id": "jpop-1980-50",
-        "title": "約束の記憶",
+        "id": "jpop-1980-69",
+        "title": "雨の約束",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"
@@ -803,23 +795,10 @@
       "year": 1980
     },
     {
-      "rank": 59,
+      "rank": 85,
       "song": {
-        "id": "jpop-1980-59",
-        "title": "冬の光",
-        "artist": {
-          "id": "a-rebecca",
-          "name": "レベッカ"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1980-79",
-        "title": "世界の光",
+        "id": "jpop-1980-85",
+        "title": "時間の夜",
         "artist": {
           "id": "a-rebecca",
           "name": "レベッカ"

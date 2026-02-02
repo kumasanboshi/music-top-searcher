@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-68",
-    "title": "Fading Road",
+    "title": "Never Winter",
     "artist": {
-      "id": "a-bee-gees",
-      "name": "Bee Gees"
+      "id": "a-chicago",
+      "name": "Chicago"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 68,
   "cdInfo": [
     {
-      "title": "Fading Road",
+      "title": "Never Winter",
       "type": "single",
-      "releaseDate": "1977-08-12"
+      "releaseDate": "1977-11-20"
+    },
+    {
+      "title": "Wave Reloaded",
+      "type": "album",
+      "releaseDate": "1977-11-11"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,117 @@
   },
   "artistSongs": [
     {
-      "rank": 8,
+      "rank": 1,
       "song": {
-        "id": "west-1979-08",
-        "title": "Too Much Heaven",
+        "id": "west-1989-01",
+        "title": "Look Away",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1982-10",
+        "title": "Hard to Say I'm Sorry",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1979-19",
+        "title": "Sweet Rain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 15,
+      "rank": 23,
       "song": {
-        "id": "west-1979-15",
-        "title": "Lost in Dusk",
+        "id": "west-1979-23",
+        "title": "Storm Dreams",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 24,
+      "rank": 25,
       "song": {
-        "id": "west-1979-24",
-        "title": "Never Wind",
+        "id": "west-1979-25",
+        "title": "Electric Road",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 47,
+      "rank": 32,
       "song": {
-        "id": "west-1979-47",
-        "title": "Fading River",
+        "id": "west-1979-32",
+        "title": "Diamond Way",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 48,
+      "rank": 41,
       "song": {
-        "id": "west-1979-48",
-        "title": "Mountain Sky",
+        "id": "west-1979-41",
+        "title": "Rose Soul",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 67,
+      "rank": 54,
       "song": {
-        "id": "west-1979-67",
-        "title": "Shadow Fire",
+        "id": "west-1979-54",
+        "title": "Light Tears",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1979-63",
+        "title": "Chasing Thunder",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -104,10 +148,23 @@
       "rank": 74,
       "song": {
         "id": "west-1979-74",
-        "title": "Chasing Bridge",
+        "title": "Fading Wind",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1979-83",
+        "title": "Golden Wind",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -117,309 +174,478 @@
       "rank": 86,
       "song": {
         "id": "west-1979-86",
-        "title": "Snow Forever",
+        "title": "Shadow Heart",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 2,
+      "rank": 97,
       "song": {
-        "id": "west-1978-02",
-        "title": "Night Fever",
+        "id": "west-1979-97",
+        "title": "River Sky",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1978-15",
+        "title": "Shining Star",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-1978-03",
-        "title": "Stayin' Alive",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-1978-06",
-        "title": "How Deep Is Your Love",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1978-71",
-        "title": "Never Wind",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1978-80",
-        "title": "Fire Dreams",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1977-23",
-        "title": "Wave Way",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1977-72",
-        "title": "Gold Way",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1977-91",
-        "title": "Wind Heart",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
     },
     {
       "rank": 30,
       "song": {
-        "id": "west-1976-30",
-        "title": "Ice Night",
+        "id": "west-1978-30",
+        "title": "Dancing Fire",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1978
     },
     {
-      "rank": 35,
+      "rank": 37,
       "song": {
-        "id": "west-1976-35",
-        "title": "Fading Star",
+        "id": "west-1978-37",
+        "title": "Sun Rain",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1978
     },
     {
-      "rank": 41,
+      "rank": 42,
       "song": {
-        "id": "west-1976-41",
-        "title": "Running Rain",
+        "id": "west-1978-42",
+        "title": "Shining Light",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1978
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1978-51",
+        "title": "Lost in Star",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1978-79",
+        "title": "Lost in Diamond",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
     },
     {
       "rank": 82,
       "song": {
-        "id": "west-1976-82",
-        "title": "Sweet Fire",
+        "id": "west-1978-82",
+        "title": "Wild Ice",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1976
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1976-87",
-        "title": "Into the Diamond",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1976-92",
-        "title": "Under the Storm",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1976-94",
-        "title": "Snow Love",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1976-95",
-        "title": "Running Crystal",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1976-96",
-        "title": "Wild Flame",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1976
+      "year": 1978
     },
     {
       "rank": 97,
       "song": {
-        "id": "west-1976-97",
-        "title": "Flame Forever",
+        "id": "west-1978-97",
+        "title": "River Love",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1977-11",
+        "title": "Chasing Gold",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1977-16",
+        "title": "Snow Moonlight",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1977-19",
+        "title": "Chasing Silver",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1977-21",
+        "title": "Sky Heart",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1977-24",
+        "title": "Mountain Way",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1977-26",
+        "title": "Falling Ice",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1977-27",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1977-47",
+        "title": "Wild Dusk",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1977-48",
+        "title": "Fading Summer",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1977-49",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1977-55",
+        "title": "Fading City",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1977-79",
+        "title": "Dawn Forever",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1977-86",
+        "title": "Chasing Fire",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1977-93",
+        "title": "Rain Tears",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1976-13",
+        "title": "Into the Ice",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 11,
+      "rank": 16,
       "song": {
-        "id": "west-1975-11",
-        "title": "Bridge Way",
+        "id": "west-1976-16",
+        "title": "Golden Ice",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 58,
+      "rank": 24,
       "song": {
-        "id": "west-1975-58",
-        "title": "Lost in Rain",
+        "id": "west-1976-24",
+        "title": "Silver Soul",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1976-25",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1976-29",
+        "title": "Chasing Sun",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1976-31",
+        "title": "Snow Rain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1976-33",
+        "title": "Electric Crystal",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1976-39",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1976-43",
+        "title": "Sweet Shadow",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1976-49",
+        "title": "River Forever",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 70,
       "song": {
-        "id": "west-1975-70",
-        "title": "Sky Moonlight",
+        "id": "west-1976-70",
+        "title": "Dancing Light",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 87,
+      "rank": 89,
       "song": {
-        "id": "west-1975-87",
-        "title": "Winter Sky",
+        "id": "west-1976-89",
+        "title": "Never Winter",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 99,
+      "rank": 68,
       "song": {
-        "id": "west-1975-99",
-        "title": "Ocean Forever",
+        "id": "west-1975-68",
+        "title": "Fading Bridge",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },

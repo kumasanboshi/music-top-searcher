@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-97",
-    "title": "Mountain Rain",
+    "title": "Bridge Sky",
     "artist": {
-      "id": "a-donna-summer",
-      "name": "Donna Summer"
+      "id": "a-elton-john",
+      "name": "Elton John"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 97,
   "cdInfo": [
     {
-      "title": "Mountain Rain",
+      "title": "Bridge Sky",
       "type": "single",
       "releaseDate": "1975-05-10"
+    },
+    {
+      "title": "Flame Reloaded",
+      "type": "album",
+      "releaseDate": "1975-02-20"
     }
   ],
   "externalLinks": {
@@ -23,156 +28,169 @@
   },
   "artistSongs": [
     {
-      "rank": 2,
+      "rank": 6,
       "song": {
-        "id": "west-1979-02",
-        "title": "Bad Girls",
+        "id": "west-2022-06",
+        "title": "Cold Heart",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John & Dua Lipa"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1997-01",
+        "title": "Candle in the Wind 1997",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1979-12",
+        "title": "Falling City",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 5,
+      "rank": 35,
       "song": {
-        "id": "west-1979-05",
-        "title": "Hot Stuff",
+        "id": "west-1979-35",
+        "title": "Fading Wave",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1979-90",
-        "title": "Fading Shadow",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1978-15",
-        "title": "Snow Heart",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1978-23",
-        "title": "Moon Soul",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1978-29",
-        "title": "Sun Forever",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1978-34",
-        "title": "Into the Bridge",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 52,
       "song": {
-        "id": "west-1978-52",
-        "title": "Midnight Fire",
+        "id": "west-1979-52",
+        "title": "Sweet Sun",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1979-53",
+        "title": "Dusk Soul",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1979-75",
+        "title": "Never River",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1979-77",
+        "title": "River Rain",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1979-78",
+        "title": "Star Heart",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1979-91",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1978-14",
+        "title": "Diamond Fire",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 55,
+      "rank": 38,
       "song": {
-        "id": "west-1978-55",
-        "title": "Under the Ice",
+        "id": "west-1978-38",
+        "title": "City Moonlight",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 68,
+      "rank": 41,
       "song": {
-        "id": "west-1978-68",
-        "title": "Ocean Lights",
+        "id": "west-1978-41",
+        "title": "Fire Lights",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1978-73",
-        "title": "Road Tears",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1978-100",
-        "title": "Sun Way",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -181,76 +199,102 @@
     {
       "rank": 44,
       "song": {
-        "id": "west-1977-44",
-        "title": "Under the Star",
+        "id": "west-1978-44",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1978-78",
+        "title": "Wild Crystal",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1978-87",
+        "title": "Running Storm",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1977-18",
+        "title": "Midnight River",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 63,
+      "rank": 28,
       "song": {
-        "id": "west-1977-63",
-        "title": "Sun Heart",
+        "id": "west-1977-28",
+        "title": "Shining Silver",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 66,
+      "rank": 29,
       "song": {
-        "id": "west-1977-66",
-        "title": "Dawn Night",
+        "id": "west-1977-29",
+        "title": "Road Tears",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 70,
+      "rank": 51,
       "song": {
-        "id": "west-1977-70",
-        "title": "Dawn Lights",
+        "id": "west-1977-51",
+        "title": "City Sky",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 71,
+      "rank": 67,
       "song": {
-        "id": "west-1977-71",
-        "title": "Lost in Fire",
+        "id": "west-1977-67",
+        "title": "Never Dawn",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1977-77",
-        "title": "Gold Love",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -260,75 +304,49 @@
       "rank": 87,
       "song": {
         "id": "west-1977-87",
-        "title": "Fading Bridge",
+        "title": "Never Snow",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 12,
+      "rank": 15,
       "song": {
-        "id": "west-1976-12",
-        "title": "Sun Dreams",
+        "id": "west-1976-15",
+        "title": "Falling Wave",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 37,
+      "rank": 42,
       "song": {
-        "id": "west-1976-37",
-        "title": "Wild Crystal",
+        "id": "west-1976-42",
+        "title": "Summer Heart",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 53,
+      "rank": 50,
       "song": {
-        "id": "west-1976-53",
-        "title": "Last Rain",
+        "id": "west-1976-50",
+        "title": "Fading Mountain",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1976-54",
-        "title": "Dancing Dusk",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1976-56",
-        "title": "Diamond Lights",
-        "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -338,88 +356,101 @@
       "rank": 58,
       "song": {
         "id": "west-1976-58",
-        "title": "Gold Lights",
+        "title": "Never Snow",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 77,
+      "rank": 80,
       "song": {
-        "id": "west-1976-77",
-        "title": "Wave Lights",
+        "id": "west-1976-80",
+        "title": "Rose Lights",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 49,
+      "rank": 3,
       "song": {
-        "id": "west-1975-49",
-        "title": "Under the Storm",
+        "id": "west-1975-03",
+        "title": "Philadelphia Freedom",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 86,
+      "rank": 17,
       "song": {
-        "id": "west-1975-86",
-        "title": "Sky Rain",
+        "id": "west-1975-17",
+        "title": "Shining Ice",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 89,
+      "rank": 19,
       "song": {
-        "id": "west-1975-89",
-        "title": "Falling Dusk",
+        "id": "west-1975-19",
+        "title": "Running Light",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 92,
+      "rank": 26,
       "song": {
-        "id": "west-1975-92",
-        "title": "Diamond Lights",
+        "id": "west-1975-26",
+        "title": "Sweet Dusk",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 96,
+      "rank": 32,
       "song": {
-        "id": "west-1975-96",
-        "title": "Never Road",
+        "id": "west-1975-32",
+        "title": "Fading Dusk",
         "artist": {
-          "id": "a-donna-summer",
-          "name": "Donna Summer"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1975-72",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },

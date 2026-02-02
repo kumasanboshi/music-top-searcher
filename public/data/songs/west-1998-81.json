@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1998-81",
-    "title": "Thunder Way",
+    "title": "Never Mountain",
     "artist": {
-      "id": "a-alanis",
-      "name": "Alanis Morissette"
+      "id": "a-spice-girls",
+      "name": "Spice Girls"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 81,
   "cdInfo": [
     {
-      "title": "Thunder Way",
+      "title": "Never Mountain",
       "type": "single",
-      "releaseDate": "1998-07-07"
+      "releaseDate": "1998-12-16"
+    },
+    {
+      "title": "Sun Chronicles",
+      "type": "album",
+      "releaseDate": "1998-05-19"
     }
   ],
   "externalLinks": {
@@ -23,13 +28,91 @@
   },
   "artistSongs": [
     {
-      "rank": 13,
+      "rank": 29,
       "song": {
-        "id": "west-1999-13",
-        "title": "Rose Dreams",
+        "id": "west-1999-29",
+        "title": "Sweet Rose",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1999-30",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1999-45",
+        "title": "Silver Love",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1999-54",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1999-58",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1999-62",
+        "title": "Gold Lights",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1999-69",
+        "title": "Never Moon",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -38,193 +121,167 @@
     {
       "rank": 15,
       "song": {
-        "id": "west-1999-15",
-        "title": "Summer Tears",
+        "id": "west-1998-15",
+        "title": "Golden Road",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1999
+      "year": 1998
     },
     {
-      "rank": 27,
+      "rank": 21,
       "song": {
-        "id": "west-1999-27",
-        "title": "Thunder Moonlight",
+        "id": "west-1998-21",
+        "title": "Silver Soul",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1999
+      "year": 1998
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1998-25",
+        "title": "Golden Wind",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
     },
     {
       "rank": 29,
       "song": {
-        "id": "west-1999-29",
-        "title": "Running Bridge",
+        "id": "west-1998-29",
+        "title": "Falling Snow",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1999-33",
-        "title": "Shining River",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1999-38",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1999-55",
-        "title": "Midnight Storm",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1999-57",
-        "title": "Golden Flame",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1999-87",
-        "title": "Electric Rain",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1999-91",
-        "title": "Golden Diamond",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1998-14",
-        "title": "Bridge Tears",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 38,
+      "rank": 46,
       "song": {
-        "id": "west-1998-38",
-        "title": "Winter Forever",
+        "id": "west-1998-46",
+        "title": "Electric River",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 61,
+      "rank": 48,
       "song": {
-        "id": "west-1998-61",
-        "title": "Dusk Dreams",
+        "id": "west-1998-48",
+        "title": "Wild Light",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 68,
+      "rank": 60,
       "song": {
-        "id": "west-1998-68",
-        "title": "Sweet Mountain",
+        "id": "west-1998-60",
+        "title": "Bridge Way",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 84,
+      "rank": 96,
       "song": {
-        "id": "west-1998-84",
-        "title": "Gold Soul",
+        "id": "west-1998-96",
+        "title": "Fire Heart",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 24,
+      "rank": 97,
       "song": {
-        "id": "west-1997-24",
-        "title": "Star Dreams",
+        "id": "west-1998-97",
+        "title": "Wild Dusk",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1998-100",
+        "title": "Falling River",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1997-06",
+        "title": "Wannabe",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1997-18",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1997-20",
+        "title": "Lost in Rain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -234,634 +291,439 @@
       "rank": 25,
       "song": {
         "id": "west-1997-25",
-        "title": "Fading Dawn",
+        "title": "Moon Lights",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 48,
+      "rank": 26,
       "song": {
-        "id": "west-1997-48",
-        "title": "Wild Dusk",
+        "id": "west-1997-26",
+        "title": "Never Sky",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 52,
+      "rank": 27,
       "song": {
-        "id": "west-1997-52",
-        "title": "Wind Moonlight",
+        "id": "west-1997-27",
+        "title": "River Night",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 56,
+      "rank": 97,
       "song": {
-        "id": "west-1997-56",
-        "title": "Rose Dreams",
+        "id": "west-1997-97",
+        "title": "Dawn Night",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 58,
+      "rank": 14,
       "song": {
-        "id": "west-1997-58",
-        "title": "Never River",
+        "id": "west-1996-14",
+        "title": "Chasing Ocean",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1997
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1997-59",
-        "title": "Fading Sun",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1997-61",
-        "title": "Golden Dusk",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1997-71",
-        "title": "Fire Heart",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1997-74",
-        "title": "Last Fire",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1997-75",
-        "title": "Dusk Soul",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1997
+      "year": 1996
     },
     {
       "rank": 18,
       "song": {
         "id": "west-1996-18",
-        "title": "Rose Forever",
+        "title": "Sweet Mountain",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1996
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1996-21",
-        "title": "Last Diamond",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1996-63",
-        "title": "Last Wave",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1996-68",
-        "title": "Golden Snow",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1996-75",
-        "title": "Into the Star",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1996-86",
-        "title": "Under the Ice",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1996-92",
-        "title": "Flame Forever",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1996-95",
-        "title": "Electric Crystal",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1995-40",
-        "title": "Running Moon",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1995-73",
-        "title": "Star Rain",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1995-74",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1995-89",
-        "title": "Electric Storm",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1995
     },
     {
       "rank": 19,
       "song": {
-        "id": "west-1994-19",
-        "title": "Star Night",
+        "id": "west-1996-19",
+        "title": "Midnight Snow",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1994
+      "year": 1996
     },
     {
-      "rank": 23,
+      "rank": 26,
       "song": {
-        "id": "west-1994-23",
-        "title": "Lost in Mountain",
+        "id": "west-1996-26",
+        "title": "Ocean Dreams",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1994
+      "year": 1996
     },
     {
-      "rank": 32,
+      "rank": 46,
       "song": {
-        "id": "west-1994-32",
-        "title": "Dusk Heart",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1994-66",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1994-70",
-        "title": "Last Bridge",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1994-73",
-        "title": "Moon Rain",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1994-84",
-        "title": "River Heart",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1994-97",
-        "title": "Dawn Lights",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1994-98",
-        "title": "Dawn Tears",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1993-14",
-        "title": "Golden Wind",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1993-30",
-        "title": "Under the Ocean",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1993-36",
-        "title": "Thunder Way",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1993-47",
-        "title": "Chasing Crystal",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1993-58",
+        "id": "west-1996-46",
         "title": "Snow Way",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1996
     },
     {
-      "rank": 70,
+      "rank": 56,
       "song": {
-        "id": "west-1993-70",
-        "title": "Under the Thunder",
+        "id": "west-1996-56",
+        "title": "Fading Wind",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1996
     },
     {
-      "rank": 75,
+      "rank": 64,
       "song": {
-        "id": "west-1993-75",
-        "title": "Shadow Sky",
+        "id": "west-1996-64",
+        "title": "Running Light",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1996
     },
     {
-      "rank": 92,
+      "rank": 72,
       "song": {
-        "id": "west-1993-92",
-        "title": "Electric Light",
+        "id": "west-1996-72",
+        "title": "Fading Silver",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1996
     },
     {
-      "rank": 97,
+      "rank": 90,
       "song": {
-        "id": "west-1993-97",
-        "title": "Electric Rose",
+        "id": "west-1996-90",
+        "title": "Winter Night",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1993
+      "year": 1996
     },
     {
-      "rank": 12,
+      "rank": 100,
       "song": {
-        "id": "west-1992-12",
-        "title": "Dawn Fire",
+        "id": "west-1996-100",
+        "title": "Summer Way",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1996
     },
     {
-      "rank": 25,
+      "rank": 13,
       "song": {
-        "id": "west-1992-25",
-        "title": "City Dreams",
+        "id": "west-1995-13",
+        "title": "Thunder Tears",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1995
     },
     {
-      "rank": 36,
+      "rank": 24,
       "song": {
-        "id": "west-1992-36",
-        "title": "Dusk Lights",
+        "id": "west-1995-24",
+        "title": "Gold Sky",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1995
     },
     {
-      "rank": 55,
+      "rank": 41,
       "song": {
-        "id": "west-1992-55",
-        "title": "Into the Snow",
+        "id": "west-1995-41",
+        "title": "Sky Soul",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1995
     },
     {
-      "rank": 75,
+      "rank": 94,
       "song": {
-        "id": "west-1992-75",
-        "title": "Sweet Crystal",
+        "id": "west-1995-94",
+        "title": "Wild Gold",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
-      "year": 1992
+      "year": 1995
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1994-11",
+        "title": "Wild Mountain",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1994-21",
+        "title": "Wild Summer",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1994-34",
+        "title": "Wild Silver",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1994-61",
+        "title": "Dawn Way",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
     },
     {
       "rank": 85,
       "song": {
-        "id": "west-1992-85",
-        "title": "Diamond Night",
+        "id": "west-1994-85",
+        "title": "Sweet Moon",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1994-87",
+        "title": "Rain Soul",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1993-20",
+        "title": "Running Wave",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1993-33",
+        "title": "Star Night",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1993-77",
+        "title": "Summer Love",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1993-98",
+        "title": "Wild Bridge",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1992-71",
+        "title": "Shadow Fire",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 51,
+      "rank": 77,
       "song": {
-        "id": "west-1991-51",
-        "title": "Last Ocean",
+        "id": "west-1992-77",
+        "title": "Into the Sun",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1991-19",
+        "title": "Under the Crystal",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 68,
+      "rank": 21,
       "song": {
-        "id": "west-1991-68",
-        "title": "Under the Flame",
+        "id": "west-1991-21",
+        "title": "Last Ice",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 73,
+      "rank": 28,
       "song": {
-        "id": "west-1991-73",
-        "title": "Electric Light",
+        "id": "west-1991-28",
+        "title": "Flame Sky",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1991-45",
+        "title": "Under the Dawn",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
@@ -871,62 +733,101 @@
       "rank": 87,
       "song": {
         "id": "west-1991-87",
-        "title": "Lost in Gold",
+        "title": "Chasing Road",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 17,
+      "rank": 88,
       "song": {
-        "id": "west-1990-17",
-        "title": "Winter Love",
+        "id": "west-1991-88",
+        "title": "Chasing River",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1991-96",
+        "title": "Fire Forever",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1990-19",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 39,
+      "rank": 26,
       "song": {
-        "id": "west-1990-39",
-        "title": "Ocean Night",
+        "id": "west-1990-26",
+        "title": "Golden Sun",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 45,
+      "rank": 69,
       "song": {
-        "id": "west-1990-45",
-        "title": "Bridge Heart",
+        "id": "west-1990-69",
+        "title": "Chasing Summer",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 65,
+      "rank": 73,
       "song": {
-        "id": "west-1990-65",
-        "title": "Silver Soul",
+        "id": "west-1990-73",
+        "title": "Rain Lights",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1990-87",
+        "title": "Never Ice",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       },

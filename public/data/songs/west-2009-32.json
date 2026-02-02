@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2009-32",
-    "title": "Chasing Fire",
+    "title": "Electric Light",
     "artist": {
-      "id": "a-eminem",
-      "name": "Eminem"
+      "id": "a-kanye",
+      "name": "Kanye West"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 32,
   "cdInfo": [
     {
-      "title": "Chasing Fire",
+      "title": "Electric Light",
       "type": "single",
-      "releaseDate": "2009-07-16"
+      "releaseDate": "2009-07-22"
+    },
+    {
+      "title": "Storm Stories",
+      "type": "album",
+      "releaseDate": "2009-03-06"
     }
   ],
   "externalLinks": {
@@ -23,130 +28,91 @@
   },
   "artistSongs": [
     {
-      "rank": 7,
-      "song": {
-        "id": "west-2010-07",
-        "title": "Love the Way You Lie",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem ft. Rihanna"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2009-35",
-        "title": "Light Love",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2009-36",
-        "title": "Shadow Tears",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2009-55",
-        "title": "Wind Sky",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2009-69",
-        "title": "Summer Heart",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2009-77",
-        "title": "Thunder Sky",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2009-88",
-        "title": "Falling Ocean",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2009-90",
-        "title": "Wind Heart",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
       "rank": 14,
       "song": {
-        "id": "west-2008-14",
-        "title": "Rain Way",
+        "id": "west-2009-14",
+        "title": "Ocean Heart",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
-      "year": 2008
+      "year": 2009
     },
     {
-      "rank": 28,
+      "rank": 29,
       "song": {
-        "id": "west-2008-28",
-        "title": "Star Sky",
+        "id": "west-2009-29",
+        "title": "Diamond Way",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2009-31",
+        "title": "Falling Wind",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-2009-43",
+        "title": "Wind Moonlight",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2009-78",
+        "title": "Mountain Tears",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-2009-94",
+        "title": "Shining Dusk",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-2008-11",
+        "title": "Thunder Moonlight",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -156,114 +122,153 @@
       "rank": 41,
       "song": {
         "id": "west-2008-41",
-        "title": "Sky Night",
+        "title": "Dancing Gold",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 69,
+      "rank": 51,
       "song": {
-        "id": "west-2008-69",
-        "title": "Into the Gold",
+        "id": "west-2008-51",
+        "title": "Flame Forever",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 90,
+      "rank": 65,
       "song": {
-        "id": "west-2008-90",
-        "title": "Dancing Bridge",
+        "id": "west-2008-65",
+        "title": "Falling Shadow",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 12,
+      "rank": 80,
       "song": {
-        "id": "west-2007-12",
-        "title": "Sweet Fire",
+        "id": "west-2008-80",
+        "title": "Gold Dreams",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2007-34",
+        "title": "Sweet Gold",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 69,
+      "rank": 42,
       "song": {
-        "id": "west-2007-69",
-        "title": "Dancing City",
+        "id": "west-2007-42",
+        "title": "Midnight Ice",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 70,
+      "rank": 49,
       "song": {
-        "id": "west-2007-70",
-        "title": "Shining Winter",
+        "id": "west-2007-49",
+        "title": "Under the Sky",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 22,
+      "rank": 51,
       "song": {
-        "id": "west-2006-22",
-        "title": "Shining Wind",
+        "id": "west-2007-51",
+        "title": "Fading Dusk",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-2007-66",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2007-73",
+        "title": "Road Rain",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2006-19",
+        "title": "Wind Night",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 35,
+      "rank": 42,
       "song": {
-        "id": "west-2006-35",
-        "title": "Silver Tears",
+        "id": "west-2006-42",
+        "title": "Shadow Dreams",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2006-38",
-        "title": "Chasing Thunder",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -273,49 +278,36 @@
       "rank": 44,
       "song": {
         "id": "west-2006-44",
-        "title": "Last Storm",
+        "title": "Falling Gold",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 61,
+      "rank": 47,
       "song": {
-        "id": "west-2006-61",
-        "title": "Fire Dreams",
+        "id": "west-2006-47",
+        "title": "Moon Love",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 68,
+      "rank": 67,
       "song": {
-        "id": "west-2006-68",
-        "title": "Wild Crystal",
+        "id": "west-2006-67",
+        "title": "Sky Moonlight",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2006-73",
-        "title": "Lost in Ocean",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -325,335 +317,322 @@
       "rank": 81,
       "song": {
         "id": "west-2006-81",
-        "title": "Winter Fire",
+        "title": "Golden Ocean",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 82,
+      "rank": 84,
       "song": {
-        "id": "west-2006-82",
-        "title": "Sweet River",
+        "id": "west-2006-84",
+        "title": "Fading Moon",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 83,
+      "rank": 88,
       "song": {
-        "id": "west-2006-83",
-        "title": "City Night",
+        "id": "west-2006-88",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 86,
+      "rank": 15,
       "song": {
-        "id": "west-2006-86",
-        "title": "Dancing Gold",
+        "id": "west-2005-15",
+        "title": "Lost in Wind",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2005-11",
-        "title": "Dawn Dreams",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 21,
+      "rank": 17,
       "song": {
-        "id": "west-2005-21",
-        "title": "Wild Mountain",
+        "id": "west-2005-17",
+        "title": "Dancing Bridge",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 31,
+      "rank": 22,
       "song": {
-        "id": "west-2005-31",
-        "title": "Summer Tears",
+        "id": "west-2005-22",
+        "title": "Fire Tears",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2005
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2005-46",
-        "title": "Fading Flame",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2005-71",
-        "title": "Never Wave",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2005-73",
-        "title": "Snow Love",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2005-80",
-        "title": "Chasing Shadow",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2005-93",
-        "title": "Into the Light",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2005-100",
-        "title": "Ice Fire",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2004-49",
-        "title": "Road Fire",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2004-51",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2004-61",
-        "title": "Wild Storm",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2004-64",
-        "title": "Wave Soul",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2004-80",
-        "title": "Road Rain",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2004-91",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2003-16",
-        "title": "Sun Soul",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2003-49",
-        "title": "Ice Love",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2003-55",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2003-100",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2002-12",
-        "title": "Dancing Storm",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2002-16",
-        "title": "Last Winter",
-        "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
-        },
-        "genre": "western"
-      },
-      "year": 2002
     },
     {
       "rank": 39,
       "song": {
-        "id": "west-2002-39",
-        "title": "Sweet City",
+        "id": "west-2005-39",
+        "title": "Falling Dusk",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2005-42",
+        "title": "Light Heart",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2005-58",
+        "title": "Fading Mountain",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2005-67",
+        "title": "Gold Lights",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2005-85",
+        "title": "Into the Dawn",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2005-96",
+        "title": "Under the Ocean",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2004-36",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2004-46",
+        "title": "Ocean Dreams",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2004-53",
+        "title": "Silver Lights",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2004-67",
+        "title": "Summer Lights",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2004-86",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2003-13",
+        "title": "Sweet Ocean",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2003-34",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-2003-52",
+        "title": "Into the Moon",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2003-56",
+        "title": "Shining Wave",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2003-60",
+        "title": "Dancing Road",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2003-98",
+        "title": "Fading Sun",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2002-37",
+        "title": "Under the Moon",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-2002-43",
+        "title": "Never Diamond",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -663,88 +642,166 @@
       "rank": 62,
       "song": {
         "id": "west-2002-62",
-        "title": "Lost in Silver",
+        "title": "Bridge Love",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 65,
+      "rank": 66,
       "song": {
-        "id": "west-2002-65",
-        "title": "Chasing Crystal",
+        "id": "west-2002-66",
+        "title": "Thunder Way",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 50,
+      "rank": 67,
       "song": {
-        "id": "west-2001-50",
-        "title": "Light Forever",
+        "id": "west-2002-67",
+        "title": "Wind Moonlight",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2002-82",
+        "title": "Under the Light",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2001-17",
+        "title": "Chasing Wave",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 72,
+      "rank": 21,
       "song": {
-        "id": "west-2001-72",
-        "title": "Ice Love",
+        "id": "west-2001-21",
+        "title": "Never Rose",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 75,
+      "rank": 36,
       "song": {
-        "id": "west-2001-75",
-        "title": "Wild Diamond",
+        "id": "west-2001-36",
+        "title": "Dawn Way",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 84,
+      "rank": 63,
       "song": {
-        "id": "west-2001-84",
-        "title": "Ice Rain",
+        "id": "west-2001-63",
+        "title": "Dusk Heart",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 25,
+      "rank": 68,
       "song": {
-        "id": "west-2000-25",
-        "title": "Never Silver",
+        "id": "west-2001-68",
+        "title": "Winter Dreams",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2001-85",
+        "title": "Under the Storm",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2000-14",
+        "title": "Silver Soul",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-2000-17",
+        "title": "Bridge Way",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-2000-29",
+        "title": "Shining Thunder",
+        "artist": {
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
@@ -754,62 +811,62 @@
       "rank": 30,
       "song": {
         "id": "west-2000-30",
-        "title": "Golden Dawn",
+        "title": "City Tears",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 45,
+      "rank": 40,
       "song": {
-        "id": "west-2000-45",
-        "title": "Rain Heart",
+        "id": "west-2000-40",
+        "title": "Thunder Moonlight",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 67,
+      "rank": 64,
       "song": {
-        "id": "west-2000-67",
-        "title": "Falling Shadow",
+        "id": "west-2000-64",
+        "title": "Dusk Fire",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 72,
+      "rank": 75,
       "song": {
-        "id": "west-2000-72",
-        "title": "Sweet River",
+        "id": "west-2000-75",
+        "title": "City Night",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 84,
+      "rank": 99,
       "song": {
-        "id": "west-2000-84",
-        "title": "Dusk Rain",
+        "id": "west-2000-99",
+        "title": "City Heart",
         "artist": {
-          "id": "a-eminem",
-          "name": "Eminem"
+          "id": "a-kanye",
+          "name": "Kanye West"
         },
         "genre": "western"
       },

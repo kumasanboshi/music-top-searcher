@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-2008-64",
-    "title": "Electric Mountain",
+    "title": "Falling River",
     "artist": {
       "id": "a-beyonce",
       "name": "Beyoncé"
@@ -12,9 +12,14 @@
   "rank": 64,
   "cdInfo": [
     {
-      "title": "Electric Mountain",
+      "title": "Falling River",
       "type": "single",
-      "releaseDate": "2008-07-05"
+      "releaseDate": "2008-10-04"
+    },
+    {
+      "title": "Shadow Anthology",
+      "type": "album",
+      "releaseDate": "2008-04-05"
     }
   ],
   "externalLinks": {
@@ -36,10 +41,10 @@
       "year": 2009
     },
     {
-      "rank": 29,
+      "rank": 59,
       "song": {
-        "id": "west-2009-29",
-        "title": "Sweet Fire",
+        "id": "west-2009-59",
+        "title": "Golden Star",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -49,10 +54,10 @@
       "year": 2009
     },
     {
-      "rank": 68,
+      "rank": 70,
       "song": {
-        "id": "west-2009-68",
-        "title": "Electric Moon",
+        "id": "west-2009-70",
+        "title": "Running Fire",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -60,90 +65,116 @@
         "genre": "western"
       },
       "year": 2009
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2009-80",
-        "title": "Flame Sky",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2008-24",
-        "title": "Sky Dreams",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2008-35",
-        "title": "River Heart",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2008-51",
-        "title": "Winter Lights",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2008-75",
-        "title": "Shining Flame",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2008-76",
-        "title": "Broken Sky",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2008
     },
     {
       "rank": 84,
       "song": {
-        "id": "west-2008-84",
-        "title": "Running Light",
+        "id": "west-2009-84",
+        "title": "Fire Dreams",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2009-86",
+        "title": "Sun Soul",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2009-89",
+        "title": "Under the City",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2009-90",
+        "title": "Lost in Silver",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2008-23",
+        "title": "Silver Forever",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2008-30",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2008-31",
+        "title": "Flame Soul",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-2008-70",
+        "title": "Shining Sky",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2008-90",
+        "title": "Sweet River",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -166,10 +197,10 @@
       "year": 2007
     },
     {
-      "rank": 27,
+      "rank": 19,
       "song": {
-        "id": "west-2007-27",
-        "title": "Winter Night",
+        "id": "west-2007-19",
+        "title": "Electric Sun",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -179,10 +210,10 @@
       "year": 2007
     },
     {
-      "rank": 33,
+      "rank": 32,
       "song": {
-        "id": "west-2007-33",
-        "title": "Fading Silver",
+        "id": "west-2007-32",
+        "title": "Broken Wave",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -192,10 +223,10 @@
       "year": 2007
     },
     {
-      "rank": 37,
+      "rank": 56,
       "song": {
-        "id": "west-2007-37",
-        "title": "Chasing Gold",
+        "id": "west-2007-56",
+        "title": "Silver Dreams",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -205,36 +236,10 @@
       "year": 2007
     },
     {
-      "rank": 47,
+      "rank": 60,
       "song": {
-        "id": "west-2007-47",
-        "title": "River Lights",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2007-52",
-        "title": "Into the Gold",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2007-54",
-        "title": "Falling Moon",
+        "id": "west-2007-60",
+        "title": "Never Ice",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -247,7 +252,7 @@
       "rank": 86,
       "song": {
         "id": "west-2007-86",
-        "title": "Midnight Moon",
+        "title": "Storm Fire",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -260,7 +265,7 @@
       "rank": 94,
       "song": {
         "id": "west-2007-94",
-        "title": "River Night",
+        "title": "Lost in Shadow",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -283,10 +288,10 @@
       "year": 2006
     },
     {
-      "rank": 23,
+      "rank": 14,
       "song": {
-        "id": "west-2006-23",
-        "title": "Shining Ice",
+        "id": "west-2006-14",
+        "title": "River Moonlight",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -296,10 +301,10 @@
       "year": 2006
     },
     {
-      "rank": 32,
+      "rank": 22,
       "song": {
-        "id": "west-2006-32",
-        "title": "Diamond Lights",
+        "id": "west-2006-22",
+        "title": "Fire Soul",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -309,23 +314,10 @@
       "year": 2006
     },
     {
-      "rank": 40,
+      "rank": 50,
       "song": {
-        "id": "west-2006-40",
-        "title": "Summer Tears",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2006-56",
-        "title": "Under the Mountain",
+        "id": "west-2006-50",
+        "title": "Never Ocean",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -338,7 +330,7 @@
       "rank": 63,
       "song": {
         "id": "west-2006-63",
-        "title": "Last Light",
+        "title": "Midnight Sky",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -348,10 +340,36 @@
       "year": 2006
     },
     {
-      "rank": 76,
+      "rank": 65,
       "song": {
-        "id": "west-2006-76",
-        "title": "Ocean Forever",
+        "id": "west-2006-65",
+        "title": "Light Dreams",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2006-68",
+        "title": "Falling Shadow",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2006-85",
+        "title": "Summer Sky",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -364,7 +382,7 @@
       "rank": 91,
       "song": {
         "id": "west-2006-91",
-        "title": "Into the Rain",
+        "title": "Road Dreams",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -374,36 +392,10 @@
       "year": 2006
     },
     {
-      "rank": 95,
+      "rank": 18,
       "song": {
-        "id": "west-2006-95",
-        "title": "Wave Way",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2006-96",
-        "title": "Rain Rain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2005-26",
-        "title": "Rose Moonlight",
+        "id": "west-2005-18",
+        "title": "Moon Sky",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -413,10 +405,10 @@
       "year": 2005
     },
     {
-      "rank": 41,
+      "rank": 25,
       "song": {
-        "id": "west-2005-41",
-        "title": "Dancing Dawn",
+        "id": "west-2005-25",
+        "title": "Summer Night",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -426,87 +418,9 @@
       "year": 2005
     },
     {
-      "rank": 60,
+      "rank": 43,
       "song": {
-        "id": "west-2005-60",
-        "title": "Thunder Soul",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2005-76",
-        "title": "Rose Night",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2005-77",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2005-97",
-        "title": "Running Wind",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2004-36",
-        "title": "Into the Sun",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2004-44",
-        "title": "Last Storm",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2004-71",
+        "id": "west-2005-43",
         "title": "Dancing Gold",
         "artist": {
           "id": "a-beyonce",
@@ -514,13 +428,130 @@
         },
         "genre": "western"
       },
+      "year": 2005
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2005-47",
+        "title": "Golden Bridge",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-2005-53",
+        "title": "Sun Rain",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2005-74",
+        "title": "Crystal Dreams",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-2005-78",
+        "title": "Light Soul",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2005-82",
+        "title": "Chasing Moon",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2005-88",
+        "title": "Dusk Soul",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2004-45",
+        "title": "Ocean Tears",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
       "year": 2004
     },
     {
-      "rank": 87,
+      "rank": 57,
       "song": {
-        "id": "west-2004-87",
-        "title": "Into the Light",
+        "id": "west-2004-57",
+        "title": "Bridge Way",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-2004-59",
+        "title": "Golden Moon",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2004-85",
+        "title": "Wild City",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -556,10 +587,10 @@
       "year": 2003
     },
     {
-      "rank": 13,
+      "rank": 17,
       "song": {
-        "id": "west-2003-13",
-        "title": "Wild Snow",
+        "id": "west-2003-17",
+        "title": "Never Diamond",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -572,7 +603,7 @@
       "rank": 21,
       "song": {
         "id": "west-2003-21",
-        "title": "Chasing Wave",
+        "title": "Broken Storm",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -582,10 +613,10 @@
       "year": 2003
     },
     {
-      "rank": 23,
+      "rank": 31,
       "song": {
-        "id": "west-2003-23",
-        "title": "Silver Rain",
+        "id": "west-2003-31",
+        "title": "Dancing Wave",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -595,10 +626,10 @@
       "year": 2003
     },
     {
-      "rank": 29,
+      "rank": 39,
       "song": {
-        "id": "west-2003-29",
-        "title": "Ocean Moonlight",
+        "id": "west-2003-39",
+        "title": "Sky Love",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -608,10 +639,10 @@
       "year": 2003
     },
     {
-      "rank": 30,
+      "rank": 54,
       "song": {
-        "id": "west-2003-30",
-        "title": "River Night",
+        "id": "west-2003-54",
+        "title": "Golden Wind",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -621,10 +652,10 @@
       "year": 2003
     },
     {
-      "rank": 40,
+      "rank": 63,
       "song": {
-        "id": "west-2003-40",
-        "title": "Storm Rain",
+        "id": "west-2003-63",
+        "title": "Last Storm",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -634,10 +665,10 @@
       "year": 2003
     },
     {
-      "rank": 69,
+      "rank": 64,
       "song": {
-        "id": "west-2003-69",
-        "title": "Fire Forever",
+        "id": "west-2003-64",
+        "title": "Falling Mountain",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -647,10 +678,10 @@
       "year": 2003
     },
     {
-      "rank": 74,
+      "rank": 72,
       "song": {
-        "id": "west-2003-74",
-        "title": "Never Mountain",
+        "id": "west-2003-72",
+        "title": "Wind Soul",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -660,36 +691,10 @@
       "year": 2003
     },
     {
-      "rank": 86,
+      "rank": 17,
       "song": {
-        "id": "west-2003-86",
-        "title": "Dusk Moonlight",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2003-94",
-        "title": "Wave Moonlight",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2002-23",
-        "title": "Sweet River",
+        "id": "west-2002-17",
+        "title": "Under the Wind",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -699,10 +704,10 @@
       "year": 2002
     },
     {
-      "rank": 49,
+      "rank": 31,
       "song": {
-        "id": "west-2002-49",
-        "title": "Midnight Sun",
+        "id": "west-2002-31",
+        "title": "Storm Heart",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -712,10 +717,10 @@
       "year": 2002
     },
     {
-      "rank": 51,
+      "rank": 34,
       "song": {
-        "id": "west-2002-51",
-        "title": "City Moonlight",
+        "id": "west-2002-34",
+        "title": "Falling Light",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -725,10 +730,10 @@
       "year": 2002
     },
     {
-      "rank": 70,
+      "rank": 57,
       "song": {
-        "id": "west-2002-70",
-        "title": "Diamond Heart",
+        "id": "west-2002-57",
+        "title": "Storm Night",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -738,49 +743,10 @@
       "year": 2002
     },
     {
-      "rank": 80,
+      "rank": 14,
       "song": {
-        "id": "west-2002-80",
-        "title": "Chasing Flame",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2002-97",
-        "title": "Light Rain",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2001-16",
-        "title": "Shadow Tears",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2001-24",
-        "title": "Ocean Dreams",
+        "id": "west-2001-14",
+        "title": "Into the Diamond",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -793,7 +759,7 @@
       "rank": 25,
       "song": {
         "id": "west-2001-25",
-        "title": "Falling Moon",
+        "title": "Shining Star",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -803,10 +769,10 @@
       "year": 2001
     },
     {
-      "rank": 32,
+      "rank": 38,
       "song": {
-        "id": "west-2001-32",
-        "title": "Shining Mountain",
+        "id": "west-2001-38",
+        "title": "City Dreams",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -816,10 +782,10 @@
       "year": 2001
     },
     {
-      "rank": 34,
+      "rank": 45,
       "song": {
-        "id": "west-2001-34",
-        "title": "Midnight Fire",
+        "id": "west-2001-45",
+        "title": "Electric Shadow",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -829,10 +795,10 @@
       "year": 2001
     },
     {
-      "rank": 39,
+      "rank": 53,
       "song": {
-        "id": "west-2001-39",
-        "title": "Fading Ice",
+        "id": "west-2001-53",
+        "title": "Electric Star",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -842,10 +808,10 @@
       "year": 2001
     },
     {
-      "rank": 61,
+      "rank": 64,
       "song": {
-        "id": "west-2001-61",
-        "title": "Summer Dreams",
+        "id": "west-2001-64",
+        "title": "Rain Way",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -855,10 +821,49 @@
       "year": 2001
     },
     {
-      "rank": 79,
+      "rank": 69,
       "song": {
-        "id": "west-2001-79",
-        "title": "Fading Moon",
+        "id": "west-2001-69",
+        "title": "Crystal Sky",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2001-72",
+        "title": "Gold Tears",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2001-73",
+        "title": "Sun Rain",
+        "artist": {
+          "id": "a-beyonce",
+          "name": "Beyoncé"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2001-81",
+        "title": "Midnight Bridge",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -871,7 +876,7 @@
       "rank": 89,
       "song": {
         "id": "west-2001-89",
-        "title": "Under the Summer",
+        "title": "Into the Rain",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -881,23 +886,23 @@
       "year": 2001
     },
     {
-      "rank": 95,
+      "rank": 13,
       "song": {
-        "id": "west-2001-95",
-        "title": "Electric Crystal",
+        "id": "west-2000-13",
+        "title": "Gold Love",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2000
     },
     {
       "rank": 15,
       "song": {
         "id": "west-2000-15",
-        "title": "Crystal Heart",
+        "title": "Star Way",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -907,10 +912,10 @@
       "year": 2000
     },
     {
-      "rank": 19,
+      "rank": 20,
       "song": {
-        "id": "west-2000-19",
-        "title": "Under the Bridge",
+        "id": "west-2000-20",
+        "title": "Lost in Moon",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -920,36 +925,10 @@
       "year": 2000
     },
     {
-      "rank": 21,
+      "rank": 24,
       "song": {
-        "id": "west-2000-21",
-        "title": "Wild Star",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-2000-22",
-        "title": "Into the Snow",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2000-28",
-        "title": "Into the Gold",
+        "id": "west-2000-24",
+        "title": "Golden Ice",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -962,7 +941,7 @@
       "rank": 34,
       "song": {
         "id": "west-2000-34",
-        "title": "Road Way",
+        "title": "Chasing City",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -972,10 +951,10 @@
       "year": 2000
     },
     {
-      "rank": 38,
+      "rank": 70,
       "song": {
-        "id": "west-2000-38",
-        "title": "Into the Ocean",
+        "id": "west-2000-70",
+        "title": "Sun Moonlight",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"
@@ -985,75 +964,10 @@
       "year": 2000
     },
     {
-      "rank": 51,
+      "rank": 81,
       "song": {
-        "id": "west-2000-51",
-        "title": "Winter Heart",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2000-57",
-        "title": "River Way",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2000-58",
-        "title": "Moon Soul",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2000-68",
-        "title": "Never Star",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2000-97",
-        "title": "Last City",
-        "artist": {
-          "id": "a-beyonce",
-          "name": "Beyoncé"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2000-98",
-        "title": "River Night",
+        "id": "west-2000-81",
+        "title": "Broken Moon",
         "artist": {
           "id": "a-beyonce",
           "name": "Beyoncé"

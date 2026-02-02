@@ -15,6 +15,11 @@
       "title": "Snooze",
       "type": "single",
       "releaseDate": "2023-01-01"
+    },
+    {
+      "title": "Best of Fire",
+      "type": "album",
+      "releaseDate": "2023-03-17"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,62 @@
   },
   "artistSongs": [
     {
-      "rank": 66,
+      "rank": 41,
       "song": {
-        "id": "west-2025-66",
-        "title": "River Heart",
+        "id": "west-2025-41",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2025-47",
+        "title": "Running River",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2025-57",
+        "title": "Broken Moon",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2025-63",
+        "title": "Fading River",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2025-64",
+        "title": "Rose Heart",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -39,7 +96,7 @@
       "rank": 67,
       "song": {
         "id": "west-2025-67",
-        "title": "Chasing Rose",
+        "title": "Never Wave",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -49,10 +106,10 @@
       "year": 2025
     },
     {
-      "rank": 68,
+      "rank": 75,
       "song": {
-        "id": "west-2025-68",
-        "title": "Broken City",
+        "id": "west-2025-75",
+        "title": "Storm Moonlight",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -62,36 +119,10 @@
       "year": 2025
     },
     {
-      "rank": 71,
+      "rank": 83,
       "song": {
-        "id": "west-2025-71",
-        "title": "Flame Moonlight",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2025-87",
-        "title": "Lost in Mountain",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2025-91",
-        "title": "Fire Dreams",
+        "id": "west-2025-83",
+        "title": "Thunder Sky",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -114,10 +145,10 @@
       "year": 2023
     },
     {
-      "rank": 35,
+      "rank": 23,
       "song": {
-        "id": "west-2023-35",
-        "title": "Broken Diamond",
+        "id": "west-2023-23",
+        "title": "Bridge Night",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -127,10 +158,23 @@
       "year": 2023
     },
     {
-      "rank": 51,
+      "rank": 61,
       "song": {
-        "id": "west-2023-51",
-        "title": "Dawn Sky",
+        "id": "west-2023-61",
+        "title": "Broken Flame",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2023-63",
+        "title": "Sweet Rose",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -143,7 +187,7 @@
       "rank": 79,
       "song": {
         "id": "west-2023-79",
-        "title": "Rain Lights",
+        "title": "Under the Rain",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -153,10 +197,49 @@
       "year": 2023
     },
     {
-      "rank": 28,
+      "rank": 82,
       "song": {
-        "id": "west-2022-28",
-        "title": "Last Ice",
+        "id": "west-2023-82",
+        "title": "Wild River",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2022-13",
+        "title": "Last Crystal",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-2022-24",
+        "title": "Last Shadow",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2022-34",
+        "title": "Light Rain",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -169,7 +252,7 @@
       "rank": 38,
       "song": {
         "id": "west-2022-38",
-        "title": "Electric Diamond",
+        "title": "Dancing Road",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -179,10 +262,10 @@
       "year": 2022
     },
     {
-      "rank": 51,
+      "rank": 50,
       "song": {
-        "id": "west-2022-51",
-        "title": "Gold Love",
+        "id": "west-2022-50",
+        "title": "Rain Tears",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -190,103 +273,103 @@
         "genre": "western"
       },
       "year": 2022
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2022-58",
-        "title": "Falling River",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2022-88",
-        "title": "Sweet Fire",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2021-33",
-        "title": "Wave Dreams",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      },
-      "year": 2021
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-2021-57",
-        "title": "Ocean Tears",
+        "id": "west-2022-57",
+        "title": "Winter Way",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2022
     },
     {
-      "rank": 69,
+      "rank": 77,
       "song": {
-        "id": "west-2021-69",
-        "title": "Summer Way",
+        "id": "west-2022-77",
+        "title": "Fading Rose",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2022
     },
     {
-      "rank": 31,
+      "rank": 91,
       "song": {
-        "id": "west-2020-31",
-        "title": "Gold Tears",
+        "id": "west-2022-91",
+        "title": "Sweet Snow",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
         },
         "genre": "western"
       },
-      "year": 2020
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2020-38",
-        "title": "Electric Rain",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      },
-      "year": 2020
+      "year": 2022
     },
     {
       "rank": 60,
       "song": {
-        "id": "west-2020-60",
-        "title": "Golden Road",
+        "id": "west-2021-60",
+        "title": "Lost in Moon",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2021-65",
+        "title": "Sweet Thunder",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2021-90",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2021-100",
+        "title": "Winter Dreams",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2020-21",
+        "title": "Ice Night",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -296,10 +379,10 @@
       "year": 2020
     },
     {
-      "rank": 61,
+      "rank": 26,
       "song": {
-        "id": "west-2020-61",
-        "title": "Under the Wave",
+        "id": "west-2020-26",
+        "title": "Dusk Tears",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -309,10 +392,49 @@
       "year": 2020
     },
     {
-      "rank": 94,
+      "rank": 48,
       "song": {
-        "id": "west-2020-94",
-        "title": "Wild Ice",
+        "id": "west-2020-48",
+        "title": "Broken Star",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2020-58",
+        "title": "River Heart",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2020-96",
+        "title": "Gold Rain",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2020-97",
+        "title": "Wind Night",
         "artist": {
           "id": "a-sza",
           "name": "SZA"

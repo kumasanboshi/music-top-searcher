@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1995-44",
-    "title": "Rain Lights",
+    "title": "Rain Night",
     "artist": {
-      "id": "a-boyz-ii-men",
-      "name": "Boyz II Men"
+      "id": "a-green-day",
+      "name": "Green Day"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 44,
   "cdInfo": [
     {
-      "title": "Rain Lights",
+      "title": "Rain Night",
       "type": "single",
-      "releaseDate": "1995-05-11"
+      "releaseDate": "1995-11-23"
+    },
+    {
+      "title": "Sun Unplugged",
+      "type": "album",
+      "releaseDate": "1995-05-08"
     }
   ],
   "externalLinks": {
@@ -23,78 +28,78 @@
   },
   "artistSongs": [
     {
-      "rank": 20,
+      "rank": 6,
       "song": {
-        "id": "west-1999-20",
-        "title": "Summer Rain",
+        "id": "west-2005-06",
+        "title": "Boulevard of Broken Dreams",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1999-15",
+        "title": "Storm Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 53,
+      "rank": 40,
       "song": {
-        "id": "west-1999-53",
-        "title": "Never Sun",
+        "id": "west-1999-40",
+        "title": "Star Sky",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 62,
+      "rank": 72,
       "song": {
-        "id": "west-1999-62",
-        "title": "Storm Night",
+        "id": "west-1999-72",
+        "title": "Wild Ocean",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 54,
+      "rank": 92,
       "song": {
-        "id": "west-1998-54",
-        "title": "Crystal Fire",
+        "id": "west-1999-92",
+        "title": "Falling Flame",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
-      "year": 1998
+      "year": 1999
     },
     {
-      "rank": 69,
+      "rank": 11,
       "song": {
-        "id": "west-1998-69",
-        "title": "Winter Soul",
+        "id": "west-1998-11",
+        "title": "Dusk Lights",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1998-76",
-        "title": "Rose Heart",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -103,24 +108,141 @@
     {
       "rank": 17,
       "song": {
-        "id": "west-1997-17",
-        "title": "Electric Rain",
+        "id": "west-1998-17",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1998-22",
+        "title": "Snow Night",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1998-27",
+        "title": "Dawn Love",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1998-43",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1998-47",
+        "title": "Crystal Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1998-67",
+        "title": "City Love",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1998-95",
+        "title": "River Night",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1997-30",
+        "title": "Crystal Tears",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 47,
+      "rank": 64,
       "song": {
-        "id": "west-1997-47",
-        "title": "Dancing Star",
+        "id": "west-1997-64",
+        "title": "City Night",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1997-84",
+        "title": "Ice Dreams",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1997-89",
+        "title": "Chasing Snow",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -130,452 +252,322 @@
       "rank": 90,
       "song": {
         "id": "west-1997-90",
-        "title": "Falling Star",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1997
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1997-97",
-        "title": "Broken Winter",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1997-100",
-        "title": "Golden Summer",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1996-20",
-        "title": "Last Rose",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1996-44",
-        "title": "Last Winter",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1996-49",
-        "title": "Ocean Love",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1996-60",
-        "title": "Fading Summer",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1996-66",
-        "title": "Wild Star",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1996-70",
-        "title": "Under the Rain",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1996-74",
-        "title": "Sky Dreams",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1996-78",
-        "title": "Sun Sky",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1996-85",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 5,
-      "song": {
-        "id": "west-1995-05",
-        "title": "On Bended Knee",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1995-29",
-        "title": "Midnight Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1995-35",
-        "title": "Electric Gold",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1995-38",
-        "title": "Falling Moon",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1995-92",
-        "title": "Last Diamond",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "west-1994-02",
-        "title": "I'll Make Love to You",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1994-44",
-        "title": "Shining Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1994-50",
-        "title": "Midnight Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1994-55",
-        "title": "Wild Dusk",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1994-68",
-        "title": "Electric Flame",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1994-85",
-        "title": "Silver Lights",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1993-35",
-        "title": "Moon Fire",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1993-51",
-        "title": "Fading Ocean",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1993-74",
-        "title": "City Heart",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1993-88",
-        "title": "Dusk Moonlight",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1993
     },
     {
       "rank": 98,
       "song": {
-        "id": "west-1993-98",
-        "title": "Sun Soul",
+        "id": "west-1997-98",
+        "title": "Broken Light",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1996-12",
+        "title": "Sweet Winter",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1996-16",
+        "title": "Shining Silver",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1996-53",
+        "title": "Wind Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1996-77",
+        "title": "Under the Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1996-82",
+        "title": "Fire Love",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1995-15",
+        "title": "Into the Rose",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1995-46",
+        "title": "Dancing Dusk",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1995-58",
+        "title": "Golden Dawn",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1995-73",
+        "title": "Into the Road",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1994-18",
+        "title": "Into the Moon",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1994-25",
+        "title": "Sky Moonlight",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1994-51",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1994-53",
+        "title": "Diamond Tears",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1994-63",
+        "title": "Broken Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1994-77",
+        "title": "Wild Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1993-64",
+        "title": "Into the Dusk",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 1,
+      "rank": 78,
       "song": {
-        "id": "west-1992-01",
-        "title": "End of the Road",
+        "id": "west-1993-78",
+        "title": "Midnight Shadow",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1992-16",
+        "title": "Chasing Light",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 15,
+      "rank": 33,
       "song": {
-        "id": "west-1992-15",
-        "title": "Shining Wave",
+        "id": "west-1992-33",
+        "title": "Broken Bridge",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 46,
+      "rank": 36,
       "song": {
-        "id": "west-1992-46",
-        "title": "Ocean Dreams",
+        "id": "west-1992-36",
+        "title": "Sky Rain",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 52,
+      "rank": 47,
       "song": {
-        "id": "west-1992-52",
-        "title": "Sun Night",
+        "id": "west-1992-47",
+        "title": "Winter Sky",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 61,
+      "rank": 59,
       "song": {
-        "id": "west-1992-61",
-        "title": "Shadow Dreams",
+        "id": "west-1992-59",
+        "title": "Mountain Forever",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 69,
+      "rank": 72,
       "song": {
-        "id": "west-1992-69",
-        "title": "Running Light",
+        "id": "west-1992-72",
+        "title": "City Lights",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1992-73",
-        "title": "Star Forever",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -585,88 +577,205 @@
       "rank": 94,
       "song": {
         "id": "west-1992-94",
-        "title": "Summer Rain",
+        "title": "Broken River",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 65,
+      "rank": 23,
       "song": {
-        "id": "west-1991-65",
-        "title": "Shining Dusk",
+        "id": "west-1991-23",
+        "title": "Running Rain",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 83,
+      "rank": 27,
       "song": {
-        "id": "west-1991-83",
-        "title": "Rose Night",
+        "id": "west-1991-27",
+        "title": "Under the Winter",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 20,
+      "rank": 29,
       "song": {
-        "id": "west-1990-20",
-        "title": "Wild Road",
+        "id": "west-1991-29",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1991-48",
+        "title": "Dancing Dawn",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1991-56",
+        "title": "Dancing Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1991-76",
+        "title": "Last Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1991-86",
+        "title": "Bridge Dreams",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1990-12",
+        "title": "Sweet Wave",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 31,
+      "rank": 17,
       "song": {
-        "id": "west-1990-31",
-        "title": "Electric Snow",
+        "id": "west-1990-17",
+        "title": "Running Star",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 38,
+      "rank": 23,
       "song": {
-        "id": "west-1990-38",
-        "title": "Gold Way",
+        "id": "west-1990-23",
+        "title": "Fading Crystal",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 68,
+      "rank": 40,
       "song": {
-        "id": "west-1990-68",
-        "title": "Ocean Fire",
+        "id": "west-1990-40",
+        "title": "Broken City",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1990-44",
+        "title": "Bridge Night",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1990-47",
+        "title": "Golden Flame",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1990-54",
+        "title": "Never Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1990-56",
+        "title": "Dancing Star",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -676,23 +785,10 @@
       "rank": 82,
       "song": {
         "id": "west-1990-82",
-        "title": "Electric Silver",
+        "title": "Never City",
         "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1990-93",
-        "title": "Ocean Soul",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },

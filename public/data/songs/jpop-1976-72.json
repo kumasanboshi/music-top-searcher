@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1976-72",
-    "title": "約束の愛",
+    "title": "朝の空",
     "artist": {
-      "id": "a-yamaguchi-momoe",
-      "name": "山口百恵"
+      "id": "a-saijo-hideki",
+      "name": "西城秀樹"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 72,
   "cdInfo": [
     {
-      "title": "約束の愛",
+      "title": "朝の空",
       "type": "single",
-      "releaseDate": "1976-03-19"
+      "releaseDate": "1976-05-21"
+    },
+    {
+      "title": "記憶コレクション",
+      "type": "album",
+      "releaseDate": "1976-08-24"
     }
   ],
   "externalLinks": {
@@ -23,52 +28,169 @@
   },
   "artistSongs": [
     {
-      "rank": 5,
+      "rank": 2,
       "song": {
-        "id": "jpop-1979-05",
-        "title": "いい日旅立ち",
+        "id": "jpop-1979-02",
+        "title": "YOUNG MAN (Y.M.C.A.)",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 48,
+      "rank": 34,
       "song": {
-        "id": "jpop-1979-48",
-        "title": "最後の未来",
+        "id": "jpop-1979-34",
+        "title": "ミッドナイト桜",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 6,
+      "rank": 35,
       "song": {
-        "id": "jpop-1978-06",
-        "title": "プレイバックPart2",
+        "id": "jpop-1979-35",
+        "title": "冬の海",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-1979-64",
+        "title": "風の歌",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1979-74",
+        "title": "空メロディ",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1979-84",
+        "title": "星メロディ",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1979-100",
+        "title": "森物語",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-1978-22",
+        "title": "愛のかけら",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 9,
+      "rank": 54,
       "song": {
-        "id": "jpop-1978-09",
-        "title": "乙女座 宮",
+        "id": "jpop-1978-54",
+        "title": "森の夜",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1978-63",
+        "title": "約束の花",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1978-74",
+        "title": "雨の記憶",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-1978-87",
+        "title": "青い愛",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1978-100",
+        "title": "最後の夏",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
@@ -77,271 +199,180 @@
     {
       "rank": 11,
       "song": {
-        "id": "jpop-1978-11",
-        "title": "朝フォーエバー",
+        "id": "jpop-1977-11",
+        "title": "太陽の花",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1978-18",
-        "title": "夏サンセット",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1978-20",
-        "title": "風の空",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1978-36",
-        "title": "夢の空",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1978-75",
-        "title": "青い朝",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1978-77",
-        "title": "永遠の波",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1978-78",
-        "title": "涙の夢",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1978-95",
-        "title": "永遠の虹",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "jpop-1977-07",
-        "title": "秋桜",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1977
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1977-86",
-        "title": "星の愛",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1977-90",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-1977-93",
-        "title": "世界の空",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "jpop-1976-06",
-        "title": "横須賀ストーリー",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
     },
     {
       "rank": 24,
       "song": {
-        "id": "jpop-1976-24",
-        "title": "花メロディ",
+        "id": "jpop-1977-24",
+        "title": "海サンセット",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1977-34",
+        "title": "希望メロディ",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1977-35",
+        "title": "最後の星",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-1977-46",
+        "title": "朝の街",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1977-78",
+        "title": "街の歌",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1976-42",
+        "title": "約束の花",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1976
     },
     {
-      "rank": 26,
+      "rank": 56,
       "song": {
-        "id": "jpop-1976-26",
-        "title": "風の愛",
+        "id": "jpop-1976-56",
+        "title": "約束メロディ",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1976
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-1976-30",
-        "title": "恋の夏",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1976-53",
-        "title": "記憶のかけら",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1975-14",
-        "title": "未来の道",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
     },
     {
       "rank": 57,
       "song": {
-        "id": "jpop-1975-57",
-        "title": "永遠の虹",
+        "id": "jpop-1976-57",
+        "title": "森の夜",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1975-47",
+        "title": "希望の街",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 90,
+      "rank": 59,
       "song": {
-        "id": "jpop-1975-90",
-        "title": "風の花",
+        "id": "jpop-1975-59",
+        "title": "夏の花",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 97,
+      "rank": 60,
       "song": {
-        "id": "jpop-1975-97",
-        "title": "恋の桜",
+        "id": "jpop-1975-60",
+        "title": "風の海",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1975-75",
+        "title": "街の光",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-1975-93",
+        "title": "太陽の季節",
+        "artist": {
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       },

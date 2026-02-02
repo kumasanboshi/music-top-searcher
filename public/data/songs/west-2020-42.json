@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-2020-42",
-    "title": "Shining Storm",
+    "title": "Sweet Fire",
     "artist": {
       "id": "a-latto",
       "name": "Latto"
@@ -12,9 +12,14 @@
   "rank": 42,
   "cdInfo": [
     {
-      "title": "Shining Storm",
+      "title": "Sweet Fire",
       "type": "single",
-      "releaseDate": "2020-07-14"
+      "releaseDate": "2020-09-12"
+    },
+    {
+      "title": "Dawn Diaries",
+      "type": "album",
+      "releaseDate": "2020-08-03"
     }
   ],
   "externalLinks": {
@@ -23,10 +28,10 @@
   },
   "artistSongs": [
     {
-      "rank": 19,
+      "rank": 15,
       "song": {
-        "id": "west-2025-19",
-        "title": "Midnight Summer",
+        "id": "west-2025-15",
+        "title": "Running Flame",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -36,23 +41,10 @@
       "year": 2025
     },
     {
-      "rank": 25,
+      "rank": 34,
       "song": {
-        "id": "west-2025-25",
-        "title": "Rose Forever",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2025-49",
-        "title": "Never Shadow",
+        "id": "west-2025-34",
+        "title": "Dusk Lights",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -65,7 +57,7 @@
       "rank": 50,
       "song": {
         "id": "west-2025-50",
-        "title": "Rain Rain",
+        "title": "Dusk Moonlight",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -75,10 +67,10 @@
       "year": 2025
     },
     {
-      "rank": 52,
+      "rank": 86,
       "song": {
-        "id": "west-2025-52",
-        "title": "Last Crystal",
+        "id": "west-2025-86",
+        "title": "Running Rain",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -88,36 +80,10 @@
       "year": 2025
     },
     {
-      "rank": 56,
+      "rank": 95,
       "song": {
-        "id": "west-2025-56",
-        "title": "Ocean Night",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2025-85",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2025-88",
-        "title": "Sweet Snow",
+        "id": "west-2025-95",
+        "title": "City Forever",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -130,7 +96,7 @@
       "rank": 97,
       "song": {
         "id": "west-2025-97",
-        "title": "Sky Soul",
+        "title": "Shining Shadow",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -140,10 +106,10 @@
       "year": 2025
     },
     {
-      "rank": 49,
+      "rank": 30,
       "song": {
-        "id": "west-2023-49",
-        "title": "Last Bridge",
+        "id": "west-2023-30",
+        "title": "Golden Wind",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -153,10 +119,10 @@
       "year": 2023
     },
     {
-      "rank": 59,
+      "rank": 42,
       "song": {
-        "id": "west-2023-59",
-        "title": "Flame Sky",
+        "id": "west-2023-42",
+        "title": "Road Tears",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -166,10 +132,10 @@
       "year": 2023
     },
     {
-      "rank": 66,
+      "rank": 51,
       "song": {
-        "id": "west-2023-66",
-        "title": "Never Snow",
+        "id": "west-2023-51",
+        "title": "River Dreams",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -179,10 +145,10 @@
       "year": 2023
     },
     {
-      "rank": 72,
+      "rank": 74,
       "song": {
-        "id": "west-2023-72",
-        "title": "Ocean Sky",
+        "id": "west-2023-74",
+        "title": "Midnight Crystal",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -192,10 +158,10 @@
       "year": 2023
     },
     {
-      "rank": 85,
+      "rank": 93,
       "song": {
-        "id": "west-2023-85",
-        "title": "Gold Sky",
+        "id": "west-2023-93",
+        "title": "Never Gold",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -205,10 +171,10 @@
       "year": 2023
     },
     {
-      "rank": 87,
+      "rank": 96,
       "song": {
-        "id": "west-2023-87",
-        "title": "Falling Dawn",
+        "id": "west-2023-96",
+        "title": "Under the Winter",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -218,10 +184,23 @@
       "year": 2023
     },
     {
-      "rank": 29,
+      "rank": 97,
       "song": {
-        "id": "west-2022-29",
-        "title": "Storm Night",
+        "id": "west-2023-97",
+        "title": "Electric Bridge",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2022-19",
+        "title": "Mountain Fire",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -231,10 +210,10 @@
       "year": 2022
     },
     {
-      "rank": 76,
+      "rank": 23,
       "song": {
-        "id": "west-2022-76",
-        "title": "Chasing Shadow",
+        "id": "west-2022-23",
+        "title": "Fading Storm",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -244,10 +223,101 @@
       "year": 2022
     },
     {
-      "rank": 94,
+      "rank": 25,
       "song": {
-        "id": "west-2022-94",
-        "title": "Never Sky",
+        "id": "west-2022-25",
+        "title": "Dancing Dusk",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2022-33",
+        "title": "Sun Fire",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2022-36",
+        "title": "Golden Snow",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-2022-43",
+        "title": "Dancing Summer",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2022-44",
+        "title": "Road Night",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2022-61",
+        "title": "Electric Ice",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2022-65",
+        "title": "Midnight Flame",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-2022-70",
+        "title": "Road Heart",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -260,7 +330,7 @@
       "rank": 100,
       "song": {
         "id": "west-2022-100",
-        "title": "Sweet Shadow",
+        "title": "Ice Soul",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -270,23 +340,10 @@
       "year": 2022
     },
     {
-      "rank": 22,
+      "rank": 21,
       "song": {
-        "id": "west-2021-22",
-        "title": "Wind Soul",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2021-27",
-        "title": "Sky Lights",
+        "id": "west-2021-21",
+        "title": "Rain Moonlight",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -299,7 +356,7 @@
       "rank": 31,
       "song": {
         "id": "west-2021-31",
-        "title": "Falling Summer",
+        "title": "City Heart",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -309,10 +366,10 @@
       "year": 2021
     },
     {
-      "rank": 34,
+      "rank": 36,
       "song": {
-        "id": "west-2021-34",
-        "title": "Last Flame",
+        "id": "west-2021-36",
+        "title": "Chasing River",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -322,10 +379,10 @@
       "year": 2021
     },
     {
-      "rank": 40,
+      "rank": 76,
       "song": {
-        "id": "west-2021-40",
-        "title": "City Rain",
+        "id": "west-2021-76",
+        "title": "Under the Fire",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -335,36 +392,10 @@
       "year": 2021
     },
     {
-      "rank": 41,
+      "rank": 94,
       "song": {
-        "id": "west-2021-41",
-        "title": "Golden Thunder",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2021-48",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2021-51",
-        "title": "Midnight Road",
+        "id": "west-2021-94",
+        "title": "Dancing Silver",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -377,7 +408,7 @@
       "rank": 11,
       "song": {
         "id": "west-2020-11",
-        "title": "Sweet Rose",
+        "title": "Snow Dreams",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -387,10 +418,10 @@
       "year": 2020
     },
     {
-      "rank": 14,
+      "rank": 19,
       "song": {
-        "id": "west-2020-14",
-        "title": "Fading Snow",
+        "id": "west-2020-19",
+        "title": "Dancing Flame",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -400,10 +431,36 @@
       "year": 2020
     },
     {
-      "rank": 63,
+      "rank": 30,
       "song": {
-        "id": "west-2020-63",
-        "title": "Shining Sky",
+        "id": "west-2020-30",
+        "title": "Mountain Heart",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2020-56",
+        "title": "Golden Diamond",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2020-65",
+        "title": "Never Wind",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -416,7 +473,7 @@
       "rank": 72,
       "song": {
         "id": "west-2020-72",
-        "title": "Sweet Crystal",
+        "title": "Into the Crystal",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -426,10 +483,23 @@
       "year": 2020
     },
     {
-      "rank": 99,
+      "rank": 80,
       "song": {
-        "id": "west-2020-99",
-        "title": "Last Thunder",
+        "id": "west-2020-80",
+        "title": "Lost in Rose",
+        "artist": {
+          "id": "a-latto",
+          "name": "Latto"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2020-90",
+        "title": "Fire Night",
         "artist": {
           "id": "a-latto",
           "name": "Latto"

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-77",
-    "title": "Last Storm",
+    "title": "Light Love",
     "artist": {
-      "id": "a-ewf",
-      "name": "Earth, Wind & Fire"
+      "id": "a-carpenters",
+      "name": "The Carpenters"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 77,
   "cdInfo": [
     {
-      "title": "Last Storm",
+      "title": "Light Love",
       "type": "single",
-      "releaseDate": "1978-09-21"
+      "releaseDate": "1978-08-06"
+    },
+    {
+      "title": "Shadow Unplugged",
+      "type": "album",
+      "releaseDate": "1978-05-17"
     }
   ],
   "externalLinks": {
@@ -23,104 +28,130 @@
   },
   "artistSongs": [
     {
-      "rank": 50,
+      "rank": 24,
       "song": {
-        "id": "west-1979-50",
-        "title": "Dusk Sky",
+        "id": "west-1979-24",
+        "title": "Fading Flame",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 77,
+      "rank": 46,
       "song": {
-        "id": "west-1979-77",
-        "title": "Moon Lights",
+        "id": "west-1979-46",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 97,
+      "rank": 49,
       "song": {
-        "id": "west-1979-97",
-        "title": "Fading Thunder",
+        "id": "west-1979-49",
+        "title": "Wind Love",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 30,
+      "rank": 71,
       "song": {
-        "id": "west-1978-30",
-        "title": "Summer Fire",
+        "id": "west-1979-71",
+        "title": "Golden Rain",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
-      "year": 1978
+      "year": 1979
     },
     {
-      "rank": 42,
+      "rank": 82,
       "song": {
-        "id": "west-1978-42",
-        "title": "Falling Light",
+        "id": "west-1979-82",
+        "title": "Never Diamond",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
-      "year": 1978
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1978-45",
-        "title": "Electric Gold",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1978-70",
-        "title": "Summer Heart",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1978
+      "year": 1979
     },
     {
       "rank": 84,
       "song": {
-        "id": "west-1978-84",
-        "title": "Fading Road",
+        "id": "west-1979-84",
+        "title": "Fire Tears",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1979-88",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1979-93",
+        "title": "Wild Mountain",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1978-11",
+        "title": "Thunder Love",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1978-35",
+        "title": "Light Forever",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
@@ -129,128 +160,284 @@
     {
       "rank": 39,
       "song": {
-        "id": "west-1977-39",
-        "title": "Wild Crystal",
+        "id": "west-1978-39",
+        "title": "Star Night",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1978-52",
+        "title": "Into the Light",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1978-74",
+        "title": "Sky Tears",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1978-80",
+        "title": "Golden Wave",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1978-89",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1977-41",
+        "title": "Falling Road",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 75,
+      "rank": 46,
       "song": {
-        "id": "west-1977-75",
-        "title": "Broken Ocean",
+        "id": "west-1977-46",
+        "title": "Gold Heart",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 98,
+      "rank": 88,
       "song": {
-        "id": "west-1977-98",
-        "title": "Into the Star",
+        "id": "west-1977-88",
+        "title": "Dancing Storm",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 63,
+      "rank": 95,
       "song": {
-        "id": "west-1976-63",
-        "title": "Broken Road",
+        "id": "west-1977-95",
+        "title": "Running Rose",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1977-100",
+        "title": "Last Flame",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1976-17",
+        "title": "Winter Dreams",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 65,
+      "rank": 44,
       "song": {
-        "id": "west-1976-65",
-        "title": "Fading City",
+        "id": "west-1976-44",
+        "title": "Diamond Rain",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 22,
+      "rank": 59,
       "song": {
-        "id": "west-1975-22",
-        "title": "Last Sky",
+        "id": "west-1976-59",
+        "title": "Never Dawn",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1976-64",
+        "title": "River Tears",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1976-76",
+        "title": "Never Diamond",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1976-87",
+        "title": "Sweet Storm",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1976-99",
+        "title": "Shining Thunder",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1975-18",
+        "title": "Golden Rain",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 25,
+      "rank": 28,
       "song": {
-        "id": "west-1975-25",
-        "title": "Fire Lights",
+        "id": "west-1975-28",
+        "title": "Sweet Mountain",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 43,
+      "rank": 47,
       "song": {
-        "id": "west-1975-43",
-        "title": "Chasing Summer",
+        "id": "west-1975-47",
+        "title": "Last Winter",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 60,
+      "rank": 52,
       "song": {
-        "id": "west-1975-60",
-        "title": "Running Wave",
+        "id": "west-1975-52",
+        "title": "Wild Light",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 82,
+      "rank": 78,
       "song": {
-        "id": "west-1975-82",
-        "title": "Storm Tears",
+        "id": "west-1975-78",
+        "title": "Electric Gold",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },

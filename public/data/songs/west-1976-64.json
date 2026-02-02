@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1976-64",
-    "title": "Golden Bridge",
+    "title": "River Tears",
     "artist": {
-      "id": "a-abba",
-      "name": "ABBA"
+      "id": "a-carpenters",
+      "name": "The Carpenters"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 64,
   "cdInfo": [
     {
-      "title": "Golden Bridge",
+      "title": "River Tears",
       "type": "single",
-      "releaseDate": "1976-11-07"
+      "releaseDate": "1976-07-04"
+    },
+    {
+      "title": "Light Reloaded",
+      "type": "album",
+      "releaseDate": "1976-05-12"
     }
   ],
   "externalLinks": {
@@ -23,39 +28,26 @@
   },
   "artistSongs": [
     {
-      "rank": 34,
+      "rank": 24,
       "song": {
-        "id": "west-1979-34",
-        "title": "Mountain Way",
+        "id": "west-1979-24",
+        "title": "Fading Flame",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 41,
+      "rank": 46,
       "song": {
-        "id": "west-1979-41",
-        "title": "Falling Wind",
+        "id": "west-1979-46",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1979-44",
-        "title": "Crystal Moonlight",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
@@ -65,10 +57,49 @@
       "rank": 49,
       "song": {
         "id": "west-1979-49",
-        "title": "Lost in Sky",
+        "title": "Wind Love",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1979-71",
+        "title": "Golden Rain",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1979-82",
+        "title": "Never Diamond",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1979-84",
+        "title": "Fire Tears",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
@@ -78,270 +109,309 @@
       "rank": 88,
       "song": {
         "id": "west-1979-88",
-        "title": "Golden Flame",
+        "title": "Summer Soul",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1979-91",
-        "title": "Summer Rain",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1978-12",
-        "title": "Sweet Bridge",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1978-20",
-        "title": "Under the Diamond",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1978-47",
-        "title": "Last Moon",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1978-65",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-1977-06",
-        "title": "Dancing Queen",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1977-26",
-        "title": "Wave Sky",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1977-40",
-        "title": "Silver Love",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1977-65",
-        "title": "Falling Winter",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1977-67",
-        "title": "Golden Sun",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1977-82",
-        "title": "Flame Moonlight",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
     },
     {
       "rank": 93,
       "song": {
-        "id": "west-1977-93",
-        "title": "Golden Rose",
+        "id": "west-1979-93",
+        "title": "Wild Mountain",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1978-11",
+        "title": "Thunder Love",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1978-35",
+        "title": "Light Forever",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1978-39",
+        "title": "Star Night",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1978-52",
+        "title": "Into the Light",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1978-74",
+        "title": "Sky Tears",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1978-77",
+        "title": "Light Love",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1978-80",
+        "title": "Golden Wave",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1978-89",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1977-41",
+        "title": "Falling Road",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 13,
+      "rank": 46,
       "song": {
-        "id": "west-1976-13",
-        "title": "Sky Fire",
+        "id": "west-1977-46",
+        "title": "Gold Heart",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1977-88",
+        "title": "Dancing Storm",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1977-95",
+        "title": "Running Rose",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1977-100",
+        "title": "Last Flame",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1976-17",
+        "title": "Winter Dreams",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 14,
+      "rank": 44,
       "song": {
-        "id": "west-1976-14",
-        "title": "Electric Gold",
+        "id": "west-1976-44",
+        "title": "Diamond Rain",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 16,
+      "rank": 59,
       "song": {
-        "id": "west-1976-16",
-        "title": "Lost in Wave",
+        "id": "west-1976-59",
+        "title": "Never Dawn",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 69,
+      "rank": 76,
       "song": {
-        "id": "west-1976-69",
-        "title": "Thunder Fire",
+        "id": "west-1976-76",
+        "title": "Never Diamond",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 12,
+      "rank": 87,
       "song": {
-        "id": "west-1975-12",
-        "title": "Never Winter",
+        "id": "west-1976-87",
+        "title": "Sweet Storm",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1976-99",
+        "title": "Shining Thunder",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 18,
       "song": {
         "id": "west-1975-18",
-        "title": "Light Fire",
+        "title": "Golden Rain",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 32,
+      "rank": 28,
       "song": {
-        "id": "west-1975-32",
-        "title": "Fire Heart",
+        "id": "west-1975-28",
+        "title": "Sweet Mountain",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 42,
+      "rank": 47,
       "song": {
-        "id": "west-1975-42",
-        "title": "River Night",
+        "id": "west-1975-47",
+        "title": "Last Winter",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
@@ -351,101 +421,23 @@
       "rank": 52,
       "song": {
         "id": "west-1975-52",
-        "title": "Road Sky",
+        "title": "Wild Light",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 62,
+      "rank": 78,
       "song": {
-        "id": "west-1975-62",
-        "title": "Running Gold",
+        "id": "west-1975-78",
+        "title": "Electric Gold",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1975-65",
-        "title": "Mountain Way",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1975-66",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1975-73",
-        "title": "Wind Heart",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1975-77",
-        "title": "Rose Fire",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1975-88",
-        "title": "Light Sky",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1975-98",
-        "title": "Never City",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },

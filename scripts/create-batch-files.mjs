@@ -229,6 +229,16 @@ const westernArtistsByEra = {
   ],
 };
 
+// Album title templates
+const jpopAlbumTemplates = [
+  '{A}コレクション', 'ベスト・オブ・{A}', '{A}の世界', '{A}アルバム', '{A}ストーリーズ',
+  '{A}メモリーズ', 'ALL TIME {A}', '{A}セレクション', '{A}の旅', '{A}アンソロジー',
+];
+const westernAlbumTemplates = [
+  '{A} Collection', 'Best of {A}', '{A} Stories', '{A} Sessions', '{A} Chronicles',
+  '{A} Anthology', 'The {A} Album', '{A} Diaries', '{A} Reloaded', '{A} Unplugged',
+];
+
 // Song title templates for generating plausible titles
 const jpopTitleTemplates = [
   '風の{A}', '{A}の歌', '夢の{A}', '{A}物語', '約束の{A}',
@@ -287,16 +297,29 @@ function generateEntries(year, genre, existingEntries) {
   const templates = genre === 'jpop' ? jpopTitleTemplates : westernTitleTemplates;
   const words = genre === 'jpop' ? jpopWords : westernWords;
 
+  const albumTemplates = genre === 'jpop' ? jpopAlbumTemplates : westernAlbumTemplates;
+
   // Convert existing entries to batch format
-  const entries = existingEntries.map(e => ({
-    rank: e.rank,
-    title: e.song.title,
-    artist: e.song.artist.name,
-    artistId: e.song.artist.id,
-    ...(e.song.artist.nameEn ? { nameEn: e.song.artist.nameEn } : {}),
-    releaseDate: `${year}-01-01`,
-    cdType: 'single',
-  }));
+  const entries = existingEntries.map(e => {
+    const entry = {
+      rank: e.rank,
+      title: e.song.title,
+      artist: e.song.artist.name,
+      artistId: e.song.artist.id,
+      ...(e.song.artist.nameEn ? { nameEn: e.song.artist.nameEn } : {}),
+      releaseDate: `${year}-01-01`,
+      cdType: 'single',
+    };
+    // Add album info for existing entries
+    const albumRng = seededRandom(year * 100 + e.rank);
+    const albumWord = words[Math.floor(albumRng() * words.length)];
+    const albumTpl = albumTemplates[Math.floor(albumRng() * albumTemplates.length)];
+    const albumMonth = String(Math.floor(albumRng() * 12) + 1).padStart(2, '0');
+    const albumDay = String(Math.floor(albumRng() * 28) + 1).padStart(2, '0');
+    entry.albumTitle = albumTpl.replace('{A}', albumWord);
+    entry.albumReleaseDate = `${year}-${albumMonth}-${albumDay}`;
+    return entry;
+  });
 
   // Generate entries 11-100
   const rng = seededRandom(year * 1000 + (genre === 'jpop' ? 1 : 2));
@@ -319,6 +342,12 @@ function generateEntries(year, genre, existingEntries) {
     const month = String(Math.floor(rng() * 12) + 1).padStart(2, '0');
     const day = String(Math.floor(rng() * 28) + 1).padStart(2, '0');
 
+    // Generate album title
+    const albumWord = words[Math.floor(rng() * words.length)];
+    const albumTpl = albumTemplates[Math.floor(rng() * albumTemplates.length)];
+    const albumMonth = String(Math.floor(rng() * 12) + 1).padStart(2, '0');
+    const albumDay = String(Math.floor(rng() * 28) + 1).padStart(2, '0');
+
     entries.push({
       rank,
       title,
@@ -326,6 +355,8 @@ function generateEntries(year, genre, existingEntries) {
       artistId: artist.id,
       releaseDate: `${year}-${month}-${day}`,
       cdType: 'single',
+      albumTitle: albumTpl.replace('{A}', albumWord),
+      albumReleaseDate: `${year}-${albumMonth}-${albumDay}`,
     });
   }
 

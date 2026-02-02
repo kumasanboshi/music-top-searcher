@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1988-49",
-    "title": "Gold Moonlight",
+    "title": "Fire Tears",
     "artist": {
-      "id": "a-lionel-richie",
-      "name": "Lionel Richie"
+      "id": "a-phil-collins",
+      "name": "Phil Collins"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 49,
   "cdInfo": [
     {
-      "title": "Gold Moonlight",
+      "title": "Fire Tears",
       "type": "single",
-      "releaseDate": "1988-12-12"
+      "releaseDate": "1988-10-26"
+    },
+    {
+      "title": "Crystal Anthology",
+      "type": "album",
+      "releaseDate": "1988-09-14"
     }
   ],
   "externalLinks": {
@@ -23,286 +28,390 @@
   },
   "artistSongs": [
     {
+      "rank": 6,
+      "song": {
+        "id": "west-1990-06",
+        "title": "Another Day in Paradise",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1989-35",
+        "title": "Wild Storm",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1989-46",
+        "title": "Storm Night",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1989-88",
+        "title": "Electric Crystal",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1989-89",
+        "title": "Shadow Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1988-21",
+        "title": "Summer Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
       "rank": 32,
       "song": {
-        "id": "west-1989-32",
-        "title": "Snow Lights",
+        "id": "west-1988-32",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1989-78",
-        "title": "Flame Love",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1988-26",
-        "title": "Golden Rain",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 28,
+      "rank": 36,
       "song": {
-        "id": "west-1988-28",
-        "title": "Dancing Rain",
+        "id": "west-1988-36",
+        "title": "Rain Dreams",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 39,
+      "rank": 48,
       "song": {
-        "id": "west-1988-39",
-        "title": "Star Heart",
+        "id": "west-1988-48",
+        "title": "Last Thunder",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 60,
+      "rank": 50,
       "song": {
-        "id": "west-1988-60",
-        "title": "Storm Heart",
+        "id": "west-1988-50",
+        "title": "Storm Moonlight",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 70,
+      "rank": 58,
       "song": {
-        "id": "west-1988-70",
-        "title": "Rain Sky",
+        "id": "west-1988-58",
+        "title": "Rain Soul",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1988-81",
-        "title": "Shining Winter",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1988-86",
-        "title": "Never Crystal",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1987-14",
-        "title": "Shining Storm",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1987-19",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1987-25",
-        "title": "Golden Diamond",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1987-29",
-        "title": "Broken Star",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1987-59",
-        "title": "Falling Sun",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1987-81",
-        "title": "Lost in Ocean",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 4,
-      "song": {
-        "id": "west-1986-04",
-        "title": "Say You, Say Me",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1986-18",
-        "title": "Dancing Storm",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1986-24",
-        "title": "Electric Bridge",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1986-34",
-        "title": "Rose Tears",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1986-56",
-        "title": "Lost in Winter",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
     },
     {
       "rank": 67,
       "song": {
-        "id": "west-1986-67",
-        "title": "Rose Fire",
+        "id": "west-1988-67",
+        "title": "Wild Thunder",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1988-85",
+        "title": "Lost in Crystal",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1988-95",
+        "title": "Running Dusk",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1988-96",
+        "title": "Wave Heart",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1988-99",
+        "title": "Snow Tears",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1987-20",
+        "title": "Wave Love",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1987-41",
+        "title": "Diamond Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1987-42",
+        "title": "Under the Summer",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1987-58",
+        "title": "Light Love",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1987-60",
+        "title": "Snow Love",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1987-64",
+        "title": "Flame Lights",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1987-66",
+        "title": "Never Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1987-83",
+        "title": "Electric Mountain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1987-90",
+        "title": "Silver Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1987-98",
+        "title": "Electric Wind",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1987-99",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1986-35",
+        "title": "Lost in Storm",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 82,
+      "rank": 47,
       "song": {
-        "id": "west-1986-82",
-        "title": "Golden Crystal",
+        "id": "west-1986-47",
+        "title": "Electric Star",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1986-74",
+        "title": "Dawn Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -312,62 +421,62 @@
       "rank": 83,
       "song": {
         "id": "west-1986-83",
-        "title": "Midnight Rose",
+        "title": "Shining Winter",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 99,
+      "rank": 96,
       "song": {
-        "id": "west-1986-99",
-        "title": "Sun Heart",
+        "id": "west-1986-96",
+        "title": "Last Moon",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 12,
+      "rank": 100,
       "song": {
-        "id": "west-1985-12",
-        "title": "Gold Love",
+        "id": "west-1986-100",
+        "title": "Under the Dawn",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1985-24",
+        "title": "Fire Forever",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 16,
+      "rank": 41,
       "song": {
-        "id": "west-1985-16",
-        "title": "Midnight Wave",
+        "id": "west-1985-41",
+        "title": "Chasing City",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1985-39",
-        "title": "Into the Fire",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -377,309 +486,335 @@
       "rank": 47,
       "song": {
         "id": "west-1985-47",
-        "title": "Last Crystal",
+        "title": "Fading Summer",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1985
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1985-55",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1985-58",
-        "title": "Silver Night",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1985-80",
-        "title": "Dusk Night",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1985-85",
-        "title": "Wave Dreams",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1985-93",
-        "title": "Fading Diamond",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-1984-07",
-        "title": "Hello",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1984-19",
-        "title": "Light Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1984-27",
-        "title": "Running Thunder",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1984-51",
-        "title": "Mountain Lights",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1984-62",
-        "title": "Never Road",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
     },
     {
       "rank": 63,
       "song": {
-        "id": "west-1984-63",
-        "title": "Crystal Love",
+        "id": "west-1985-63",
+        "title": "Gold Way",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1985-64",
+        "title": "Running Diamond",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1984-06",
+        "title": "Against All Odds (Take a Look at Me Now)",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 53,
+      "rank": 24,
       "song": {
-        "id": "west-1983-53",
-        "title": "Lost in Crystal",
+        "id": "west-1984-24",
+        "title": "Golden Mountain",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1984-60",
+        "title": "Sweet Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1984-98",
+        "title": "Road Dreams",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1983-70",
+        "title": "Lost in Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 64,
+      "rank": 85,
       "song": {
-        "id": "west-1983-64",
-        "title": "Thunder Tears",
+        "id": "west-1983-85",
+        "title": "Into the Sun",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1983
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1983-89",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1982-15",
+        "title": "Star Soul",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1982-22",
+        "title": "Last Star",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1982-33",
+        "title": "Broken Bridge",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1982-34",
+        "title": "Ice Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1982-35",
+        "title": "Star Tears",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1982-41",
+        "title": "Into the River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1982-65",
+        "title": "Wild Flame",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1982-69",
+        "title": "Running Sun",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
     },
     {
       "rank": 73,
       "song": {
-        "id": "west-1983-73",
-        "title": "Sweet Shadow",
+        "id": "west-1982-73",
+        "title": "Sun Dreams",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1983-87",
-        "title": "Midnight Diamond",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1982-40",
-        "title": "Golden Ice",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 43,
+      "rank": 89,
       "song": {
-        "id": "west-1982-43",
-        "title": "Fading Thunder",
+        "id": "west-1982-89",
+        "title": "Fading Flame",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 46,
+      "rank": 97,
       "song": {
-        "id": "west-1982-46",
-        "title": "Storm Way",
+        "id": "west-1982-97",
+        "title": "Shining Storm",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 57,
+      "rank": 100,
       "song": {
-        "id": "west-1982-57",
-        "title": "Fading Ice",
+        "id": "west-1982-100",
+        "title": "Wild River",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 62,
+      "rank": 14,
       "song": {
-        "id": "west-1982-62",
-        "title": "Ice Moonlight",
+        "id": "west-1981-14",
+        "title": "Wild Crystal",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1982-95",
-        "title": "Ocean Lights",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1981-18",
-        "title": "Under the Silver",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 24,
+      "rank": 20,
       "song": {
-        "id": "west-1981-24",
-        "title": "Falling Fire",
+        "id": "west-1981-20",
+        "title": "Light Lights",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1981-46",
+        "title": "Diamond Tears",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1981-57",
+        "title": "Under the Shadow",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -689,88 +824,75 @@
       "rank": 58,
       "song": {
         "id": "west-1981-58",
-        "title": "Wild Mountain",
+        "title": "Into the Dawn",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 64,
+      "rank": 59,
       "song": {
-        "id": "west-1981-64",
-        "title": "Golden Sky",
+        "id": "west-1981-59",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 99,
+      "rank": 66,
       "song": {
-        "id": "west-1981-99",
-        "title": "Flame Lights",
+        "id": "west-1981-66",
+        "title": "Wave Tears",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 12,
+      "rank": 71,
       "song": {
-        "id": "west-1980-12",
-        "title": "Sweet Bridge",
+        "id": "west-1981-71",
+        "title": "Lost in Thunder",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1981
     },
     {
-      "rank": 18,
+      "rank": 94,
       "song": {
-        "id": "west-1980-18",
-        "title": "City Moonlight",
+        "id": "west-1981-94",
+        "title": "Winter Fire",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1981
     },
     {
-      "rank": 24,
+      "rank": 27,
       "song": {
-        "id": "west-1980-24",
-        "title": "River Fire",
+        "id": "west-1980-27",
+        "title": "Shining Ocean",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1980-38",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -780,62 +902,36 @@
       "rank": 54,
       "song": {
         "id": "west-1980-54",
-        "title": "Moon Moonlight",
+        "title": "Sun Lights",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 74,
+      "rank": 65,
       "song": {
-        "id": "west-1980-74",
-        "title": "Falling Rain",
+        "id": "west-1980-65",
+        "title": "Midnight Sun",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 80,
+      "rank": 67,
       "song": {
-        "id": "west-1980-80",
-        "title": "Sweet River",
+        "id": "west-1980-67",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1980-85",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1980-92",
-        "title": "Ocean Dreams",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },

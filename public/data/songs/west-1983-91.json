@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1983-91",
-    "title": "Dancing Storm",
+    "title": "Chasing Diamond",
     "artist": {
-      "id": "a-tina-turner",
-      "name": "Tina Turner"
+      "id": "a-madonna",
+      "name": "Madonna"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 91,
   "cdInfo": [
     {
-      "title": "Dancing Storm",
+      "title": "Chasing Diamond",
       "type": "single",
-      "releaseDate": "1983-03-23"
+      "releaseDate": "1983-01-20"
+    },
+    {
+      "title": "Mountain Collection",
+      "type": "album",
+      "releaseDate": "1983-07-01"
     }
   ],
   "externalLinks": {
@@ -23,559 +28,494 @@
   },
   "artistSongs": [
     {
-      "rank": 22,
+      "rank": 10,
       "song": {
-        "id": "west-1989-22",
-        "title": "Rain Lights",
+        "id": "west-2000-10",
+        "title": "Music",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-1995-08",
+        "title": "Take a Bow",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-1990-04",
+        "title": "Vogue",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1989-10",
+        "title": "Like a Prayer",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 23,
+      "rank": 21,
       "song": {
-        "id": "west-1989-23",
-        "title": "Chasing Winter",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1989-38",
-        "title": "Wind Dreams",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1989-76",
-        "title": "Fire Rain",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1989-81",
-        "title": "Fading Ocean",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1989-98",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1988-17",
-        "title": "Golden Wind",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1988-29",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1988-50",
-        "title": "Never Storm",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1988-56",
-        "title": "Summer Rain",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1988-58",
-        "title": "City Dreams",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1988-85",
-        "title": "Storm Rain",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1988-96",
+        "id": "west-1989-21",
         "title": "Flame Heart",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1988
+      "year": 1989
     },
     {
-      "rank": 12,
+      "rank": 30,
       "song": {
-        "id": "west-1987-12",
-        "title": "Lost in Gold",
+        "id": "west-1989-30",
+        "title": "Never Winter",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1989
     },
     {
-      "rank": 18,
+      "rank": 55,
       "song": {
-        "id": "west-1987-18",
-        "title": "Into the Moon",
+        "id": "west-1989-55",
+        "title": "Sun Tears",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1987
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1987-65",
-        "title": "Ocean Dreams",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1987-66",
-        "title": "Fading Sun",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1987-76",
-        "title": "Golden Ocean",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1987-83",
-        "title": "Golden Rose",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1986-42",
-        "title": "Electric Winter",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1986-44",
-        "title": "Broken Sky",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1986-49",
-        "title": "Fading River",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1986-51",
-        "title": "Moon Love",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1986-52",
-        "title": "Broken Ocean",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1986-57",
-        "title": "Rose Love",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1986-62",
-        "title": "Shadow Sky",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1986
+      "year": 1989
     },
     {
       "rank": 63,
       "song": {
-        "id": "west-1986-63",
-        "title": "Running Light",
+        "id": "west-1989-63",
+        "title": "Flame Fire",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1989-87",
+        "title": "Midnight Summer",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1988-20",
+        "title": "Moon Fire",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1988-22",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1988-55",
+        "title": "Wild Dusk",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1988-80",
+        "title": "Under the Crystal",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1988-82",
+        "title": "Summer Tears",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1987-10",
+        "title": "Open Your Heart",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1987-16",
+        "title": "Shadow Fire",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1987-17",
+        "title": "Shadow Heart",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1987-33",
+        "title": "Chasing Mountain",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1987-37",
+        "title": "Winter Tears",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1987-80",
+        "title": "Last Wave",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1987-97",
+        "title": "Rose Lights",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-1986-09",
+        "title": "Papa Don't Preach",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 22,
+      "rank": 10,
       "song": {
-        "id": "west-1985-22",
-        "title": "Sky Lights",
+        "id": "west-1986-10",
+        "title": "Live to Tell",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1985
+      "year": 1986
     },
     {
-      "rank": 26,
+      "rank": 13,
       "song": {
-        "id": "west-1985-26",
-        "title": "Chasing Wind",
+        "id": "west-1986-13",
+        "title": "Last Star",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1985
+      "year": 1986
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1986-21",
+        "title": "Chasing Mountain",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1986-61",
+        "title": "Fading Storm",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1986-66",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
     },
     {
       "rank": 94,
       "song": {
-        "id": "west-1985-94",
-        "title": "Wild Ocean",
+        "id": "west-1986-94",
+        "title": "Falling River",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1985
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1985-96",
-        "title": "Wave Night",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1985
+      "year": 1986
     },
     {
       "rank": 2,
       "song": {
-        "id": "west-1984-02",
-        "title": "What's Love Got to Do with It",
+        "id": "west-1985-02",
+        "title": "Like a Virgin",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 11,
+      "rank": 40,
       "song": {
-        "id": "west-1984-11",
-        "title": "Wild Ocean",
+        "id": "west-1985-40",
+        "title": "Never Flame",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 14,
+      "rank": 54,
       "song": {
-        "id": "west-1984-14",
-        "title": "Sweet Snow",
+        "id": "west-1985-54",
+        "title": "Sweet Flame",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 15,
+      "rank": 90,
       "song": {
-        "id": "west-1984-15",
-        "title": "Chasing Dusk",
+        "id": "west-1985-90",
+        "title": "Into the Mountain",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 23,
+      "rank": 91,
       "song": {
-        "id": "west-1984-23",
-        "title": "Chasing Dawn",
+        "id": "west-1985-91",
+        "title": "Wild Flame",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1984
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1984-32",
-        "title": "Shining Wind",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1984
+      "year": 1985
     },
     {
       "rank": 35,
       "song": {
         "id": "west-1984-35",
-        "title": "Midnight Dusk",
+        "title": "Fire Soul",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 43,
+      "rank": 36,
       "song": {
-        "id": "west-1984-43",
-        "title": "Fading Fire",
+        "id": "west-1984-36",
+        "title": "Winter Dreams",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 52,
+      "rank": 75,
       "song": {
-        "id": "west-1984-52",
-        "title": "Thunder Fire",
+        "id": "west-1984-75",
+        "title": "Crystal Fire",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 64,
+      "rank": 77,
       "song": {
-        "id": "west-1984-64",
-        "title": "Fading Snow",
+        "id": "west-1984-77",
+        "title": "Dawn Fire",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 76,
+      "rank": 100,
       "song": {
-        "id": "west-1984-76",
-        "title": "Flame Soul",
+        "id": "west-1984-100",
+        "title": "Dancing Dusk",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1984-97",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -585,23 +525,10 @@
       "rank": 24,
       "song": {
         "id": "west-1983-24",
-        "title": "Electric Mountain",
+        "title": "Light Tears",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1983-34",
-        "title": "Under the Flame",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -611,153 +538,192 @@
       "rank": 37,
       "song": {
         "id": "west-1983-37",
-        "title": "Running Wind",
+        "title": "Road Dreams",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 58,
+      "rank": 75,
       "song": {
-        "id": "west-1983-58",
-        "title": "Never River",
+        "id": "west-1983-75",
+        "title": "Dancing Crystal",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1983
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1982-11",
+        "title": "Chasing Wind",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1982-30",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1982-43",
+        "title": "Electric Winter",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1982-55",
+        "title": "Midnight Wave",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
     },
     {
       "rank": 80,
       "song": {
-        "id": "west-1983-80",
-        "title": "Dancing Ice",
+        "id": "west-1982-80",
+        "title": "Last Rose",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1982
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1982-84",
+        "title": "Shining Flame",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1982-96",
+        "title": "Dusk Sky",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
     },
     {
       "rank": 15,
       "song": {
-        "id": "west-1982-15",
-        "title": "Silver Moonlight",
+        "id": "west-1981-15",
+        "title": "Golden Rain",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1981
     },
     {
-      "rank": 18,
+      "rank": 21,
       "song": {
-        "id": "west-1982-18",
-        "title": "Sun Sky",
+        "id": "west-1981-21",
+        "title": "Falling Summer",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1981
     },
     {
-      "rank": 22,
+      "rank": 33,
       "song": {
-        "id": "west-1982-22",
-        "title": "Last Fire",
+        "id": "west-1981-33",
+        "title": "Fading Snow",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1981
     },
     {
-      "rank": 53,
+      "rank": 52,
       "song": {
-        "id": "west-1982-53",
-        "title": "Snow Rain",
+        "id": "west-1981-52",
+        "title": "Falling Thunder",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1981
     },
     {
-      "rank": 65,
+      "rank": 90,
       "song": {
-        "id": "west-1982-65",
-        "title": "Dancing Summer",
+        "id": "west-1981-90",
+        "title": "Chasing City",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1981
     },
     {
-      "rank": 68,
+      "rank": 97,
       "song": {
-        "id": "west-1982-68",
-        "title": "Silver Forever",
+        "id": "west-1981-97",
+        "title": "Last Thunder",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1982-89",
-        "title": "Winter Soul",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1982-91",
-        "title": "Midnight Storm",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1981-19",
-        "title": "Star Tears",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -766,102 +732,63 @@
     {
       "rank": 22,
       "song": {
-        "id": "west-1981-22",
-        "title": "Winter Moonlight",
+        "id": "west-1980-22",
+        "title": "Road Forever",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1981-27",
-        "title": "Never Sky",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1981-29",
-        "title": "Gold Way",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1981-45",
-        "title": "Never Moon",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1981-65",
-        "title": "Sweet Shadow",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1980-23",
-        "title": "Light Night",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 69,
+      "rank": 28,
       "song": {
-        "id": "west-1980-69",
-        "title": "Never Rain",
+        "id": "west-1980-28",
+        "title": "Broken Crystal",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 88,
+      "rank": 34,
       "song": {
-        "id": "west-1980-88",
-        "title": "Road Moonlight",
+        "id": "west-1980-34",
+        "title": "Under the Star",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1980-75",
+        "title": "Rose Love",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1980-76",
+        "title": "Running Thunder",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -871,23 +798,10 @@
       "rank": 89,
       "song": {
         "id": "west-1980-89",
-        "title": "Rose Soul",
+        "title": "Running Light",
         "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1980-91",
-        "title": "Into the Sun",
-        "artist": {
-          "id": "a-tina-turner",
-          "name": "Tina Turner"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },

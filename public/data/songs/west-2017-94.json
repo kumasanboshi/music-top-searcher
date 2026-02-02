@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2017-94",
-    "title": "Dusk Moonlight",
+    "title": "Broken Sky",
     "artist": {
-      "id": "a-billie",
-      "name": "Billie Eilish"
+      "id": "a-post-malone",
+      "name": "Post Malone"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 94,
   "cdInfo": [
     {
-      "title": "Dusk Moonlight",
+      "title": "Broken Sky",
       "type": "single",
-      "releaseDate": "2017-05-07"
+      "releaseDate": "2017-08-18"
+    },
+    {
+      "title": "The Diamond Album",
+      "type": "album",
+      "releaseDate": "2017-12-17"
     }
   ],
   "externalLinks": {
@@ -23,715 +28,637 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 9,
       "song": {
-        "id": "west-2025-12",
-        "title": "Road Rain",
+        "id": "west-2025-09",
+        "title": "Wildfire",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2025
     },
     {
-      "rank": 24,
+      "rank": 2,
       "song": {
-        "id": "west-2025-24",
-        "title": "City Way",
+        "id": "west-2020-02",
+        "title": "Circles",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2025-45",
-        "title": "Dawn Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2025-60",
-        "title": "Shining Sky",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2025-63",
-        "title": "Golden Thunder",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2025-89",
-        "title": "Sun Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2025-92",
-        "title": "Sweet Rose",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2023-19",
-        "title": "Shining River",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2023-40",
-        "title": "Shining Wind",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2023-46",
-        "title": "Electric Dusk",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2023-54",
-        "title": "Gold Rain",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2023-56",
-        "title": "Into the Storm",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2023-58",
-        "title": "Fading Silver",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2023-92",
-        "title": "Last River",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2023-98",
-        "title": "Never Star",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2022-13",
-        "title": "Last Snow",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2022-21",
-        "title": "Sun Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2022-40",
-        "title": "Sweet Moon",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2022-86",
-        "title": "Ocean Heart",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2022-92",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2022-96",
-        "title": "Lost in Star",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2021-32",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2021-85",
-        "title": "Wild City",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2021-88",
-        "title": "Rose Fire",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2020-93",
-        "title": "Ocean Lights",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2020
     },
     {
-      "rank": 97,
+      "rank": 2,
       "song": {
-        "id": "west-2020-97",
-        "title": "Electric Wind",
+        "id": "west-2019-02",
+        "title": "Sunflower",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2019-17",
-        "title": "Wind Moonlight",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone & Swae Lee"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 58,
+      "rank": 7,
       "song": {
-        "id": "west-2019-58",
-        "title": "Gold Dreams",
+        "id": "west-2019-07",
+        "title": "Wow.",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 74,
+      "rank": 26,
       "song": {
-        "id": "west-2019-74",
-        "title": "Crystal Way",
+        "id": "west-2019-26",
+        "title": "Broken River",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 94,
+      "rank": 28,
       "song": {
-        "id": "west-2019-94",
-        "title": "Star Forever",
+        "id": "west-2019-28",
+        "title": "Diamond Forever",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2019
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2018-27",
-        "title": "Last Sun",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2018-50",
-        "title": "Last Flame",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2018-54",
-        "title": "Lost in Rain",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2018-78",
-        "title": "Flame Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2018-81",
-        "title": "Broken Rain",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2018-89",
-        "title": "Snow Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2018-97",
-        "title": "Moon Dreams",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2017-34",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2017-37",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2017-49",
-        "title": "Last Ice",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2017-53",
-        "title": "Electric Light",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2017-91",
-        "title": "Diamond Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2017-95",
-        "title": "Winter Way",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2016-11",
-        "title": "Winter Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2016-34",
-        "title": "Sky Moonlight",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2016-48",
-        "title": "Lost in Ice",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2016-100",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2015-39",
-        "title": "Fading Gold",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2015-40",
-        "title": "Broken Wave",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2015-79",
-        "title": "Falling Storm",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2014-15",
-        "title": "Sun Lights",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2014-18",
-        "title": "Rose Lights",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2014
     },
     {
       "rank": 41,
       "song": {
-        "id": "west-2014-41",
-        "title": "Silver Heart",
+        "id": "west-2019-41",
+        "title": "Shining Thunder",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2014
+      "year": 2019
     },
     {
-      "rank": 42,
+      "rank": 55,
       "song": {
-        "id": "west-2014-42",
-        "title": "Fading Light",
+        "id": "west-2019-55",
+        "title": "Winter Lights",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
-      "year": 2014
+      "year": 2019
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2019-63",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-2019-87",
+        "title": "River Tears",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2019-97",
+        "title": "Broken Light",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-2018-04",
+        "title": "Rockstar",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone ft. 21 Savage"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 5,
+      "song": {
+        "id": "west-2018-05",
+        "title": "Psycho",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone ft. Ty Dolla $ign"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2018-26",
+        "title": "City Night",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2018-34",
+        "title": "Electric Wave",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2018-35",
+        "title": "Ocean Night",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2018-45",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2018-46",
+        "title": "Sweet River",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2018-77",
+        "title": "Rose Forever",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2018-80",
+        "title": "Fading Diamond",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2018-91",
+        "title": "Dawn Rain",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2018-93",
+        "title": "Sun Love",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-2017-06",
+        "title": "Rockstar",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone ft. 21 Savage"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2017-20",
+        "title": "Lost in Ocean",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2017-25",
+        "title": "Moon Soul",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-2017-31",
+        "title": "Wild Sun",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-2017-38",
+        "title": "Under the Mountain",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2017-45",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
     },
     {
       "rank": 65,
       "song": {
-        "id": "west-2014-65",
-        "title": "Fading Snow",
+        "id": "west-2017-65",
+        "title": "Never Bridge",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2017-72",
+        "title": "Into the Summer",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2017-77",
+        "title": "Shining Wave",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2017-81",
+        "title": "Ice Sky",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2017-86",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2016-14",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-2016-70",
+        "title": "Under the City",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2016-72",
+        "title": "Shadow Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2015-22",
+        "title": "Storm Sky",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2015-27",
+        "title": "Dusk Night",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-2015-28",
+        "title": "Under the Thunder",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2015-30",
+        "title": "Ice Tears",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2015-44",
+        "title": "Wind Soul",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-2015-55",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-2015-83",
+        "title": "Sky Lights",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2015-96",
+        "title": "River Love",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2015-98",
+        "title": "Light Dreams",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2014-32",
+        "title": "Golden Diamond",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2014-35",
+        "title": "Shining Snow",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2014-75",
+        "title": "Fading Fire",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2014-84",
+        "title": "Into the Bridge",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
@@ -741,205 +668,192 @@
       "rank": 94,
       "song": {
         "id": "west-2014-94",
-        "title": "Dancing Road",
+        "title": "Dawn Sky",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 96,
+      "rank": 13,
       "song": {
-        "id": "west-2014-96",
-        "title": "River Lights",
+        "id": "west-2013-13",
+        "title": "Shining Dawn",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2013-62",
-        "title": "Ice Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2013
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2013-14",
+        "title": "Lost in Ocean",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2013-26",
+        "title": "Diamond Way",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2013-56",
+        "title": "Under the Wave",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2013-74",
+        "title": "Shadow Soul",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2012-26",
+        "title": "Last Bridge",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2012-40",
+        "title": "Broken Ocean",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-2012-64",
+        "title": "Light Soul",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
     },
     {
       "rank": 68,
       "song": {
-        "id": "west-2013-68",
-        "title": "Light Sky",
+        "id": "west-2012-68",
+        "title": "Dusk Forever",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2013-86",
-        "title": "Dancing Wave",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2013-87",
-        "title": "Shadow Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2012-19",
-        "title": "Sky Fire",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2012
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2012-88",
+        "title": "Sun Heart",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2012-91",
+        "title": "Under the Mountain",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2012-96",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2011-35",
+        "title": "Running Wind",
+        "artist": {
+          "id": "a-post-malone",
+          "name": "Post Malone"
+        },
+        "genre": "western"
+      },
+      "year": 2011
     },
     {
       "rank": 69,
       "song": {
-        "id": "west-2012-69",
-        "title": "Lost in Bridge",
+        "id": "west-2011-69",
+        "title": "Thunder Dreams",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2012-72",
-        "title": "Ice Sky",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2012-75",
-        "title": "Wild Winter",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2012-78",
-        "title": "Wave Lights",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2012-87",
-        "title": "Shadow Heart",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2012-98",
-        "title": "Light Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2011-18",
-        "title": "Gold Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2011-42",
-        "title": "Thunder Moonlight",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2011-63",
-        "title": "Fire Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
@@ -949,101 +863,62 @@
       "rank": 71,
       "song": {
         "id": "west-2011-71",
-        "title": "Falling Crystal",
+        "title": "Into the Gold",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 75,
+      "rank": 90,
       "song": {
-        "id": "west-2011-75",
-        "title": "Sky Way",
+        "id": "west-2011-90",
+        "title": "Rose Night",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2011
     },
     {
-      "rank": 45,
+      "rank": 34,
       "song": {
-        "id": "west-2010-45",
-        "title": "Dusk Moonlight",
+        "id": "west-2010-34",
+        "title": "Sky Night",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 47,
+      "rank": 37,
       "song": {
-        "id": "west-2010-47",
-        "title": "Last Wind",
+        "id": "west-2010-37",
+        "title": "Thunder Forever",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 60,
+      "rank": 99,
       "song": {
-        "id": "west-2010-60",
-        "title": "Wind Tears",
+        "id": "west-2010-99",
+        "title": "Sweet Moon",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2010-70",
-        "title": "Never Crystal",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2010-85",
-        "title": "Broken Moon",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2010-95",
-        "title": "Fading Ice",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-post-malone",
+          "name": "Post Malone"
         },
         "genre": "western"
       },

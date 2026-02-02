@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1989-100",
-    "title": "Under the Road",
+    "title": "Into the Dawn",
     "artist": {
-      "id": "a-u2",
-      "name": "U2"
+      "id": "a-bon-jovi",
+      "name": "Bon Jovi"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 100,
   "cdInfo": [
     {
-      "title": "Under the Road",
+      "title": "Into the Dawn",
       "type": "single",
-      "releaseDate": "1989-01-27"
+      "releaseDate": "1989-10-25"
+    },
+    {
+      "title": "Gold Diaries",
+      "type": "album",
+      "releaseDate": "1989-02-24"
     }
   ],
   "externalLinks": {
@@ -23,390 +28,286 @@
   },
   "artistSongs": [
     {
-      "rank": 37,
+      "rank": 12,
       "song": {
-        "id": "west-1989-37",
-        "title": "Never Rose",
+        "id": "west-1989-12",
+        "title": "Fading Light",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 40,
+      "rank": 15,
       "song": {
-        "id": "west-1989-40",
-        "title": "Fading Silver",
+        "id": "west-1989-15",
+        "title": "Shining Winter",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1989
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1989-54",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1989-86",
-        "title": "Wild Sun",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1989-96",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1988-11",
-        "title": "Star Dreams",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1988-38",
-        "title": "Wild Winter",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1988-48",
-        "title": "Road Night",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1988-52",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1988-53",
-        "title": "Shadow Soul",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1988-57",
-        "title": "Electric Silver",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1988-61",
-        "title": "Mountain Heart",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1988-67",
-        "title": "Electric Dusk",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1988-94",
-        "title": "Fading Ice",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-1987-06",
-        "title": "With or Without You",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-1987-07",
-        "title": "I Still Haven't Found What I'm Looking For",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1987-20",
-        "title": "Lost in Storm",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
     },
     {
       "rank": 22,
       "song": {
-        "id": "west-1987-22",
-        "title": "Fading Bridge",
+        "id": "west-1989-22",
+        "title": "Golden Mountain",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1989
     },
     {
-      "rank": 45,
+      "rank": 28,
       "song": {
-        "id": "west-1987-45",
-        "title": "City Sky",
+        "id": "west-1989-28",
+        "title": "Falling Gold",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1989
     },
     {
-      "rank": 53,
+      "rank": 32,
       "song": {
-        "id": "west-1987-53",
-        "title": "Golden Wind",
+        "id": "west-1989-32",
+        "title": "Sky Way",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1989
     },
     {
-      "rank": 70,
+      "rank": 67,
       "song": {
-        "id": "west-1987-70",
-        "title": "Summer Soul",
+        "id": "west-1989-67",
+        "title": "Dawn Love",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1989
     },
     {
-      "rank": 72,
+      "rank": 29,
       "song": {
-        "id": "west-1987-72",
-        "title": "Chasing Road",
+        "id": "west-1988-29",
+        "title": "Storm Lights",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1987
+      "year": 1988
     },
     {
-      "rank": 80,
+      "rank": 54,
       "song": {
-        "id": "west-1987-80",
-        "title": "Rain Love",
+        "id": "west-1988-54",
+        "title": "Crystal Lights",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1987
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1987-85",
-        "title": "Rose Fire",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1987-91",
-        "title": "Never Diamond",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1987-95",
-        "title": "Lost in Star",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1986-40",
-        "title": "Rose Moonlight",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1986-53",
-        "title": "Into the Thunder",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1986
+      "year": 1988
     },
     {
       "rank": 69,
       "song": {
-        "id": "west-1986-69",
-        "title": "Last Fire",
+        "id": "west-1988-69",
+        "title": "Gold Fire",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1988-70",
+        "title": "Under the Diamond",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1988-73",
+        "title": "Wild River",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1988-83",
+        "title": "Rose Forever",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1988-97",
+        "title": "Storm Way",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-1987-04",
+        "title": "Livin' on a Prayer",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1987-18",
+        "title": "Shining Mountain",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1987-32",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1987-61",
+        "title": "Snow Rain",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1987-78",
+        "title": "Rose Way",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1987-86",
+        "title": "Dawn Heart",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1987-89",
+        "title": "Summer Dreams",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1986-49",
+        "title": "Midnight Thunder",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 81,
+      "rank": 91,
       "song": {
-        "id": "west-1986-81",
-        "title": "River Sky",
+        "id": "west-1986-91",
+        "title": "Into the Mountain",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -416,127 +317,127 @@
       "rank": 98,
       "song": {
         "id": "west-1986-98",
-        "title": "Diamond Tears",
+        "title": "Fading Dusk",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 18,
+      "rank": 19,
       "song": {
-        "id": "west-1985-18",
-        "title": "Last Thunder",
+        "id": "west-1985-19",
+        "title": "Sun Lights",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 20,
+      "rank": 25,
       "song": {
-        "id": "west-1985-20",
-        "title": "Bridge Love",
+        "id": "west-1985-25",
+        "title": "Snow Soul",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 23,
+      "rank": 28,
       "song": {
-        "id": "west-1985-23",
-        "title": "Falling Winter",
+        "id": "west-1985-28",
+        "title": "Running Storm",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 37,
+      "rank": 29,
       "song": {
-        "id": "west-1985-37",
-        "title": "Dusk Way",
+        "id": "west-1985-29",
+        "title": "Sweet Wave",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 40,
+      "rank": 33,
       "song": {
-        "id": "west-1985-40",
-        "title": "Sun Love",
+        "id": "west-1985-33",
+        "title": "Mountain Love",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 70,
+      "rank": 38,
       "song": {
-        "id": "west-1985-70",
-        "title": "Running Gold",
+        "id": "west-1985-38",
+        "title": "Into the Dusk",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 71,
+      "rank": 42,
       "song": {
-        "id": "west-1985-71",
-        "title": "Shining Storm",
+        "id": "west-1985-42",
+        "title": "Moon Rain",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 92,
+      "rank": 100,
       "song": {
-        "id": "west-1985-92",
-        "title": "Dawn Forever",
+        "id": "west-1985-100",
+        "title": "Sun Forever",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 61,
+      "rank": 34,
       "song": {
-        "id": "west-1984-61",
-        "title": "Bridge Rain",
+        "id": "west-1984-34",
+        "title": "Sweet Light",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -546,49 +447,75 @@
       "rank": 72,
       "song": {
         "id": "west-1984-72",
-        "title": "Shining Winter",
+        "title": "Lost in Dusk",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 88,
+      "rank": 78,
       "song": {
-        "id": "west-1984-88",
-        "title": "Ocean Way",
+        "id": "west-1984-78",
+        "title": "Last Moon",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 100,
+      "rank": 18,
       "song": {
-        "id": "west-1984-100",
-        "title": "Chasing Star",
+        "id": "west-1983-18",
+        "title": "Golden Dawn",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1983
     },
     {
-      "rank": 26,
+      "rank": 20,
       "song": {
-        "id": "west-1983-26",
-        "title": "Ice Night",
+        "id": "west-1983-20",
+        "title": "Running Ocean",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1983-27",
+        "title": "Falling Wave",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1983-31",
+        "title": "Running Gold",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -598,361 +525,348 @@
       "rank": 33,
       "song": {
         "id": "west-1983-33",
+        "title": "Bridge Tears",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1983-35",
+        "title": "Fading Rose",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1983-61",
+        "title": "Silver Tears",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1983-62",
+        "title": "Dusk Night",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1983-80",
+        "title": "Last Mountain",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1983-94",
+        "title": "Fading Sun",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1983-98",
+        "title": "Sweet City",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1983-99",
+        "title": "Falling Light",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1982-20",
+        "title": "River Moonlight",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1982-25",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1982-37",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1982-40",
+        "title": "Light Heart",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1982-49",
         "title": "Shining Diamond",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1982
     },
     {
-      "rank": 70,
+      "rank": 62,
       "song": {
-        "id": "west-1983-70",
-        "title": "Star Forever",
+        "id": "west-1982-62",
+        "title": "Rain Rain",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1982
     },
     {
-      "rank": 90,
+      "rank": 13,
       "song": {
-        "id": "west-1983-90",
-        "title": "Sky Rain",
+        "id": "west-1981-13",
+        "title": "Falling Crystal",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1981
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1981-25",
+        "title": "Sky Love",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1981
     },
     {
       "rank": 26,
       "song": {
-        "id": "west-1982-26",
-        "title": "Broken Rose",
+        "id": "west-1981-26",
+        "title": "Moon Heart",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1982-29",
-        "title": "Snow Fire",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1982-47",
-        "title": "Rose Moonlight",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1982-61",
-        "title": "Snow Soul",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1982-75",
-        "title": "Ocean Heart",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1982-85",
-        "title": "Dancing Ice",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1982-96",
-        "title": "Rose Dreams",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1981-14",
-        "title": "City Soul",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1981
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1981-34",
+        "title": "Crystal Love",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1981-37",
+        "title": "Midnight Gold",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1981-81",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1981-89",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1980-17",
+        "title": "City Way",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1980
     },
     {
       "rank": 30,
       "song": {
-        "id": "west-1981-30",
-        "title": "Fading Sun",
+        "id": "west-1980-30",
+        "title": "Last Ice",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1981-36",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1981-40",
-        "title": "Dawn Tears",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1981-53",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1981-56",
-        "title": "Golden Dusk",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1981-67",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1981-73",
-        "title": "Into the Sun",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1981-85",
-        "title": "Dancing Road",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1981-97",
-        "title": "Shining Snow",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1980-19",
-        "title": "Fading Moon",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 40,
+      "rank": 38,
       "song": {
-        "id": "west-1980-40",
-        "title": "Broken Ocean",
+        "id": "west-1980-38",
+        "title": "Last Winter",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 56,
+      "rank": 39,
       "song": {
-        "id": "west-1980-56",
-        "title": "Fire Love",
+        "id": "west-1980-39",
+        "title": "Gold Forever",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 61,
+      "rank": 68,
       "song": {
-        "id": "west-1980-61",
-        "title": "Into the Summer",
+        "id": "west-1980-68",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 70,
+      "rank": 79,
       "song": {
-        "id": "west-1980-70",
-        "title": "Winter Love",
+        "id": "west-1980-79",
+        "title": "Lost in Light",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1980-72",
-        "title": "Shining Bridge",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1980-87",
-        "title": "Sky Moonlight",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1980-97",
-        "title": "Fading Winter",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },

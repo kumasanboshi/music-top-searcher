@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-2021-37",
-    "title": "夢の記憶",
+    "title": "風の太陽",
     "artist": {
-      "id": "a-vaundy",
-      "name": "Vaundy"
+      "id": "a-ryokuoushoku",
+      "name": "緑黄色社会"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 37,
   "cdInfo": [
     {
-      "title": "夢の記憶",
+      "title": "風の太陽",
       "type": "single",
-      "releaseDate": "2021-08-25"
+      "releaseDate": "2021-10-05"
+    },
+    {
+      "title": "時間アルバム",
+      "type": "album",
+      "releaseDate": "2021-01-16"
     }
   ],
   "externalLinks": {
@@ -23,247 +28,455 @@
   },
   "artistSongs": [
     {
-      "rank": 5,
+      "rank": 15,
       "song": {
-        "id": "jpop-2025-05",
-        "title": "花火の夜",
+        "id": "jpop-2025-15",
+        "title": "冬の約束",
         "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
         },
         "genre": "jpop"
       },
       "year": 2025
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-2025-17",
-        "title": "希望のリズム",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-2025-82",
-        "title": "影の夜",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-2025-94",
-        "title": "恋の街",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "jpop-2023-02",
-        "title": "怪獣の花唄",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-2023-36",
-        "title": "未来メロディ",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-2023-62",
-        "title": "希望物語",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
     },
     {
       "rank": 34,
       "song": {
-        "id": "jpop-2022-34",
-        "title": "君の夜",
+        "id": "jpop-2025-34",
+        "title": "雨の季節",
         "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "jpop-2025-37",
+        "title": "永遠の光",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-2025-45",
+        "title": "海の記憶",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2025-55",
+        "title": "希望の街",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-2025-59",
+        "title": "愛の季節",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-2025-66",
+        "title": "街の約束",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2025-83",
+        "title": "未来フォーエバー",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2025-88",
+        "title": "雪物語",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2025-97",
+        "title": "朝フォーエバー",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-2023-29",
+        "title": "虹のかけら",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-2023-31",
+        "title": "太陽の季節",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-2023-35",
+        "title": "世界の空",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-2023-54",
+        "title": "真夜中の冬",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-2023-65",
+        "title": "愛フォーエバー",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-2023-68",
+        "title": "未来の空",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-2023-74",
+        "title": "真夜中の桜",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2023-82",
+        "title": "雪の約束",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2023-83",
+        "title": "恋の夏",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2023-85",
+        "title": "恋の未来",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-2023-90",
+        "title": "記憶物語",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2023-94",
+        "title": "永遠の朝",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-2022-39",
+        "title": "世界物語",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
         },
         "genre": "jpop"
       },
       "year": 2022
     },
     {
-      "rank": 40,
+      "rank": 42,
       "song": {
-        "id": "jpop-2022-40",
-        "title": "風のかけら",
+        "id": "jpop-2022-42",
+        "title": "君の希望",
         "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
         },
         "genre": "jpop"
       },
       "year": 2022
     },
     {
-      "rank": 99,
+      "rank": 70,
       "song": {
-        "id": "jpop-2022-99",
-        "title": "星メロディ",
+        "id": "jpop-2022-70",
+        "title": "希望の光",
         "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
         },
         "genre": "jpop"
       },
       "year": 2022
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-2022-76",
+        "title": "桜サンセット",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-2022-91",
+        "title": "冬の夜",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-2021-14",
+        "title": "冬の約束",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-2021-26",
+        "title": "君の時間",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-2021-33",
+        "title": "恋の空",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-2021-53",
+        "title": "約束の波",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2021-55",
+        "title": "桜ストーリー",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2021-57",
+        "title": "波の光",
+        "artist": {
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
     },
     {
       "rank": 85,
       "song": {
         "id": "jpop-2021-85",
-        "title": "星の旅",
+        "title": "真夜中の雪",
         "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 96,
+      "rank": 65,
       "song": {
-        "id": "jpop-2021-96",
-        "title": "桜の光",
+        "id": "jpop-2020-65",
+        "title": "月のかけら",
         "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-2020-24",
-        "title": "ミッドナイト森",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2020-25",
-        "title": "旅の記憶",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-2020-38",
-        "title": "星の夏",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-2020-70",
-        "title": "雨物語",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2020-75",
-        "title": "君の世界",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-2020-91",
-        "title": "愛フォーエバー",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2020-97",
-        "title": "恋ストーリー",
-        "artist": {
-          "id": "a-vaundy",
-          "name": "Vaundy"
+          "id": "a-ryokuoushoku",
+          "name": "緑黄色社会"
         },
         "genre": "jpop"
       },

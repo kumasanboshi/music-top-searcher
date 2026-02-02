@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2000-85",
-    "title": "Diamond Fire",
+    "title": "Silver Forever",
     "artist": {
-      "id": "a-linkin-park",
-      "name": "Linkin Park"
+      "id": "a-killers",
+      "name": "The Killers"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 85,
   "cdInfo": [
     {
-      "title": "Diamond Fire",
+      "title": "Silver Forever",
       "type": "single",
-      "releaseDate": "2000-09-04"
+      "releaseDate": "2000-08-09"
+    },
+    {
+      "title": "Ice Diaries",
+      "type": "album",
+      "releaseDate": "2000-02-12"
     }
   ],
   "externalLinks": {
@@ -23,65 +28,91 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 22,
       "song": {
-        "id": "west-2009-14",
-        "title": "Electric Fire",
+        "id": "west-2009-22",
+        "title": "Wild Bridge",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 21,
+      "rank": 48,
       "song": {
-        "id": "west-2009-21",
-        "title": "Lost in Ocean",
+        "id": "west-2009-48",
+        "title": "Thunder Heart",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 23,
+      "rank": 51,
       "song": {
-        "id": "west-2009-23",
-        "title": "Golden Summer",
+        "id": "west-2009-51",
+        "title": "Into the Gold",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 44,
+      "rank": 62,
       "song": {
-        "id": "west-2009-44",
-        "title": "Bridge Moonlight",
+        "id": "west-2009-62",
+        "title": "Under the Dawn",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 91,
+      "rank": 63,
       "song": {
-        "id": "west-2009-91",
-        "title": "Rose Love",
+        "id": "west-2009-63",
+        "title": "Electric Winter",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2009-68",
+        "title": "Moon Love",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2009-99",
+        "title": "Under the Storm",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
@@ -91,296 +122,335 @@
       "rank": 29,
       "song": {
         "id": "west-2008-29",
-        "title": "Bridge Love",
+        "title": "Falling Fire",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 30,
+      "rank": 58,
       "song": {
-        "id": "west-2008-30",
+        "id": "west-2008-58",
+        "title": "Bridge Lights",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-2008-60",
+        "title": "Wind Soul",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-2008-97",
+        "title": "Broken Summer",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2007-21",
         "title": "Storm Soul",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2008
+      "year": 2007
     },
     {
-      "rank": 43,
+      "rank": 38,
       "song": {
-        "id": "west-2008-43",
-        "title": "Into the Bridge",
+        "id": "west-2007-38",
+        "title": "Bridge Moonlight",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2008
+      "year": 2007
     },
     {
-      "rank": 46,
+      "rank": 52,
       "song": {
-        "id": "west-2008-46",
-        "title": "Crystal Heart",
+        "id": "west-2007-52",
+        "title": "River Way",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2008
+      "year": 2007
     },
     {
-      "rank": 55,
+      "rank": 58,
       "song": {
-        "id": "west-2008-55",
-        "title": "Storm Heart",
+        "id": "west-2007-58",
+        "title": "Lost in Road",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2008
+      "year": 2007
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2007-61",
+        "title": "Wind Sky",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2007-63",
+        "title": "Crystal Way",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2007-65",
+        "title": "Ocean Lights",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2007-75",
+        "title": "Mountain Tears",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2007-80",
+        "title": "Star Love",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2007
     },
     {
       "rank": 81,
       "song": {
-        "id": "west-2008-81",
-        "title": "Moon Way",
+        "id": "west-2007-81",
+        "title": "Electric Wind",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2008-85",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2008-86",
-        "title": "Wind Rain",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2008-89",
-        "title": "Golden Light",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2007-40",
-        "title": "Sweet Rain",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 46,
+      "rank": 20,
       "song": {
-        "id": "west-2007-46",
-        "title": "Golden Fire",
+        "id": "west-2006-20",
+        "title": "Falling Ocean",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2007-49",
-        "title": "Sun Fire",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2007-55",
-        "title": "Shining Wind",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2007-59",
-        "title": "Lost in Diamond",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2007-72",
-        "title": "Fading Moon",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2006-12",
-        "title": "Fading Flame",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 42,
+      "rank": 39,
       "song": {
-        "id": "west-2006-42",
-        "title": "Electric Storm",
+        "id": "west-2006-39",
+        "title": "Chasing Crystal",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 50,
+      "rank": 41,
       "song": {
-        "id": "west-2006-50",
-        "title": "Golden Flame",
+        "id": "west-2006-41",
+        "title": "Rain Soul",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 87,
+      "rank": 43,
       "song": {
-        "id": "west-2006-87",
-        "title": "Crystal Night",
+        "id": "west-2006-43",
+        "title": "Electric Mountain",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2006
     },
     {
-      "rank": 93,
+      "rank": 60,
       "song": {
-        "id": "west-2006-93",
-        "title": "Last Sky",
+        "id": "west-2006-60",
+        "title": "Diamond Forever",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2006
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2006-92",
+        "title": "Running Snow",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2005-16",
+        "title": "Lost in River",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2005-19",
+        "title": "Sweet Moon",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-2005-21",
+        "title": "Never Star",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2005
     },
     {
       "rank": 28,
       "song": {
         "id": "west-2005-28",
-        "title": "Wild Summer",
+        "title": "Bridge Fire",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 49,
+      "rank": 44,
       "song": {
-        "id": "west-2005-49",
-        "title": "Rain Tears",
+        "id": "west-2005-44",
+        "title": "Broken Sky",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 64,
+      "rank": 46,
       "song": {
-        "id": "west-2005-64",
-        "title": "Shining Fire",
+        "id": "west-2005-46",
+        "title": "Moon Night",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
@@ -390,101 +460,49 @@
       "rank": 65,
       "song": {
         "id": "west-2005-65",
-        "title": "Dusk Fire",
+        "title": "Diamond Night",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 67,
+      "rank": 92,
       "song": {
-        "id": "west-2005-67",
-        "title": "Road Love",
+        "id": "west-2005-92",
+        "title": "Midnight Ocean",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 70,
+      "rank": 13,
       "song": {
-        "id": "west-2005-70",
-        "title": "Light Sky",
+        "id": "west-2004-13",
+        "title": "Lost in Wind",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2005
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2005-95",
-        "title": "Storm Lights",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2005
+      "year": 2004
     },
     {
       "rank": 17,
       "song": {
         "id": "west-2004-17",
-        "title": "Wind Fire",
+        "title": "City Way",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2004-21",
-        "title": "Shining Wave",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2004-25",
-        "title": "Lost in Sky",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2004-35",
-        "title": "Running Light",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
@@ -494,62 +512,23 @@
       "rank": 42,
       "song": {
         "id": "west-2004-42",
-        "title": "Rose Night",
+        "title": "River Tears",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 53,
+      "rank": 77,
       "song": {
-        "id": "west-2004-53",
-        "title": "Bridge Rain",
+        "id": "west-2004-77",
+        "title": "Under the Rose",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2004-56",
-        "title": "Electric Fire",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2004-68",
-        "title": "Crystal Night",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2004-78",
-        "title": "Under the Star",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
@@ -559,322 +538,322 @@
       "rank": 12,
       "song": {
         "id": "west-2003-12",
-        "title": "Fading Ocean",
+        "title": "Snow Moonlight",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 17,
+      "rank": 14,
       "song": {
-        "id": "west-2003-17",
-        "title": "Wild Dusk",
+        "id": "west-2003-14",
+        "title": "Never Wave",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 36,
+      "rank": 18,
       "song": {
-        "id": "west-2003-36",
-        "title": "Last Rose",
+        "id": "west-2003-18",
+        "title": "Dancing Dawn",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 54,
+      "rank": 20,
       "song": {
-        "id": "west-2003-54",
-        "title": "Dawn Soul",
+        "id": "west-2003-20",
+        "title": "Star Night",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 60,
+      "rank": 84,
       "song": {
-        "id": "west-2003-60",
-        "title": "Never Bridge",
+        "id": "west-2003-84",
+        "title": "Moon Forever",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2003
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2003-82",
-        "title": "Crystal Forever",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2003-87",
-        "title": "Fading Gold",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 4,
-      "song": {
-        "id": "west-2002-04",
-        "title": "In the End",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2002-27",
-        "title": "Broken Silver",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2002-37",
-        "title": "Electric City",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2002-77",
-        "title": "Into the Bridge",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2002-81",
-        "title": "Sweet Mountain",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2002-82",
-        "title": "Snow Sky",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2002
     },
     {
       "rank": 86,
       "song": {
-        "id": "west-2002-86",
-        "title": "Never Gold",
+        "id": "west-2003-86",
+        "title": "Mountain Moonlight",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-2002-12",
+        "title": "Thunder Love",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 12,
+      "rank": 55,
       "song": {
-        "id": "west-2001-12",
-        "title": "Shining Dusk",
+        "id": "west-2002-55",
+        "title": "Lost in Crystal",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2002
     },
     {
-      "rank": 21,
+      "rank": 58,
       "song": {
-        "id": "west-2001-21",
-        "title": "Lost in Shadow",
+        "id": "west-2002-58",
+        "title": "Into the Mountain",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2001
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2001-26",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2001-41",
-        "title": "Fading Rain",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2001-48",
-        "title": "Diamond Sky",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2001
+      "year": 2002
     },
     {
       "rank": 60,
       "song": {
-        "id": "west-2001-60",
-        "title": "Electric Rain",
+        "id": "west-2002-60",
+        "title": "Under the Diamond",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2002
     },
     {
-      "rank": 82,
+      "rank": 69,
       "song": {
-        "id": "west-2001-82",
-        "title": "Sky Night",
+        "id": "west-2002-69",
+        "title": "River Fire",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2001
+      "year": 2002
     },
     {
-      "rank": 94,
+      "rank": 87,
       "song": {
-        "id": "west-2001-94",
-        "title": "Dancing Summer",
+        "id": "west-2002-87",
+        "title": "Mountain Sky",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
-      "year": 2001
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2000-75",
-        "title": "Dawn Heart",
-        "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
-        },
-        "genre": "western"
-      },
-      "year": 2000
+      "year": 2002
     },
     {
       "rank": 88,
       "song": {
-        "id": "west-2000-88",
-        "title": "Under the Wave",
+        "id": "west-2002-88",
+        "title": "Wild River",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2002-93",
+        "title": "Fading Flame",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2001-13",
+        "title": "Never Star",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2001-54",
+        "title": "Bridge Sky",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-2001-96",
+        "title": "Crystal Moonlight",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2000-16",
+        "title": "Fire Heart",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 100,
+      "rank": 22,
       "song": {
-        "id": "west-2000-100",
-        "title": "Rose Way",
+        "id": "west-2000-22",
+        "title": "Wild Mountain",
         "artist": {
-          "id": "a-linkin-park",
-          "name": "Linkin Park"
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2000-33",
+        "title": "Last Wave",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2000-46",
+        "title": "Mountain Sky",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-2000-71",
+        "title": "Broken Bridge",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2000-73",
+        "title": "Winter Forever",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2000-82",
+        "title": "Sun Forever",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2000-98",
+        "title": "Rain Night",
+        "artist": {
+          "id": "a-killers",
+          "name": "The Killers"
         },
         "genre": "western"
       },

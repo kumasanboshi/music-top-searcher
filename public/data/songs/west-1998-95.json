@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1998-95",
-    "title": "Chasing Rain",
+    "title": "River Night",
     "artist": {
-      "id": "a-rkelly",
-      "name": "R. Kelly"
+      "id": "a-green-day",
+      "name": "Green Day"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 95,
   "cdInfo": [
     {
-      "title": "Chasing Rain",
+      "title": "River Night",
       "type": "single",
-      "releaseDate": "1998-12-24"
+      "releaseDate": "1998-11-18"
+    },
+    {
+      "title": "Best of Crystal",
+      "type": "album",
+      "releaseDate": "1998-12-23"
     }
   ],
   "externalLinks": {
@@ -23,156 +28,195 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 6,
       "song": {
-        "id": "west-1999-14",
-        "title": "Light Sky",
+        "id": "west-2005-06",
+        "title": "Boulevard of Broken Dreams",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1999-15",
+        "title": "Storm Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 32,
+      "rank": 40,
       "song": {
-        "id": "west-1999-32",
-        "title": "Wild Road",
+        "id": "west-1999-40",
+        "title": "Star Sky",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 42,
+      "rank": 72,
       "song": {
-        "id": "west-1999-42",
-        "title": "Golden Snow",
+        "id": "west-1999-72",
+        "title": "Wild Ocean",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 44,
+      "rank": 92,
       "song": {
-        "id": "west-1999-44",
-        "title": "Mountain Lights",
+        "id": "west-1999-92",
+        "title": "Falling Flame",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1999
     },
     {
-      "rank": 46,
+      "rank": 11,
       "song": {
-        "id": "west-1999-46",
-        "title": "Falling Dawn",
+        "id": "west-1998-11",
+        "title": "Dusk Lights",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1999-68",
-        "title": "Dancing Sky",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1998-52",
-        "title": "Rose Rain",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 26,
+      "rank": 17,
       "song": {
-        "id": "west-1997-26",
-        "title": "Sweet Shadow",
+        "id": "west-1998-17",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1998-22",
+        "title": "Snow Night",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1998-27",
+        "title": "Dawn Love",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1998-43",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1998-47",
+        "title": "Crystal Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1998-67",
+        "title": "City Love",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1997-30",
+        "title": "Crystal Tears",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 40,
+      "rank": 64,
       "song": {
-        "id": "west-1997-40",
-        "title": "Wave Heart",
+        "id": "west-1997-64",
+        "title": "City Night",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 44,
+      "rank": 84,
       "song": {
-        "id": "west-1997-44",
-        "title": "Storm Love",
+        "id": "west-1997-84",
+        "title": "Ice Dreams",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1997-78",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1997
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1997-80",
-        "title": "Lost in Bridge",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -182,153 +226,140 @@
       "rank": 89,
       "song": {
         "id": "west-1997-89",
-        "title": "Sun Tears",
+        "title": "Chasing Snow",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 96,
+      "rank": 90,
       "song": {
-        "id": "west-1997-96",
-        "title": "Star Fire",
+        "id": "west-1997-90",
+        "title": "Broken Sun",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 30,
+      "rank": 98,
       "song": {
-        "id": "west-1996-30",
-        "title": "Thunder Fire",
+        "id": "west-1997-98",
+        "title": "Broken Light",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1996-12",
+        "title": "Sweet Winter",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 36,
+      "rank": 16,
       "song": {
-        "id": "west-1996-36",
-        "title": "Crystal Night",
+        "id": "west-1996-16",
+        "title": "Shining Silver",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 56,
+      "rank": 53,
       "song": {
-        "id": "west-1996-56",
-        "title": "Flame Night",
+        "id": "west-1996-53",
+        "title": "Wind Rain",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 61,
+      "rank": 77,
       "song": {
-        "id": "west-1996-61",
-        "title": "Thunder Soul",
+        "id": "west-1996-77",
+        "title": "Under the Sky",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 99,
+      "rank": 82,
       "song": {
-        "id": "west-1996-99",
-        "title": "Golden Bridge",
+        "id": "west-1996-82",
+        "title": "Fire Love",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 18,
+      "rank": 15,
       "song": {
-        "id": "west-1995-18",
-        "title": "Broken Sky",
+        "id": "west-1995-15",
+        "title": "Into the Rose",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 23,
+      "rank": 44,
       "song": {
-        "id": "west-1995-23",
-        "title": "Electric Dawn",
+        "id": "west-1995-44",
+        "title": "Rain Night",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 51,
+      "rank": 46,
       "song": {
-        "id": "west-1995-51",
-        "title": "Summer Heart",
+        "id": "west-1995-46",
+        "title": "Dancing Dusk",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1995-54",
-        "title": "Mountain Dreams",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1995-57",
-        "title": "Thunder Dreams",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -338,114 +369,75 @@
       "rank": 58,
       "song": {
         "id": "west-1995-58",
-        "title": "Last Rose",
+        "title": "Golden Dawn",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 61,
+      "rank": 73,
       "song": {
-        "id": "west-1995-61",
-        "title": "River Dreams",
+        "id": "west-1995-73",
+        "title": "Into the Road",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 69,
+      "rank": 18,
       "song": {
-        "id": "west-1995-69",
-        "title": "Running Sky",
+        "id": "west-1994-18",
+        "title": "Into the Moon",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1995-81",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1994-20",
-        "title": "Crystal Fire",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 33,
+      "rank": 25,
       "song": {
-        "id": "west-1994-33",
-        "title": "Shadow Dreams",
+        "id": "west-1994-25",
+        "title": "Sky Moonlight",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 35,
+      "rank": 51,
       "song": {
-        "id": "west-1994-35",
-        "title": "Dusk Tears",
+        "id": "west-1994-51",
+        "title": "Falling Winter",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 49,
+      "rank": 53,
       "song": {
-        "id": "west-1994-49",
-        "title": "Thunder Fire",
+        "id": "west-1994-53",
+        "title": "Diamond Tears",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1994-56",
-        "title": "Star Love",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -455,36 +447,49 @@
       "rank": 63,
       "song": {
         "id": "west-1994-63",
-        "title": "Ice Tears",
+        "title": "Broken Crystal",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 90,
+      "rank": 77,
       "song": {
-        "id": "west-1994-90",
-        "title": "Under the Ocean",
+        "id": "west-1994-77",
+        "title": "Wild Crystal",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 11,
+      "rank": 64,
       "song": {
-        "id": "west-1993-11",
-        "title": "Light Heart",
+        "id": "west-1993-64",
+        "title": "Into the Dusk",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1993-78",
+        "title": "Midnight Shadow",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -493,193 +498,167 @@
     {
       "rank": 16,
       "song": {
-        "id": "west-1993-16",
-        "title": "Midnight Flame",
+        "id": "west-1992-16",
+        "title": "Chasing Light",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1993-41",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1993-99",
-        "title": "Thunder Tears",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1992-17",
-        "title": "Thunder Night",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 45,
+      "rank": 33,
       "song": {
-        "id": "west-1992-45",
-        "title": "Electric Bridge",
+        "id": "west-1992-33",
+        "title": "Broken Bridge",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 51,
+      "rank": 36,
       "song": {
-        "id": "west-1992-51",
-        "title": "Lost in Road",
+        "id": "west-1992-36",
+        "title": "Sky Rain",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 70,
+      "rank": 47,
       "song": {
-        "id": "west-1992-70",
-        "title": "Shining Moon",
+        "id": "west-1992-47",
+        "title": "Winter Sky",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1992
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1992-59",
+        "title": "Mountain Forever",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1992-72",
+        "title": "City Lights",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1992-94",
+        "title": "Broken River",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1991-23",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1991-27",
+        "title": "Under the Winter",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1991-29",
+        "title": "Golden Fire",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1991-48",
+        "title": "Dancing Dawn",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1991-56",
+        "title": "Dancing Rain",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1991
     },
     {
       "rank": 76,
       "song": {
-        "id": "west-1992-76",
-        "title": "Light Sky",
+        "id": "west-1991-76",
+        "title": "Last Crystal",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1991-21",
-        "title": "Bridge Tears",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1991-38",
-        "title": "River Sky",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1991-55",
-        "title": "Midnight Shadow",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1991-61",
-        "title": "Golden Storm",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1991-64",
-        "title": "Mountain Soul",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1991-66",
-        "title": "Dancing Sky",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1991-79",
-        "title": "Dancing Ice",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
@@ -689,23 +668,127 @@
       "rank": 86,
       "song": {
         "id": "west-1991-86",
-        "title": "Dawn Lights",
+        "title": "Bridge Dreams",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 95,
+      "rank": 12,
       "song": {
-        "id": "west-1990-95",
-        "title": "Dancing City",
+        "id": "west-1990-12",
+        "title": "Sweet Wave",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1990-17",
+        "title": "Running Star",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1990-23",
+        "title": "Fading Crystal",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1990-40",
+        "title": "Broken City",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1990-44",
+        "title": "Bridge Night",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1990-47",
+        "title": "Golden Flame",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1990-54",
+        "title": "Never Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1990-56",
+        "title": "Dancing Star",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1990-82",
+        "title": "Never City",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       },

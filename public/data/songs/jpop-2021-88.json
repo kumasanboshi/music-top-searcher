@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-2021-88",
-    "title": "希望の約束",
+    "title": "光の光",
     "artist": {
-      "id": "a-yuuri",
-      "name": "優里"
+      "id": "a-yoasobi",
+      "name": "YOASOBI"
     },
     "genre": "jpop"
   },
@@ -12,9 +12,14 @@
   "rank": 88,
   "cdInfo": [
     {
-      "title": "希望の約束",
+      "title": "光の光",
       "type": "single",
-      "releaseDate": "2021-08-11"
+      "releaseDate": "2021-08-08"
+    },
+    {
+      "title": "影の旅",
+      "type": "album",
+      "releaseDate": "2021-06-27"
     }
   ],
   "externalLinks": {
@@ -23,52 +28,52 @@
   },
   "artistSongs": [
     {
-      "rank": 10,
+      "rank": 2,
       "song": {
-        "id": "jpop-2025-10",
-        "title": "星屑のワルツ",
+        "id": "jpop-2025-02",
+        "title": "Running",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 11,
+      "rank": 27,
       "song": {
-        "id": "jpop-2025-11",
-        "title": "太陽の季節",
+        "id": "jpop-2025-27",
+        "title": "涙の花",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 26,
+      "rank": 35,
       "song": {
-        "id": "jpop-2025-26",
-        "title": "最後の希望",
+        "id": "jpop-2025-35",
+        "title": "太陽の花",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 31,
+      "rank": 42,
       "song": {
-        "id": "jpop-2025-31",
-        "title": "夏の約束",
+        "id": "jpop-2025-42",
+        "title": "風の未来",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
@@ -78,10 +83,23 @@
       "rank": 51,
       "song": {
         "id": "jpop-2025-51",
-        "title": "森の海",
+        "title": "冬メロディ",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-2025-61",
+        "title": "最後の朝",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
@@ -91,465 +109,517 @@
       "rank": 64,
       "song": {
         "id": "jpop-2025-64",
-        "title": "夜サンセット",
+        "title": "夏サンセット",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 76,
+      "rank": 69,
       "song": {
-        "id": "jpop-2025-76",
-        "title": "波フォーエバー",
+        "id": "jpop-2025-69",
+        "title": "海の約束",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 81,
+      "rank": 80,
       "song": {
-        "id": "jpop-2025-81",
-        "title": "旅サンセット",
+        "id": "jpop-2025-80",
+        "title": "永遠の月",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2025
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2025-100",
+        "title": "太陽の街",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "jpop-2023-01",
+        "title": "アイドル",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "jpop-2023-10",
+        "title": "勇者",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2023-11",
+        "title": "涙の星",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
     },
     {
       "rank": 19,
       "song": {
         "id": "jpop-2023-19",
-        "title": "未来の夜",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2023-42",
-        "title": "希望のリズム",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-2023-47",
-        "title": "風の朝",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-2023-55",
-        "title": "星の風",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-2023-74",
-        "title": "最後の未来",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-2023-79",
-        "title": "雪の道",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2023-81",
-        "title": "星の歌",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "jpop-2022-07",
-        "title": "ベテルギウス",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2022-12",
-        "title": "世界の歌",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-2022-19",
-        "title": "最後の森",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-2022-38",
         "title": "風の花",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
-      "year": 2022
+      "year": 2023
     },
     {
-      "rank": 44,
+      "rank": 26,
       "song": {
-        "id": "jpop-2022-44",
-        "title": "涙の雪",
+        "id": "jpop-2023-26",
+        "title": "森物語",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
-      "year": 2022
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "jpop-2022-59",
-        "title": "時間の道",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2022-75",
-        "title": "未来の歌",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2022-93",
-        "title": "夜フォーエバー",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-2022-98",
-        "title": "約束の夏",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "jpop-2021-01",
-        "title": "ドライフラワー",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2021-25",
-        "title": "君の星",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-2021-30",
-        "title": "約束の虹",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-2021-41",
-        "title": "影のかけら",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-2021-44",
-        "title": "最後の雪",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2021
+      "year": 2023
     },
     {
       "rank": 50,
       "song": {
-        "id": "jpop-2021-50",
-        "title": "空の記憶",
+        "id": "jpop-2023-50",
+        "title": "空のリズム",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
-      "year": 2021
+      "year": 2023
     },
     {
       "rank": 56,
       "song": {
-        "id": "jpop-2021-56",
+        "id": "jpop-2023-56",
+        "title": "夢の歌",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-2023-60",
+        "title": "約束の空",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-2023-63",
+        "title": "永遠の夏",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2023-77",
+        "title": "海の花",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2023-97",
+        "title": "月の街",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-2023-98",
+        "title": "真夜中の世界",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-2023-99",
+        "title": "街の歌",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-2022-09",
+        "title": "祝福",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-2022-13",
+        "title": "夜の街",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-2022-23",
+        "title": "愛ストーリー",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-2022-58",
+        "title": "未来フォーエバー",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-2022-72",
+        "title": "冬の季節",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2022-94",
         "title": "雪の海",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "jpop-2021-04",
+        "title": "怪物",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 64,
+      "rank": 7,
       "song": {
-        "id": "jpop-2021-64",
-        "title": "約束の時間",
+        "id": "jpop-2021-07",
+        "title": "夜に駆ける",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 91,
+      "rank": 8,
       "song": {
-        "id": "jpop-2021-91",
-        "title": "最後の冬",
+        "id": "jpop-2021-08",
+        "title": "群青",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 14,
+      "rank": 17,
       "song": {
-        "id": "jpop-2020-14",
-        "title": "夜の記憶",
+        "id": "jpop-2021-17",
+        "title": "世界物語",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-2021-23",
+        "title": "太陽の夜",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-2021-35",
+        "title": "空メロディ",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-2021-52",
+        "title": "風の道",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-2021-70",
+        "title": "夏メロディ",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-2021-80",
+        "title": "最後の夏",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2021-83",
+        "title": "冬の海",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2021-94",
+        "title": "約束の月",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "jpop-2020-03",
+        "title": "夜に駆ける",
+        "artist": {
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 27,
+      "rank": 22,
       "song": {
-        "id": "jpop-2020-27",
-        "title": "恋の桜",
+        "id": "jpop-2020-22",
+        "title": "光の夜",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 34,
+      "rank": 28,
       "song": {
-        "id": "jpop-2020-34",
-        "title": "涙の波",
+        "id": "jpop-2020-28",
+        "title": "夜の夜",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 37,
+      "rank": 29,
       "song": {
-        "id": "jpop-2020-37",
-        "title": "時間の季節",
+        "id": "jpop-2020-29",
+        "title": "恋の未来",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 76,
+      "rank": 33,
       "song": {
-        "id": "jpop-2020-76",
-        "title": "海サンセット",
+        "id": "jpop-2020-33",
+        "title": "希望の道",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 89,
+      "rank": 92,
       "song": {
-        "id": "jpop-2020-89",
-        "title": "最後の街",
+        "id": "jpop-2020-92",
+        "title": "雪の光",
         "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2020-93",
-        "title": "ミッドナイト海",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-2020-95",
-        "title": "海メロディ",
-        "artist": {
-          "id": "a-yuuri",
-          "name": "優里"
+          "id": "a-yoasobi",
+          "name": "YOASOBI"
         },
         "genre": "jpop"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-18",
-    "title": "River Lights",
+    "title": "Midnight River",
     "artist": {
-      "id": "a-wings",
-      "name": "Paul McCartney & Wings"
+      "id": "a-elton-john",
+      "name": "Elton John"
     },
     "genre": "western"
   },
@@ -12,9 +12,14 @@
   "rank": 18,
   "cdInfo": [
     {
-      "title": "River Lights",
+      "title": "Midnight River",
       "type": "single",
-      "releaseDate": "1977-03-17"
+      "releaseDate": "1977-08-02"
+    },
+    {
+      "title": "Shadow Chronicles",
+      "type": "album",
+      "releaseDate": "1977-03-01"
     }
   ],
   "externalLinks": {
@@ -23,39 +28,52 @@
   },
   "artistSongs": [
     {
-      "rank": 18,
+      "rank": 6,
       "song": {
-        "id": "west-1979-18",
-        "title": "Never Rose",
+        "id": "west-2022-06",
+        "title": "Cold Heart",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John & Dua Lipa"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1997-01",
+        "title": "Candle in the Wind 1997",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1979-12",
+        "title": "Falling City",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 30,
+      "rank": 35,
       "song": {
-        "id": "west-1979-30",
-        "title": "Rose Way",
+        "id": "west-1979-35",
+        "title": "Fading Wave",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1979-38",
-        "title": "Falling Light",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -65,10 +83,10 @@
       "rank": 52,
       "song": {
         "id": "west-1979-52",
-        "title": "Diamond Dreams",
+        "title": "Sweet Sun",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -78,23 +96,36 @@
       "rank": 53,
       "song": {
         "id": "west-1979-53",
-        "title": "River Moonlight",
+        "title": "Dusk Soul",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 66,
+      "rank": 75,
       "song": {
-        "id": "west-1979-66",
-        "title": "Last Thunder",
+        "id": "west-1979-75",
+        "title": "Never River",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1979-77",
+        "title": "River Rain",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -104,296 +135,322 @@
       "rank": 78,
       "song": {
         "id": "west-1979-78",
-        "title": "Fading Crystal",
+        "title": "Star Heart",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1979-80",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1979-98",
-        "title": "Running Diamond",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1978-39",
-        "title": "Electric Silver",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1978-48",
-        "title": "Running Flame",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1978-56",
-        "title": "Sun Fire",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1978-59",
-        "title": "Shining Sun",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1978-69",
-        "title": "Never Road",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1978-86",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1978-98",
-        "title": "Ice Tears",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1977-37",
-        "title": "Under the Flame",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1977-56",
-        "title": "Diamond Dreams",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1977-61",
-        "title": "Falling Mountain",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1977-81",
-        "title": "Broken Gold",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-1976-01",
-        "title": "Silly Love Songs",
-        "artist": {
-          "id": "a-wings",
-          "name": "Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1976-27",
-        "title": "Ice Heart",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1976-38",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1976-40",
-        "title": "Sweet Gold",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1976-43",
-        "title": "Into the Wind",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1976-71",
-        "title": "Sweet Star",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1976-78",
-        "title": "Midnight Dusk",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
     },
     {
       "rank": 91,
       "song": {
-        "id": "west-1976-91",
-        "title": "Mountain Fire",
+        "id": "west-1979-91",
+        "title": "Wind Sky",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1978-14",
+        "title": "Diamond Fire",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1978-38",
+        "title": "City Moonlight",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1978-41",
+        "title": "Fire Lights",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1978-44",
+        "title": "Lost in Sky",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1978-78",
+        "title": "Wild Crystal",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1978-87",
+        "title": "Running Storm",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1977-28",
+        "title": "Shining Silver",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1977-29",
+        "title": "Road Tears",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1977-51",
+        "title": "City Sky",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1977-67",
+        "title": "Never Dawn",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1977-87",
+        "title": "Never Snow",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1976-15",
+        "title": "Falling Wave",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 15,
+      "rank": 42,
       "song": {
-        "id": "west-1975-15",
-        "title": "Moon Tears",
+        "id": "west-1976-42",
+        "title": "Summer Heart",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1976-50",
+        "title": "Fading Mountain",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1976-58",
+        "title": "Never Snow",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1976-80",
+        "title": "Rose Lights",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1975-03",
+        "title": "Philadelphia Freedom",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1975-17",
+        "title": "Shining Ice",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1975-19",
+        "title": "Running Light",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1975-26",
+        "title": "Sweet Dusk",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1975-32",
+        "title": "Fading Dusk",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1975-72",
+        "title": "Midnight Snow",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1975-97",
+        "title": "Bridge Sky",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
