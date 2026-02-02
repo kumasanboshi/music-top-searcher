@@ -1,7 +1,8 @@
 export type Genre = 'jpop' | 'western'
 
 export interface ExternalLinks {
-  amazon?: string
+  amazonMusic?: string
+  amazonCD?: string
   appleMusic?: string
 }
 

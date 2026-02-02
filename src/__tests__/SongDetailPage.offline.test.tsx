@@ -19,7 +19,8 @@ const mockSongDetail: SongDetail = {
   rank: 1,
   cdInfo: [],
   externalLinks: {
-    amazon: 'https://amazon.co.jp/example',
+    amazonMusic: 'https://music.amazon.co.jp/example',
+    amazonCD: 'https://amazon.co.jp/dp/example',
     appleMusic: 'https://music.apple.com/example',
   },
   artistSongs: [],
@@ -47,7 +48,8 @@ describe('SongDetailPage オフライン対応', () => {
 
     await screen.findByRole('heading', { level: 1, name: 'Bling-Bang-Bang-Born' })
     expect(screen.queryByText('外部リンク')).not.toBeInTheDocument()
-    expect(screen.queryByRole('link', { name: /Amazon/ })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Amazon Music' })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Amazon CD' })).not.toBeInTheDocument()
     expect(screen.queryByRole('link', { name: /Apple Music/ })).not.toBeInTheDocument()
   })
 
@@ -57,7 +59,8 @@ describe('SongDetailPage オフライン対応', () => {
     renderPage()
 
     expect(await screen.findByText('外部リンク')).toBeInTheDocument()
-    expect(screen.getByRole('link', { name: /Amazon/ })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Amazon Music' })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Amazon CD' })).toBeInTheDocument()
     expect(screen.getByRole('link', { name: /Apple Music/ })).toBeInTheDocument()
   })
 })

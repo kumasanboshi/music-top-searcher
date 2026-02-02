@@ -14,7 +14,8 @@ const mockSongDetail: SongDetail = {
     { title: 'Bling-Bang-Bang-Born', type: 'single', releaseDate: '2024-01-07' },
   ],
   externalLinks: {
-    amazon: 'https://amazon.co.jp/example',
+    amazonMusic: 'https://music.amazon.co.jp/example',
+    amazonCD: 'https://amazon.co.jp/dp/example',
     appleMusic: 'https://music.apple.com/example',
   },
   artistSongs: [

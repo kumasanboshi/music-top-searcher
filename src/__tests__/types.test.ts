@@ -60,16 +60,19 @@ describe('型定義', () => {
   describe('ExternalLinks', () => {
     it('空のリンクを許容する', () => {
       const links: ExternalLinks = {}
-      expect(links.amazon).toBeUndefined()
+      expect(links.amazonMusic).toBeUndefined()
+      expect(links.amazonCD).toBeUndefined()
       expect(links.appleMusic).toBeUndefined()
     })
 
     it('リンクを保持できる', () => {
       const links: ExternalLinks = {
-        amazon: 'https://amazon.co.jp/example',
+        amazonMusic: 'https://music.amazon.co.jp/example',
+        amazonCD: 'https://amazon.co.jp/dp/example',
         appleMusic: 'https://music.apple.com/example',
       }
-      expect(links.amazon).toBeDefined()
+      expect(links.amazonMusic).toBeDefined()
+      expect(links.amazonCD).toBeDefined()
       expect(links.appleMusic).toBeDefined()
     })
   })
@@ -95,7 +98,7 @@ describe('型定義', () => {
         artist: { id: 'a1', name: '米津玄師', nameEn: 'Kenshi Yonezu' },
         genre: 'jpop',
         cdInfo: { title: 'Lemon', type: 'single', releaseDate: '2018-03-14' },
-        externalLinks: { amazon: 'https://example.com' },
+        externalLinks: { amazonMusic: 'https://example.com' },
       }
       expect(song.cdInfo).toBeDefined()
       expect(song.externalLinks).toBeDefined()
