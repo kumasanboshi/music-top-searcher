@@ -53,6 +53,12 @@
   font-size: 0.9rem;
 }
 
+.entryYear {
+  color: #999;
+  font-size: 0.85rem;
+  margin-left: auto;
+}
+
 .loading {
   margin-top: 2rem;
 }
