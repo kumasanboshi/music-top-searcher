@@ -68,7 +68,11 @@ describe('SongDetailPage', () => {
 
     renderPage('jpop', 'jpop-2024-01')
 
-    expect(await screen.findByText(/2024年 1位/)).toBeInTheDocument()
+    // The ranking badge displays year and rank in separate spans
+    // Use findAllByText since "2024年" appears in both hero and artist songs
+    const yearElements = await screen.findAllByText('2024年')
+    expect(yearElements.length).toBeGreaterThan(0)
+    expect(screen.getByText('1位')).toBeInTheDocument()
   })
 
   it('CD情報を表示する', async () => {
@@ -154,7 +158,7 @@ describe('SongDetailPage', () => {
 
     renderPage('jpop', 'jpop-2024-01')
 
-    expect(screen.getByText('読み込み中...')).toBeInTheDocument()
+    expect(screen.getByText('曲情報を読み込み中...')).toBeInTheDocument()
   })
 
   it('YouTube検索リンクを表示する', async () => {

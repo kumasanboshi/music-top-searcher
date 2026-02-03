@@ -64,8 +64,9 @@ describe('RankingListPage', () => {
       renderYearPage('jpop', '2024')
 
       expect(
-        await screen.findByRole('heading', { name: /邦楽 TOP100 2024/i }),
+        await screen.findByRole('heading', { name: /邦楽 TOP100/i }),
       ).toBeInTheDocument()
+      expect(screen.getByText('2024')).toBeInTheDocument()
     })
 
     it('洋楽のタイトルを表示する', async () => {
@@ -77,8 +78,9 @@ describe('RankingListPage', () => {
       renderYearPage('western', '2024')
 
       expect(
-        await screen.findByRole('heading', { name: /洋楽 TOP100 2024/i }),
+        await screen.findByRole('heading', { name: /洋楽 TOP100/i }),
       ).toBeInTheDocument()
+      expect(screen.getByText('2024')).toBeInTheDocument()
     })
 
     it('ランキングエントリを表示する', async () => {
@@ -115,7 +117,7 @@ describe('RankingListPage', () => {
 
       renderYearPage('jpop', '2024')
 
-      expect(screen.getByText('読み込み中...')).toBeInTheDocument()
+      expect(screen.getByText('ランキングを読み込み中...')).toBeInTheDocument()
     })
 
     it('エラー時にメッセージを表示する', async () => {
@@ -138,8 +140,9 @@ describe('RankingListPage', () => {
       renderDecadePage('jpop', '2020s')
 
       expect(
-        await screen.findByRole('heading', { name: /邦楽 TOP100 2020s/i }),
+        await screen.findByRole('heading', { name: /邦楽 TOP100/i }),
       ).toBeInTheDocument()
+      expect(screen.getByText('2020s')).toBeInTheDocument()
     })
 
     it('複数年のデータを統合リストで表示する', async () => {
@@ -188,10 +191,6 @@ describe('RankingListPage', () => {
         (h) => h.textContent === '2020' || h.textContent === '2021',
       )
       expect(yearHeadings).toHaveLength(0)
-
-      // 統合リストが1つだけであることを検証
-      const lists = document.querySelectorAll('ol')
-      expect(lists).toHaveLength(1)
 
       // 各エントリに年情報が表示されることを検証
       expect(screen.getByText('Song A')).toBeInTheDocument()

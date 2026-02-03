@@ -1,4 +1,5 @@
 import { Link, useParams } from 'react-router-dom'
+import Card from '../components/Card/Card'
 import styles from './YearSelectPage.module.css'
 
 const GENRE_LABELS: Record<string, string> = {
@@ -24,33 +25,38 @@ function YearSelectPage() {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>{genreLabel} - 年を選択</h1>
+      <div className={styles.header}>
+        <h1 className={styles.title}>{genreLabel}</h1>
+        <p className={styles.subtitle}>年代または年を選択してください</p>
+      </div>
 
-      <section>
+      <section className={styles.section}>
         <h2 className={styles.sectionTitle}>年代別</h2>
-        <div className={styles.buttons}>
+        <div className={styles.decadeGrid}>
           {DECADES.map((decade) => (
             <Link
               key={decade.value}
               to={`/rankings/${genre}/decade/${decade.value}`}
-              className={styles.button}
+              className={styles.cardLink}
             >
-              {decade.label}
+              <Card variant="elevated" className={styles.decadeCard}>
+                <span className={styles.decadeLabel}>{decade.label}</span>
+              </Card>
             </Link>
           ))}
         </div>
       </section>
 
-      <section>
+      <section className={styles.section}>
         <h2 className={styles.sectionTitle}>年別</h2>
-        <div className={styles.buttons}>
+        <div className={styles.yearGrid}>
           {Array.from({ length: END_YEAR - START_YEAR + 1 }, (_, i) => {
             const year = START_YEAR + i
             return (
               <Link
                 key={year}
                 to={`/rankings/${genre}/${year}`}
-                className={styles.button}
+                className={styles.yearLink}
               >
                 {year}
               </Link>

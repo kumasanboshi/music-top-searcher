@@ -3,6 +3,8 @@ import { Link, useParams } from 'react-router-dom'
 import { fetchSongDetail } from '../services/songService'
 import { useOnlineStatus } from '../hooks/useOnlineStatus'
 import type { SongDetail } from '../types'
+import Card from '../components/Card/Card'
+import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
 import styles from './SongDetailPage.module.css'
 
 function SongDetailPage() {
@@ -36,7 +38,9 @@ function SongDetailPage() {
   if (loading) {
     return (
       <div className={styles.container}>
-        <p className={styles.loading}>読み込み中...</p>
+        <div className={styles.loadingWrapper}>
+          <LoadingSpinner text="曲情報を読み込み中..." />
+        </div>
       </div>
     )
   }
@@ -44,7 +48,9 @@ function SongDetailPage() {
   if (error || !detail) {
     return (
       <div className={styles.container}>
-        <p className={styles.error}>曲の詳細データが見つかりませんでした</p>
+        <Card variant="outlined" className={styles.errorCard}>
+          <p className={styles.error}>曲の詳細データが見つかりませんでした</p>
+        </Card>
       </div>
     )
   }
@@ -53,88 +59,103 @@ function SongDetailPage() {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.songTitle}>{song.title}</h1>
-      <p className={styles.artistName}>{song.artist.name}</p>
-      <p className={styles.rankingInfo}>{`${rankingYear}年 ${rank}位`}</p>
+      <div className={styles.hero}>
+        <h1 className={styles.songTitle}>{song.title}</h1>
+        <p className={styles.artistName}>{song.artist.name}</p>
+        <div className={styles.rankingBadge}>
+          <span className={styles.rankingYear}>{rankingYear}年</span>
+          <span className={styles.rankingRank}>{rank}位</span>
+        </div>
+      </div>
 
       {cdInfo && cdInfo.length > 0 && (
-        <div className={styles.section}>
+        <section className={styles.section}>
           <h2 className={styles.sectionTitle}>CD情報</h2>
-          {cdInfo.map((cd, i) => (
-            <div key={i} className={styles.cdItem}>
-              <span>{cd.title}</span> /{' '}
-              <span>{cd.type === 'album' ? 'アルバム' : 'シングル'}</span>
-              {cd.releaseDate && <span> ({cd.releaseDate})</span>}
-            </div>
-          ))}
-        </div>
+          <div className={styles.cdList}>
+            {cdInfo.map((cd, i) => (
+              <Card key={i} variant="outlined" className={styles.cdCard}>
+                <span className={styles.cdTitle}>{cd.title}</span>
+                <div className={styles.cdMeta}>
+                  <span className={styles.cdType}>
+                    {cd.type === 'album' ? 'アルバム' : 'シングル'}
+                  </span>
+                  {cd.releaseDate && (
+                    <span className={styles.cdDate}>{cd.releaseDate}</span>
+                  )}
+                </div>
+              </Card>
+            ))}
+          </div>
+        </section>
       )}
 
       {isOnline && (
-        <div className={styles.section}>
+        <section className={styles.section}>
           <h2 className={styles.sectionTitle}>外部リンク</h2>
-          <ul className={styles.linkList}>
+          <div className={styles.linkGrid}>
             {externalLinks?.amazonMusic && (
-              <li>
-                <a
-                  href={externalLinks.amazonMusic}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Amazon Music
-                </a>
-              </li>
-            )}
-            {externalLinks?.amazonCD && (
-              <li>
-                <a
-                  href={externalLinks.amazonCD}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Amazon CD
-                </a>
-              </li>
-            )}
-            {externalLinks?.appleMusic && (
-              <li>
-                <a
-                  href={externalLinks.appleMusic}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Apple Music
-                </a>
-              </li>
-            )}
-            <li>
               <a
-                href={`https://www.youtube.com/results?search_query=${encodeURIComponent(song.artist.name + ' ' + song.title)}`}
+                href={externalLinks.amazonMusic}
                 target="_blank"
                 rel="noopener noreferrer"
+                className={styles.externalLink}
               >
-                YouTube
+                Amazon Music
               </a>
-            </li>
-          </ul>
-        </div>
+            )}
+            {externalLinks?.amazonCD && (
+              <a
+                href={externalLinks.amazonCD}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.externalLink}
+              >
+                Amazon CD
+              </a>
+            )}
+            {externalLinks?.appleMusic && (
+              <a
+                href={externalLinks.appleMusic}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.externalLink}
+              >
+                Apple Music
+              </a>
+            )}
+            <a
+              href={`https://www.youtube.com/results?search_query=${encodeURIComponent(song.artist.name + ' ' + song.title)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.externalLink}
+            >
+              YouTube
+            </a>
+          </div>
+        </section>
       )}
 
       {artistSongs && artistSongs.length > 0 && (
-        <div className={styles.section}>
+        <section className={styles.section}>
           <h2 className={styles.sectionTitle}>同アーティストの他のランクイン曲</h2>
-          <ul className={styles.artistSongList}>
+          <div className={styles.artistSongList}>
             {artistSongs.map((entry) => (
-              <li key={entry.song.id} className={styles.artistSongItem}>
-                <Link to={`/songs/${entry.song.genre}/${entry.song.id}`}>
-                  {entry.song.title}
-                </Link>
-                {entry.year && <span>{entry.year}年</span>}
-                <span>{entry.rank}位</span>
-              </li>
+              <Link
+                key={entry.song.id}
+                to={`/songs/${entry.song.genre}/${entry.song.id}`}
+                className={styles.artistSongLink}
+              >
+                <Card variant="outlined" className={styles.artistSongCard}>
+                  <span className={styles.artistSongTitle}>{entry.song.title}</span>
+                  <div className={styles.artistSongMeta}>
+                    {entry.year && <span>{entry.year}年</span>}
+                    <span>{entry.rank}位</span>
+                  </div>
+                </Card>
+              </Link>
             ))}
-          </ul>
-        </div>
+          </div>
+        </section>
       )}
     </div>
   )
