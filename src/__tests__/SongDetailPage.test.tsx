@@ -20,7 +20,8 @@ const mockSongDetail: SongDetail = {
     { title: 'Creepy Nuts Best Album', type: 'album', releaseDate: '2024-03-15' },
   ],
   externalLinks: {
-    amazon: 'https://amazon.co.jp/example',
+    amazonMusic: 'https://music.amazon.co.jp/example',
+    amazonCD: 'https://amazon.co.jp/dp/example',
     appleMusic: 'https://music.apple.com/example',
   },
   artistSongs: [
@@ -91,13 +92,22 @@ describe('SongDetailPage', () => {
     expect(screen.getByText(/2024-03-15/)).toBeInTheDocument()
   })
 
-  it('Amazonリンクを表示する', async () => {
+  it('Amazon Musicリンクを表示する', async () => {
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
 
     renderPage('jpop', 'jpop-2024-01')
 
-    const link = await screen.findByRole('link', { name: /Amazon/ })
-    expect(link).toHaveAttribute('href', 'https://amazon.co.jp/example')
+    const link = await screen.findByRole('link', { name: 'Amazon Music' })
+    expect(link).toHaveAttribute('href', 'https://music.amazon.co.jp/example')
+  })
+
+  it('Amazon CDリンクを表示する', async () => {
+    vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
+
+    renderPage('jpop', 'jpop-2024-01')
+
+    const link = await screen.findByRole('link', { name: 'Amazon CD' })
+    expect(link).toHaveAttribute('href', 'https://amazon.co.jp/dp/example')
   })
 
   it('Apple Musicリンクを表示する', async () => {
@@ -124,7 +134,8 @@ describe('SongDetailPage', () => {
     renderPage('jpop', 'jpop-2024-01')
 
     await screen.findByRole('heading', { level: 1, name: 'Bling-Bang-Bang-Born' })
-    expect(screen.queryByRole('link', { name: /Amazon/ })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Amazon Music' })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Amazon CD' })).not.toBeInTheDocument()
     expect(screen.queryByRole('link', { name: /Apple Music/ })).not.toBeInTheDocument()
   })
 
@@ -167,7 +178,8 @@ describe('SongDetailPage', () => {
 
     const link = await screen.findByRole('link', { name: /YouTube/ })
     expect(link).toBeInTheDocument()
-    expect(screen.queryByRole('link', { name: /Amazon/ })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Amazon Music' })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: 'Amazon CD' })).not.toBeInTheDocument()
   })
 
   it('エラー時にメッセージを表示する', async () => {

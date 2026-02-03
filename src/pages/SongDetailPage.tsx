@@ -74,14 +74,25 @@ function SongDetailPage() {
         <div className={styles.section}>
           <h2 className={styles.sectionTitle}>外部リンク</h2>
           <ul className={styles.linkList}>
-            {externalLinks?.amazon && (
+            {externalLinks?.amazonMusic && (
               <li>
                 <a
-                  href={externalLinks.amazon}
+                  href={externalLinks.amazonMusic}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Amazon
+                  Amazon Music
+                </a>
+              </li>
+            )}
+            {externalLinks?.amazonCD && (
+              <li>
+                <a
+                  href={externalLinks.amazonCD}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Amazon CD
                 </a>
               </li>
             )}
