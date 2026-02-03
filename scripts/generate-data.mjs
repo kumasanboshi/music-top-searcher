@@ -98,7 +98,8 @@ for (const batchFile of batchFiles) {
             : []),
         ],
         externalLinks: {
-          amazon: 'https://amazon.co.jp/dp/example1',
+          amazonMusic: 'https://music.amazon.co.jp/albums/example1',
+          amazonCD: 'https://amazon.co.jp/dp/example1',
           appleMusic: 'https://music.apple.com/jp/album/example1',
         },
         artistSongs: [],
