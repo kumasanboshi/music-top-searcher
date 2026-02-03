@@ -1,5 +1,39 @@
 # 進捗記録
 
+## Issue #28: AmazonリンクをAmazon MusicとCD商品で分離する ✅
+
+### 実施内容
+
+- `src/types/index.ts` - `ExternalLinks` 型を変更（`amazon` → `amazonMusic` + `amazonCD`）
+- `src/pages/SongDetailPage.tsx` - Amazon MusicリンクとAmazon CDリンクを個別に表示
+- `src/__tests__/SongDetailPage.test.tsx` - テスト更新（Amazonリンクテストを2つに分離）
+- `src/__tests__/SongDetailPage.offline.test.tsx` - モックデータとアサーションを更新
+- `src/__tests__/types.test.ts` - ExternalLinksテストを更新
+- `src/__tests__/songService.test.ts` - モックデータを更新
+- `scripts/generate-data.mjs` - データ生成スクリプトを更新
+- 全楽曲データ（約10,000件）を新しい構造で再生成
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 93 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `632b230d` | test: Amazon Music/CDリンク分離のテストを追加 |
+| `f9e071ca` | feat: AmazonリンクをAmazon MusicとCD商品で分離 |
+| `76cf7ebf` | Merge pull request #32 |
+
+### 備考
+
+- Amazon Musicはストリーミングサービス、Amazon CDは物理CD購入ページを想定
+- 各リンクはオプショナルで、存在する場合のみ表示される
+
 ## Issue #27: YouTube検索リンクを追加する ✅
 
 ### 実施内容
