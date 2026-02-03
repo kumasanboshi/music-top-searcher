@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+# Claude Code local settings
+.claude/settings.local.json
+
+# Scratchpad (work files)
+scratchpad/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
