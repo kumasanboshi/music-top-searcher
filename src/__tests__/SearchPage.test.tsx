@@ -60,7 +60,7 @@ describe('SearchPage', () => {
     renderPage()
 
     expect(
-      await screen.findByPlaceholderText(/曲名・アーティスト名で検索/),
+      await screen.findByPlaceholderText(/検索キーワードを入力/),
     ).toBeInTheDocument()
   })
 
@@ -73,7 +73,7 @@ describe('SearchPage', () => {
       advanceTimers: vi.advanceTimersByTime,
     })
     const input = await screen.findByPlaceholderText(
-      /曲名・アーティスト名で検索/,
+      /検索キーワードを入力/,
     )
     await user.type(input, 'Bling')
     await act(() => {
@@ -92,7 +92,7 @@ describe('SearchPage', () => {
       advanceTimers: vi.advanceTimersByTime,
     })
     const input = await screen.findByPlaceholderText(
-      /曲名・アーティスト名で検索/,
+      /検索キーワードを入力/,
     )
     await user.type(input, 'Bling')
     await act(() => {
@@ -112,7 +112,7 @@ describe('SearchPage', () => {
       advanceTimers: vi.advanceTimersByTime,
     })
     const input = await screen.findByPlaceholderText(
-      /曲名・アーティスト名で検索/,
+      /検索キーワードを入力/,
     )
     await user.type(input, 'Bling')
     await act(() => {
@@ -134,7 +134,7 @@ describe('SearchPage', () => {
       advanceTimers: vi.advanceTimersByTime,
     })
     const input = await screen.findByPlaceholderText(
-      /曲名・アーティスト名で検索/,
+      /検索キーワードを入力/,
     )
     await user.type(input, 'zzzznotfound')
     await act(() => {
@@ -151,6 +151,6 @@ describe('SearchPage', () => {
 
     renderPage()
 
-    expect(screen.getByText('読み込み中...')).toBeInTheDocument()
+    expect(screen.getByText('曲データを読み込み中...')).toBeInTheDocument()
   })
 })

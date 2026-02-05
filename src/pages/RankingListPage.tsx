@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { fetchRankingByYear, fetchRankingsByDecade } from '../services/rankingService'
 import type { Genre, Ranking } from '../types'
+import Card from '../components/Card/Card'
+import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
 import styles from './RankingListPage.module.css'
 
 const GENRE_LABELS: Record<string, string> = {
@@ -55,7 +57,9 @@ function RankingListPage() {
   if (loading) {
     return (
       <div className={styles.container}>
-        <p className={styles.loading}>読み込み中...</p>
+        <div className={styles.loadingWrapper}>
+          <LoadingSpinner text="ランキングを読み込み中..." />
+        </div>
       </div>
     )
   }
@@ -63,40 +67,48 @@ function RankingListPage() {
   if (error) {
     return (
       <div className={styles.container}>
-        <p className={styles.error}>ランキングデータが見つかりませんでした</p>
+        <Card variant="outlined" className={styles.errorCard}>
+          <p className={styles.error}>ランキングデータが見つかりませんでした</p>
+        </Card>
       </div>
     )
   }
 
+  const entries = decade
+    ? rankings.flatMap((ranking) =>
+        ranking.entries.map((entry) => ({ ...entry, year: ranking.year }))
+      )
+    : rankings.flatMap((ranking) => ranking.entries)
+
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>
-        {genreLabel} TOP100 {titleSuffix}
-      </h1>
-      <ol className={styles.rankingList}>
-        {(decade
-          ? rankings.flatMap((ranking) =>
-              ranking.entries.map((entry) => ({ ...entry, year: ranking.year })),
-            )
-          : rankings.flatMap((ranking) => ranking.entries)
-        ).map((entry) => (
-          <li key={entry.song.id} className={styles.rankingItem}>
-            <span className={styles.rank}>{entry.rank}</span>
-            <Link
-              to={`/songs/${entry.song.genre}/${entry.song.id}`}
-              className={styles.songLink}
-            >
-              <span className={styles.songTitle}>{entry.song.title}</span>
-            </Link>
-            <span className={styles.artistName}>
-              {entry.song.artist.name}
-            </span>
-            {'year' in entry && (
-              <span className={styles.entryYear}>{entry.year}</span>
-            )}
-          </li>
+      <div className={styles.header}>
+        <h1 className={styles.title}>
+          {genreLabel} TOP100
+        </h1>
+        <span className={styles.period}>{titleSuffix}</span>
+      </div>
+
+      <div className={styles.rankingList}>
+        {entries.map((entry) => (
+          <Link
+            key={entry.song.id}
+            to={`/songs/${entry.song.genre}/${entry.song.id}`}
+            className={styles.rankingLink}
+          >
+            <Card variant="outlined" className={styles.rankingItem}>
+              <span className={styles.rank}>{entry.rank}</span>
+              <div className={styles.songInfo}>
+                <span className={styles.songTitle}>{entry.song.title}</span>
+                <span className={styles.artistName}>{entry.song.artist.name}</span>
+              </div>
+              {'year' in entry && (
+                <span className={styles.entryYear}>{entry.year}</span>
+              )}
+            </Card>
+          </Link>
         ))}
-      </ol>
+      </div>
     </div>
   )
 }

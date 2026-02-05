@@ -2,41 +2,99 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2rem;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+}
+
+.hero {
+  text-align: center;
+  padding: var(--spacing-2xl) 0;
 }
 
 .title {
-  margin-bottom: 2rem;
+  font-size: var(--font-size-3xl);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.subtitle {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
+}
+
+.genreSection {
+  width: 100%;
+  text-align: center;
+}
+
+.sectionTitle {
+  font-size: var(--font-size-xl);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-lg);
 }
 
 .genreButtons {
   display: flex;
-  gap: 1rem;
+  gap: var(--spacing-lg);
+  justify-content: center;
 }
 
-.genreButton {
-  display: inline-block;
-  padding: 1rem 2rem;
-  border: 2px solid #333;
-  border-radius: 8px;
+.genreLink {
   text-decoration: none;
-  color: #333;
-  font-size: 1.25rem;
-  font-weight: bold;
-  transition: background-color 0.2s;
 }
 
-.genreButton:hover {
-  background-color: #f0f0f0;
+.genreCard {
+  min-width: 150px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.genreLabel {
+  display: block;
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.genreDescription {
+  display: block;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
 }
 
 .searchLink {
-  margin-top: 2rem;
-  color: #1a73e8;
+  margin-top: var(--spacing-2xl);
+  color: var(--color-primary);
+  font-size: var(--font-size-lg);
   text-decoration: none;
-  font-size: 1.1rem;
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-md);
+  transition:
+    background-color var(--transition-fast),
+    color var(--transition-fast);
 }
 
 .searchLink:hover {
-  text-decoration: underline;
+  background-color: var(--color-primary-light);
+  color: var(--color-primary-hover);
+}
+
+@media (max-width: 767px) {
+  .hero {
+    padding: var(--spacing-xl) 0;
+  }
+
+  .title {
+    font-size: var(--font-size-2xl);
+  }
+
+  .genreButtons {
+    flex-direction: column;
+    gap: var(--spacing-md);
+  }
+
+  .genreCard {
+    min-width: 200px;
+  }
 }

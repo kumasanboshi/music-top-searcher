@@ -2,6 +2,8 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { fetchAllSongs, searchSongs } from '../services/searchService'
 import type { RankingEntry } from '../types'
+import Card from '../components/Card/Card'
+import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
 import styles from './SearchPage.module.css'
 
 function SearchPage() {
@@ -56,41 +58,55 @@ function SearchPage() {
   if (loading) {
     return (
       <div className={styles.container}>
-        <p className={styles.loading}>読み込み中...</p>
+        <div className={styles.loadingWrapper}>
+          <LoadingSpinner text="曲データを読み込み中..." />
+        </div>
       </div>
     )
   }
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>曲を検索</h1>
-      <input
-        className={styles.searchInput}
-        type="text"
-        placeholder="曲名・アーティスト名で検索"
-        value={query}
-        onChange={(e) => handleChange(e.target.value)}
-      />
+      <div className={styles.header}>
+        <h1 className={styles.title}>曲を検索</h1>
+        <p className={styles.subtitle}>曲名やアーティスト名で検索できます</p>
+      </div>
+
+      <div className={styles.searchBox}>
+        <input
+          className={styles.searchInput}
+          type="text"
+          placeholder="検索キーワードを入力..."
+          value={query}
+          onChange={(e) => handleChange(e.target.value)}
+        />
+      </div>
+
       {searched && results.length === 0 && (
-        <p className={styles.noResults}>該当する曲が見つかりませんでした</p>
+        <Card variant="outlined" className={styles.noResultsCard}>
+          <p className={styles.noResults}>該当する曲が見つかりませんでした</p>
+        </Card>
       )}
+
       {results.length > 0 && (
-        <ul className={styles.resultList}>
+        <div className={styles.resultList}>
+          <p className={styles.resultCount}>{results.length}件の結果</p>
           {results.map((entry) => (
-            <li key={entry.song.id} className={styles.resultItem}>
-              <span className={styles.rank}>{entry.rank}</span>
-              <Link
-                to={`/songs/${entry.song.genre}/${entry.song.id}`}
-                className={styles.songLink}
-              >
-                <span className={styles.songTitle}>{entry.song.title}</span>
-              </Link>
-              <span className={styles.artistName}>
-                {entry.song.artist.name}
-              </span>
-            </li>
+            <Link
+              key={entry.song.id}
+              to={`/songs/${entry.song.genre}/${entry.song.id}`}
+              className={styles.resultLink}
+            >
+              <Card variant="outlined" className={styles.resultItem}>
+                <span className={styles.rank}>{entry.rank}</span>
+                <div className={styles.songInfo}>
+                  <span className={styles.songTitle}>{entry.song.title}</span>
+                  <span className={styles.artistName}>{entry.song.artist.name}</span>
+                </div>
+              </Card>
+            </Link>
           ))}
-        </ul>
+        </div>
       )}
     </div>
   )

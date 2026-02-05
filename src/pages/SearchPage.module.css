@@ -1,73 +1,142 @@
 .container {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+}
+
+.loadingWrapper {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem;
+  justify-content: center;
+  padding: var(--spacing-2xl);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
 }
 
 .title {
-  margin-bottom: 1.5rem;
+  font-size: var(--font-size-2xl);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.subtitle {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+}
+
+.searchBox {
+  margin-bottom: var(--spacing-xl);
 }
 
 .searchInput {
   width: 100%;
-  max-width: 600px;
-  padding: 0.75rem 1rem;
-  font-size: 1rem;
-  border: 2px solid #ccc;
-  border-radius: 8px;
-  margin-bottom: 1.5rem;
+  padding: var(--spacing-md) var(--spacing-lg);
+  font-size: var(--font-size-lg);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  transition:
+    border-color var(--transition-fast),
+    box-shadow var(--transition-fast);
 }
 
 .searchInput:focus {
   outline: none;
-  border-color: #1a73e8;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--color-primary-light);
+}
+
+.searchInput::placeholder {
+  color: var(--color-text-muted);
+}
+
+.noResultsCard {
+  text-align: center;
+  padding: var(--spacing-xl);
 }
 
 .noResults {
-  color: #666;
-  margin-top: 1rem;
+  color: var(--color-text-secondary);
 }
 
 .resultList {
-  list-style: none;
-  padding: 0;
-  width: 100%;
-  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.resultCount {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-sm);
+}
+
+.resultLink {
+  text-decoration: none;
 }
 
 .resultItem {
   display: flex;
   align-items: center;
-  gap: 1rem;
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid #eee;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md) var(--spacing-lg);
+  transition:
+    border-color var(--transition-fast),
+    background-color var(--transition-fast);
+}
+
+.resultItem:hover {
+  border-color: var(--color-primary);
+  background-color: var(--color-primary-light);
 }
 
 .rank {
-  font-weight: bold;
-  min-width: 2rem;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary);
+  min-width: 3rem;
   text-align: right;
 }
 
-.songLink {
-  text-decoration: none;
-  color: #333;
-}
-
-.songLink:hover {
-  text-decoration: underline;
+.songInfo {
+  flex: 1;
+  min-width: 0;
 }
 
 .songTitle {
-  font-weight: bold;
+  display: block;
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .artistName {
-  color: #666;
-  font-size: 0.9rem;
+  display: block;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-xs);
 }
 
-.loading {
-  margin-top: 2rem;
+@media (max-width: 767px) {
+  .title {
+    font-size: var(--font-size-xl);
+  }
+
+  .searchInput {
+    padding: var(--spacing-sm) var(--spacing-md);
+    font-size: var(--font-size-base);
+  }
+
+  .resultItem {
+    padding: var(--spacing-sm) var(--spacing-md);
+  }
+
+  .rank {
+    font-size: var(--font-size-base);
+    min-width: 2.5rem;
+  }
 }
