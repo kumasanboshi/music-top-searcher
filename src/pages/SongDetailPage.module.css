@@ -45,6 +45,14 @@
   border-radius: var(--radius-full);
 }
 
+.container[data-genre='jpop'] .rankingBadge {
+  background-color: var(--color-genre-jpop-bg);
+}
+
+.container[data-genre='western'] .rankingBadge {
+  background-color: var(--color-genre-western-bg);
+}
+
 .rankingYear {
   color: var(--color-text-secondary);
   font-weight: var(--font-weight-medium);
@@ -53,6 +61,14 @@
 .rankingRank {
   color: var(--color-primary);
   font-weight: var(--font-weight-bold);
+}
+
+.container[data-genre='jpop'] .rankingRank {
+  color: var(--color-genre-jpop);
+}
+
+.container[data-genre='western'] .rankingRank {
+  color: var(--color-genre-western);
 }
 
 .section {
@@ -126,6 +142,24 @@
   color: var(--color-primary-hover);
 }
 
+.container[data-genre='jpop'] .externalLink {
+  color: var(--color-genre-jpop);
+}
+
+.container[data-genre='jpop'] .externalLink:hover {
+  background-color: var(--color-genre-jpop-bg);
+  color: var(--color-genre-jpop-hover);
+}
+
+.container[data-genre='western'] .externalLink {
+  color: var(--color-genre-western);
+}
+
+.container[data-genre='western'] .externalLink:hover {
+  background-color: var(--color-genre-western-bg);
+  color: var(--color-genre-western-hover);
+}
+
 .artistSongList {
   display: flex;
   flex-direction: column;
@@ -149,6 +183,16 @@
 .artistSongCard:hover {
   border-color: var(--color-primary);
   background-color: var(--color-primary-light);
+}
+
+.container[data-genre='jpop'] .artistSongCard:hover {
+  border-color: var(--color-genre-jpop);
+  background-color: var(--color-genre-jpop-bg);
+}
+
+.container[data-genre='western'] .artistSongCard:hover {
+  border-color: var(--color-genre-western);
+  background-color: var(--color-genre-western-bg);
 }
 
 .artistSongTitle {

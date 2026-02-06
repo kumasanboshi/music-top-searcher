@@ -1,14 +1,20 @@
-import type { ReactNode } from 'react'
+import type { ComponentPropsWithoutRef, ReactNode } from 'react'
 import styles from './Card.module.css'
 
-interface CardProps {
+interface CardProps extends Omit<ComponentPropsWithoutRef<'div'>, 'className'> {
   children: ReactNode
   variant?: 'default' | 'elevated' | 'outlined'
   padding?: 'sm' | 'md' | 'lg'
   className?: string
 }
 
-function Card({ children, variant = 'default', padding = 'md', className = '' }: CardProps) {
+function Card({
+  children,
+  variant = 'default',
+  padding = 'md',
+  className = '',
+  ...rest
+}: CardProps) {
   const paddingClass = {
     sm: styles.paddingSm,
     md: styles.paddingMd,
@@ -22,7 +28,7 @@ function Card({ children, variant = 'default', padding = 'md', className = '' }:
   }[variant]
 
   return (
-    <div className={`${styles.card} ${variantClass} ${paddingClass} ${className}`}>
+    <div className={`${styles.card} ${variantClass} ${paddingClass} ${className}`} {...rest}>
       {children}
     </div>
   )

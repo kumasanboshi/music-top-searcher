@@ -49,6 +49,32 @@
   cursor: pointer;
 }
 
+.genreCard[data-genre='jpop'] {
+  border: 1px solid var(--color-genre-jpop-border);
+  background-color: var(--color-genre-jpop-bg);
+}
+
+.genreCard[data-genre='jpop']:hover {
+  border-color: var(--color-genre-jpop);
+}
+
+.genreCard[data-genre='jpop'] .genreLabel {
+  color: var(--color-genre-jpop);
+}
+
+.genreCard[data-genre='western'] {
+  border: 1px solid var(--color-genre-western-border);
+  background-color: var(--color-genre-western-bg);
+}
+
+.genreCard[data-genre='western']:hover {
+  border-color: var(--color-genre-western);
+}
+
+.genreCard[data-genre='western'] .genreLabel {
+  color: var(--color-genre-western);
+}
+
 .genreLabel {
   display: block;
   font-size: var(--font-size-2xl);

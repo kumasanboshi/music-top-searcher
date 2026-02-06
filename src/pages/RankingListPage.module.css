@@ -63,12 +63,30 @@
   background-color: var(--color-primary-light);
 }
 
+.container[data-genre='jpop'] .rankingItem:hover {
+  border-color: var(--color-genre-jpop);
+  background-color: var(--color-genre-jpop-bg);
+}
+
+.container[data-genre='western'] .rankingItem:hover {
+  border-color: var(--color-genre-western);
+  background-color: var(--color-genre-western-bg);
+}
+
 .rank {
   font-size: var(--font-size-lg);
   font-weight: var(--font-weight-bold);
   color: var(--color-primary);
   min-width: 3rem;
   text-align: right;
+}
+
+.container[data-genre='jpop'] .rank {
+  color: var(--color-genre-jpop);
+}
+
+.container[data-genre='western'] .rank {
+  color: var(--color-genre-western);
 }
 
 .songInfo {

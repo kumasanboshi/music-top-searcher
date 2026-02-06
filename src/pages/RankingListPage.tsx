@@ -81,7 +81,7 @@ function RankingListPage() {
     : rankings.flatMap((ranking) => ranking.entries)
 
   return (
-    <div className={styles.container}>
+    <div className={styles.container} data-genre={genre}>
       <div className={styles.header}>
         <h1 className={styles.title}>
           {genreLabel} TOP100
