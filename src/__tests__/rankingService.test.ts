@@ -51,6 +51,73 @@ describe('rankingService', () => {
 
       expect(result).toBeNull()
     })
+
+    describe('100件制限', () => {
+      const createMockEntries = (count: number) =>
+        Array.from({ length: count }, (_, i) => ({
+          rank: i + 1,
+          song: {
+            id: `s${i + 1}`,
+            title: `Song ${i + 1}`,
+            artist: { id: `a${i + 1}`, name: `Artist ${i + 1}` },
+            genre: 'jpop' as const,
+          },
+        }))
+
+      it('取得したランキングが100件を超える場合、100件に制限する', async () => {
+        const mockRankingWith150 = {
+          year: 2024,
+          genre: 'jpop',
+          entries: createMockEntries(150),
+        }
+        vi.spyOn(globalThis, 'fetch').mockResolvedValue(
+          new Response(JSON.stringify(mockRankingWith150), { status: 200 }),
+        )
+
+        const result = await fetchRankingByYear(2024, 'jpop')
+
+        expect(result).not.toBeNull()
+        expect(result!.entries).toHaveLength(100)
+      })
+
+      it('取得したランキングが100件以下の場合、そのまま返す', async () => {
+        const mockRankingWith50 = {
+          year: 2024,
+          genre: 'jpop',
+          entries: createMockEntries(50),
+        }
+        vi.spyOn(globalThis, 'fetch').mockResolvedValue(
+          new Response(JSON.stringify(mockRankingWith50), { status: 200 }),
+        )
+
+        const result = await fetchRankingByYear(2024, 'jpop')
+
+        expect(result).not.toBeNull()
+        expect(result!.entries).toHaveLength(50)
+      })
+
+      it('100件に制限する際、rank順（昇順）で先頭100件を取得する', async () => {
+        // シャッフルされた150件のエントリを作成
+        const shuffledEntries = createMockEntries(150).sort(() => Math.random() - 0.5)
+        const mockRankingShuffled = {
+          year: 2024,
+          genre: 'jpop',
+          entries: shuffledEntries,
+        }
+        vi.spyOn(globalThis, 'fetch').mockResolvedValue(
+          new Response(JSON.stringify(mockRankingShuffled), { status: 200 }),
+        )
+
+        const result = await fetchRankingByYear(2024, 'jpop')
+
+        expect(result).not.toBeNull()
+        expect(result!.entries).toHaveLength(100)
+        // rank 1-100 のエントリのみが含まれていることを検証
+        const ranks = result!.entries.map((e) => e.rank).sort((a, b) => a - b)
+        expect(ranks[0]).toBe(1)
+        expect(ranks[99]).toBe(100)
+      })
+    })
   })
 
   describe('fetchRankingsByDecade', () => {
