@@ -523,3 +523,147 @@
 
 - 11〜100位の楽曲データはシード付き乱数で生成したタイトル（テンプレート+単語の組み合わせ）
 - アーティストは年代別に実在のアーティストプールから選択
+
+## Issue #42: フッターの実装 ✅
+
+### 実施内容
+
+- `src/components/Footer/Footer.tsx`: フッターコンポーネント（著作権表示、ページリンク4つ）
+- `src/components/Footer/Footer.module.css`: レスポンシブ対応スタイル
+- `src/components/Footer/Footer.test.tsx`: 8つのテストケース
+- `src/components/Layout/Layout.tsx`: フッターを全ページ共通で表示
+- `src/components/Layout/Layout.test.tsx`: フッター統合テスト追加
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 135 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `3183579a` | test: フッターコンポーネントのテストを追加 |
+| `0e249fcf` | feat: フッターコンポーネントを実装 |
+
+### 備考
+
+- フッターリンク先（About, プライバシーポリシー, 利用規約, お問い合わせ）は別Issueで実装
+
+## Issue #38: Aboutページの作成 ✅
+
+### 実施内容
+
+- `src/pages/AboutPage.tsx`: Aboutページ（サイト概要、データソース説明、免責事項）
+- `src/pages/AboutPage.module.css`: スタイル
+- `src/__tests__/AboutPage.test.tsx`: 5つのテストケース
+- `src/App.tsx`: `/about` ルート追加
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 140 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `cd091a05` | test: Aboutページのテストを追加 |
+| `52709d16` | feat: Aboutページを実装 |
+
+## Issue #39: プライバシーポリシーページの作成 ✅
+
+### 実施内容
+
+- `src/pages/PrivacyPolicyPage.tsx`: プライバシーポリシーページ
+  - 収集する情報（Cookie、アクセスログ、利用状況データ）
+  - 情報の利用目的
+  - 第三者への提供（広告配信事業者）
+  - Cookieの管理
+  - プライバシーポリシーの変更
+  - お問い合わせ
+- `src/pages/PrivacyPolicyPage.module.css`: スタイル
+- `src/__tests__/PrivacyPolicyPage.test.tsx`: 6つのテストケース
+- `src/App.tsx`: `/privacy` ルート追加
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 146 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `d639a8db` | test: プライバシーポリシーページのテストを追加 |
+| `9e6e6820` | feat: プライバシーポリシーページを実装 |
+
+## Issue #40: 利用規約ページの作成 ✅
+
+### 実施内容
+
+- `src/pages/TermsPage.tsx`: 利用規約ページ
+  - サービスの利用条件
+  - 禁止事項
+  - 免責事項
+  - 著作権
+  - 規約の変更
+- `src/pages/TermsPage.module.css`: スタイル
+- `src/__tests__/TermsPage.test.tsx`: 7つのテストケース
+- `src/App.tsx`: `/terms` ルート追加
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 153 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `208e2c15` | test: 利用規約ページのテストを追加 |
+| `c4dc5cdf` | feat: 利用規約ページを実装 |
+
+## Issue #41: 404エラーページの作成 ✅
+
+### 実施内容
+
+- `src/pages/NotFoundPage.tsx`: 404エラーページ
+  - 404エラーコード（大きなフォント）
+  - ユーザーフレンドリーなエラーメッセージ
+  - トップページへのリンク（プライマリボタン）
+  - 検索ページへのリンク
+- `src/pages/NotFoundPage.module.css`: スタイル
+- `src/__tests__/NotFoundPage.test.tsx`: 5つのテストケース
+- `src/App.tsx`: catch-allルート（`*`）追加
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 158 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `417126f9` | test: 404エラーページのテストを追加 |
+| `3b4af707` | feat: 404エラーページを実装 |
+
+### 備考
+
+- React Routerのcatch-allルート（`*`）を使用して未定義パスをキャッチ
