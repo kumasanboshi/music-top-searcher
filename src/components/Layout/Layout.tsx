@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react'
 import { Link } from 'react-router-dom'
+import Footer from '../Footer/Footer'
 import styles from './Layout.module.css'
 
 interface LayoutProps {
@@ -28,6 +29,8 @@ function Layout({ children }: LayoutProps) {
           <div className={styles.adPlaceholder}>広告枠</div>
         </aside>
       </div>
+
+      <Footer />
     </div>
   )
 }

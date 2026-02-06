@@ -63,4 +63,15 @@ describe('Layout', () => {
     expect(screen.getByRole('main')).toBeInTheDocument()
     expect(screen.getAllByRole('complementary')).toHaveLength(2)
   })
+
+  it('renders footer with copyright', () => {
+    renderWithRouter(
+      <Layout>
+        <div>Content</div>
+      </Layout>
+    )
+
+    expect(screen.getByRole('contentinfo')).toBeInTheDocument()
+    expect(screen.getByText(/© 2025 Music Top Searcher/)).toBeInTheDocument()
+  })
 })
