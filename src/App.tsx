@@ -7,6 +7,7 @@ import RankingListPage from './pages/RankingListPage'
 import SongDetailPage from './pages/SongDetailPage'
 import SearchPage from './pages/SearchPage'
 import AboutPage from './pages/AboutPage'
+import PrivacyPolicyPage from './pages/PrivacyPolicyPage'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path="/songs/:genre/:songId" element={<SongDetailPage />} />
           <Route path="/search" element={<SearchPage />} />
           <Route path="/about" element={<AboutPage />} />
+          <Route path="/privacy" element={<PrivacyPolicyPage />} />
         </Routes>
       </Layout>
     </BrowserRouter>

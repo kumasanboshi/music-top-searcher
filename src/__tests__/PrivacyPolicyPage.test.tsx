@@ -23,7 +23,7 @@ describe('PrivacyPolicyPage', () => {
       renderWithRouter(<PrivacyPolicyPage />)
 
       expect(screen.getByRole('heading', { name: /収集する情報/ })).toBeInTheDocument()
-      expect(screen.getByText(/Cookie/)).toBeInTheDocument()
+      expect(screen.getByText(/Cookie情報/)).toBeInTheDocument()
     })
   })
 
@@ -40,7 +40,7 @@ describe('PrivacyPolicyPage', () => {
       renderWithRouter(<PrivacyPolicyPage />)
 
       expect(screen.getByRole('heading', { name: /第三者への提供/ })).toBeInTheDocument()
-      expect(screen.getByText(/広告配信/)).toBeInTheDocument()
+      expect(screen.getAllByText(/広告配信事業者/).length).toBeGreaterThan(0)
     })
   })
 
