@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1980-15",
-    "title": "Chasing Storm",
+    "title": "Running Summer",
     "artist": {
-      "id": "a-springsteen",
-      "name": "Bruce Springsteen"
+      "id": "a-tina-turner",
+      "name": "Tina Turner"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 15,
   "cdInfo": [
     {
-      "title": "Chasing Storm",
+      "title": "Running Summer",
       "type": "single",
-      "releaseDate": "1980-12-28"
+      "releaseDate": "1980-05-09"
     },
     {
-      "title": "Thunder Stories",
+      "title": "Storm Collection",
       "type": "album",
-      "releaseDate": "1980-03-01"
+      "releaseDate": "1980-01-09"
     }
   ],
   "externalLinks": {
@@ -29,26 +29,39 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 13,
       "song": {
-        "id": "west-1989-14",
-        "title": "Never Gold",
+        "id": "west-1989-13",
+        "title": "Fading Moon",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 23,
+      "rank": 25,
       "song": {
-        "id": "west-1989-23",
-        "title": "Snow Tears",
+        "id": "west-1989-25",
+        "title": "Sun Love",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1989-26",
+        "title": "Wind Dreams",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -58,62 +71,23 @@
       "rank": 38,
       "song": {
         "id": "west-1989-38",
-        "title": "Thunder Rain",
+        "title": "Fading Thunder",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 53,
+      "rank": 57,
       "song": {
-        "id": "west-1989-53",
-        "title": "Shining Sky",
+        "id": "west-1989-57",
+        "title": "River Night",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1989-60",
-        "title": "Midnight Silver",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1989-73",
-        "title": "Never Snow",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1989-79",
-        "title": "Golden Gold",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -123,244 +97,127 @@
       "rank": 81,
       "song": {
         "id": "west-1989-81",
-        "title": "Fire Forever",
+        "title": "Summer Moonlight",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1989
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1989-83",
+        "title": "Bridge Tears",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1989-91",
+        "title": "Dawn Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1988-21",
+        "title": "Shining Diamond",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1988-34",
+        "title": "Chasing Light",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1988-91",
+        "title": "Mountain Forever",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1988-95",
+        "title": "Star Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1988
     },
     {
       "rank": 93,
       "song": {
-        "id": "west-1989-93",
-        "title": "Midnight Storm",
+        "id": "west-1987-93",
+        "title": "Road Sky",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1988-17",
-        "title": "Falling Sun",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1988-33",
-        "title": "Fading Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1988-38",
-        "title": "Midnight Silver",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1988-52",
-        "title": "Diamond Lights",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1988-56",
-        "title": "Bridge Love",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1988-57",
-        "title": "Under the Wind",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1988-64",
-        "title": "Sweet Mountain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1987-13",
-        "title": "Fading Shadow",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 36,
+      "rank": 12,
       "song": {
-        "id": "west-1987-36",
-        "title": "Sun Soul",
+        "id": "west-1986-12",
+        "title": "Lost in Sky",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1987-47",
-        "title": "Into the Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1987-70",
-        "title": "Dusk Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1986-16",
-        "title": "Falling Bridge",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 31,
+      "rank": 37,
       "song": {
-        "id": "west-1986-31",
-        "title": "Snow Soul",
+        "id": "west-1986-37",
+        "title": "Rose Love",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1986-44",
-        "title": "Wild Dawn",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1986-51",
-        "title": "Broken Rose",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1986-56",
-        "title": "Into the Star",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1986-57",
-        "title": "Running Shadow",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -370,218 +227,296 @@
       "rank": 85,
       "song": {
         "id": "west-1986-85",
-        "title": "Sweet Rain",
+        "title": "Golden Crystal",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
+      "rank": 94,
+      "song": {
+        "id": "west-1986-94",
+        "title": "Moon Rain",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1985-27",
+        "title": "Chasing Sun",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1985-58",
+        "title": "Sweet Flame",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1985-63",
+        "title": "Electric Storm",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1985-69",
+        "title": "Dancing Wave",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1985-95",
+        "title": "Shining Flame",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1984-02",
+        "title": "What's Love Got to Do with It",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
       "rank": 11,
       "song": {
-        "id": "west-1985-11",
-        "title": "Lost in Fire",
+        "id": "west-1984-11",
+        "title": "Wild Ocean",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
-      "year": 1985
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1985-12",
-        "title": "Chasing Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1985-22",
-        "title": "Golden Moon",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1985-26",
-        "title": "Midnight Light",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1985-57",
-        "title": "Shadow Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1985-89",
-        "title": "Rain Sky",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
+      "year": 1984
     },
     {
       "rank": 14,
       "song": {
         "id": "west-1984-14",
-        "title": "Shining Rain",
+        "title": "City Rain",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 53,
+      "rank": 17,
       "song": {
-        "id": "west-1984-53",
-        "title": "Shining City",
+        "id": "west-1984-17",
+        "title": "Broken Dawn",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 54,
+      "rank": 33,
       "song": {
-        "id": "west-1984-54",
-        "title": "Last Ocean",
+        "id": "west-1984-33",
+        "title": "Rose Heart",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 63,
+      "rank": 34,
       "song": {
-        "id": "west-1984-63",
-        "title": "Wave Moonlight",
+        "id": "west-1984-34",
+        "title": "Thunder Fire",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 80,
+      "rank": 42,
       "song": {
-        "id": "west-1984-80",
-        "title": "Fading Dawn",
+        "id": "west-1984-42",
+        "title": "Wind Fire",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 86,
+      "rank": 46,
       "song": {
-        "id": "west-1984-86",
-        "title": "Fading Star",
+        "id": "west-1984-46",
+        "title": "Rain Fire",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 97,
+      "rank": 57,
       "song": {
-        "id": "west-1984-97",
-        "title": "Rain Moonlight",
+        "id": "west-1984-57",
+        "title": "Ocean Heart",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 23,
+      "rank": 58,
       "song": {
-        "id": "west-1983-23",
-        "title": "Chasing Storm",
+        "id": "west-1984-58",
+        "title": "Into the Road",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1984-61",
+        "title": "Fire Moonlight",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1984-73",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1984-82",
+        "title": "Falling Wind",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1983-12",
+        "title": "Crystal Forever",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 28,
+      "rank": 38,
       "song": {
-        "id": "west-1983-28",
-        "title": "Shadow Rain",
+        "id": "west-1983-38",
+        "title": "Snow Night",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 48,
+      "rank": 43,
       "song": {
-        "id": "west-1983-48",
-        "title": "Lost in Bridge",
+        "id": "west-1983-43",
+        "title": "Diamond Fire",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
@@ -591,270 +526,179 @@
       "rank": 49,
       "song": {
         "id": "west-1983-49",
-        "title": "Snow Dreams",
+        "title": "Ice Love",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 78,
+      "rank": 50,
       "song": {
-        "id": "west-1983-78",
-        "title": "Sweet Fire",
+        "id": "west-1983-50",
+        "title": "Light Forever",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 16,
+      "rank": 67,
       "song": {
-        "id": "west-1982-16",
-        "title": "Moon Forever",
+        "id": "west-1983-67",
+        "title": "Midnight Bridge",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1983-74",
+        "title": "River Way",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1982-20",
+        "title": "Golden Gold",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 19,
+      "rank": 43,
       "song": {
-        "id": "west-1982-19",
-        "title": "Wind Lights",
+        "id": "west-1982-43",
+        "title": "Wind Fire",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 54,
+      "rank": 75,
       "song": {
-        "id": "west-1982-54",
-        "title": "Bridge Night",
+        "id": "west-1982-75",
+        "title": "Broken Storm",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1982
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1982-71",
-        "title": "Dusk Lights",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1982-82",
-        "title": "Golden Diamond",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1982-85",
-        "title": "Rain Way",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1982-94",
-        "title": "Lost in Summer",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1982-99",
-        "title": "Sun Night",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1981-24",
-        "title": "Lost in Rose",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1981-53",
-        "title": "Fading Mountain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1981-64",
-        "title": "Summer Love",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1981
     },
     {
       "rank": 21,
       "song": {
-        "id": "west-1980-21",
-        "title": "Crystal Soul",
+        "id": "west-1981-21",
+        "title": "Gold Way",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1981-37",
+        "title": "Into the Flame",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1981-40",
+        "title": "Shining Crystal",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1981-58",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1981-93",
+        "title": "Crystal Dreams",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1980-18",
+        "title": "Last Crystal",
+        "artist": {
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 23,
+      "rank": 68,
       "song": {
-        "id": "west-1980-23",
-        "title": "Fire Lights",
+        "id": "west-1980-68",
+        "title": "Under the Dusk",
         "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1980-35",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1980-41",
-        "title": "Broken Sun",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1980-55",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1980-64",
-        "title": "Bridge Fire",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1980-69",
-        "title": "Lost in Ocean",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1980-94",
-        "title": "Broken Moon",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
+          "id": "a-tina-turner",
+          "name": "Tina Turner"
         },
         "genre": "western"
       },

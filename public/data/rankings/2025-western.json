@@ -138,10 +138,10 @@
       "rank": 12,
       "song": {
         "id": "west-2025-12",
-        "title": "Road Rain",
+        "title": "Broken Dusk",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-morgan-wallen",
+          "name": "Morgan Wallen"
         },
         "genre": "western"
       }
@@ -150,10 +150,10 @@
       "rank": 13,
       "song": {
         "id": "west-2025-13",
-        "title": "Never Thunder",
+        "title": "Shining Fire",
         "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       }
@@ -162,10 +162,10 @@
       "rank": 14,
       "song": {
         "id": "west-2025-14",
-        "title": "Dawn Heart",
+        "title": "Broken Storm",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-morgan-wallen",
+          "name": "Morgan Wallen"
         },
         "genre": "western"
       }
@@ -174,10 +174,10 @@
       "rank": 15,
       "song": {
         "id": "west-2025-15",
-        "title": "Running Star",
+        "title": "Under the City",
         "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
+          "id": "a-weeknd",
+          "name": "The Weeknd"
         },
         "genre": "western"
       }
@@ -186,54 +186,6 @@
       "rank": 16,
       "song": {
         "id": "west-2025-16",
-        "title": "City Tears",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2025-17",
-        "title": "City Night",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2025-18",
-        "title": "Dancing Rose",
-        "artist": {
-          "id": "a-benson",
-          "name": "Benson Boone"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2025-19",
-        "title": "Midnight Summer",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2025-20",
         "title": "Running Sun",
         "artist": {
           "id": "a-dua-lipa",
@@ -243,105 +195,57 @@
       }
     },
     {
+      "rank": 17,
+      "song": {
+        "id": "west-2025-17",
+        "title": "Lost in Wind",
+        "artist": {
+          "id": "a-dua-lipa",
+          "name": "Dua Lipa"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2025-18",
+        "title": "Broken Silver",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-2025-19",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2025-20",
+        "title": "Electric Snow",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 21,
       "song": {
         "id": "west-2025-21",
-        "title": "Rose Sky",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-2025-22",
-        "title": "Ocean Forever",
-        "artist": {
-          "id": "a-morgan-wallen",
-          "name": "Morgan Wallen"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2025-23",
-        "title": "Sky Lights",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2025-24",
-        "title": "City Way",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-2025-25",
-        "title": "Rose Forever",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2025-26",
-        "title": "Wild Summer",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2025-27",
-        "title": "Thunder Tears",
-        "artist": {
-          "id": "a-miley",
-          "name": "Miley Cyrus"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2025-28",
-        "title": "Star Soul",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2025-29",
         "title": "Sky Heart",
         "artist": {
           "id": "a-miley",
@@ -351,994 +255,10 @@
       }
     },
     {
-      "rank": 30,
-      "song": {
-        "id": "west-2025-30",
-        "title": "Star Forever",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2025-31",
-        "title": "Silver Rain",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-2025-32",
-        "title": "Broken Fire",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2025-33",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2025-34",
-        "title": "Fading Bridge",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2025-35",
-        "title": "Chasing Bridge",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2025-36",
-        "title": "Under the Dawn",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2025-37",
-        "title": "Snow Sky",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2025-38",
-        "title": "Running Storm",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2025-39",
-        "title": "Lost in Ice",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2025-40",
-        "title": "Summer Love",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2025-41",
-        "title": "Chasing Gold",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2025-42",
-        "title": "Shining Silver",
-        "artist": {
-          "id": "a-miley",
-          "name": "Miley Cyrus"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2025-43",
-        "title": "Winter Fire",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2025-44",
-        "title": "Moon Sky",
-        "artist": {
-          "id": "a-benson",
-          "name": "Benson Boone"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2025-45",
-        "title": "Dawn Night",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2025-46",
-        "title": "Dawn Fire",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2025-47",
-        "title": "Crystal Rain",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2025-48",
-        "title": "Under the Gold",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2025-49",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2025-50",
-        "title": "Rain Rain",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2025-51",
-        "title": "Running Wind",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2025-52",
-        "title": "Last Crystal",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2025-53",
-        "title": "Running Snow",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2025-54",
-        "title": "Golden Light",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2025-55",
-        "title": "Flame Love",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2025-56",
-        "title": "Ocean Night",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-2025-57",
-        "title": "Golden Snow",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2025-58",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2025-59",
-        "title": "Last Diamond",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2025-60",
-        "title": "Shining Sky",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2025-61",
-        "title": "Wild Gold",
-        "artist": {
-          "id": "a-miley",
-          "name": "Miley Cyrus"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2025-62",
-        "title": "Wave Fire",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2025-63",
-        "title": "Golden Thunder",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-2025-64",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2025-65",
-        "title": "Light Sky",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2025-66",
-        "title": "River Heart",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2025-67",
-        "title": "Chasing Rose",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-2025-68",
-        "title": "Broken City",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-2025-69",
-        "title": "Golden Fire",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2025-70",
-        "title": "Running Rose",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2025-71",
-        "title": "Flame Moonlight",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2025-72",
-        "title": "Electric Flame",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2025-73",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2025-74",
-        "title": "Chasing Ice",
-        "artist": {
-          "id": "a-benson",
-          "name": "Benson Boone"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2025-75",
-        "title": "Star Love",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2025-76",
-        "title": "Wild Light",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-2025-77",
-        "title": "Wind Dreams",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2025-78",
-        "title": "Snow Heart",
-        "artist": {
-          "id": "a-morgan-wallen",
-          "name": "Morgan Wallen"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-2025-79",
-        "title": "Silver Dreams",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2025-80",
-        "title": "Star Tears",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-2025-81",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2025-82",
-        "title": "Moon Soul",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2025-83",
-        "title": "Dusk Soul",
-        "artist": {
-          "id": "a-miley",
-          "name": "Miley Cyrus"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2025-84",
-        "title": "Bridge Moonlight",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2025-85",
-        "title": "Chasing Storm",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2025-86",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2025-87",
-        "title": "Lost in Mountain",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-2025-88",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2025-89",
-        "title": "Sun Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2025-90",
-        "title": "Road Soul",
-        "artist": {
-          "id": "a-benson",
-          "name": "Benson Boone"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2025-91",
-        "title": "Fire Dreams",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2025-92",
-        "title": "Sweet Rose",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2025-93",
-        "title": "River Night",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2025-94",
-        "title": "Electric Wind",
-        "artist": {
-          "id": "a-morgan-wallen",
-          "name": "Morgan Wallen"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2025-95",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-morgan-wallen",
-          "name": "Morgan Wallen"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-2025-96",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2025-97",
-        "title": "Sky Soul",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2025-98",
-        "title": "Sweet Wind",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2025-99",
-        "title": "Thunder Love",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-2025-100",
-        "title": "Snow Rain",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-2025-11",
-        "title": "Lost in Road",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2025-12",
-        "title": "Electric Gold",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2025-13",
-        "title": "Rose Rain",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-2025-14",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2025-15",
-        "title": "Running Flame",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2025-16",
-        "title": "Under the Storm",
-        "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2025-17",
-        "title": "Golden Bridge",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2025-18",
-        "title": "Under the Rose",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2025-19",
-        "title": "Road Moonlight",
-        "artist": {
-          "id": "a-miley",
-          "name": "Miley Cyrus"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2025-20",
-        "title": "Midnight Diamond",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2025-21",
-        "title": "Lost in Summer",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
       "rank": 22,
       "song": {
         "id": "west-2025-22",
-        "title": "Under the Thunder",
+        "title": "Broken Wave",
         "artist": {
           "id": "a-miley",
           "name": "Miley Cyrus"
@@ -1350,7 +270,7 @@
       "rank": 23,
       "song": {
         "id": "west-2025-23",
-        "title": "Sweet Star",
+        "title": "Falling Sun",
         "artist": {
           "id": "a-taylor",
           "name": "Taylor Swift"
@@ -1362,10 +282,10 @@
       "rank": 24,
       "song": {
         "id": "west-2025-24",
-        "title": "Crystal Moonlight",
+        "title": "Wind Lights",
         "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
         },
         "genre": "western"
       }
@@ -1374,10 +294,10 @@
       "rank": 25,
       "song": {
         "id": "west-2025-25",
-        "title": "Falling Moon",
+        "title": "Falling Ocean",
         "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       }
@@ -1386,7 +306,7 @@
       "rank": 26,
       "song": {
         "id": "west-2025-26",
-        "title": "Silver Lights",
+        "title": "Running Storm",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -1398,10 +318,10 @@
       "rank": 27,
       "song": {
         "id": "west-2025-27",
-        "title": "Lost in Star",
+        "title": "Light Sky",
         "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
+          "id": "a-weeknd",
+          "name": "The Weeknd"
         },
         "genre": "western"
       }
@@ -1410,43 +330,7 @@
       "rank": 28,
       "song": {
         "id": "west-2025-28",
-        "title": "Golden Rose",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2025-29",
-        "title": "Crystal Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2025-30",
-        "title": "Shadow Sky",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2025-31",
-        "title": "Into the Gold",
+        "title": "Silver Lights",
         "artist": {
           "id": "a-bad-bunny",
           "name": "Bad Bunny"
@@ -1455,46 +339,10 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 29,
       "song": {
-        "id": "west-2025-32",
-        "title": "Golden Moon",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2025-33",
-        "title": "Chasing Fire",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2025-34",
-        "title": "Dusk Lights",
-        "artist": {
-          "id": "a-latto",
-          "name": "Latto"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2025-35",
-        "title": "Golden Shadow",
+        "id": "west-2025-29",
+        "title": "Winter Fire",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -1503,94 +351,10 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 30,
       "song": {
-        "id": "west-2025-36",
-        "title": "Ocean Lights",
-        "artist": {
-          "id": "a-benson",
-          "name": "Benson Boone"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2025-37",
-        "title": "Diamond Forever",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2025-38",
-        "title": "Broken Wave",
-        "artist": {
-          "id": "a-miley",
-          "name": "Miley Cyrus"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2025-39",
-        "title": "Dawn Sky",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2025-40",
-        "title": "Golden Winter",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-2025-41",
-        "title": "Last Thunder",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-2025-42",
-        "title": "Never Diamond",
-        "artist": {
-          "id": "a-morgan-wallen",
-          "name": "Morgan Wallen"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2025-43",
-        "title": "City Moonlight",
+        "id": "west-2025-30",
+        "title": "Into the Ocean",
         "artist": {
           "id": "a-harry-styles",
           "name": "Harry Styles"
@@ -1599,9 +363,213 @@
       }
     },
     {
+      "rank": 31,
+      "song": {
+        "id": "west-2025-31",
+        "title": "Chasing Dusk",
+        "artist": {
+          "id": "a-jack-harlow",
+          "name": "Jack Harlow"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2025-32",
+        "title": "Electric Gold",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-2025-33",
+        "title": "Wave Moonlight",
+        "artist": {
+          "id": "a-jack-harlow",
+          "name": "Jack Harlow"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2025-34",
+        "title": "Winter Rain",
+        "artist": {
+          "id": "a-weeknd",
+          "name": "The Weeknd"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2025-35",
+        "title": "Dancing Wave",
+        "artist": {
+          "id": "a-benson",
+          "name": "Benson Boone"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2025-36",
+        "title": "Wild Star",
+        "artist": {
+          "id": "a-weeknd",
+          "name": "The Weeknd"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2025-37",
+        "title": "Golden Snow",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-2025-38",
+        "title": "Falling Winter",
+        "artist": {
+          "id": "a-dua-lipa",
+          "name": "Dua Lipa"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-2025-39",
+        "title": "Wild Gold",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-2025-40",
+        "title": "Into the Fire",
+        "artist": {
+          "id": "a-billie",
+          "name": "Billie Eilish"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2025-41",
+        "title": "Ice Soul",
+        "artist": {
+          "id": "a-billie",
+          "name": "Billie Eilish"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-2025-42",
+        "title": "Shadow Night",
+        "artist": {
+          "id": "a-miley",
+          "name": "Miley Cyrus"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-2025-43",
+        "title": "Running Star",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 44,
       "song": {
         "id": "west-2025-44",
+        "title": "Running Rose",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2025-45",
+        "title": "Thunder Love",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-2025-46",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-taylor",
+          "name": "Taylor Swift"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2025-47",
+        "title": "City Moonlight",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2025-48",
         "title": "Rose Dreams",
         "artist": {
           "id": "a-benson",
@@ -1611,9 +579,9 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 49,
       "song": {
-        "id": "west-2025-45",
+        "id": "west-2025-49",
         "title": "Rain Moonlight",
         "artist": {
           "id": "a-olivia",
@@ -1623,61 +591,13 @@
       }
     },
     {
-      "rank": 46,
-      "song": {
-        "id": "west-2025-46",
-        "title": "Storm Love",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2025-47",
-        "title": "Running River",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-2025-48",
-        "title": "Fading Silver",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2025-49",
-        "title": "Sweet Thunder",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
       "rank": 50,
       "song": {
         "id": "west-2025-50",
-        "title": "Dusk Moonlight",
+        "title": "Star Tears",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-jack-harlow",
+          "name": "Jack Harlow"
         },
         "genre": "western"
       }
@@ -1686,10 +606,10 @@
       "rank": 51,
       "song": {
         "id": "west-2025-51",
-        "title": "Rain Tears",
+        "title": "Under the Crystal",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
         },
         "genre": "western"
       }
@@ -1698,10 +618,10 @@
       "rank": 52,
       "song": {
         "id": "west-2025-52",
-        "title": "Silver Forever",
+        "title": "Dawn Sky",
         "artist": {
-          "id": "a-morgan-wallen",
-          "name": "Morgan Wallen"
+          "id": "a-latto",
+          "name": "Latto"
         },
         "genre": "western"
       }
@@ -1710,10 +630,10 @@
       "rank": 53,
       "song": {
         "id": "west-2025-53",
-        "title": "Crystal Way",
+        "title": "Shining Dusk",
         "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
+          "id": "a-miley",
+          "name": "Miley Cyrus"
         },
         "genre": "western"
       }
@@ -1722,10 +642,10 @@
       "rank": 54,
       "song": {
         "id": "west-2025-54",
-        "title": "Lost in Silver",
+        "title": "Fading Winter",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-latto",
+          "name": "Latto"
         },
         "genre": "western"
       }
@@ -1734,10 +654,10 @@
       "rank": 55,
       "song": {
         "id": "west-2025-55",
-        "title": "Winter Heart",
+        "title": "Last Rain",
         "artist": {
-          "id": "a-benson",
-          "name": "Benson Boone"
+          "id": "a-weeknd",
+          "name": "The Weeknd"
         },
         "genre": "western"
       }
@@ -1746,10 +666,10 @@
       "rank": 56,
       "song": {
         "id": "west-2025-56",
-        "title": "Chasing Silver",
+        "title": "Rain Lights",
         "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
         },
         "genre": "western"
       }
@@ -1758,10 +678,10 @@
       "rank": 57,
       "song": {
         "id": "west-2025-57",
-        "title": "Broken Moon",
+        "title": "Light Night",
         "artist": {
-          "id": "a-sza",
-          "name": "SZA"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       }
@@ -1770,10 +690,10 @@
       "rank": 58,
       "song": {
         "id": "west-2025-58",
-        "title": "Shining City",
+        "title": "River Night",
         "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
+          "id": "a-morgan-wallen",
+          "name": "Morgan Wallen"
         },
         "genre": "western"
       }
@@ -1782,7 +702,7 @@
       "rank": 59,
       "song": {
         "id": "west-2025-59",
-        "title": "Running Silver",
+        "title": "Wave Rain",
         "artist": {
           "id": "a-jack-harlow",
           "name": "Jack Harlow"
@@ -1794,10 +714,10 @@
       "rank": 60,
       "song": {
         "id": "west-2025-60",
-        "title": "Electric Light",
+        "title": "Midnight Wave",
         "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
+          "id": "a-billie",
+          "name": "Billie Eilish"
         },
         "genre": "western"
       }
@@ -1806,10 +726,10 @@
       "rank": 61,
       "song": {
         "id": "west-2025-61",
-        "title": "Bridge Rain",
+        "title": "Dancing Gold",
         "artist": {
-          "id": "a-morgan-wallen",
-          "name": "Morgan Wallen"
+          "id": "a-jack-harlow",
+          "name": "Jack Harlow"
         },
         "genre": "western"
       }
@@ -1818,7 +738,7 @@
       "rank": 62,
       "song": {
         "id": "west-2025-62",
-        "title": "Last Gold",
+        "title": "Fading Road",
         "artist": {
           "id": "a-billie",
           "name": "Billie Eilish"
@@ -1830,10 +750,10 @@
       "rank": 63,
       "song": {
         "id": "west-2025-63",
-        "title": "Fading River",
+        "title": "Fading City",
         "artist": {
-          "id": "a-sza",
-          "name": "SZA"
+          "id": "a-harry-styles",
+          "name": "Harry Styles"
         },
         "genre": "western"
       }
@@ -1842,10 +762,10 @@
       "rank": 64,
       "song": {
         "id": "west-2025-64",
-        "title": "Rose Heart",
+        "title": "Chasing Thunder",
         "artist": {
-          "id": "a-sza",
-          "name": "SZA"
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
         },
         "genre": "western"
       }
@@ -1854,19 +774,7 @@
       "rank": 65,
       "song": {
         "id": "west-2025-65",
-        "title": "Star Night",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-2025-66",
-        "title": "Chasing Winter",
+        "title": "Into the Sky",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -1875,13 +783,25 @@
       }
     },
     {
+      "rank": 66,
+      "song": {
+        "id": "west-2025-66",
+        "title": "Sweet Thunder",
+        "artist": {
+          "id": "a-miley",
+          "name": "Miley Cyrus"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 67,
       "song": {
         "id": "west-2025-67",
-        "title": "Never Wave",
+        "title": "Midnight River",
         "artist": {
-          "id": "a-sza",
-          "name": "SZA"
+          "id": "a-harry-styles",
+          "name": "Harry Styles"
         },
         "genre": "western"
       }
@@ -1890,10 +810,10 @@
       "rank": 68,
       "song": {
         "id": "west-2025-68",
-        "title": "Rain Heart",
+        "title": "Thunder Moonlight",
         "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
+          "id": "a-taylor",
+          "name": "Taylor Swift"
         },
         "genre": "western"
       }
@@ -1902,10 +822,10 @@
       "rank": 69,
       "song": {
         "id": "west-2025-69",
-        "title": "Sweet Light",
+        "title": "Chasing Flame",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-miley",
+          "name": "Miley Cyrus"
         },
         "genre": "western"
       }
@@ -1914,10 +834,10 @@
       "rank": 70,
       "song": {
         "id": "west-2025-70",
-        "title": "Lost in Fire",
+        "title": "Falling Shadow",
         "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
         },
         "genre": "western"
       }
@@ -1926,7 +846,7 @@
       "rank": 71,
       "song": {
         "id": "west-2025-71",
-        "title": "Fading Diamond",
+        "title": "Midnight Snow",
         "artist": {
           "id": "a-harry-styles",
           "name": "Harry Styles"
@@ -1938,43 +858,7 @@
       "rank": 72,
       "song": {
         "id": "west-2025-72",
-        "title": "Mountain Forever",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2025-73",
-        "title": "Wild Sky",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2025-74",
-        "title": "River Moonlight",
-        "artist": {
-          "id": "a-miley",
-          "name": "Miley Cyrus"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2025-75",
-        "title": "Storm Moonlight",
+        "title": "Road Lights",
         "artist": {
           "id": "a-sza",
           "name": "SZA"
@@ -1983,22 +867,46 @@
       }
     },
     {
-      "rank": 76,
+      "rank": 73,
       "song": {
-        "id": "west-2025-76",
-        "title": "Under the Diamond",
+        "id": "west-2025-73",
+        "title": "Golden Fire",
         "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
+          "id": "a-benson",
+          "name": "Benson Boone"
         },
         "genre": "western"
       }
     },
     {
-      "rank": 77,
+      "rank": 74,
       "song": {
-        "id": "west-2025-77",
-        "title": "Chasing Sky",
+        "id": "west-2025-74",
+        "title": "Storm Lights",
+        "artist": {
+          "id": "a-weeknd",
+          "name": "The Weeknd"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2025-75",
+        "title": "Golden Light",
+        "artist": {
+          "id": "a-morgan-wallen",
+          "name": "Morgan Wallen"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2025-76",
+        "title": "Shining Flame",
         "artist": {
           "id": "a-miley",
           "name": "Miley Cyrus"
@@ -2007,13 +915,25 @@
       }
     },
     {
+      "rank": 77,
+      "song": {
+        "id": "west-2025-77",
+        "title": "Lost in Crystal",
+        "artist": {
+          "id": "a-harry-styles",
+          "name": "Harry Styles"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 78,
       "song": {
         "id": "west-2025-78",
-        "title": "Rain Lights",
+        "title": "Midnight Flame",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-benson",
+          "name": "Benson Boone"
         },
         "genre": "western"
       }
@@ -2022,10 +942,10 @@
       "rank": 79,
       "song": {
         "id": "west-2025-79",
-        "title": "Running Thunder",
+        "title": "Into the Snow",
         "artist": {
-          "id": "a-bad-bunny",
-          "name": "Bad Bunny"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       }
@@ -2034,7 +954,7 @@
       "rank": 80,
       "song": {
         "id": "west-2025-80",
-        "title": "Shining Bridge",
+        "title": "Snow Rain",
         "artist": {
           "id": "a-doja-cat",
           "name": "Doja Cat"
@@ -2046,67 +966,7 @@
       "rank": 81,
       "song": {
         "id": "west-2025-81",
-        "title": "Wind Way",
-        "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2025-82",
-        "title": "Fire Tears",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2025-83",
-        "title": "Thunder Sky",
-        "artist": {
-          "id": "a-sza",
-          "name": "SZA"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2025-84",
-        "title": "Bridge Way",
-        "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2025-85",
-        "title": "Light Way",
-        "artist": {
-          "id": "a-harry-styles",
-          "name": "Harry Styles"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2025-86",
-        "title": "Running Rain",
+        "title": "Storm Fire",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -2115,10 +975,58 @@
       }
     },
     {
-      "rank": 87,
+      "rank": 82,
       "song": {
-        "id": "west-2025-87",
-        "title": "Last City",
+        "id": "west-2025-82",
+        "title": "Flame Rain",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-2025-83",
+        "title": "Under the Ice",
+        "artist": {
+          "id": "a-benson",
+          "name": "Benson Boone"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2025-84",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-sza",
+          "name": "SZA"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2025-85",
+        "title": "Diamond Fire",
+        "artist": {
+          "id": "a-doja-cat",
+          "name": "Doja Cat"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-2025-86",
+        "title": "Bridge Fire",
         "artist": {
           "id": "a-billie",
           "name": "Billie Eilish"
@@ -2127,46 +1035,10 @@
       }
     },
     {
-      "rank": 88,
+      "rank": 87,
       "song": {
-        "id": "west-2025-88",
-        "title": "Shadow Way",
-        "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2025-89",
-        "title": "Electric Sky",
-        "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2025-90",
-        "title": "Thunder Heart",
-        "artist": {
-          "id": "a-taylor",
-          "name": "Taylor Swift"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2025-91",
-        "title": "Into the Ocean",
+        "id": "west-2025-87",
+        "title": "Golden Road",
         "artist": {
           "id": "a-weeknd",
           "name": "The Weeknd"
@@ -2175,10 +1047,58 @@
       }
     },
     {
+      "rank": 88,
+      "song": {
+        "id": "west-2025-88",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-benson",
+          "name": "Benson Boone"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2025-89",
+        "title": "Into the Mountain",
+        "artist": {
+          "id": "a-morgan-wallen",
+          "name": "Morgan Wallen"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2025-90",
+        "title": "Lost in Silver",
+        "artist": {
+          "id": "a-miley",
+          "name": "Miley Cyrus"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2025-91",
+        "title": "Midnight Storm",
+        "artist": {
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 92,
       "song": {
         "id": "west-2025-92",
-        "title": "Bridge Forever",
+        "title": "Electric Mountain",
         "artist": {
           "id": "a-dua-lipa",
           "name": "Dua Lipa"
@@ -2190,10 +1110,10 @@
       "rank": 93,
       "song": {
         "id": "west-2025-93",
-        "title": "Shining Dusk",
+        "title": "Thunder Fire",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-morgan-wallen",
+          "name": "Morgan Wallen"
         },
         "genre": "western"
       }
@@ -2202,10 +1122,10 @@
       "rank": 94,
       "song": {
         "id": "west-2025-94",
-        "title": "Never Flame",
+        "title": "Dancing Dawn",
         "artist": {
-          "id": "a-doja-cat",
-          "name": "Doja Cat"
+          "id": "a-bad-bunny",
+          "name": "Bad Bunny"
         },
         "genre": "western"
       }
@@ -2214,10 +1134,10 @@
       "rank": 95,
       "song": {
         "id": "west-2025-95",
-        "title": "City Forever",
+        "title": "Fading Sun",
         "artist": {
-          "id": "a-latto",
-          "name": "Latto"
+          "id": "a-harry-styles",
+          "name": "Harry Styles"
         },
         "genre": "western"
       }
@@ -2226,10 +1146,10 @@
       "rank": 96,
       "song": {
         "id": "west-2025-96",
-        "title": "Electric Ocean",
+        "title": "Storm Soul",
         "artist": {
-          "id": "a-dua-lipa",
-          "name": "Dua Lipa"
+          "id": "a-sza",
+          "name": "SZA"
         },
         "genre": "western"
       }
@@ -2238,7 +1158,7 @@
       "rank": 97,
       "song": {
         "id": "west-2025-97",
-        "title": "Shining Shadow",
+        "title": "Running Snow",
         "artist": {
           "id": "a-latto",
           "name": "Latto"
@@ -2250,10 +1170,10 @@
       "rank": 98,
       "song": {
         "id": "west-2025-98",
-        "title": "Last Sun",
+        "title": "Chasing Sun",
         "artist": {
-          "id": "a-weeknd",
-          "name": "The Weeknd"
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
         },
         "genre": "western"
       }
@@ -2262,10 +1182,10 @@
       "rank": 99,
       "song": {
         "id": "west-2025-99",
-        "title": "Shining Rain",
+        "title": "Bridge Moonlight",
         "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
+          "id": "a-jack-harlow",
+          "name": "Jack Harlow"
         },
         "genre": "western"
       }
@@ -2274,10 +1194,10 @@
       "rank": 100,
       "song": {
         "id": "west-2025-100",
-        "title": "Rose Lights",
+        "title": "Running Thunder",
         "artist": {
-          "id": "a-jack-harlow",
-          "name": "Jack Harlow"
+          "id": "a-benson",
+          "name": "Benson Boone"
         },
         "genre": "western"
       }

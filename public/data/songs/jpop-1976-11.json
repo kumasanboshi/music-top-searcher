@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-1976-11",
-    "title": "街メロディ",
+    "title": "記憶の光",
     "artist": {
       "id": "a-alice",
       "name": "アリス"
@@ -12,14 +12,14 @@
   "rank": 11,
   "cdInfo": [
     {
-      "title": "街メロディ",
+      "title": "記憶の光",
       "type": "single",
-      "releaseDate": "1976-02-10"
+      "releaseDate": "1976-06-21"
     },
     {
-      "title": "記憶アルバム",
+      "title": "波の旅",
       "type": "album",
-      "releaseDate": "1976-12-11"
+      "releaseDate": "1976-02-10"
     }
   ],
   "externalLinks": {
@@ -29,9 +29,22 @@
   },
   "artistSongs": [
     {
-      "rank": 31,
+      "rank": 25,
       "song": {
-        "id": "jpop-1979-31",
+        "id": "jpop-1979-25",
+        "title": "夢のリズム",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-1979-33",
         "title": "恋の雪",
         "artist": {
           "id": "a-alice",
@@ -42,10 +55,10 @@
       "year": 1979
     },
     {
-      "rank": 36,
+      "rank": 75,
       "song": {
-        "id": "jpop-1979-36",
-        "title": "雪ストーリー",
+        "id": "jpop-1979-75",
+        "title": "空の歌",
         "artist": {
           "id": "a-alice",
           "name": "アリス"
@@ -55,10 +68,10 @@
       "year": 1979
     },
     {
-      "rank": 40,
+      "rank": 82,
       "song": {
-        "id": "jpop-1979-40",
-        "title": "風の冬",
+        "id": "jpop-1979-82",
+        "title": "太陽の街",
         "artist": {
           "id": "a-alice",
           "name": "アリス"
@@ -68,10 +81,10 @@
       "year": 1979
     },
     {
-      "rank": 56,
+      "rank": 96,
       "song": {
-        "id": "jpop-1979-56",
-        "title": "街の季節",
+        "id": "jpop-1979-96",
+        "title": "風の星",
         "artist": {
           "id": "a-alice",
           "name": "アリス"
@@ -79,324 +92,233 @@
         "genre": "jpop"
       },
       "year": 1979
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1979-61",
-        "title": "海の記憶",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1979-86",
-        "title": "ミッドナイト愛",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1979-88",
-        "title": "花の歌",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1978-35",
-        "title": "森フォーエバー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-1978-40",
-        "title": "桜のリズム",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1978-81",
-        "title": "夏の光",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1978-91",
-        "title": "君の星",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1978-95",
-        "title": "最後の夜",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1978-98",
-        "title": "光のかけら",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1977-13",
-        "title": "ミッドナイト夏",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1977-15",
-        "title": "夢の歌",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1977-66",
-        "title": "愛の道",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1977-79",
-        "title": "君の空",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1977-94",
-        "title": "太陽の歌",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
     },
     {
       "rank": 24,
       "song": {
-        "id": "jpop-1976-24",
-        "title": "月の道",
+        "id": "jpop-1978-24",
+        "title": "涙の影",
         "artist": {
           "id": "a-alice",
           "name": "アリス"
         },
         "genre": "jpop"
       },
-      "year": 1976
+      "year": 1978
     },
     {
-      "rank": 37,
+      "rank": 36,
       "song": {
-        "id": "jpop-1976-37",
-        "title": "君の夜",
+        "id": "jpop-1978-36",
+        "title": "最後の波",
         "artist": {
           "id": "a-alice",
           "name": "アリス"
         },
         "genre": "jpop"
       },
-      "year": 1976
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1976-45",
-        "title": "旅のかけら",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1975-14",
-        "title": "冬ストーリー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1975-15",
-        "title": "風サンセット",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1975-17",
-        "title": "永遠の光",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1975-20",
-        "title": "青い未来",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1975-21",
-        "title": "桜のリズム",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1975-33",
-        "title": "希望サンセット",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1975-41",
-        "title": "星の愛",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
+      "year": 1978
     },
     {
       "rank": 51,
       "song": {
-        "id": "jpop-1975-51",
-        "title": "未来ストーリー",
+        "id": "jpop-1978-51",
+        "title": "森の花",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1978-58",
+        "title": "ミッドナイト世界",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1978-90",
+        "title": "最後の時間",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1977-34",
+        "title": "ミッドナイト世界",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-1977-44",
+        "title": "雪サンセット",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1977-47",
+        "title": "真夜中の朝",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1977-71",
+        "title": "影の季節",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1977-73",
+        "title": "星の月",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1977-75",
+        "title": "街サンセット",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1977-78",
+        "title": "風の夢",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1977-81",
+        "title": "空の季節",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1976-49",
+        "title": "青い約束",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-1976-55",
+        "title": "最後の夢",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1976-58",
+        "title": "最後の夏",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-1976-61",
+        "title": "光の街",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "jpop-1975-12",
+        "title": "桜ストーリー",
         "artist": {
           "id": "a-alice",
           "name": "アリス"
@@ -406,10 +328,10 @@
       "year": 1975
     },
     {
-      "rank": 62,
+      "rank": 34,
       "song": {
-        "id": "jpop-1975-62",
-        "title": "花の海",
+        "id": "jpop-1975-34",
+        "title": "旅の夜",
         "artist": {
           "id": "a-alice",
           "name": "アリス"
@@ -419,10 +341,23 @@
       "year": 1975
     },
     {
-      "rank": 64,
+      "rank": 38,
       "song": {
-        "id": "jpop-1975-64",
-        "title": "時間の光",
+        "id": "jpop-1975-38",
+        "title": "最後の月",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1975-63",
+        "title": "最後の愛",
         "artist": {
           "id": "a-alice",
           "name": "アリス"

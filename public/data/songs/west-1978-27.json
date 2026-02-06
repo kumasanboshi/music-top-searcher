@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-27",
-    "title": "Wild Sun",
+    "title": "Moon Night",
     "artist": {
-      "id": "a-fleetwood-mac",
-      "name": "Fleetwood Mac"
+      "id": "a-stevie-wonder",
+      "name": "Stevie Wonder"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 27,
   "cdInfo": [
     {
-      "title": "Wild Sun",
+      "title": "Moon Night",
       "type": "single",
-      "releaseDate": "1978-12-11"
+      "releaseDate": "1978-09-20"
     },
     {
-      "title": "Light Diaries",
+      "title": "Rain Stories",
       "type": "album",
-      "releaseDate": "1978-01-26"
+      "releaseDate": "1978-12-13"
     }
   ],
   "externalLinks": {
@@ -29,117 +29,156 @@
   },
   "artistSongs": [
     {
-      "rank": 18,
+      "rank": 12,
       "song": {
-        "id": "west-1979-18",
-        "title": "Star Soul",
+        "id": "west-1979-12",
+        "title": "Last Light",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1979-33",
-        "title": "Last Fire",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1979-45",
-        "title": "Wild Ocean",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1979-62",
-        "title": "Wind Way",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1979-66",
-        "title": "Chasing Rose",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1978-18",
-        "title": "Electric River",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1978-21",
-        "title": "Into the Wind",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 36,
       "song": {
-        "id": "west-1978-36",
-        "title": "Into the Rose",
+        "id": "west-1979-36",
+        "title": "Falling Thunder",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1979-37",
+        "title": "Wave Lights",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1979-46",
+        "title": "Rose Rain",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1979-51",
+        "title": "Golden Storm",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1979-57",
+        "title": "Rain Moonlight",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1979-70",
+        "title": "Light Moonlight",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1979-71",
+        "title": "Wind Fire",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1979-78",
+        "title": "Silver Dreams",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1979-93",
+        "title": "Wild Star",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1978-13",
+        "title": "Broken Bridge",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 50,
+      "rank": 55,
       "song": {
-        "id": "west-1978-50",
-        "title": "Star Fire",
+        "id": "west-1978-55",
+        "title": "Star Dreams",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
@@ -149,62 +188,88 @@
       "rank": 59,
       "song": {
         "id": "west-1978-59",
-        "title": "Wind Heart",
+        "title": "Broken Sky",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 81,
+      "rank": 66,
       "song": {
-        "id": "west-1978-81",
-        "title": "Running Sun",
+        "id": "west-1978-66",
+        "title": "Summer Lights",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 8,
+      "rank": 69,
       "song": {
-        "id": "west-1977-08",
-        "title": "Dreams",
+        "id": "west-1978-69",
+        "title": "Chasing Rose",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
-      "year": 1977
+      "year": 1978
     },
     {
-      "rank": 15,
+      "rank": 90,
       "song": {
-        "id": "west-1977-15",
-        "title": "Midnight Ice",
+        "id": "west-1978-90",
+        "title": "Fading Rose",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
-      "year": 1977
+      "year": 1978
     },
     {
-      "rank": 39,
+      "rank": 95,
       "song": {
-        "id": "west-1977-39",
-        "title": "Falling Thunder",
+        "id": "west-1978-95",
+        "title": "Light Lights",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1978-96",
+        "title": "Shining Gold",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-1977-07",
+        "title": "I Wish",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
@@ -214,192 +279,244 @@
       "rank": 61,
       "song": {
         "id": "west-1977-61",
-        "title": "City Fire",
+        "title": "Thunder Way",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1977
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1977-69",
-        "title": "Electric Sun",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1976-18",
-        "title": "Sun Night",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1976-21",
-        "title": "Star Moonlight",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
     },
     {
       "rank": 22,
       "song": {
         "id": "west-1976-22",
-        "title": "Light Heart",
+        "title": "Summer Dreams",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 34,
+      "rank": 28,
       "song": {
-        "id": "west-1976-34",
-        "title": "Fire Heart",
+        "id": "west-1976-28",
+        "title": "Fire Lights",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 35,
+      "rank": 61,
       "song": {
-        "id": "west-1976-35",
-        "title": "Into the City",
+        "id": "west-1976-61",
+        "title": "Running Crystal",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 48,
+      "rank": 66,
       "song": {
-        "id": "west-1976-48",
-        "title": "Gold Way",
+        "id": "west-1976-66",
+        "title": "Falling Flame",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 67,
+      "rank": 75,
       "song": {
-        "id": "west-1976-67",
-        "title": "Shining Summer",
+        "id": "west-1976-75",
+        "title": "Running Road",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 85,
+      "rank": 80,
       "song": {
-        "id": "west-1976-85",
-        "title": "Light Forever",
+        "id": "west-1976-80",
+        "title": "Wild Summer",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 12,
+      "rank": 91,
       "song": {
-        "id": "west-1975-12",
-        "title": "Golden Star",
+        "id": "west-1976-91",
+        "title": "Broken Star",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1976-100",
+        "title": "Shining Fire",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1975-15",
+        "title": "Chasing Wind",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 74,
+      "rank": 16,
       "song": {
-        "id": "west-1975-74",
-        "title": "Under the Wind",
+        "id": "west-1975-16",
+        "title": "Into the Rain",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 81,
+      "rank": 19,
       "song": {
-        "id": "west-1975-81",
-        "title": "River Love",
+        "id": "west-1975-19",
+        "title": "Wind Dreams",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 84,
+      "rank": 25,
       "song": {
-        "id": "west-1975-84",
-        "title": "Shadow Moonlight",
+        "id": "west-1975-25",
+        "title": "Fading Rose",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 99,
+      "rank": 30,
       "song": {
-        "id": "west-1975-99",
-        "title": "Broken Diamond",
+        "id": "west-1975-30",
+        "title": "Light Lights",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1975-31",
+        "title": "Summer Lights",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1975-49",
+        "title": "City Sky",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1975-51",
+        "title": "Falling Road",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1975-60",
+        "title": "Golden Moon",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1975-73",
+        "title": "Storm Moonlight",
+        "artist": {
+          "id": "a-stevie-wonder",
+          "name": "Stevie Wonder"
         },
         "genre": "western"
       },

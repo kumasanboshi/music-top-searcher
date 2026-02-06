@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1983-98",
-    "title": "Sweet City",
+    "title": "Fire Night",
     "artist": {
-      "id": "a-bon-jovi",
-      "name": "Bon Jovi"
+      "id": "a-duran-duran",
+      "name": "Duran Duran"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 98,
   "cdInfo": [
     {
-      "title": "Sweet City",
+      "title": "Fire Night",
       "type": "single",
-      "releaseDate": "1983-03-20"
+      "releaseDate": "1983-11-20"
     },
     {
-      "title": "Fire Sessions",
+      "title": "Summer Collection",
       "type": "album",
-      "releaseDate": "1983-05-19"
+      "releaseDate": "1983-06-01"
     }
   ],
   "externalLinks": {
@@ -29,845 +29,611 @@
   },
   "artistSongs": [
     {
+      "rank": 48,
+      "song": {
+        "id": "west-1989-48",
+        "title": "Falling Crystal",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1989-53",
+        "title": "Moon Night",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1989-87",
+        "title": "Shadow Tears",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1988-33",
+        "title": "Dusk Heart",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1988-57",
+        "title": "Ice Moonlight",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1988-63",
+        "title": "Running Silver",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
       "rank": 12,
       "song": {
-        "id": "west-1989-12",
-        "title": "Fading Light",
+        "id": "west-1987-12",
+        "title": "Electric Bridge",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
-      "year": 1989
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1989-15",
-        "title": "Shining Winter",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1989-22",
-        "title": "Golden Mountain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1989-28",
-        "title": "Falling Gold",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1989-32",
-        "title": "Sky Way",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1989-67",
-        "title": "Dawn Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1989-100",
-        "title": "Into the Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1988-29",
-        "title": "Storm Lights",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1988-54",
-        "title": "Crystal Lights",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1988-69",
-        "title": "Gold Fire",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1988-70",
-        "title": "Under the Diamond",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
+      "year": 1987
     },
     {
       "rank": 73,
       "song": {
-        "id": "west-1988-73",
-        "title": "Wild River",
+        "id": "west-1987-73",
+        "title": "Golden Wind",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1988-83",
-        "title": "Rose Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1988-97",
-        "title": "Storm Way",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 4,
-      "song": {
-        "id": "west-1987-04",
-        "title": "Livin' on a Prayer",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 18,
+      "rank": 92,
       "song": {
-        "id": "west-1987-18",
-        "title": "Shining Mountain",
+        "id": "west-1987-92",
+        "title": "Lost in Wave",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
       "year": 1987
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1987-32",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1987-61",
-        "title": "Snow Rain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1987-78",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1987-86",
-        "title": "Dawn Heart",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1987-89",
-        "title": "Summer Dreams",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1986-49",
-        "title": "Midnight Thunder",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1986-91",
-        "title": "Into the Mountain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1986-98",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1985-19",
-        "title": "Sun Lights",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1985-25",
-        "title": "Snow Soul",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1985-28",
-        "title": "Running Storm",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1985-29",
-        "title": "Sweet Wave",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1985-33",
-        "title": "Mountain Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1985-38",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1985-42",
-        "title": "Moon Rain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1985-100",
-        "title": "Sun Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1984-34",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1984-72",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1984-78",
-        "title": "Last Moon",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1983-18",
-        "title": "Golden Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1983-20",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1983-27",
-        "title": "Falling Wave",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1983-31",
-        "title": "Running Gold",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1983-33",
-        "title": "Bridge Tears",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1983-35",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1983-61",
-        "title": "Silver Tears",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1983-62",
-        "title": "Dusk Night",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1983-80",
-        "title": "Last Mountain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1983-94",
-        "title": "Fading Sun",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
     },
     {
       "rank": 99,
       "song": {
-        "id": "west-1983-99",
-        "title": "Falling Light",
+        "id": "west-1987-99",
+        "title": "Under the Fire",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1986-11",
+        "title": "Last Silver",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1986-30",
+        "title": "Dawn Lights",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1986-56",
+        "title": "Light Sky",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1986-58",
+        "title": "Golden Mountain",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1986-62",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1986-69",
+        "title": "Sky Lights",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1986-75",
+        "title": "Shining Sun",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1985-24",
+        "title": "City Love",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1985-71",
+        "title": "Rose Tears",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1985-84",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1985-86",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1984-20",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1984-56",
+        "title": "Midnight Dusk",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1984-88",
+        "title": "Lost in Diamond",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1984-100",
+        "title": "Shining Sun",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1983-37",
+        "title": "Ice Dreams",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 20,
+      "rank": 69,
       "song": {
-        "id": "west-1982-20",
-        "title": "River Moonlight",
+        "id": "west-1983-69",
+        "title": "Running Bridge",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
-      "year": 1982
+      "year": 1983
     },
     {
-      "rank": 25,
+      "rank": 19,
       "song": {
-        "id": "west-1982-25",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1982-37",
-        "title": "Electric City",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1982-40",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1982-49",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1982-62",
+        "id": "west-1982-19",
         "title": "Rain Rain",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 13,
+      "rank": 23,
       "song": {
-        "id": "west-1981-13",
-        "title": "Falling Crystal",
+        "id": "west-1982-23",
+        "title": "Chasing Road",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
-      "year": 1981
+      "year": 1982
     },
     {
-      "rank": 25,
+      "rank": 42,
       "song": {
-        "id": "west-1981-25",
-        "title": "Sky Love",
+        "id": "west-1982-42",
+        "title": "Fire Lights",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
-      "year": 1981
+      "year": 1982
     },
     {
-      "rank": 26,
+      "rank": 52,
       "song": {
-        "id": "west-1981-26",
-        "title": "Moon Heart",
+        "id": "west-1982-52",
+        "title": "Broken Thunder",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
-      "year": 1981
+      "year": 1982
     },
     {
-      "rank": 34,
+      "rank": 72,
       "song": {
-        "id": "west-1981-34",
-        "title": "Crystal Love",
+        "id": "west-1982-72",
+        "title": "Diamond Sky",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
-      "year": 1981
+      "year": 1982
     },
     {
-      "rank": 37,
+      "rank": 93,
       "song": {
-        "id": "west-1981-37",
-        "title": "Midnight Gold",
+        "id": "west-1982-93",
+        "title": "Running River",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
-      "year": 1981
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1981-81",
-        "title": "Summer Sky",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1981-89",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1980-17",
-        "title": "City Way",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1980-30",
-        "title": "Last Ice",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1980-38",
-        "title": "Last Winter",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1980
+      "year": 1982
     },
     {
       "rank": 39,
       "song": {
-        "id": "west-1980-39",
-        "title": "Gold Forever",
+        "id": "west-1981-39",
+        "title": "Running Wave",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1981-71",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1981-73",
+        "title": "Lost in Star",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1981-80",
+        "title": "Shining Wave",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1981-86",
+        "title": "Flame Way",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1981-90",
+        "title": "Summer Heart",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1981-95",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1980-19",
+        "title": "Shadow Love",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 68,
+      "rank": 27,
       "song": {
-        "id": "west-1980-68",
-        "title": "Ice Dreams",
+        "id": "west-1980-27",
+        "title": "Under the Winter",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 79,
+      "rank": 32,
       "song": {
-        "id": "west-1980-79",
-        "title": "Lost in Light",
+        "id": "west-1980-32",
+        "title": "City Soul",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1980-36",
+        "title": "Light Night",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1980-47",
+        "title": "Sun Tears",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1980-77",
+        "title": "Under the River",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1980-100",
+        "title": "Wave Fire",
+        "artist": {
+          "id": "a-duran-duran",
+          "name": "Duran Duran"
         },
         "genre": "western"
       },

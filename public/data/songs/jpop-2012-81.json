@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-2012-81",
-    "title": "青い花",
+    "title": "未来の季節",
     "artist": {
-      "id": "a-yonezu-kenshi",
-      "name": "米津玄師"
+      "id": "a-aimyon",
+      "name": "あいみょん"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 81,
   "cdInfo": [
     {
-      "title": "青い花",
+      "title": "未来の季節",
       "type": "single",
-      "releaseDate": "2012-01-02"
+      "releaseDate": "2012-01-06"
     },
     {
-      "title": "希望コレクション",
+      "title": "ALL TIME 雪",
       "type": "album",
-      "releaseDate": "2012-09-13"
+      "releaseDate": "2012-11-05"
     }
   ],
   "externalLinks": {
@@ -29,39 +29,65 @@
   },
   "artistSongs": [
     {
-      "rank": 8,
+      "rank": 9,
       "song": {
-        "id": "jpop-2025-08",
-        "title": "蒼穹",
+        "id": "jpop-2025-09",
+        "title": "ネオンライト",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 43,
+      "rank": 13,
       "song": {
-        "id": "jpop-2025-43",
-        "title": "夢の季節",
+        "id": "jpop-2025-13",
+        "title": "ミッドナイト森",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 52,
+      "rank": 16,
       "song": {
-        "id": "jpop-2025-52",
-        "title": "真夜中の希望",
+        "id": "jpop-2025-16",
+        "title": "海サンセット",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-2025-23",
+        "title": "約束の雪",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-2025-32",
+        "title": "街の季節",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -71,127 +97,140 @@
       "rank": 63,
       "song": {
         "id": "jpop-2025-63",
-        "title": "風の星",
+        "title": "風の光",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 98,
+      "rank": 65,
       "song": {
-        "id": "jpop-2025-98",
-        "title": "夢の海",
+        "id": "jpop-2025-65",
+        "title": "太陽の空",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
-      "rank": 20,
+      "rank": 69,
       "song": {
-        "id": "jpop-2023-20",
-        "title": "朝の花",
+        "id": "jpop-2025-69",
+        "title": "光の道",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2025-77",
+        "title": "記憶ストーリー",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-2025-84",
+        "title": "世界の道",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-2023-22",
+        "title": "影物語",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2023
     },
     {
-      "rank": 40,
+      "rank": 26,
       "song": {
-        "id": "jpop-2023-40",
-        "title": "夢の海",
+        "id": "jpop-2023-26",
+        "title": "夢の約束",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2023
     },
     {
-      "rank": 62,
+      "rank": 39,
       "song": {
-        "id": "jpop-2023-62",
-        "title": "永遠の太陽",
+        "id": "jpop-2023-39",
+        "title": "最後の虹",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2023
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-2022-11",
-        "title": "月フォーエバー",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-2022-41",
-        "title": "桜の歌",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2022-50",
-        "title": "愛の海",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
     },
     {
       "rank": 56,
       "song": {
-        "id": "jpop-2022-56",
-        "title": "波の海",
+        "id": "jpop-2023-56",
+        "title": "愛の光",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
-      "year": 2022
+      "year": 2023
     },
     {
-      "rank": 59,
+      "rank": 82,
       "song": {
-        "id": "jpop-2022-59",
-        "title": "星の空",
+        "id": "jpop-2023-82",
+        "title": "空メロディ",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-2022-23",
+        "title": "夢物語",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -201,127 +240,127 @@
       "rank": 65,
       "song": {
         "id": "jpop-2022-65",
-        "title": "風の星",
+        "title": "永遠の愛",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2022
     },
     {
-      "rank": 66,
+      "rank": 96,
       "song": {
-        "id": "jpop-2022-66",
-        "title": "ミッドナイト旅",
+        "id": "jpop-2022-96",
+        "title": "愛の光",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2022
     },
     {
-      "rank": 20,
+      "rank": 21,
       "song": {
-        "id": "jpop-2021-20",
-        "title": "風の空",
+        "id": "jpop-2021-21",
+        "title": "海の空",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 67,
+      "rank": 32,
       "song": {
-        "id": "jpop-2021-67",
-        "title": "朝の海",
+        "id": "jpop-2021-32",
+        "title": "恋の海",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 72,
+      "rank": 46,
       "song": {
-        "id": "jpop-2021-72",
-        "title": "永遠の記憶",
+        "id": "jpop-2021-46",
+        "title": "永遠の月",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 82,
+      "rank": 63,
       "song": {
-        "id": "jpop-2021-82",
-        "title": "涙の旅",
+        "id": "jpop-2021-63",
+        "title": "約束の花",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 87,
+      "rank": 80,
       "song": {
-        "id": "jpop-2021-87",
-        "title": "虹の道",
+        "id": "jpop-2021-80",
+        "title": "希望サンセット",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 93,
+      "rank": 99,
       "song": {
-        "id": "jpop-2021-93",
-        "title": "真夜中の未来",
+        "id": "jpop-2021-99",
+        "title": "風の波",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 5,
+      "rank": 6,
       "song": {
-        "id": "jpop-2020-05",
-        "title": "感電",
+        "id": "jpop-2020-06",
+        "title": "裸の心",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 13,
+      "rank": 12,
       "song": {
-        "id": "jpop-2020-13",
-        "title": "星の記憶",
+        "id": "jpop-2020-12",
+        "title": "未来の花",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -331,23 +370,23 @@
       "rank": 14,
       "song": {
         "id": "jpop-2020-14",
-        "title": "記憶フォーエバー",
+        "title": "影の光",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 43,
+      "rank": 38,
       "song": {
-        "id": "jpop-2020-43",
-        "title": "永遠の雪",
+        "id": "jpop-2020-38",
+        "title": "最後の朝",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -357,114 +396,140 @@
       "rank": 44,
       "song": {
         "id": "jpop-2020-44",
-        "title": "雨のかけら",
+        "title": "約束フォーエバー",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 45,
+      "rank": 57,
       "song": {
-        "id": "jpop-2020-45",
-        "title": "最後の愛",
+        "id": "jpop-2020-57",
+        "title": "風の星",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 72,
+      "rank": 73,
       "song": {
-        "id": "jpop-2020-72",
-        "title": "朝の約束",
+        "id": "jpop-2020-73",
+        "title": "雪フォーエバー",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 82,
+      "rank": 98,
       "song": {
-        "id": "jpop-2020-82",
-        "title": "記憶のリズム",
+        "id": "jpop-2020-98",
+        "title": "風の桜",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 90,
+      "rank": 100,
       "song": {
-        "id": "jpop-2020-90",
-        "title": "夜物語",
+        "id": "jpop-2020-100",
+        "title": "桜物語",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 99,
+      "rank": 4,
       "song": {
-        "id": "jpop-2020-99",
-        "title": "冬物語",
+        "id": "jpop-2019-04",
+        "title": "マリーゴールド",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "jpop-2019-02",
-        "title": "馬と鹿",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2019
     },
     {
-      "rank": 7,
+      "rank": 9,
       "song": {
-        "id": "jpop-2019-07",
-        "title": "Lemon",
+        "id": "jpop-2019-09",
+        "title": "裸の心",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2019
     },
     {
-      "rank": 45,
+      "rank": 14,
       "song": {
-        "id": "jpop-2019-45",
-        "title": "君の記憶",
+        "id": "jpop-2019-14",
+        "title": "青い影",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-2019-16",
+        "title": "夜の約束",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-2019-34",
+        "title": "夢の雨",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-2019-51",
+        "title": "雨の記憶",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -474,205 +539,530 @@
       "rank": 58,
       "song": {
         "id": "jpop-2019-58",
-        "title": "君の桜",
+        "title": "記憶の道",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2019
     },
     {
-      "rank": 1,
+      "rank": 59,
       "song": {
-        "id": "jpop-2018-01",
-        "title": "Lemon",
+        "id": "jpop-2019-59",
+        "title": "波ストーリー",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-2019-74",
+        "title": "夏の道",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-2019-86",
+        "title": "空の光",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2019-87",
+        "title": "真夜中の虹",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2019-92",
+        "title": "朝のかけら",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2019-100",
+        "title": "最後の恋",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "jpop-2018-09",
+        "title": "マリーゴールド",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2018
     },
     {
-      "rank": 8,
+      "rank": 11,
       "song": {
-        "id": "jpop-2018-08",
-        "title": "Flamingo",
+        "id": "jpop-2018-11",
+        "title": "約束の夜",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2018
     },
     {
-      "rank": 15,
+      "rank": 17,
       "song": {
-        "id": "jpop-2018-15",
-        "title": "青い世界",
+        "id": "jpop-2018-17",
+        "title": "夢のリズム",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2018
     },
     {
-      "rank": 60,
+      "rank": 27,
       "song": {
-        "id": "jpop-2018-60",
-        "title": "街の道",
+        "id": "jpop-2018-27",
+        "title": "旅の記憶",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2018
     },
     {
-      "rank": 8,
+      "rank": 30,
       "song": {
-        "id": "jpop-2017-08",
-        "title": "ピースサイン",
+        "id": "jpop-2018-30",
+        "title": "時間のリズム",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
-      "year": 2017
+      "year": 2018
     },
     {
-      "rank": 43,
+      "rank": 36,
       "song": {
-        "id": "jpop-2017-43",
-        "title": "未来の街",
+        "id": "jpop-2018-36",
+        "title": "希望の空",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
-      "year": 2017
+      "year": 2018
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2018-46",
+        "title": "冬メロディ",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2018-48",
+        "title": "風の波",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2018-55",
+        "title": "虹ストーリー",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-2018-66",
+        "title": "月の夜",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
     },
     {
       "rank": 75,
       "song": {
-        "id": "jpop-2017-75",
-        "title": "愛サンセット",
+        "id": "jpop-2018-75",
+        "title": "未来の夜",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-2018-84",
+        "title": "君の旅",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-2017-21",
+        "title": "君の恋",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2017
     },
     {
-      "rank": 90,
+      "rank": 27,
       "song": {
-        "id": "jpop-2017-90",
-        "title": "永遠の時間",
+        "id": "jpop-2017-27",
+        "title": "朝の空",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2017
     },
     {
-      "rank": 99,
+      "rank": 52,
       "song": {
-        "id": "jpop-2017-99",
-        "title": "記憶の記憶",
+        "id": "jpop-2017-52",
+        "title": "時間の光",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2017
     },
     {
-      "rank": 20,
+      "rank": 60,
       "song": {
-        "id": "jpop-2016-20",
-        "title": "約束の花",
+        "id": "jpop-2017-60",
+        "title": "世界サンセット",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-2017-67",
+        "title": "星の旅",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-2017-78",
+        "title": "桜の夜",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2017-82",
+        "title": "影フォーエバー",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2017-89",
+        "title": "冬の空",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-2017-96",
+        "title": "夏の記憶",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-2016-21",
+        "title": "光メロディ",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2016
     },
     {
-      "rank": 40,
+      "rank": 44,
       "song": {
-        "id": "jpop-2016-40",
-        "title": "愛の道",
+        "id": "jpop-2016-44",
+        "title": "涙の風",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2016
     },
     {
-      "rank": 42,
+      "rank": 78,
       "song": {
-        "id": "jpop-2016-42",
-        "title": "最後の愛",
+        "id": "jpop-2016-78",
+        "title": "恋の波",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2016
     },
     {
-      "rank": 45,
+      "rank": 96,
       "song": {
-        "id": "jpop-2016-45",
-        "title": "海のかけら",
+        "id": "jpop-2016-96",
+        "title": "記憶フォーエバー",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2016
     },
     {
-      "rank": 58,
+      "rank": 14,
       "song": {
-        "id": "jpop-2016-58",
-        "title": "夢サンセット",
+        "id": "jpop-2015-14",
+        "title": "月の記憶",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
-      "year": 2016
+      "year": 2015
     },
     {
-      "rank": 16,
+      "rank": 15,
       "song": {
-        "id": "jpop-2015-16",
-        "title": "希望の約束",
+        "id": "jpop-2015-15",
+        "title": "風の未来",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "jpop-2015-22",
+        "title": "夢の桜",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "jpop-2015-37",
+        "title": "雨メロディ",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-2015-49",
+        "title": "雨のリズム",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-2015-59",
+        "title": "夢の約束",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-2015-75",
+        "title": "旅の季節",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2015-81",
+        "title": "冬の約束",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2015-97",
+        "title": "風の約束",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -681,167 +1071,63 @@
     {
       "rank": 17,
       "song": {
-        "id": "jpop-2015-17",
-        "title": "恋の道",
+        "id": "jpop-2014-17",
+        "title": "真夜中の希望",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-2015-40",
-        "title": "約束の未来",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-2015-55",
-        "title": "希望の花",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-2015-96",
-        "title": "青い風",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2014-12",
-        "title": "花のかけら",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2014
     },
     {
-      "rank": 20,
+      "rank": 44,
       "song": {
-        "id": "jpop-2014-20",
-        "title": "青い光",
+        "id": "jpop-2014-44",
+        "title": "雨の空",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2014
     },
     {
-      "rank": 24,
+      "rank": 57,
       "song": {
-        "id": "jpop-2014-24",
-        "title": "太陽のリズム",
+        "id": "jpop-2014-57",
+        "title": "旅の季節",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2014
     },
     {
-      "rank": 41,
+      "rank": 77,
       "song": {
-        "id": "jpop-2014-41",
-        "title": "約束の虹",
+        "id": "jpop-2014-77",
+        "title": "真夜中の海",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2014
     },
     {
-      "rank": 60,
+      "rank": 31,
       "song": {
-        "id": "jpop-2014-60",
-        "title": "雨の歌",
+        "id": "jpop-2013-31",
+        "title": "約束のかけら",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-2014-92",
-        "title": "桜の道",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-2013-14",
-        "title": "永遠の太陽",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-2013-16",
-        "title": "冬の海",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2013-18",
-        "title": "冬の光",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -851,10 +1137,23 @@
       "rank": 49,
       "song": {
         "id": "jpop-2013-49",
-        "title": "ミッドナイト朝",
+        "title": "花のリズム",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2013-50",
+        "title": "約束の朝",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
@@ -864,192 +1163,218 @@
       "rank": 68,
       "song": {
         "id": "jpop-2013-68",
-        "title": "街の花",
+        "title": "夢の未来",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2013
     },
     {
-      "rank": 72,
+      "rank": 75,
       "song": {
-        "id": "jpop-2013-72",
-        "title": "旅のかけら",
+        "id": "jpop-2013-75",
+        "title": "恋の太陽",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2013
     },
     {
-      "rank": 97,
+      "rank": 88,
       "song": {
-        "id": "jpop-2013-97",
-        "title": "約束の旅",
+        "id": "jpop-2013-88",
+        "title": "ミッドナイト虹",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2013
     },
     {
-      "rank": 44,
+      "rank": 90,
       "song": {
-        "id": "jpop-2012-44",
-        "title": "世界の夜",
+        "id": "jpop-2013-90",
+        "title": "風の雨",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2012-15",
+        "title": "君の影",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2012
     },
     {
-      "rank": 60,
+      "rank": 61,
       "song": {
-        "id": "jpop-2012-60",
-        "title": "涙の夢",
+        "id": "jpop-2012-61",
+        "title": "時間の光",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
       "year": 2012
     },
     {
-      "rank": 27,
+      "rank": 66,
       "song": {
-        "id": "jpop-2011-27",
-        "title": "青い海",
+        "id": "jpop-2012-66",
+        "title": "恋の記憶",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },
-      "year": 2011
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-2011-56",
-        "title": "空の空",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-2011-73",
-        "title": "ミッドナイト冬",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-2010-13",
-        "title": "空の道",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-2010-26",
-        "title": "波の記憶",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-2010-40",
-        "title": "夢の恋",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-2010-49",
-        "title": "影の季節",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-2010-68",
-        "title": "涙の時間",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-2010-87",
-        "title": "君の約束",
-        "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
+      "year": 2012
     },
     {
       "rank": 89,
       "song": {
-        "id": "jpop-2010-89",
-        "title": "永遠の約束",
+        "id": "jpop-2012-89",
+        "title": "恋の恋",
         "artist": {
-          "id": "a-yonezu-kenshi",
-          "name": "米津玄師"
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "jpop-2012-96",
+        "title": "夜の海",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2011-11",
+        "title": "約束の冬",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-2011-34",
+        "title": "桜の街",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2011-82",
+        "title": "光の光",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-2011-90",
+        "title": "雨ストーリー",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-2010-45",
+        "title": "夢の森",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-2010-63",
+        "title": "世界のかけら",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-2010-66",
+        "title": "未来の歌",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2010-88",
+        "title": "恋サンセット",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
         },
         "genre": "jpop"
       },

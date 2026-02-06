@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2008-25",
-    "title": "Under the Fire",
+    "title": "Bridge Night",
     "artist": {
-      "id": "a-fob",
-      "name": "Fall Out Boy"
+      "id": "a-maroon-5",
+      "name": "Maroon 5"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 25,
   "cdInfo": [
     {
-      "title": "Under the Fire",
+      "title": "Bridge Night",
       "type": "single",
-      "releaseDate": "2008-07-26"
+      "releaseDate": "2008-04-27"
     },
     {
-      "title": "The Storm Album",
+      "title": "Flame Anthology",
       "type": "album",
-      "releaseDate": "2008-07-01"
+      "releaseDate": "2008-07-28"
     }
   ],
   "externalLinks": {
@@ -29,234 +29,195 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 10,
       "song": {
-        "id": "west-2009-12",
-        "title": "Crystal Heart",
+        "id": "west-2018-10",
+        "title": "Girls Like You",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5 ft. Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2015-09",
+        "title": "Sugar",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-2012-04",
+        "title": "Payphone",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2011-10",
+        "title": "Moves Like Jagger",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2009-32",
+        "title": "Last Rain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 40,
+      "rank": 57,
       "song": {
-        "id": "west-2009-40",
-        "title": "Sky Fire",
+        "id": "west-2009-57",
+        "title": "Bridge Love",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2009-76",
-        "title": "Ice Heart",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2009-87",
-        "title": "Electric Ice",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2008-12",
-        "title": "Road Dreams",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2008-13",
-        "title": "Storm Way",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2008-59",
-        "title": "Golden Fire",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2008-74",
-        "title": "Into the Storm",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2008-86",
-        "title": "Fading Star",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2008-99",
-        "title": "Last City",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2007-16",
-        "title": "Never Snow",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2007-26",
-        "title": "Flame Forever",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2007-33",
-        "title": "Dancing Dawn",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-2007-36",
-        "title": "City Heart",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2007-45",
-        "title": "Sweet Rose",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2007-78",
-        "title": "City Night",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2007
     },
     {
       "rank": 79,
       "song": {
-        "id": "west-2007-79",
-        "title": "Under the Storm",
+        "id": "west-2009-79",
+        "title": "Wild City",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2007
+      "year": 2009
     },
     {
-      "rank": 88,
+      "rank": 89,
       "song": {
-        "id": "west-2007-88",
-        "title": "Road Way",
+        "id": "west-2009-89",
+        "title": "Golden Crystal",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2009
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2008-37",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2008-54",
+        "title": "Chasing Wind",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2008-61",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2008-67",
+        "title": "Wind Fire",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2008-68",
+        "title": "Sweet Ocean",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2008-100",
+        "title": "River Sky",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "west-2007-07",
+        "title": "Makes Me Wonder",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -265,206 +226,336 @@
     {
       "rank": 11,
       "song": {
-        "id": "west-2006-11",
-        "title": "Rose Fire",
+        "id": "west-2007-11",
+        "title": "Dawn Sky",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2006
+      "year": 2007
     },
     {
-      "rank": 29,
+      "rank": 14,
       "song": {
-        "id": "west-2006-29",
-        "title": "Golden Ice",
+        "id": "west-2007-14",
+        "title": "Lost in Fire",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2006
+      "year": 2007
     },
     {
-      "rank": 100,
+      "rank": 32,
       "song": {
-        "id": "west-2006-100",
-        "title": "Moon Soul",
+        "id": "west-2007-32",
+        "title": "Gold Sky",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2006
+      "year": 2007
     },
     {
-      "rank": 12,
+      "rank": 58,
       "song": {
-        "id": "west-2005-12",
-        "title": "Shining Mountain",
+        "id": "west-2007-58",
+        "title": "Rose Rain",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2007
     },
     {
-      "rank": 26,
+      "rank": 60,
       "song": {
-        "id": "west-2005-26",
-        "title": "Bridge Dreams",
+        "id": "west-2007-60",
+        "title": "Wild Star",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2007
     },
     {
-      "rank": 30,
+      "rank": 67,
       "song": {
-        "id": "west-2005-30",
-        "title": "Bridge Soul",
+        "id": "west-2007-67",
+        "title": "Star Rain",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2007
     },
     {
-      "rank": 36,
+      "rank": 69,
       "song": {
-        "id": "west-2005-36",
-        "title": "Chasing Fire",
+        "id": "west-2007-69",
+        "title": "Electric Moon",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2007
     },
     {
       "rank": 37,
       "song": {
-        "id": "west-2005-37",
-        "title": "Dancing Ocean",
+        "id": "west-2006-37",
+        "title": "Electric Gold",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2005
+      "year": 2006
     },
     {
-      "rank": 40,
+      "rank": 44,
       "song": {
-        "id": "west-2005-40",
-        "title": "Road Rain",
+        "id": "west-2006-44",
+        "title": "Sun Dreams",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2005
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2005-61",
-        "title": "Broken Snow",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-2004-12",
-        "title": "Fading Shadow",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-2004-33",
-        "title": "Shining Fire",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2004-39",
-        "title": "Last Flame",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2004-51",
-        "title": "Falling Dusk",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2004
+      "year": 2006
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-2004-54",
-        "title": "Shadow Rain",
+        "id": "west-2006-54",
+        "title": "Golden Star",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2006-58",
+        "title": "Electric Ocean",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2006-65",
+        "title": "Under the Ocean",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2006-76",
+        "title": "Shadow Soul",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2006-91",
+        "title": "Chasing Mountain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2005-16",
+        "title": "Mountain Tears",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2005-18",
+        "title": "Electric City",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2005-34",
+        "title": "Chasing Moon",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2005-45",
+        "title": "Sky Fire",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2005-73",
+        "title": "Falling Bridge",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2005-75",
+        "title": "Rain Way",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2005-85",
+        "title": "Chasing Snow",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2005-100",
+        "title": "Sweet Snow",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-2004-03",
+        "title": "This Love",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 68,
+      "rank": 25,
       "song": {
-        "id": "west-2004-68",
-        "title": "Fading Wave",
+        "id": "west-2004-25",
+        "title": "Rain Love",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2004-32",
+        "title": "Winter Forever",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-2004-41",
+        "title": "Dusk Rain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -474,62 +565,36 @@
       "rank": 70,
       "song": {
         "id": "west-2004-70",
-        "title": "Wild Fire",
+        "title": "River Soul",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 78,
+      "rank": 88,
       "song": {
-        "id": "west-2004-78",
-        "title": "Never Dawn",
+        "id": "west-2004-88",
+        "title": "Wild Diamond",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2004
     },
     {
-      "rank": 80,
+      "rank": 91,
       "song": {
-        "id": "west-2004-80",
-        "title": "Dawn Tears",
+        "id": "west-2004-91",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-2004-82",
-        "title": "Last Bridge",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2004-98",
-        "title": "Winter Lights",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -539,218 +604,166 @@
       "rank": 15,
       "song": {
         "id": "west-2003-15",
-        "title": "Mountain Way",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2003
     },
     {
-      "rank": 43,
+      "rank": 16,
       "song": {
-        "id": "west-2003-43",
-        "title": "Lost in River",
+        "id": "west-2003-16",
+        "title": "Golden Gold",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2003
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2003-45",
+        "title": "Sweet Ocean",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2003-47",
+        "title": "Lost in Gold",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2003-69",
+        "title": "Shining Shadow",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2003-81",
+        "title": "Never Road",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2003-100",
+        "title": "Last Moon",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2002-13",
+        "title": "Sweet Diamond",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2002-26",
+        "title": "Snow Night",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2002-32",
+        "title": "Sky Heart",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2002-37",
+        "title": "Broken Bridge",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-2002-77",
+        "title": "Moon Dreams",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
     },
     {
       "rank": 50,
       "song": {
-        "id": "west-2003-50",
-        "title": "Lost in Ocean",
+        "id": "west-2001-50",
+        "title": "Sweet Star",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-2003-59",
-        "title": "Midnight City",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2003-67",
-        "title": "Sweet Sun",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2003-83",
-        "title": "Lost in Moon",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2003-97",
-        "title": "Fading Wind",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-2002-20",
-        "title": "Chasing Light",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2002-28",
-        "title": "Ocean Moonlight",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2002-49",
-        "title": "Light Night",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2002-92",
-        "title": "Last Bridge",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2001-18",
-        "title": "Dancing Ice",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2001-27",
-        "title": "Dancing Storm",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-2001-39",
-        "title": "City Lights",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2001-40",
-        "title": "Wild Silver",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2001-46",
-        "title": "Wild Wind",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-2001-71",
-        "title": "Road Moonlight",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -760,62 +773,62 @@
       "rank": 74,
       "song": {
         "id": "west-2001-74",
-        "title": "Sun Night",
+        "title": "Fading Dawn",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 78,
+      "rank": 76,
       "song": {
-        "id": "west-2001-78",
-        "title": "Bridge Moonlight",
+        "id": "west-2001-76",
+        "title": "Dusk Dreams",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 93,
+      "rank": 16,
       "song": {
-        "id": "west-2001-93",
-        "title": "Golden Moon",
+        "id": "west-2000-16",
+        "title": "Silver Night",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2000-18",
-        "title": "Into the Diamond",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 35,
+      "rank": 17,
       "song": {
-        "id": "west-2000-35",
-        "title": "Shining Summer",
+        "id": "west-2000-17",
+        "title": "Dusk Moonlight",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2000-37",
+        "title": "Dancing Light",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -825,49 +838,23 @@
       "rank": 39,
       "song": {
         "id": "west-2000-39",
-        "title": "Electric Road",
+        "title": "Crystal Dreams",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 44,
+      "rank": 40,
       "song": {
-        "id": "west-2000-44",
-        "title": "Never Fire",
+        "id": "west-2000-40",
+        "title": "Diamond Forever",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-2000-60",
-        "title": "Moon Lights",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
-        },
-        "genre": "western"
-      },
-      "year": 2000
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2000-61",
-        "title": "Running Mountain",
-        "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -877,10 +864,49 @@
       "rank": 63,
       "song": {
         "id": "west-2000-63",
-        "title": "Never Dusk",
+        "title": "River Heart",
         "artist": {
-          "id": "a-fob",
-          "name": "Fall Out Boy"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-2000-68",
+        "title": "Lost in Silver",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2000-74",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2000-90",
+        "title": "Electric Light",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },

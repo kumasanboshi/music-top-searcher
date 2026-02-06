@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-93",
-    "title": "Under the City",
+    "title": "Sun Dreams",
     "artist": {
-      "id": "a-wings",
-      "name": "Paul McCartney & Wings"
+      "id": "a-kc",
+      "name": "KC and the Sunshine Band"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 93,
   "cdInfo": [
     {
-      "title": "Under the City",
+      "title": "Sun Dreams",
       "type": "single",
-      "releaseDate": "1978-09-04"
+      "releaseDate": "1978-03-15"
     },
     {
-      "title": "Best of Mountain",
+      "title": "Rain Unplugged",
       "type": "album",
-      "releaseDate": "1978-12-10"
+      "releaseDate": "1978-12-09"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,13 @@
   },
   "artistSongs": [
     {
-      "rank": 38,
+      "rank": 21,
       "song": {
-        "id": "west-1979-38",
-        "title": "Chasing Fire",
+        "id": "west-1979-21",
+        "title": "Broken Crystal",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
@@ -45,179 +45,348 @@
       "rank": 44,
       "song": {
         "id": "west-1979-44",
-        "title": "Sweet Winter",
+        "title": "Sweet River",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 59,
+      "rank": 55,
       "song": {
-        "id": "west-1979-59",
-        "title": "Moon Tears",
+        "id": "west-1979-55",
+        "title": "Falling Shadow",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 89,
+      "rank": 58,
       "song": {
-        "id": "west-1979-89",
-        "title": "Fire Way",
+        "id": "west-1979-58",
+        "title": "Sweet Sun",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 92,
+      "rank": 86,
       "song": {
-        "id": "west-1979-92",
-        "title": "Never Shadow",
+        "id": "west-1979-86",
+        "title": "Falling Road",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 25,
+      "rank": 39,
       "song": {
-        "id": "west-1978-25",
-        "title": "Never Ice",
+        "id": "west-1978-39",
+        "title": "City Dreams",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 43,
+      "rank": 44,
       "song": {
-        "id": "west-1978-43",
-        "title": "Gold Rain",
+        "id": "west-1978-44",
+        "title": "Golden Dawn",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 48,
+      "rank": 85,
       "song": {
-        "id": "west-1978-48",
-        "title": "Lost in Wave",
+        "id": "west-1978-85",
+        "title": "Golden City",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1978
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1978-91",
+        "title": "Wild City",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1978-94",
+        "title": "Never Summer",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1978-98",
+        "title": "Shadow Love",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1977-29",
+        "title": "Summer Soul",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1977-46",
+        "title": "Sky Rain",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1977-52",
+        "title": "Midnight Dawn",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-1978-54",
-        "title": "Midnight Moon",
+        "id": "west-1977-54",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1977-25",
-        "title": "Chasing Thunder",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 34,
+      "rank": 56,
       "song": {
-        "id": "west-1977-34",
-        "title": "Into the Bridge",
+        "id": "west-1977-56",
+        "title": "Under the Light",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 35,
+      "rank": 66,
       "song": {
-        "id": "west-1977-35",
-        "title": "Never Bridge",
+        "id": "west-1977-66",
+        "title": "Electric Star",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 76,
+      "rank": 88,
       "song": {
-        "id": "west-1977-76",
-        "title": "Wild Summer",
+        "id": "west-1977-88",
+        "title": "Wild Storm",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 1,
+      "rank": 95,
       "song": {
-        "id": "west-1976-01",
-        "title": "Silly Love Songs",
+        "id": "west-1977-95",
+        "title": "Chasing Flame",
         "artist": {
-          "id": "a-wings",
-          "name": "Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1976-11",
+        "title": "Under the Ice",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 19,
+      "rank": 16,
       "song": {
-        "id": "west-1976-19",
-        "title": "Rain Way",
+        "id": "west-1976-16",
+        "title": "Moon Way",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1976-42",
+        "title": "Last Bridge",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1976-46",
+        "title": "City Fire",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1976-47",
+        "title": "Sweet Shadow",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1976-51",
+        "title": "Golden Shadow",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1976-73",
+        "title": "Shining Summer",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1976-82",
+        "title": "Wind Forever",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1976-94",
+        "title": "Fading Diamond",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
@@ -226,141 +395,89 @@
     {
       "rank": 20,
       "song": {
-        "id": "west-1976-20",
-        "title": "Rose Sky",
+        "id": "west-1975-20",
+        "title": "Golden City",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1975
     },
     {
-      "rank": 27,
+      "rank": 26,
       "song": {
-        "id": "west-1976-27",
-        "title": "Running Diamond",
+        "id": "west-1975-26",
+        "title": "Wild City",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1975
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1975-28",
+        "title": "Sun Dreams",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1975-29",
+        "title": "Never Summer",
+        "artist": {
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
+        },
+        "genre": "western"
+      },
+      "year": 1975
     },
     {
       "rank": 36,
       "song": {
-        "id": "west-1976-36",
-        "title": "Rain Forever",
+        "id": "west-1975-36",
+        "title": "Dancing Thunder",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1976-63",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1976-68",
-        "title": "Golden City",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1976-83",
-        "title": "Storm Love",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1975-13",
-        "title": "Fading Mountain",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 37,
+      "rank": 52,
       "song": {
-        "id": "west-1975-37",
-        "title": "Wild Sun",
+        "id": "west-1975-52",
+        "title": "Last Mountain",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 57,
+      "rank": 77,
       "song": {
-        "id": "west-1975-57",
-        "title": "Fading City",
+        "id": "west-1975-77",
+        "title": "Chasing Sky",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1975-66",
-        "title": "Ice Love",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1975-100",
-        "title": "Electric Light",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-kc",
+          "name": "KC and the Sunshine Band"
         },
         "genre": "western"
       },

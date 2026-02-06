@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1976-85",
-    "title": "Light Forever",
+    "title": "Sun Fire",
     "artist": {
-      "id": "a-fleetwood-mac",
-      "name": "Fleetwood Mac"
+      "id": "a-elton-john",
+      "name": "Elton John"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 85,
   "cdInfo": [
     {
-      "title": "Light Forever",
+      "title": "Sun Fire",
       "type": "single",
-      "releaseDate": "1976-05-23"
+      "releaseDate": "1976-07-25"
     },
     {
-      "title": "City Sessions",
+      "title": "Rain Sessions",
       "type": "album",
-      "releaseDate": "1976-09-27"
+      "releaseDate": "1976-03-14"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,39 @@
   },
   "artistSongs": [
     {
-      "rank": 18,
+      "rank": 6,
       "song": {
-        "id": "west-1979-18",
-        "title": "Star Soul",
+        "id": "west-2022-06",
+        "title": "Cold Heart",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John & Dua Lipa"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1997-01",
+        "title": "Candle in the Wind 1997",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1979-22",
+        "title": "Last Rose",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -45,361 +71,374 @@
       "rank": 33,
       "song": {
         "id": "west-1979-33",
-        "title": "Last Fire",
+        "title": "Wind Lights",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 45,
+      "rank": 47,
       "song": {
-        "id": "west-1979-45",
-        "title": "Wild Ocean",
+        "id": "west-1979-47",
+        "title": "Chasing Storm",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1979-62",
-        "title": "Wind Way",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1979-66",
-        "title": "Chasing Rose",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1978-18",
-        "title": "Electric River",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1978-21",
-        "title": "Into the Wind",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1978-27",
-        "title": "Wild Sun",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1978-36",
-        "title": "Into the Rose",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1978-50",
-        "title": "Star Fire",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 59,
       "song": {
-        "id": "west-1978-59",
-        "title": "Wind Heart",
+        "id": "west-1979-59",
+        "title": "Dusk Soul",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1979-80",
+        "title": "Midnight Rain",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1978-12",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 81,
+      "rank": 45,
       "song": {
-        "id": "west-1978-81",
-        "title": "Running Sun",
+        "id": "west-1978-45",
+        "title": "Fire Lights",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 8,
+      "rank": 82,
       "song": {
-        "id": "west-1977-08",
-        "title": "Dreams",
+        "id": "west-1978-82",
+        "title": "Under the City",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1978-83",
+        "title": "Falling Diamond",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1977-30",
+        "title": "Shining Silver",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 15,
+      "rank": 31,
       "song": {
-        "id": "west-1977-15",
-        "title": "Midnight Ice",
+        "id": "west-1977-31",
+        "title": "Into the Ocean",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 39,
+      "rank": 32,
       "song": {
-        "id": "west-1977-39",
-        "title": "Falling Thunder",
+        "id": "west-1977-32",
+        "title": "Running Snow",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 61,
+      "rank": 55,
       "song": {
-        "id": "west-1977-61",
-        "title": "City Fire",
+        "id": "west-1977-55",
+        "title": "City Sky",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 69,
+      "rank": 62,
       "song": {
-        "id": "west-1977-69",
-        "title": "Electric Sun",
+        "id": "west-1977-62",
+        "title": "Midnight Road",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 18,
+      "rank": 71,
       "song": {
-        "id": "west-1976-18",
-        "title": "Sun Night",
+        "id": "west-1977-71",
+        "title": "Shining Fire",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1977
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1977-89",
+        "title": "Diamond Way",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1977-90",
+        "title": "Never Road",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1977-91",
+        "title": "Golden Snow",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1977-99",
+        "title": "Storm Soul",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 21,
       "song": {
         "id": "west-1976-21",
-        "title": "Star Moonlight",
+        "title": "Shadow Soul",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 22,
+      "rank": 32,
       "song": {
-        "id": "west-1976-22",
-        "title": "Light Heart",
+        "id": "west-1976-32",
+        "title": "Last Rose",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 34,
+      "rank": 44,
       "song": {
-        "id": "west-1976-34",
-        "title": "Fire Heart",
+        "id": "west-1976-44",
+        "title": "Sun Sky",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1976-35",
-        "title": "Into the City",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1976-48",
-        "title": "Gold Way",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1976-67",
-        "title": "Shining Summer",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1975-12",
-        "title": "Golden Star",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1975-74",
-        "title": "Under the Wind",
-        "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
-        },
-        "genre": "western"
-      },
-      "year": 1975
     },
     {
       "rank": 81,
       "song": {
-        "id": "west-1975-81",
-        "title": "River Love",
+        "id": "west-1976-81",
+        "title": "Electric Fire",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1976-93",
+        "title": "Never Crystal",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1975-03",
+        "title": "Philadelphia Freedom",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 84,
+      "rank": 54,
       "song": {
-        "id": "west-1975-84",
-        "title": "Shadow Moonlight",
+        "id": "west-1975-54",
+        "title": "Last City",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 99,
+      "rank": 63,
       "song": {
-        "id": "west-1975-99",
-        "title": "Broken Diamond",
+        "id": "west-1975-63",
+        "title": "Star Love",
         "artist": {
-          "id": "a-fleetwood-mac",
-          "name": "Fleetwood Mac"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1975-83",
+        "title": "Thunder Lights",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1975-86",
+        "title": "Sun Night",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1975-89",
+        "title": "Dancing Ice",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },

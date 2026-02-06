@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1978-71",
-    "title": "真夜中の太陽",
+    "title": "桜の光",
     "artist": {
-      "id": "a-ota-hiromi",
-      "name": "太田裕美"
+      "id": "a-go-hiromi",
+      "name": "郷ひろみ"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 71,
   "cdInfo": [
     {
-      "title": "真夜中の太陽",
+      "title": "桜の光",
       "type": "single",
-      "releaseDate": "1978-07-11"
+      "releaseDate": "1978-07-28"
     },
     {
-      "title": "波の世界",
+      "title": "雨コレクション",
       "type": "album",
-      "releaseDate": "1978-11-05"
+      "releaseDate": "1978-11-18"
     }
   ],
   "externalLinks": {
@@ -29,65 +29,104 @@
   },
   "artistSongs": [
     {
-      "rank": 16,
+      "rank": 30,
       "song": {
-        "id": "jpop-1979-16",
-        "title": "波の記憶",
+        "id": "jpop-1979-30",
+        "title": "虹のリズム",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 48,
+      "rank": 50,
       "song": {
-        "id": "jpop-1979-48",
-        "title": "森の海",
+        "id": "jpop-1979-50",
+        "title": "約束の記憶",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 75,
+      "rank": 55,
       "song": {
-        "id": "jpop-1979-75",
-        "title": "約束サンセット",
+        "id": "jpop-1979-55",
+        "title": "約束の冬",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 76,
+      "rank": 92,
       "song": {
-        "id": "jpop-1979-76",
-        "title": "記憶の夜",
+        "id": "jpop-1979-92",
+        "title": "永遠の森",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 13,
+      "rank": 97,
       "song": {
-        "id": "jpop-1978-13",
-        "title": "風の時間",
+        "id": "jpop-1979-97",
+        "title": "時間ストーリー",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "jpop-1978-27",
+        "title": "雨サンセット",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-1978-28",
+        "title": "太陽の花",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1978-31",
+        "title": "朝の花",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
@@ -97,179 +136,205 @@
       "rank": 41,
       "song": {
         "id": "jpop-1978-41",
-        "title": "森の光",
+        "title": "桜サンセット",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1978
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "jpop-1978-42",
+        "title": "波サンセット",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1978-68",
+        "title": "ミッドナイト街",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1978-86",
+        "title": "雪の花",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1977-56",
+        "title": "光の海",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1977-79",
+        "title": "夏メロディ",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1977-99",
+        "title": "夜の花",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-1976-14",
+        "title": "桜メロディ",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1976-20",
+        "title": "世界サンセット",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
     },
     {
       "rank": 45,
       "song": {
-        "id": "jpop-1978-45",
-        "title": "影物語",
+        "id": "jpop-1976-45",
+        "title": "約束の雨",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
-      "year": 1978
+      "year": 1976
     },
     {
-      "rank": 55,
+      "rank": 54,
       "song": {
-        "id": "jpop-1978-55",
-        "title": "月のリズム",
+        "id": "jpop-1976-54",
+        "title": "森の歌",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
-      "year": 1978
+      "year": 1976
     },
     {
-      "rank": 61,
+      "rank": 71,
       "song": {
-        "id": "jpop-1978-61",
-        "title": "森のかけら",
+        "id": "jpop-1976-71",
+        "title": "真夜中の夏",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
-      "year": 1978
+      "year": 1976
     },
     {
-      "rank": 88,
+      "rank": 73,
       "song": {
-        "id": "jpop-1978-88",
-        "title": "時間の歌",
+        "id": "jpop-1976-73",
+        "title": "夢の約束",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
-      "year": 1978
+      "year": 1976
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1976-74",
+        "title": "風の街",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1976-80",
+        "title": "夢の夏",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
     },
     {
       "rank": 92,
       "song": {
-        "id": "jpop-1978-92",
-        "title": "時間の夜",
+        "id": "jpop-1976-92",
+        "title": "影メロディ",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1977-12",
-        "title": "光の歌",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1977-43",
-        "title": "夢の約束",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1977-53",
-        "title": "真夜中の花",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1977-85",
-        "title": "風の朝",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "jpop-1976-03",
-        "title": "木綿のハンカチーフ",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1976-15",
-        "title": "星の朝",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1976-18",
-        "title": "影の約束",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-1976-19",
-        "title": "君の未来",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
@@ -278,154 +343,76 @@
     {
       "rank": 28,
       "song": {
-        "id": "jpop-1976-28",
-        "title": "太陽のリズム",
+        "id": "jpop-1975-28",
+        "title": "旅サンセット",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1976-33",
-        "title": "海物語",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1976-43",
-        "title": "約束の海",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-1976-55",
-        "title": "最後の桜",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1976-67",
-        "title": "旅の光",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1976-84",
-        "title": "涙の記憶",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-1976-93",
-        "title": "桜の夜",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1975-22",
-        "title": "空の記憶",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 29,
+      "rank": 37,
       "song": {
-        "id": "jpop-1975-29",
-        "title": "冬物語",
+        "id": "jpop-1975-37",
+        "title": "青い記憶",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 39,
+      "rank": 47,
       "song": {
-        "id": "jpop-1975-39",
-        "title": "虹のかけら",
+        "id": "jpop-1975-47",
+        "title": "夢の愛",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 43,
+      "rank": 61,
       "song": {
-        "id": "jpop-1975-43",
-        "title": "海のリズム",
+        "id": "jpop-1975-61",
+        "title": "風の桜",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 49,
+      "rank": 91,
       "song": {
-        "id": "jpop-1975-49",
-        "title": "月の歌",
+        "id": "jpop-1975-91",
+        "title": "風の未来",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1975-92",
+        "title": "夜メロディ",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1982-44",
-    "title": "Lost in Flame",
+    "title": "Fire Dreams",
     "artist": {
-      "id": "a-culture-club",
-      "name": "Culture Club"
+      "id": "a-bon-jovi",
+      "name": "Bon Jovi"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 44,
   "cdInfo": [
     {
-      "title": "Lost in Flame",
+      "title": "Fire Dreams",
       "type": "single",
-      "releaseDate": "1982-09-19"
+      "releaseDate": "1982-06-08"
     },
     {
-      "title": "The Winter Album",
+      "title": "River Diaries",
       "type": "album",
-      "releaseDate": "1982-05-11"
+      "releaseDate": "1982-07-10"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,39 @@
   },
   "artistSongs": [
     {
-      "rank": 26,
+      "rank": 17,
       "song": {
-        "id": "west-1989-26",
-        "title": "Thunder Forever",
+        "id": "west-1989-17",
+        "title": "Gold Moonlight",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1989-30",
+        "title": "Falling Gold",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "west-1989-39",
+        "title": "Falling Moon",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -45,62 +71,140 @@
       "rank": 41,
       "song": {
         "id": "west-1989-41",
-        "title": "Midnight Dawn",
+        "title": "Wave Lights",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 52,
+      "rank": 54,
       "song": {
-        "id": "west-1989-52",
-        "title": "Into the Thunder",
+        "id": "west-1989-54",
+        "title": "Never Ice",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 96,
+      "rank": 65,
       "song": {
-        "id": "west-1989-96",
-        "title": "Sun Lights",
+        "id": "west-1989-65",
+        "title": "Snow Forever",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 98,
+      "rank": 13,
       "song": {
-        "id": "west-1989-98",
-        "title": "Lost in Gold",
+        "id": "west-1988-13",
+        "title": "Electric Moon",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1989
+      "year": 1988
     },
     {
-      "rank": 18,
+      "rank": 29,
       "song": {
-        "id": "west-1988-18",
-        "title": "Under the Dusk",
+        "id": "west-1988-29",
+        "title": "Wave Tears",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1988-31",
+        "title": "Shining Fire",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1988-42",
+        "title": "Chasing Shadow",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1988-48",
+        "title": "Sweet Winter",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1988-53",
+        "title": "Dusk Soul",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1988-58",
+        "title": "Crystal Lights",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1988-79",
+        "title": "Last Bridge",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -110,36 +214,75 @@
       "rank": 88,
       "song": {
         "id": "west-1988-88",
-        "title": "Moon Moonlight",
+        "title": "Into the River",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 25,
+      "rank": 90,
       "song": {
-        "id": "west-1987-25",
-        "title": "Chasing Dawn",
+        "id": "west-1988-90",
+        "title": "Shadow Lights",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1988-94",
+        "title": "Wave Soul",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1988-99",
+        "title": "Last Rose",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-1987-04",
+        "title": "Livin' on a Prayer",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 27,
+      "rank": 17,
       "song": {
-        "id": "west-1987-27",
-        "title": "Fading Star",
+        "id": "west-1987-17",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -149,140 +292,114 @@
       "rank": 30,
       "song": {
         "id": "west-1987-30",
-        "title": "Broken Flame",
+        "title": "Chasing Shadow",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 48,
+      "rank": 31,
       "song": {
-        "id": "west-1987-48",
-        "title": "Dancing Sky",
+        "id": "west-1987-31",
+        "title": "Summer Forever",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 59,
+      "rank": 34,
       "song": {
-        "id": "west-1987-59",
-        "title": "Never Ocean",
+        "id": "west-1987-34",
+        "title": "Wild Thunder",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 62,
+      "rank": 52,
       "song": {
-        "id": "west-1987-62",
-        "title": "Thunder Sky",
+        "id": "west-1987-52",
+        "title": "Under the Bridge",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 63,
+      "rank": 71,
       "song": {
-        "id": "west-1987-63",
-        "title": "Falling Light",
+        "id": "west-1987-71",
+        "title": "Shining Gold",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 87,
+      "rank": 80,
       "song": {
-        "id": "west-1987-87",
-        "title": "Sun Moonlight",
+        "id": "west-1987-80",
+        "title": "Midnight Wind",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 39,
+      "rank": 95,
       "song": {
-        "id": "west-1986-39",
-        "title": "Silver Forever",
+        "id": "west-1987-95",
+        "title": "Never Moon",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1986-53",
+        "title": "Falling Road",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 45,
+      "rank": 72,
       "song": {
-        "id": "west-1986-45",
-        "title": "Golden Fire",
+        "id": "west-1986-72",
+        "title": "Running Shadow",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1986-50",
-        "title": "Lost in Road",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1986-65",
-        "title": "Never Fire",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1986-75",
-        "title": "Falling Sun",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -292,322 +409,244 @@
       "rank": 84,
       "song": {
         "id": "west-1986-84",
-        "title": "Sweet Moon",
+        "title": "Silver Lights",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 43,
+      "rank": 97,
       "song": {
-        "id": "west-1985-43",
-        "title": "Rose Sky",
+        "id": "west-1986-97",
+        "title": "Into the Mountain",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1985-26",
+        "title": "Shining Light",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 62,
+      "rank": 32,
       "song": {
-        "id": "west-1985-62",
-        "title": "Sweet Diamond",
+        "id": "west-1985-32",
+        "title": "Crystal Sky",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 69,
+      "rank": 34,
       "song": {
-        "id": "west-1985-69",
-        "title": "Falling Star",
+        "id": "west-1985-34",
+        "title": "River Soul",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1985
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1985-70",
-        "title": "Dancing Storm",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1985-75",
-        "title": "Never Sky",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1985-84",
-        "title": "Snow Fire",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1985-85",
-        "title": "Never River",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 9,
-      "song": {
-        "id": "west-1984-09",
-        "title": "Karma Chameleon",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1984-21",
-        "title": "Rain Rain",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1984-37",
-        "title": "Mountain Tears",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1984
     },
     {
       "rank": 49,
       "song": {
-        "id": "west-1984-49",
-        "title": "Falling Storm",
+        "id": "west-1985-49",
+        "title": "Wild Snow",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1984
+      "year": 1985
     },
     {
-      "rank": 66,
+      "rank": 29,
       "song": {
-        "id": "west-1984-66",
-        "title": "Wave Forever",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1984-76",
-        "title": "Sweet Moon",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1984-82",
+        "id": "west-1984-29",
         "title": "Star Sky",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 89,
+      "rank": 65,
       "song": {
-        "id": "west-1984-89",
-        "title": "Rose Forever",
+        "id": "west-1984-65",
+        "title": "Golden Dusk",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 90,
+      "rank": 69,
       "song": {
-        "id": "west-1984-90",
-        "title": "Sweet Rose",
+        "id": "west-1984-69",
+        "title": "Silver Night",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 14,
+      "rank": 71,
       "song": {
-        "id": "west-1983-14",
-        "title": "Into the Shadow",
+        "id": "west-1984-71",
+        "title": "Storm Lights",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1984-81",
+        "title": "Never Summer",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1983-19",
+        "title": "Golden Fire",
+        "artist": {
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 46,
+      "rank": 20,
       "song": {
-        "id": "west-1983-46",
-        "title": "Ocean Forever",
+        "id": "west-1983-20",
+        "title": "Dusk Love",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 47,
+      "rank": 33,
       "song": {
-        "id": "west-1983-47",
-        "title": "Moon Way",
+        "id": "west-1983-33",
+        "title": "Running Gold",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 56,
+      "rank": 35,
       "song": {
-        "id": "west-1983-56",
-        "title": "Snow Forever",
+        "id": "west-1983-35",
+        "title": "Bridge Tears",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 66,
+      "rank": 42,
       "song": {
-        "id": "west-1983-66",
-        "title": "Wild River",
+        "id": "west-1983-42",
+        "title": "Moon Night",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 76,
+      "rank": 86,
       "song": {
-        "id": "west-1983-76",
-        "title": "Dusk Moonlight",
+        "id": "west-1983-86",
+        "title": "Never Silver",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1983
     },
     {
-      "rank": 88,
+      "rank": 17,
       "song": {
-        "id": "west-1983-88",
-        "title": "Rose Fire",
+        "id": "west-1982-17",
+        "title": "Wild Winter",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1982
     },
     {
-      "rank": 39,
+      "rank": 37,
       "song": {
-        "id": "west-1982-39",
-        "title": "Summer Forever",
+        "id": "west-1982-37",
+        "title": "Diamond Fire",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -617,75 +656,75 @@
       "rank": 46,
       "song": {
         "id": "west-1982-46",
-        "title": "Fading Fire",
+        "title": "Mountain Dreams",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 47,
+      "rank": 50,
       "song": {
-        "id": "west-1982-47",
-        "title": "Dancing Storm",
+        "id": "west-1982-50",
+        "title": "Last Sun",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 63,
+      "rank": 74,
       "song": {
-        "id": "west-1982-63",
-        "title": "Never Summer",
+        "id": "west-1982-74",
+        "title": "Wild Rain",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 70,
+      "rank": 79,
       "song": {
-        "id": "west-1982-70",
-        "title": "Light Night",
+        "id": "west-1982-79",
+        "title": "Snow Tears",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1982
     },
     {
-      "rank": 32,
+      "rank": 97,
       "song": {
-        "id": "west-1981-32",
-        "title": "Shining Road",
+        "id": "west-1982-97",
+        "title": "Light Sky",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
-      "year": 1981
+      "year": 1982
     },
     {
-      "rank": 54,
+      "rank": 41,
       "song": {
-        "id": "west-1981-54",
-        "title": "Summer Way",
+        "id": "west-1981-41",
+        "title": "Midnight Gold",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
@@ -695,153 +734,49 @@
       "rank": 65,
       "song": {
         "id": "west-1981-65",
-        "title": "Mountain Moonlight",
+        "title": "Lost in Snow",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 80,
+      "rank": 74,
       "song": {
-        "id": "west-1981-80",
-        "title": "Crystal Moonlight",
+        "id": "west-1981-74",
+        "title": "Thunder Moonlight",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 82,
+      "rank": 29,
       "song": {
-        "id": "west-1981-82",
-        "title": "Electric City",
+        "id": "west-1980-29",
+        "title": "Falling Summer",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1980-26",
-        "title": "City Soul",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 37,
+      "rank": 62,
       "song": {
-        "id": "west-1980-37",
-        "title": "Wind Rain",
+        "id": "west-1980-62",
+        "title": "Chasing Summer",
         "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1980-52",
-        "title": "Golden Gold",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1980-66",
-        "title": "River Lights",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1980-71",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1980-84",
-        "title": "Chasing Shadow",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1980-85",
-        "title": "Ocean Night",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1980-90",
-        "title": "Wave Sky",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1980-96",
-        "title": "Storm Moonlight",
-        "artist": {
-          "id": "a-culture-club",
-          "name": "Culture Club"
+          "id": "a-bon-jovi",
+          "name": "Bon Jovi"
         },
         "genre": "western"
       },

@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-2015-37",
-    "title": "太陽物語",
+    "title": "雨メロディ",
     "artist": {
       "id": "a-aimyon",
       "name": "あいみょん"
@@ -12,14 +12,14 @@
   "rank": 37,
   "cdInfo": [
     {
-      "title": "太陽物語",
+      "title": "雨メロディ",
       "type": "single",
-      "releaseDate": "2015-11-25"
+      "releaseDate": "2015-01-04"
     },
     {
-      "title": "恋アルバム",
+      "title": "夜セレクション",
       "type": "album",
-      "releaseDate": "2015-11-23"
+      "releaseDate": "2015-01-13"
     }
   ],
   "externalLinks": {
@@ -42,10 +42,10 @@
       "year": 2025
     },
     {
-      "rank": 22,
+      "rank": 13,
       "song": {
-        "id": "jpop-2025-22",
-        "title": "涙の雨",
+        "id": "jpop-2025-13",
+        "title": "ミッドナイト森",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -55,10 +55,10 @@
       "year": 2025
     },
     {
-      "rank": 30,
+      "rank": 16,
       "song": {
-        "id": "jpop-2025-30",
-        "title": "雪の街",
+        "id": "jpop-2025-16",
+        "title": "海サンセット",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -68,10 +68,10 @@
       "year": 2025
     },
     {
-      "rank": 57,
+      "rank": 23,
       "song": {
-        "id": "jpop-2025-57",
-        "title": "風の夏",
+        "id": "jpop-2025-23",
+        "title": "約束の雪",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -81,10 +81,49 @@
       "year": 2025
     },
     {
-      "rank": 74,
+      "rank": 32,
       "song": {
-        "id": "jpop-2025-74",
-        "title": "約束フォーエバー",
+        "id": "jpop-2025-32",
+        "title": "街の季節",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-2025-63",
+        "title": "風の光",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-2025-65",
+        "title": "太陽の空",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-2025-69",
+        "title": "光の道",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -97,7 +136,7 @@
       "rank": 77,
       "song": {
         "id": "jpop-2025-77",
-        "title": "時間の空",
+        "title": "記憶ストーリー",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -110,7 +149,7 @@
       "rank": 84,
       "song": {
         "id": "jpop-2025-84",
-        "title": "恋の約束",
+        "title": "世界の道",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -120,23 +159,10 @@
       "year": 2025
     },
     {
-      "rank": 90,
+      "rank": 22,
       "song": {
-        "id": "jpop-2025-90",
-        "title": "未来の歌",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-2023-44",
-        "title": "雨の空",
+        "id": "jpop-2023-22",
+        "title": "影物語",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -146,10 +172,10 @@
       "year": 2023
     },
     {
-      "rank": 52,
+      "rank": 26,
       "song": {
-        "id": "jpop-2023-52",
-        "title": "希望の季節",
+        "id": "jpop-2023-26",
+        "title": "夢の約束",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -159,10 +185,10 @@
       "year": 2023
     },
     {
-      "rank": 55,
+      "rank": 39,
       "song": {
-        "id": "jpop-2023-55",
-        "title": "君の風",
+        "id": "jpop-2023-39",
+        "title": "最後の虹",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -172,10 +198,10 @@
       "year": 2023
     },
     {
-      "rank": 95,
+      "rank": 56,
       "song": {
-        "id": "jpop-2023-95",
-        "title": "桜の季節",
+        "id": "jpop-2023-56",
+        "title": "愛の光",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -185,10 +211,23 @@
       "year": 2023
     },
     {
-      "rank": 24,
+      "rank": 82,
       "song": {
-        "id": "jpop-2022-24",
-        "title": "朝ストーリー",
+        "id": "jpop-2023-82",
+        "title": "空メロディ",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-2022-23",
+        "title": "夢物語",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -198,10 +237,10 @@
       "year": 2022
     },
     {
-      "rank": 29,
+      "rank": 65,
       "song": {
-        "id": "jpop-2022-29",
-        "title": "恋の道",
+        "id": "jpop-2022-65",
+        "title": "永遠の愛",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -211,10 +250,10 @@
       "year": 2022
     },
     {
-      "rank": 49,
+      "rank": 96,
       "song": {
-        "id": "jpop-2022-49",
-        "title": "夏の夜",
+        "id": "jpop-2022-96",
+        "title": "愛の光",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -224,23 +263,10 @@
       "year": 2022
     },
     {
-      "rank": 86,
+      "rank": 21,
       "song": {
-        "id": "jpop-2022-86",
-        "title": "雨の季節",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2021-25",
-        "title": "虹の花",
+        "id": "jpop-2021-21",
+        "title": "海の空",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -250,10 +276,10 @@
       "year": 2021
     },
     {
-      "rank": 42,
+      "rank": 32,
       "song": {
-        "id": "jpop-2021-42",
-        "title": "街の道",
+        "id": "jpop-2021-32",
+        "title": "恋の海",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -263,10 +289,10 @@
       "year": 2021
     },
     {
-      "rank": 47,
+      "rank": 46,
       "song": {
-        "id": "jpop-2021-47",
-        "title": "愛の夜",
+        "id": "jpop-2021-46",
+        "title": "永遠の月",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -276,10 +302,36 @@
       "year": 2021
     },
     {
-      "rank": 76,
+      "rank": 63,
       "song": {
-        "id": "jpop-2021-76",
+        "id": "jpop-2021-63",
+        "title": "約束の花",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-2021-80",
         "title": "希望サンセット",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-2021-99",
+        "title": "風の波",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -302,10 +354,10 @@
       "year": 2020
     },
     {
-      "rank": 24,
+      "rank": 12,
       "song": {
-        "id": "jpop-2020-24",
-        "title": "約束の光",
+        "id": "jpop-2020-12",
+        "title": "未来の花",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -315,10 +367,10 @@
       "year": 2020
     },
     {
-      "rank": 27,
+      "rank": 14,
       "song": {
-        "id": "jpop-2020-27",
-        "title": "約束の季節",
+        "id": "jpop-2020-14",
+        "title": "影の光",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -328,10 +380,10 @@
       "year": 2020
     },
     {
-      "rank": 31,
+      "rank": 38,
       "song": {
-        "id": "jpop-2020-31",
-        "title": "約束の夢",
+        "id": "jpop-2020-38",
+        "title": "最後の朝",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -341,9 +393,35 @@
       "year": 2020
     },
     {
-      "rank": 67,
+      "rank": 44,
       "song": {
-        "id": "jpop-2020-67",
+        "id": "jpop-2020-44",
+        "title": "約束フォーエバー",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2020-57",
+        "title": "風の星",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-2020-73",
         "title": "雪フォーエバー",
         "artist": {
           "id": "a-aimyon",
@@ -354,10 +432,10 @@
       "year": 2020
     },
     {
-      "rank": 76,
+      "rank": 98,
       "song": {
-        "id": "jpop-2020-76",
-        "title": "夏の記憶",
+        "id": "jpop-2020-98",
+        "title": "風の桜",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -367,49 +445,10 @@
       "year": 2020
     },
     {
-      "rank": 78,
+      "rank": 100,
       "song": {
-        "id": "jpop-2020-78",
-        "title": "夢のリズム",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2020-86",
-        "title": "永遠の記憶",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-2020-95",
-        "title": "空フォーエバー",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-2020-96",
-        "title": "約束の街",
+        "id": "jpop-2020-100",
+        "title": "桜物語",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -445,10 +484,10 @@
       "year": 2019
     },
     {
-      "rank": 24,
+      "rank": 14,
       "song": {
-        "id": "jpop-2019-24",
-        "title": "光フォーエバー",
+        "id": "jpop-2019-14",
+        "title": "青い影",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -458,10 +497,10 @@
       "year": 2019
     },
     {
-      "rank": 35,
+      "rank": 16,
       "song": {
-        "id": "jpop-2019-35",
-        "title": "夢の桜",
+        "id": "jpop-2019-16",
+        "title": "夜の約束",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -471,10 +510,10 @@
       "year": 2019
     },
     {
-      "rank": 38,
+      "rank": 34,
       "song": {
-        "id": "jpop-2019-38",
-        "title": "涙の影",
+        "id": "jpop-2019-34",
+        "title": "夢の雨",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -484,9 +523,22 @@
       "year": 2019
     },
     {
-      "rank": 54,
+      "rank": 51,
       "song": {
-        "id": "jpop-2019-54",
+        "id": "jpop-2019-51",
+        "title": "雨の記憶",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-2019-58",
         "title": "記憶の道",
         "artist": {
           "id": "a-aimyon",
@@ -497,9 +549,9 @@
       "year": 2019
     },
     {
-      "rank": 55,
+      "rank": 59,
       "song": {
-        "id": "jpop-2019-55",
+        "id": "jpop-2019-59",
         "title": "波ストーリー",
         "artist": {
           "id": "a-aimyon",
@@ -510,36 +562,10 @@
       "year": 2019
     },
     {
-      "rank": 68,
+      "rank": 74,
       "song": {
-        "id": "jpop-2019-68",
-        "title": "約束のかけら",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-2019-71",
-        "title": "夏の光",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-2019-80",
-        "title": "最後の雪",
+        "id": "jpop-2019-74",
+        "title": "夏の道",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -552,7 +578,7 @@
       "rank": 86,
       "song": {
         "id": "jpop-2019-86",
-        "title": "風フォーエバー",
+        "title": "空の光",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -562,10 +588,10 @@
       "year": 2019
     },
     {
-      "rank": 88,
+      "rank": 87,
       "song": {
-        "id": "jpop-2019-88",
-        "title": "涙の星",
+        "id": "jpop-2019-87",
+        "title": "真夜中の虹",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -575,10 +601,23 @@
       "year": 2019
     },
     {
-      "rank": 91,
+      "rank": 92,
       "song": {
-        "id": "jpop-2019-91",
-        "title": "雪の光",
+        "id": "jpop-2019-92",
+        "title": "朝のかけら",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2019-100",
+        "title": "最後の恋",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -604,7 +643,7 @@
       "rank": 11,
       "song": {
         "id": "jpop-2018-11",
-        "title": "涙の冬",
+        "title": "約束の夜",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -614,10 +653,10 @@
       "year": 2018
     },
     {
-      "rank": 19,
+      "rank": 17,
       "song": {
-        "id": "jpop-2018-19",
-        "title": "愛の花",
+        "id": "jpop-2018-17",
+        "title": "夢のリズム",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -627,10 +666,10 @@
       "year": 2018
     },
     {
-      "rank": 42,
+      "rank": 27,
       "song": {
-        "id": "jpop-2018-42",
-        "title": "青い星",
+        "id": "jpop-2018-27",
+        "title": "旅の記憶",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -640,10 +679,10 @@
       "year": 2018
     },
     {
-      "rank": 51,
+      "rank": 30,
       "song": {
-        "id": "jpop-2018-51",
-        "title": "月の空",
+        "id": "jpop-2018-30",
+        "title": "時間のリズム",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -651,51 +690,103 @@
         "genre": "jpop"
       },
       "year": 2018
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-2018-53",
-        "title": "桜の道",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-2017-15",
-        "title": "雪の光",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-2017-31",
-        "title": "虹の空",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2017
     },
     {
       "rank": 36,
       "song": {
-        "id": "jpop-2017-36",
-        "title": "青い約束",
+        "id": "jpop-2018-36",
+        "title": "希望の空",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "jpop-2018-46",
+        "title": "冬メロディ",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2018-48",
+        "title": "風の波",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2018-55",
+        "title": "虹ストーリー",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-2018-66",
+        "title": "月の夜",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-2018-75",
+        "title": "未来の夜",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-2018-84",
+        "title": "君の旅",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-2017-21",
+        "title": "君の恋",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -705,10 +796,10 @@
       "year": 2017
     },
     {
-      "rank": 63,
+      "rank": 27,
       "song": {
-        "id": "jpop-2017-63",
-        "title": "最後の夢",
+        "id": "jpop-2017-27",
+        "title": "朝の空",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -718,10 +809,10 @@
       "year": 2017
     },
     {
-      "rank": 73,
+      "rank": 52,
       "song": {
-        "id": "jpop-2017-73",
-        "title": "約束の時間",
+        "id": "jpop-2017-52",
+        "title": "時間の光",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -731,10 +822,10 @@
       "year": 2017
     },
     {
-      "rank": 74,
+      "rank": 60,
       "song": {
-        "id": "jpop-2017-74",
-        "title": "約束物語",
+        "id": "jpop-2017-60",
+        "title": "世界サンセット",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -744,9 +835,48 @@
       "year": 2017
     },
     {
-      "rank": 85,
+      "rank": 67,
       "song": {
-        "id": "jpop-2017-85",
+        "id": "jpop-2017-67",
+        "title": "星の旅",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-2017-78",
+        "title": "桜の夜",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2017-82",
+        "title": "影フォーエバー",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2017-89",
         "title": "冬の空",
         "artist": {
           "id": "a-aimyon",
@@ -757,9 +887,9 @@
       "year": 2017
     },
     {
-      "rank": 92,
+      "rank": 96,
       "song": {
-        "id": "jpop-2017-92",
+        "id": "jpop-2017-96",
         "title": "夏の記憶",
         "artist": {
           "id": "a-aimyon",
@@ -770,23 +900,10 @@
       "year": 2017
     },
     {
-      "rank": 97,
+      "rank": 21,
       "song": {
-        "id": "jpop-2017-97",
-        "title": "真夜中の空",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-2016-34",
-        "title": "太陽メロディ",
+        "id": "jpop-2016-21",
+        "title": "光メロディ",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -796,10 +913,10 @@
       "year": 2016
     },
     {
-      "rank": 47,
+      "rank": 44,
       "song": {
-        "id": "jpop-2016-47",
-        "title": "希望の約束",
+        "id": "jpop-2016-44",
+        "title": "涙の風",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -809,10 +926,10 @@
       "year": 2016
     },
     {
-      "rank": 81,
+      "rank": 78,
       "song": {
-        "id": "jpop-2016-81",
-        "title": "街ストーリー",
+        "id": "jpop-2016-78",
+        "title": "恋の波",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -822,10 +939,10 @@
       "year": 2016
     },
     {
-      "rank": 87,
+      "rank": 96,
       "song": {
-        "id": "jpop-2016-87",
-        "title": "君の旅",
+        "id": "jpop-2016-96",
+        "title": "記憶フォーエバー",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -835,23 +952,10 @@
       "year": 2016
     },
     {
-      "rank": 95,
+      "rank": 14,
       "song": {
-        "id": "jpop-2016-95",
-        "title": "星の未来",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-2015-34",
-        "title": "ミッドナイト恋",
+        "id": "jpop-2015-14",
+        "title": "月の記憶",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -861,10 +965,10 @@
       "year": 2015
     },
     {
-      "rank": 61,
+      "rank": 15,
       "song": {
-        "id": "jpop-2015-61",
-        "title": "風の空",
+        "id": "jpop-2015-15",
+        "title": "風の未来",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -874,10 +978,36 @@
       "year": 2015
     },
     {
-      "rank": 69,
+      "rank": 22,
       "song": {
-        "id": "jpop-2015-69",
-        "title": "旅の季節",
+        "id": "jpop-2015-22",
+        "title": "夢の桜",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-2015-49",
+        "title": "雨のリズム",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-2015-59",
+        "title": "夢の約束",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -890,7 +1020,7 @@
       "rank": 75,
       "song": {
         "id": "jpop-2015-75",
-        "title": "涙の記憶",
+        "title": "旅の季節",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -900,10 +1030,10 @@
       "year": 2015
     },
     {
-      "rank": 77,
+      "rank": 81,
       "song": {
-        "id": "jpop-2015-77",
-        "title": "花の花",
+        "id": "jpop-2015-81",
+        "title": "冬の約束",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -913,139 +1043,9 @@
       "year": 2015
     },
     {
-      "rank": 84,
+      "rank": 97,
       "song": {
-        "id": "jpop-2015-84",
-        "title": "真夜中の記憶",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-2015-91",
-        "title": "海物語",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-2015-95",
-        "title": "桜の歌",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-2014-58",
-        "title": "光の約束",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-2014-62",
-        "title": "雪の記憶",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2014-75",
-        "title": "雪のかけら",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-2014-94",
-        "title": "真夜中の虹",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-2014-99",
-        "title": "世界の約束",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-2013-15",
-        "title": "真夜中の風",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-2013-28",
-        "title": "約束の影",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2013-42",
+        "id": "jpop-2015-97",
         "title": "風の約束",
         "artist": {
           "id": "a-aimyon",
@@ -1053,12 +1053,90 @@
         },
         "genre": "jpop"
       },
+      "year": 2015
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-2014-17",
+        "title": "真夜中の希望",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-2014-44",
+        "title": "雨の空",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2014-57",
+        "title": "旅の季節",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2014-77",
+        "title": "真夜中の海",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-2013-31",
+        "title": "約束のかけら",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
       "year": 2013
     },
     {
-      "rank": 46,
+      "rank": 49,
       "song": {
-        "id": "jpop-2013-46",
+        "id": "jpop-2013-49",
+        "title": "花のリズム",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2013-50",
         "title": "約束の朝",
         "artist": {
           "id": "a-aimyon",
@@ -1069,10 +1147,10 @@
       "year": 2013
     },
     {
-      "rank": 55,
+      "rank": 68,
       "song": {
-        "id": "jpop-2013-55",
-        "title": "海の光",
+        "id": "jpop-2013-68",
+        "title": "夢の未来",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1082,36 +1160,10 @@
       "year": 2013
     },
     {
-      "rank": 61,
+      "rank": 75,
       "song": {
-        "id": "jpop-2013-61",
-        "title": "世界ストーリー",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-2013-65",
-        "title": "愛物語",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-2013-83",
-        "title": "桜フォーエバー",
+        "id": "jpop-2013-75",
+        "title": "恋の太陽",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1124,7 +1176,7 @@
       "rank": 88,
       "song": {
         "id": "jpop-2013-88",
-        "title": "星の世界",
+        "title": "ミッドナイト虹",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1134,10 +1186,23 @@
       "year": 2013
     },
     {
-      "rank": 24,
+      "rank": 90,
       "song": {
-        "id": "jpop-2012-24",
-        "title": "太陽のかけら",
+        "id": "jpop-2013-90",
+        "title": "風の雨",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2012-15",
+        "title": "君の影",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1147,10 +1212,10 @@
       "year": 2012
     },
     {
-      "rank": 26,
+      "rank": 61,
       "song": {
-        "id": "jpop-2012-26",
-        "title": "君の恋",
+        "id": "jpop-2012-61",
+        "title": "時間の光",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1160,10 +1225,10 @@
       "year": 2012
     },
     {
-      "rank": 33,
+      "rank": 66,
       "song": {
-        "id": "jpop-2012-33",
-        "title": "雪ストーリー",
+        "id": "jpop-2012-66",
+        "title": "恋の記憶",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1173,10 +1238,10 @@
       "year": 2012
     },
     {
-      "rank": 77,
+      "rank": 81,
       "song": {
-        "id": "jpop-2012-77",
-        "title": "海の約束",
+        "id": "jpop-2012-81",
+        "title": "未来の季節",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1186,10 +1251,10 @@
       "year": 2012
     },
     {
-      "rank": 82,
+      "rank": 89,
       "song": {
-        "id": "jpop-2012-82",
-        "title": "光フォーエバー",
+        "id": "jpop-2012-89",
+        "title": "恋の恋",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1199,36 +1264,10 @@
       "year": 2012
     },
     {
-      "rank": 88,
+      "rank": 96,
       "song": {
-        "id": "jpop-2012-88",
-        "title": "愛の光",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2012-93",
-        "title": "記憶の空",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2012-97",
-        "title": "夢の波",
+        "id": "jpop-2012-96",
+        "title": "夜の海",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1241,7 +1280,46 @@
       "rank": 11,
       "song": {
         "id": "jpop-2011-11",
-        "title": "世界ストーリー",
+        "title": "約束の冬",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-2011-34",
+        "title": "桜の街",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2011-82",
+        "title": "光の光",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-2011-90",
+        "title": "雨ストーリー",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1253,60 +1331,8 @@
     {
       "rank": 45,
       "song": {
-        "id": "jpop-2011-45",
-        "title": "星の虹",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-2011-51",
-        "title": "太陽の街",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-2011-78",
-        "title": "夜の約束",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2011-86",
-        "title": "光物語",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2010-18",
-        "title": "ミッドナイト朝",
+        "id": "jpop-2010-45",
+        "title": "夢の森",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1316,49 +1342,10 @@
       "year": 2010
     },
     {
-      "rank": 20,
+      "rank": 63,
       "song": {
-        "id": "jpop-2010-20",
-        "title": "夏の空",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2010-25",
-        "title": "雪の街",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-2010-54",
-        "title": "街のリズム",
-        "artist": {
-          "id": "a-aimyon",
-          "name": "あいみょん"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-2010-55",
-        "title": "青い冬",
+        "id": "jpop-2010-63",
+        "title": "世界のかけら",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"
@@ -1371,7 +1358,20 @@
       "rank": 66,
       "song": {
         "id": "jpop-2010-66",
-        "title": "桜の夜",
+        "title": "未来の歌",
+        "artist": {
+          "id": "a-aimyon",
+          "name": "あいみょん"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2010-88",
+        "title": "恋サンセット",
         "artist": {
           "id": "a-aimyon",
           "name": "あいみょん"

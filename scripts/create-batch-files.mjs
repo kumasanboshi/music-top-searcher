@@ -299,8 +299,11 @@ function generateEntries(year, genre, existingEntries) {
 
   const albumTemplates = genre === 'jpop' ? jpopAlbumTemplates : westernAlbumTemplates;
 
+  // Only use entries 1-10 from existing data (avoid duplicates)
+  const top10Entries = existingEntries.filter(e => e.rank <= 10);
+
   // Convert existing entries to batch format
-  const entries = existingEntries.map(e => {
+  const entries = top10Entries.map(e => {
     const entry = {
       rank: e.rank,
       title: e.song.title,

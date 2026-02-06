@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1981-79",
-    "title": "Shining City",
+    "title": "Into the Light",
     "artist": {
       "id": "a-wham",
       "name": "Wham!"
@@ -12,14 +12,14 @@
   "rank": 79,
   "cdInfo": [
     {
-      "title": "Shining City",
+      "title": "Into the Light",
       "type": "single",
-      "releaseDate": "1981-07-15"
+      "releaseDate": "1981-10-24"
     },
     {
-      "title": "River Collection",
+      "title": "The Crystal Album",
       "type": "album",
-      "releaseDate": "1981-07-10"
+      "releaseDate": "1981-02-11"
     }
   ],
   "externalLinks": {
@@ -29,10 +29,10 @@
   },
   "artistSongs": [
     {
-      "rank": 31,
+      "rank": 20,
       "song": {
-        "id": "west-1989-31",
-        "title": "Last Storm",
+        "id": "west-1989-20",
+        "title": "Chasing Wave",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -40,168 +40,220 @@
         "genre": "western"
       },
       "year": 1989
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1989-68",
-        "title": "Last Dusk",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1989-76",
-        "title": "Lost in City",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1989-85",
-        "title": "Into the Bridge",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1989-86",
-        "title": "Diamond Love",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1988-28",
-        "title": "Last Mountain",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1988-37",
-        "title": "River Sky",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1988-40",
-        "title": "City Forever",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1988-66",
-        "title": "Thunder Rain",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1988-75",
-        "title": "Never Ocean",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1987-12",
-        "title": "Snow Moonlight",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1987-72",
-        "title": "Wind Love",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1987-75",
-        "title": "Fading Winter",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1987
     },
     {
       "rank": 23,
       "song": {
-        "id": "west-1986-23",
-        "title": "Fire Heart",
+        "id": "west-1989-23",
+        "title": "Storm Fire",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1989-32",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1989-37",
+        "title": "Dancing City",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1989-82",
+        "title": "City Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1989-99",
+        "title": "Shining Fire",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1988-12",
+        "title": "Dancing Winter",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1988-32",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1988-49",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1988-74",
+        "title": "Ice Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1988-86",
+        "title": "Snow Lights",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1987-22",
+        "title": "Into the River",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1987-33",
+        "title": "Winter Heart",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1987-62",
+        "title": "Bridge Soul",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1987-63",
+        "title": "Mountain Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1987-88",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1987-100",
+        "title": "Star Fire",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1986-57",
+        "title": "Midnight Thunder",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -211,48 +263,9 @@
       "year": 1986
     },
     {
-      "rank": 59,
+      "rank": 95,
       "song": {
-        "id": "west-1986-59",
-        "title": "Dusk Love",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1986-71",
-        "title": "Ocean Night",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1986-76",
-        "title": "Golden Diamond",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1986-89",
+        "id": "west-1986-95",
         "title": "Shining Light",
         "artist": {
           "id": "a-wham",
@@ -263,9 +276,9 @@
       "year": 1986
     },
     {
-      "rank": 93,
+      "rank": 99,
       "song": {
-        "id": "west-1986-93",
+        "id": "west-1986-99",
         "title": "Sweet Diamond",
         "artist": {
           "id": "a-wham",
@@ -302,10 +315,10 @@
       "year": 1985
     },
     {
-      "rank": 20,
+      "rank": 25,
       "song": {
-        "id": "west-1985-20",
-        "title": "Fading Dawn",
+        "id": "west-1985-25",
+        "title": "Never Summer",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -315,9 +328,22 @@
       "year": 1985
     },
     {
-      "rank": 61,
+      "rank": 40,
       "song": {
-        "id": "west-1985-61",
+        "id": "west-1985-40",
+        "title": "Ice Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1985-65",
         "title": "Chasing Gold",
         "artist": {
           "id": "a-wham",
@@ -328,10 +354,10 @@
       "year": 1985
     },
     {
-      "rank": 81,
+      "rank": 90,
       "song": {
-        "id": "west-1985-81",
-        "title": "Wild Rain",
+        "id": "west-1985-90",
+        "title": "Dancing Flame",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -344,7 +370,7 @@
       "rank": 92,
       "song": {
         "id": "west-1985-92",
-        "title": "Gold Lights",
+        "title": "Crystal Love",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -357,7 +383,7 @@
       "rank": 94,
       "song": {
         "id": "west-1985-94",
-        "title": "Under the Ocean",
+        "title": "Wild Ice",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -367,10 +393,10 @@
       "year": 1985
     },
     {
-      "rank": 12,
+      "rank": 26,
       "song": {
-        "id": "west-1984-12",
-        "title": "Sky Tears",
+        "id": "west-1984-26",
+        "title": "Wind Rain",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -380,10 +406,10 @@
       "year": 1984
     },
     {
-      "rank": 39,
+      "rank": 44,
       "song": {
-        "id": "west-1984-39",
-        "title": "River Forever",
+        "id": "west-1984-44",
+        "title": "Moon Love",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -393,10 +419,10 @@
       "year": 1984
     },
     {
-      "rank": 85,
+      "rank": 84,
       "song": {
-        "id": "west-1984-85",
-        "title": "Electric River",
+        "id": "west-1984-84",
+        "title": "Shadow Rain",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -406,10 +432,10 @@
       "year": 1984
     },
     {
-      "rank": 87,
+      "rank": 93,
       "song": {
-        "id": "west-1984-87",
-        "title": "Wild Sun",
+        "id": "west-1984-93",
+        "title": "Storm Love",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -419,10 +445,10 @@
       "year": 1984
     },
     {
-      "rank": 96,
+      "rank": 97,
       "song": {
-        "id": "west-1984-96",
-        "title": "Sun Love",
+        "id": "west-1984-97",
+        "title": "Flame Moonlight",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -432,35 +458,9 @@
       "year": 1984
     },
     {
-      "rank": 16,
+      "rank": 34,
       "song": {
-        "id": "west-1983-16",
-        "title": "Flame Way",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1983-22",
-        "title": "River Rain",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1983-32",
+        "id": "west-1983-34",
         "title": "Gold Soul",
         "artist": {
           "id": "a-wham",
@@ -471,10 +471,10 @@
       "year": 1983
     },
     {
-      "rank": 39,
+      "rank": 91,
       "song": {
-        "id": "west-1983-39",
-        "title": "Ocean Fire",
+        "id": "west-1983-91",
+        "title": "Running Snow",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -484,10 +484,10 @@
       "year": 1983
     },
     {
-      "rank": 86,
+      "rank": 100,
       "song": {
-        "id": "west-1983-86",
-        "title": "Broken Light",
+        "id": "west-1983-100",
+        "title": "Wild Bridge",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -497,62 +497,10 @@
       "year": 1983
     },
     {
-      "rank": 12,
+      "rank": 14,
       "song": {
-        "id": "west-1982-12",
-        "title": "Midnight Gold",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1982-21",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1982-31",
-        "title": "Crystal Sky",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1982-74",
-        "title": "Running City",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1982-77",
-        "title": "Chasing Rain",
+        "id": "west-1982-14",
+        "title": "Wild Road",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -564,8 +512,86 @@
     {
       "rank": 36,
       "song": {
-        "id": "west-1981-36",
-        "title": "Shining Crystal",
+        "id": "west-1982-36",
+        "title": "Broken Fire",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1982-48",
+        "title": "Last Bridge",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1982-49",
+        "title": "Summer Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1982-63",
+        "title": "Electric Crystal",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1982-94",
+        "title": "Into the Silver",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1982-96",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1981-17",
+        "title": "Wild Snow",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -575,9 +601,9 @@
       "year": 1981
     },
     {
-      "rank": 40,
+      "rank": 44,
       "song": {
-        "id": "west-1981-40",
+        "id": "west-1981-44",
         "title": "Running Summer",
         "artist": {
           "id": "a-wham",
@@ -588,10 +614,10 @@
       "year": 1981
     },
     {
-      "rank": 73,
+      "rank": 51,
       "song": {
-        "id": "west-1981-73",
-        "title": "Into the Light",
+        "id": "west-1981-51",
+        "title": "Shining Mountain",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -601,9 +627,22 @@
       "year": 1981
     },
     {
-      "rank": 75,
+      "rank": 68,
       "song": {
-        "id": "west-1981-75",
+        "id": "west-1981-68",
+        "title": "Summer Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1981-81",
         "title": "Wild Sky",
         "artist": {
           "id": "a-wham",
@@ -614,9 +653,9 @@
       "year": 1981
     },
     {
-      "rank": 91,
+      "rank": 97,
       "song": {
-        "id": "west-1981-91",
+        "id": "west-1981-97",
         "title": "Sky Dreams",
         "artist": {
           "id": "a-wham",
@@ -627,10 +666,10 @@
       "year": 1981
     },
     {
-      "rank": 25,
+      "rank": 14,
       "song": {
-        "id": "west-1980-25",
-        "title": "Snow Night",
+        "id": "west-1980-14",
+        "title": "Golden City",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -643,7 +682,7 @@
       "rank": 31,
       "song": {
         "id": "west-1980-31",
-        "title": "Midnight Sky",
+        "title": "Rain Soul",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -653,10 +692,10 @@
       "year": 1980
     },
     {
-      "rank": 48,
+      "rank": 55,
       "song": {
-        "id": "west-1980-48",
-        "title": "Shadow Love",
+        "id": "west-1980-55",
+        "title": "Rose Soul",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -666,22 +705,9 @@
       "year": 1980
     },
     {
-      "rank": 56,
+      "rank": 67,
       "song": {
-        "id": "west-1980-56",
-        "title": "Chasing Summer",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1980-61",
+        "id": "west-1980-67",
         "title": "Sweet Silver",
         "artist": {
           "id": "a-wham",
@@ -692,10 +718,10 @@
       "year": 1980
     },
     {
-      "rank": 81,
+      "rank": 85,
       "song": {
-        "id": "west-1980-81",
-        "title": "Bridge Night",
+        "id": "west-1980-85",
+        "title": "Thunder Moonlight",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"
@@ -705,23 +731,10 @@
       "year": 1980
     },
     {
-      "rank": 83,
+      "rank": 97,
       "song": {
-        "id": "west-1980-83",
-        "title": "Silver Rain",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1980-86",
-        "title": "Running Ocean",
+        "id": "west-1980-97",
+        "title": "Summer Lights",
         "artist": {
           "id": "a-wham",
           "name": "Wham!"

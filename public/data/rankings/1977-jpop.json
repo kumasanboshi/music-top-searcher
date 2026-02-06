@@ -138,10 +138,10 @@
       "rank": 12,
       "song": {
         "id": "jpop-1977-12",
-        "title": "影の花",
+        "title": "旅のかけら",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
         },
         "genre": "jpop"
       }
@@ -150,10 +150,10 @@
       "rank": 13,
       "song": {
         "id": "jpop-1977-13",
-        "title": "月の街",
+        "title": "希望サンセット",
         "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
+          "id": "a-nakajima-miyuki",
+          "name": "中島みゆき"
         },
         "genre": "jpop"
       }
@@ -162,7 +162,7 @@
       "rank": 14,
       "song": {
         "id": "jpop-1977-14",
-        "title": "約束の季節",
+        "title": "光の夜",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -174,10 +174,10 @@
       "rank": 15,
       "song": {
         "id": "jpop-1977-15",
-        "title": "記憶の夜",
+        "title": "風の季節",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       }
@@ -186,10 +186,10 @@
       "rank": 16,
       "song": {
         "id": "jpop-1977-16",
-        "title": "森の季節",
+        "title": "恋の旅",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       }
@@ -198,10 +198,10 @@
       "rank": 17,
       "song": {
         "id": "jpop-1977-17",
-        "title": "雪メロディ",
+        "title": "夏の海",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-ota-hiromi",
+          "name": "太田裕美"
         },
         "genre": "jpop"
       }
@@ -210,7 +210,7 @@
       "rank": 18,
       "song": {
         "id": "jpop-1977-18",
-        "title": "愛の歌",
+        "title": "光ストーリー",
         "artist": {
           "id": "a-pink-lady",
           "name": "ピンク・レディー"
@@ -222,10 +222,10 @@
       "rank": 19,
       "song": {
         "id": "jpop-1977-19",
-        "title": "星の夢",
+        "title": "月の道",
         "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
+          "id": "a-tulip",
+          "name": "チューリップ"
         },
         "genre": "jpop"
       }
@@ -234,19 +234,7 @@
       "rank": 20,
       "song": {
         "id": "jpop-1977-20",
-        "title": "恋の旅",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1977-21",
-        "title": "涙の約束",
+        "title": "ミッドナイト夏",
         "artist": {
           "id": "a-pink-lady",
           "name": "ピンク・レディー"
@@ -255,13 +243,25 @@
       }
     },
     {
+      "rank": 21,
+      "song": {
+        "id": "jpop-1977-21",
+        "title": "波の記憶",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 22,
       "song": {
         "id": "jpop-1977-22",
-        "title": "世界のかけら",
+        "title": "恋ストーリー",
         "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
         },
         "genre": "jpop"
       }
@@ -270,10 +270,10 @@
       "rank": 23,
       "song": {
         "id": "jpop-1977-23",
-        "title": "真夜中の海",
+        "title": "最後の花",
         "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       }
@@ -282,7 +282,7 @@
       "rank": 24,
       "song": {
         "id": "jpop-1977-24",
-        "title": "涙の恋",
+        "title": "夜ストーリー",
         "artist": {
           "id": "a-saijo-hideki",
           "name": "西城秀樹"
@@ -294,10 +294,10 @@
       "rank": 25,
       "song": {
         "id": "jpop-1977-25",
-        "title": "朝の約束",
+        "title": "星の森",
         "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
         },
         "genre": "jpop"
       }
@@ -306,10 +306,10 @@
       "rank": 26,
       "song": {
         "id": "jpop-1977-26",
-        "title": "夢の海",
+        "title": "青い旅",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       }
@@ -318,10 +318,10 @@
       "rank": 27,
       "song": {
         "id": "jpop-1977-27",
-        "title": "夢の雪",
+        "title": "希望の記憶",
         "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
+          "id": "a-pink-lady",
+          "name": "ピンク・レディー"
         },
         "genre": "jpop"
       }
@@ -330,10 +330,10 @@
       "rank": 28,
       "song": {
         "id": "jpop-1977-28",
-        "title": "風の未来",
+        "title": "夢ストーリー",
         "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
         },
         "genre": "jpop"
       }
@@ -342,10 +342,10 @@
       "rank": 29,
       "song": {
         "id": "jpop-1977-29",
-        "title": "波の記憶",
+        "title": "夢の夜",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
         },
         "genre": "jpop"
       }
@@ -354,10 +354,10 @@
       "rank": 30,
       "song": {
         "id": "jpop-1977-30",
-        "title": "影物語",
+        "title": "虹の花",
         "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       }
@@ -366,7 +366,7 @@
       "rank": 31,
       "song": {
         "id": "jpop-1977-31",
-        "title": "涙の記憶",
+        "title": "永遠の夜",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -378,10 +378,10 @@
       "rank": 32,
       "song": {
         "id": "jpop-1977-32",
-        "title": "夢の道",
+        "title": "風メロディ",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-tulip",
+          "name": "チューリップ"
         },
         "genre": "jpop"
       }
@@ -390,31 +390,7 @@
       "rank": 33,
       "song": {
         "id": "jpop-1977-33",
-        "title": "風の記憶",
-        "artist": {
-          "id": "a-pink-lady",
-          "name": "ピンク・レディー"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-1977-34",
-        "title": "ミッドナイト影",
-        "artist": {
-          "id": "a-pink-lady",
-          "name": "ピンク・レディー"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1977-35",
-        "title": "恋の冬",
+        "title": "最後の波",
         "artist": {
           "id": "a-sawada-kenji",
           "name": "沢田研二"
@@ -423,13 +399,37 @@
       }
     },
     {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1977-34",
+        "title": "ミッドナイト世界",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1977-35",
+        "title": "街の季節",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 36,
       "song": {
         "id": "jpop-1977-36",
-        "title": "未来ストーリー",
+        "title": "約束の愛",
         "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       }
@@ -438,7 +438,7 @@
       "rank": 37,
       "song": {
         "id": "jpop-1977-37",
-        "title": "桜の花",
+        "title": "風の時間",
         "artist": {
           "id": "a-ota-hiromi",
           "name": "太田裕美"
@@ -450,10 +450,10 @@
       "rank": 38,
       "song": {
         "id": "jpop-1977-38",
-        "title": "青い旅",
+        "title": "夜物語",
         "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
+          "id": "a-pink-lady",
+          "name": "ピンク・レディー"
         },
         "genre": "jpop"
       }
@@ -462,10 +462,10 @@
       "rank": 39,
       "song": {
         "id": "jpop-1977-39",
-        "title": "虹の記憶",
+        "title": "朝の街",
         "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
+          "id": "a-candies",
+          "name": "キャンディーズ"
         },
         "genre": "jpop"
       }
@@ -474,10 +474,10 @@
       "rank": 40,
       "song": {
         "id": "jpop-1977-40",
-        "title": "街の道",
+        "title": "最後の夢",
         "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
+          "id": "a-nakajima-miyuki",
+          "name": "中島みゆき"
         },
         "genre": "jpop"
       }
@@ -488,8 +488,8 @@
         "id": "jpop-1977-41",
         "title": "涙の森",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       }
@@ -498,294 +498,6 @@
       "rank": 42,
       "song": {
         "id": "jpop-1977-42",
-        "title": "夢ストーリー",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1977-43",
-        "title": "星の森",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-1977-44",
-        "title": "愛の街",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1977-45",
-        "title": "影の歌",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1977-46",
-        "title": "夏の光",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-1977-47",
-        "title": "永遠の夜",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-1977-48",
-        "title": "涙の雨",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1977-49",
-        "title": "夏の夜",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1977-50",
-        "title": "約束物語",
-        "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-1977-51",
-        "title": "虹のリズム",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1977-52",
-        "title": "ミッドナイト世界",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1977-53",
-        "title": "太陽の約束",
-        "artist": {
-          "id": "a-pink-lady",
-          "name": "ピンク・レディー"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-1977-54",
-        "title": "時間の記憶",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-1977-55",
-        "title": "時間の花",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-1977-56",
-        "title": "涙の光",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1977-57",
-        "title": "真夜中の世界",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1977-58",
-        "title": "青い記憶",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "jpop-1977-59",
-        "title": "夢の花",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1977-60",
-        "title": "青い花",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1977-61",
-        "title": "涙の希望",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-1977-62",
-        "title": "記憶メロディ",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-1977-63",
-        "title": "月の空",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-1977-64",
-        "title": "恋の歌",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1977-65",
-        "title": "星の約束",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1977-66",
         "title": "真夜中の雪",
         "artist": {
           "id": "a-tulip",
@@ -795,802 +507,10 @@
       }
     },
     {
-      "rank": 67,
-      "song": {
-        "id": "jpop-1977-67",
-        "title": "記憶の光",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1977-68",
-        "title": "太陽フォーエバー",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-1977-69",
-        "title": "愛のリズム",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1977-70",
-        "title": "森サンセット",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1977-71",
-        "title": "夢の夜",
-        "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1977-72",
-        "title": "星の恋",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1977-73",
-        "title": "時間ストーリー",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1977-74",
-        "title": "時間フォーエバー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1977-75",
-        "title": "真夜中の朝",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1977-76",
-        "title": "風の約束",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1977-77",
-        "title": "最後の時間",
-        "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1977-78",
-        "title": "旅のリズム",
-        "artist": {
-          "id": "a-pink-lady",
-          "name": "ピンク・レディー"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1977-79",
-        "title": "街の季節",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1977-80",
-        "title": "花の空",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1977-81",
-        "title": "約束の海",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1977-82",
-        "title": "約束の光",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1977-83",
-        "title": "花の記憶",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1977-84",
-        "title": "風の雨",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1977-85",
-        "title": "空の海",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1977-86",
-        "title": "星の愛",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-1977-87",
-        "title": "約束の記憶",
-        "artist": {
-          "id": "a-pink-lady",
-          "name": "ピンク・レディー"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1977-88",
-        "title": "希望の季節",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1977-89",
-        "title": "君の世界",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-1977-90",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-1977-91",
-        "title": "希望物語",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-1977-92",
-        "title": "雪の海",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-1977-93",
-        "title": "世界の空",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1977-94",
-        "title": "最後の夜",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1977-95",
-        "title": "夏の記憶",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1977-96",
-        "title": "影の約束",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1977-97",
-        "title": "青い冬",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1977-98",
-        "title": "月の海",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1977-99",
-        "title": "雪の歌",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1977-100",
-        "title": "太陽ストーリー",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-1977-11",
-        "title": "太陽の花",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1977-12",
-        "title": "光の歌",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1977-13",
-        "title": "ミッドナイト夏",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1977-14",
-        "title": "花の花",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1977-15",
-        "title": "夢の歌",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-1977-16",
-        "title": "約束の街",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1977-17",
-        "title": "森物語",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1977-18",
-        "title": "希望の約束",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-1977-19",
-        "title": "夏のかけら",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1977-20",
-        "title": "街メロディ",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1977-21",
-        "title": "波の夜",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1977-22",
-        "title": "雪の夜",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "jpop-1977-23",
-        "title": "夢の虹",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1977-24",
-        "title": "海サンセット",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-1977-25",
-        "title": "風の花",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-1977-26",
-        "title": "希望ストーリー",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-1977-27",
-        "title": "旅の海",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-1977-28",
-        "title": "風物語",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "jpop-1977-29",
-        "title": "森の夜",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-1977-30",
-        "title": "星のかけら",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1977-31",
-        "title": "青い夜",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "jpop-1977-32",
-        "title": "夢の朝",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1977-33",
-        "title": "街の夜",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-1977-34",
-        "title": "希望メロディ",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1977-35",
-        "title": "最後の星",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1977-36",
-        "title": "永遠の旅",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1977-37",
-        "title": "最後の記憶",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-1977-38",
-        "title": "恋ストーリー",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "jpop-1977-39",
-        "title": "ミッドナイト光",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-1977-40",
-        "title": "影の街",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1977-41",
-        "title": "時間の空",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-1977-42",
-        "title": "森ストーリー",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
       "rank": 43,
       "song": {
         "id": "jpop-1977-43",
-        "title": "夢の約束",
+        "title": "虹のかけら",
         "artist": {
           "id": "a-ota-hiromi",
           "name": "太田裕美"
@@ -1602,10 +522,10 @@
       "rank": 44,
       "song": {
         "id": "jpop-1977-44",
-        "title": "ミッドナイト朝",
+        "title": "雪サンセット",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-alice",
+          "name": "アリス"
         },
         "genre": "jpop"
       }
@@ -1614,10 +534,10 @@
       "rank": 45,
       "song": {
         "id": "jpop-1977-45",
-        "title": "夏の街",
+        "title": "最後の空",
         "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
+          "id": "a-tulip",
+          "name": "チューリップ"
         },
         "genre": "jpop"
       }
@@ -1626,55 +546,7 @@
       "rank": 46,
       "song": {
         "id": "jpop-1977-46",
-        "title": "朝の街",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-1977-47",
-        "title": "雨の歌",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-1977-48",
-        "title": "影の光",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1977-49",
-        "title": "旅サンセット",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1977-50",
-        "title": "夏の海",
+        "title": "雨の光",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -1683,13 +555,61 @@
       }
     },
     {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1977-47",
+        "title": "真夜中の朝",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-1977-48",
+        "title": "最後の記憶",
+        "artist": {
+          "id": "a-tulip",
+          "name": "チューリップ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1977-49",
+        "title": "愛の街",
+        "artist": {
+          "id": "a-off-course",
+          "name": "オフコース"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1977-50",
+        "title": "風の雨",
+        "artist": {
+          "id": "a-pink-lady",
+          "name": "ピンク・レディー"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 51,
       "song": {
         "id": "jpop-1977-51",
-        "title": "約束の夢",
+        "title": "青い記憶",
         "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       }
@@ -1698,10 +618,10 @@
       "rank": 52,
       "song": {
         "id": "jpop-1977-52",
-        "title": "光の海",
+        "title": "恋のかけら",
         "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       }
@@ -1710,10 +630,10 @@
       "rank": 53,
       "song": {
         "id": "jpop-1977-53",
-        "title": "真夜中の花",
+        "title": "雨の季節",
         "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
         },
         "genre": "jpop"
       }
@@ -1722,7 +642,7 @@
       "rank": 54,
       "song": {
         "id": "jpop-1977-54",
-        "title": "街のかけら",
+        "title": "希望の季節",
         "artist": {
           "id": "a-matsuyama-chiharu",
           "name": "松山千春"
@@ -1734,6 +654,54 @@
       "rank": 55,
       "song": {
         "id": "jpop-1977-55",
+        "title": "約束の夢",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1977-56",
+        "title": "光の海",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-1977-57",
+        "title": "真夜中の花",
+        "artist": {
+          "id": "a-ota-hiromi",
+          "name": "太田裕美"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1977-58",
+        "title": "街のかけら",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-1977-59",
         "title": "恋の虹",
         "artist": {
           "id": "a-pink-lady",
@@ -1743,9 +711,9 @@
       }
     },
     {
-      "rank": 56,
+      "rank": 60,
       "song": {
-        "id": "jpop-1977-56",
+        "id": "jpop-1977-60",
         "title": "未来の記憶",
         "artist": {
           "id": "a-sawada-kenji",
@@ -1755,9 +723,9 @@
       }
     },
     {
-      "rank": 57,
+      "rank": 61,
       "song": {
-        "id": "jpop-1977-57",
+        "id": "jpop-1977-61",
         "title": "風の森",
         "artist": {
           "id": "a-matsuyama-chiharu",
@@ -1767,9 +735,9 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 62,
       "song": {
-        "id": "jpop-1977-58",
+        "id": "jpop-1977-62",
         "title": "記憶ストーリー",
         "artist": {
           "id": "a-yamaguchi-momoe",
@@ -1779,61 +747,13 @@
       }
     },
     {
-      "rank": 59,
-      "song": {
-        "id": "jpop-1977-59",
-        "title": "空サンセット",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1977-60",
-        "title": "夜物語",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-1977-61",
-        "title": "君の花",
-        "artist": {
-          "id": "a-off-course",
-          "name": "オフコース"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-1977-62",
-        "title": "雨ストーリー",
-        "artist": {
-          "id": "a-pink-lady",
-          "name": "ピンク・レディー"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
       "rank": 63,
       "song": {
         "id": "jpop-1977-63",
-        "title": "光の光",
+        "title": "花の花",
         "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       }
@@ -1842,10 +762,10 @@
       "rank": 64,
       "song": {
         "id": "jpop-1977-64",
-        "title": "君の街",
+        "title": "最後の冬",
         "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
+          "id": "a-godiego",
+          "name": "ゴダイゴ"
         },
         "genre": "jpop"
       }
@@ -1854,10 +774,10 @@
       "rank": 65,
       "song": {
         "id": "jpop-1977-65",
-        "title": "虹の夜",
+        "title": "未来の空",
         "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
         },
         "genre": "jpop"
       }
@@ -1866,10 +786,10 @@
       "rank": 66,
       "song": {
         "id": "jpop-1977-66",
-        "title": "愛の道",
+        "title": "月物語",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-ota-hiromi",
+          "name": "太田裕美"
         },
         "genre": "jpop"
       }
@@ -1878,10 +798,10 @@
       "rank": 67,
       "song": {
         "id": "jpop-1977-67",
-        "title": "桜物語",
+        "title": "約束の桜",
         "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
         },
         "genre": "jpop"
       }
@@ -1890,6 +810,222 @@
       "rank": 68,
       "song": {
         "id": "jpop-1977-68",
+        "title": "青い波",
+        "artist": {
+          "id": "a-nakajima-miyuki",
+          "name": "中島みゆき"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1977-69",
+        "title": "影の記憶",
+        "artist": {
+          "id": "a-ota-hiromi",
+          "name": "太田裕美"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1977-70",
+        "title": "愛フォーエバー",
+        "artist": {
+          "id": "a-candies",
+          "name": "キャンディーズ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1977-71",
+        "title": "影の季節",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1977-72",
+        "title": "夢サンセット",
+        "artist": {
+          "id": "a-pink-lady",
+          "name": "ピンク・レディー"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1977-73",
+        "title": "星の月",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1977-74",
+        "title": "海の歌",
+        "artist": {
+          "id": "a-iwasaki-hiromi",
+          "name": "岩崎宏美"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1977-75",
+        "title": "街サンセット",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1977-76",
+        "title": "恋の月",
+        "artist": {
+          "id": "a-ota-hiromi",
+          "name": "太田裕美"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1977-77",
+        "title": "空ストーリー",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1977-78",
+        "title": "風の夢",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-1977-79",
+        "title": "夏メロディ",
+        "artist": {
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1977-80",
+        "title": "朝の記憶",
+        "artist": {
+          "id": "a-nakajima-miyuki",
+          "name": "中島みゆき"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1977-81",
+        "title": "空の季節",
+        "artist": {
+          "id": "a-alice",
+          "name": "アリス"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1977-82",
+        "title": "風の希望",
+        "artist": {
+          "id": "a-ota-hiromi",
+          "name": "太田裕美"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1977-83",
+        "title": "花の街",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1977-84",
+        "title": "夢の記憶",
+        "artist": {
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1977-85",
+        "title": "海サンセット",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1977-86",
         "title": "恋の未来",
         "artist": {
           "id": "a-candies",
@@ -1899,229 +1035,13 @@
       }
     },
     {
-      "rank": 69,
-      "song": {
-        "id": "jpop-1977-69",
-        "title": "月サンセット",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1977-70",
-        "title": "桜の道",
-        "artist": {
-          "id": "a-go-hiromi",
-          "name": "郷ひろみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-1977-71",
-        "title": "夢の街",
-        "artist": {
-          "id": "a-matsuyama-chiharu",
-          "name": "松山千春"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-1977-72",
-        "title": "永遠の雪",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1977-73",
-        "title": "約束の花",
-        "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1977-74",
-        "title": "空メロディ",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1977-75",
-        "title": "永遠の夢",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1977-76",
-        "title": "最後の世界",
-        "artist": {
-          "id": "a-tulip",
-          "name": "チューリップ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-1977-77",
-        "title": "街物語",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1977-78",
-        "title": "街の歌",
-        "artist": {
-          "id": "a-saijo-hideki",
-          "name": "西城秀樹"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1977-79",
-        "title": "君の空",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-1977-80",
-        "title": "花の海",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1977-81",
-        "title": "世界の道",
-        "artist": {
-          "id": "a-yamaguchi-momoe",
-          "name": "山口百恵"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1977-82",
-        "title": "夏の約束",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1977-83",
-        "title": "涙の雪",
-        "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1977-84",
-        "title": "風の影",
-        "artist": {
-          "id": "a-sada-masashi",
-          "name": "さだまさし"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1977-85",
-        "title": "風の朝",
-        "artist": {
-          "id": "a-ota-hiromi",
-          "name": "太田裕美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1977-86",
-        "title": "虹の歌",
-        "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
       "rank": 87,
       "song": {
         "id": "jpop-1977-87",
-        "title": "星の未来",
+        "title": "海のかけら",
         "artist": {
-          "id": "a-pink-lady",
-          "name": "ピンク・レディー"
+          "id": "a-tulip",
+          "name": "チューリップ"
         },
         "genre": "jpop"
       }
@@ -2130,10 +1050,10 @@
       "rank": 88,
       "song": {
         "id": "jpop-1977-88",
-        "title": "太陽物語",
+        "title": "君の桜",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-saijo-hideki",
+          "name": "西城秀樹"
         },
         "genre": "jpop"
       }
@@ -2142,10 +1062,10 @@
       "rank": 89,
       "song": {
         "id": "jpop-1977-89",
-        "title": "約束の太陽",
+        "title": "涙の空",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
         },
         "genre": "jpop"
       }
@@ -2154,10 +1074,10 @@
       "rank": 90,
       "song": {
         "id": "jpop-1977-90",
-        "title": "雪の光",
+        "title": "約束サンセット",
         "artist": {
-          "id": "a-godiego",
-          "name": "ゴダイゴ"
+          "id": "a-ota-hiromi",
+          "name": "太田裕美"
         },
         "genre": "jpop"
       }
@@ -2166,7 +1086,7 @@
       "rank": 91,
       "song": {
         "id": "jpop-1977-91",
-        "title": "希望の空",
+        "title": "風の記憶",
         "artist": {
           "id": "a-tulip",
           "name": "チューリップ"
@@ -2178,10 +1098,10 @@
       "rank": 92,
       "song": {
         "id": "jpop-1977-92",
-        "title": "花のリズム",
+        "title": "約束の波",
         "artist": {
-          "id": "a-candies",
-          "name": "キャンディーズ"
+          "id": "a-godiego",
+          "name": "ゴダイゴ"
         },
         "genre": "jpop"
       }
@@ -2190,10 +1110,10 @@
       "rank": 93,
       "song": {
         "id": "jpop-1977-93",
-        "title": "空の花",
+        "title": "青い雪",
         "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
+          "id": "a-tulip",
+          "name": "チューリップ"
         },
         "genre": "jpop"
       }
@@ -2202,10 +1122,10 @@
       "rank": 94,
       "song": {
         "id": "jpop-1977-94",
-        "title": "太陽の歌",
+        "title": "空フォーエバー",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-matsuyama-chiharu",
+          "name": "松山千春"
         },
         "genre": "jpop"
       }
@@ -2214,31 +1134,7 @@
       "rank": 95,
       "song": {
         "id": "jpop-1977-95",
-        "title": "光の空",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1977-96",
-        "title": "風の虹",
-        "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1977-97",
-        "title": "世界の季節",
+        "title": "桜の海",
         "artist": {
           "id": "a-candies",
           "name": "キャンディーズ"
@@ -2247,13 +1143,37 @@
       }
     },
     {
+      "rank": 96,
+      "song": {
+        "id": "jpop-1977-96",
+        "title": "雪メロディ",
+        "artist": {
+          "id": "a-sawada-kenji",
+          "name": "沢田研二"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1977-97",
+        "title": "海の空",
+        "artist": {
+          "id": "a-sada-masashi",
+          "name": "さだまさし"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 98,
       "song": {
         "id": "jpop-1977-98",
-        "title": "夢の夢",
+        "title": "涙の時間",
         "artist": {
-          "id": "a-nakajima-miyuki",
-          "name": "中島みゆき"
+          "id": "a-tulip",
+          "name": "チューリップ"
         },
         "genre": "jpop"
       }
@@ -2262,10 +1182,10 @@
       "rank": 99,
       "song": {
         "id": "jpop-1977-99",
-        "title": "星の雨",
+        "title": "夜の花",
         "artist": {
-          "id": "a-iwasaki-hiromi",
-          "name": "岩崎宏美"
+          "id": "a-go-hiromi",
+          "name": "郷ひろみ"
         },
         "genre": "jpop"
       }
@@ -2274,10 +1194,10 @@
       "rank": 100,
       "song": {
         "id": "jpop-1977-100",
-        "title": "約束の夜",
+        "title": "真夜中の星",
         "artist": {
-          "id": "a-sawada-kenji",
-          "name": "沢田研二"
+          "id": "a-off-course",
+          "name": "オフコース"
         },
         "genre": "jpop"
       }

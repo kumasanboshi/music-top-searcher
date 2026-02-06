@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1978-14",
-    "title": "Diamond Fire",
+    "title": "Fading Road",
     "artist": {
-      "id": "a-elton-john",
-      "name": "Elton John"
+      "id": "a-chicago",
+      "name": "Chicago"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 14,
   "cdInfo": [
     {
-      "title": "Diamond Fire",
+      "title": "Fading Road",
       "type": "single",
-      "releaseDate": "1978-08-27"
+      "releaseDate": "1978-03-09"
     },
     {
-      "title": "Dusk Unplugged",
+      "title": "The Ice Album",
       "type": "album",
-      "releaseDate": "1978-11-18"
+      "releaseDate": "1978-08-27"
     }
   ],
   "externalLinks": {
@@ -29,208 +29,221 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
-      "song": {
-        "id": "west-2022-06",
-        "title": "Cold Heart",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John & Dua Lipa"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
       "rank": 1,
       "song": {
-        "id": "west-1997-01",
-        "title": "Candle in the Wind 1997",
+        "id": "west-1989-01",
+        "title": "Look Away",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1997
+      "year": 1989
     },
     {
-      "rank": 12,
+      "rank": 10,
       "song": {
-        "id": "west-1979-12",
-        "title": "Falling City",
+        "id": "west-1982-10",
+        "title": "Hard to Say I'm Sorry",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1979-45",
+        "title": "Flame Way",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 35,
+      "rank": 49,
       "song": {
-        "id": "west-1979-35",
-        "title": "Fading Wave",
+        "id": "west-1979-49",
+        "title": "Shining Road",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 52,
+      "rank": 60,
       "song": {
-        "id": "west-1979-52",
-        "title": "Sweet Sun",
+        "id": "west-1979-60",
+        "title": "Running Diamond",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 53,
+      "rank": 69,
       "song": {
-        "id": "west-1979-53",
-        "title": "Dusk Soul",
+        "id": "west-1979-69",
+        "title": "River Dreams",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1979-73",
+        "title": "Light Dreams",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1978-22",
+        "title": "Wave Night",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1978-23",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1978-25",
+        "title": "Last Light",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1978-29",
+        "title": "Wild Sun",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1978-32",
+        "title": "Dancing Fire",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1978-46",
+        "title": "Ocean Love",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
     },
     {
       "rank": 75,
       "song": {
-        "id": "west-1979-75",
-        "title": "Never River",
+        "id": "west-1978-75",
+        "title": "Sweet Road",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1979-77",
-        "title": "River Rain",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1979-78",
-        "title": "Star Heart",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1979-91",
-        "title": "Wind Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1978-38",
-        "title": "City Moonlight",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 41,
+      "rank": 86,
       "song": {
-        "id": "west-1978-41",
-        "title": "Fire Lights",
+        "id": "west-1978-86",
+        "title": "Moon Heart",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 44,
+      "rank": 99,
       "song": {
-        "id": "west-1978-44",
-        "title": "Lost in Sky",
+        "id": "west-1978-99",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 78,
+      "rank": 11,
       "song": {
-        "id": "west-1978-78",
-        "title": "Wild Crystal",
+        "id": "west-1977-11",
+        "title": "Shining Bridge",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1978-87",
-        "title": "Running Storm",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1977-18",
-        "title": "Midnight River",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -240,62 +253,23 @@
       "rank": 28,
       "song": {
         "id": "west-1977-28",
-        "title": "Shining Silver",
+        "title": "Chasing Rain",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 29,
+      "rank": 81,
       "song": {
-        "id": "west-1977-29",
-        "title": "Road Tears",
+        "id": "west-1977-81",
+        "title": "Sweet Ice",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1977-51",
-        "title": "City Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1977-67",
-        "title": "Never Dawn",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1977-87",
-        "title": "Never Snow",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -305,36 +279,49 @@
       "rank": 15,
       "song": {
         "id": "west-1976-15",
-        "title": "Falling Wave",
+        "title": "Diamond Forever",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 42,
+      "rank": 17,
       "song": {
-        "id": "west-1976-42",
-        "title": "Summer Heart",
+        "id": "west-1976-17",
+        "title": "Electric Wave",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 50,
+      "rank": 31,
       "song": {
-        "id": "west-1976-50",
-        "title": "Fading Mountain",
+        "id": "west-1976-31",
+        "title": "Flame Dreams",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1976-45",
+        "title": "Shining Light",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -344,114 +331,88 @@
       "rank": 58,
       "song": {
         "id": "west-1976-58",
-        "title": "Never Snow",
+        "title": "Wind Heart",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 80,
+      "rank": 63,
       "song": {
-        "id": "west-1976-80",
-        "title": "Rose Lights",
+        "id": "west-1976-63",
+        "title": "Chasing Dusk",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 3,
+      "rank": 79,
       "song": {
-        "id": "west-1975-03",
-        "title": "Philadelphia Freedom",
+        "id": "west-1976-79",
+        "title": "Under the Shadow",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1975-21",
+        "title": "Moon Heart",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 17,
+      "rank": 35,
       "song": {
-        "id": "west-1975-17",
-        "title": "Shining Ice",
+        "id": "west-1975-35",
+        "title": "Golden Light",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 19,
+      "rank": 67,
       "song": {
-        "id": "west-1975-19",
-        "title": "Running Light",
+        "id": "west-1975-67",
+        "title": "Sweet Storm",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 26,
+      "rank": 82,
       "song": {
-        "id": "west-1975-26",
-        "title": "Sweet Dusk",
+        "id": "west-1975-82",
+        "title": "Falling Thunder",
         "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1975-32",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1975-72",
-        "title": "Midnight Snow",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1975-97",
-        "title": "Bridge Sky",
-        "artist": {
-          "id": "a-elton-john",
-          "name": "Elton John"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },

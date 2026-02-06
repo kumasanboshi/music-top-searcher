@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1996-89",
-    "title": "希望の歌",
+    "title": "恋の夏",
     "artist": {
-      "id": "a-globe",
-      "name": "globe"
+      "id": "a-spitz",
+      "name": "スピッツ"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 89,
   "cdInfo": [
     {
-      "title": "希望の歌",
+      "title": "恋の夏",
       "type": "single",
-      "releaseDate": "1996-03-20"
+      "releaseDate": "1996-02-03"
     },
     {
-      "title": "雪ストーリーズ",
+      "title": "冬セレクション",
       "type": "album",
-      "releaseDate": "1996-09-02"
+      "releaseDate": "1996-07-25"
     }
   ],
   "externalLinks": {
@@ -29,104 +29,156 @@
   },
   "artistSongs": [
     {
-      "rank": 23,
+      "rank": 9,
       "song": {
-        "id": "jpop-1999-23",
-        "title": "君の記憶",
+        "id": "jpop-2023-09",
+        "title": "美しい鰭",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1999-31",
+        "title": "夏の街",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 26,
+      "rank": 56,
       "song": {
-        "id": "jpop-1999-26",
-        "title": "桜の約束",
+        "id": "jpop-1999-56",
+        "title": "恋の空",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 49,
+      "rank": 61,
       "song": {
-        "id": "jpop-1999-49",
-        "title": "真夜中の朝",
+        "id": "jpop-1999-61",
+        "title": "夢の星",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 58,
+      "rank": 72,
       "song": {
-        "id": "jpop-1999-58",
-        "title": "虹メロディ",
+        "id": "jpop-1999-72",
+        "title": "星フォーエバー",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 75,
+      "rank": 88,
       "song": {
-        "id": "jpop-1999-75",
-        "title": "風の虹",
+        "id": "jpop-1999-88",
+        "title": "永遠の恋",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 92,
+      "rank": 15,
       "song": {
-        "id": "jpop-1999-92",
-        "title": "記憶メロディ",
+        "id": "jpop-1998-15",
+        "title": "永遠の森",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-1998-38",
-        "title": "太陽の歌",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 39,
+      "rank": 33,
       "song": {
-        "id": "jpop-1998-39",
-        "title": "雨の記憶",
+        "id": "jpop-1998-33",
+        "title": "未来の海",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1998-50",
+        "title": "夢の歌",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-1998-55",
+        "title": "約束の風",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1998-71",
+        "title": "涙の森",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1998-88",
+        "title": "海ストーリー",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
@@ -135,115 +187,89 @@
     {
       "rank": 43,
       "song": {
-        "id": "jpop-1998-43",
-        "title": "夢の桜",
+        "id": "jpop-1997-43",
+        "title": "夢の夢",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-1998-63",
-        "title": "虹の道",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-1998-76",
-        "title": "太陽サンセット",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-1998-83",
-        "title": "夜の空",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1997-15",
-        "title": "永遠の愛",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 46,
+      "rank": 73,
       "song": {
-        "id": "jpop-1997-46",
-        "title": "世界の夜",
+        "id": "jpop-1997-73",
+        "title": "空フォーエバー",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 65,
+      "rank": 82,
       "song": {
-        "id": "jpop-1997-65",
-        "title": "夢の街",
+        "id": "jpop-1997-82",
+        "title": "朝の歌",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 2,
+      "rank": 4,
       "song": {
-        "id": "jpop-1996-02",
-        "title": "DEPARTURES",
+        "id": "jpop-1996-04",
+        "title": "チェリー",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 50,
+      "rank": 9,
       "song": {
-        "id": "jpop-1996-50",
-        "title": "青い冬",
+        "id": "jpop-1996-09",
+        "title": "空も飛べるはず",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-1996-15",
+        "title": "約束の影",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-1996-60",
+        "title": "涙の花",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
@@ -253,36 +279,49 @@
       "rank": 64,
       "song": {
         "id": "jpop-1996-64",
-        "title": "君の空",
+        "title": "桜のかけら",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 91,
+      "rank": 67,
       "song": {
-        "id": "jpop-1996-91",
-        "title": "夢の約束",
+        "id": "jpop-1996-67",
+        "title": "真夜中の夏",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 96,
+      "rank": 69,
       "song": {
-        "id": "jpop-1996-96",
-        "title": "森の季節",
+        "id": "jpop-1996-69",
+        "title": "桜の海",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1996-94",
+        "title": "ミッドナイト雪",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
@@ -292,62 +331,75 @@
       "rank": 98,
       "song": {
         "id": "jpop-1996-98",
-        "title": "涙の影",
+        "title": "夢の光",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1996
     },
     {
-      "rank": 11,
+      "rank": 5,
       "song": {
-        "id": "jpop-1995-11",
-        "title": "夏物語",
+        "id": "jpop-1995-05",
+        "title": "ロビンソン",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 21,
+      "rank": 30,
       "song": {
-        "id": "jpop-1995-21",
-        "title": "夢の季節",
+        "id": "jpop-1995-30",
+        "title": "真夜中の影",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 37,
+      "rank": 35,
       "song": {
-        "id": "jpop-1995-37",
-        "title": "星の森",
+        "id": "jpop-1995-35",
+        "title": "恋の道",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1995
     },
     {
-      "rank": 39,
+      "rank": 42,
       "song": {
-        "id": "jpop-1995-39",
+        "id": "jpop-1995-42",
+        "title": "夢の空",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1995-47",
         "title": "涙の光",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
@@ -357,153 +409,153 @@
       "rank": 48,
       "song": {
         "id": "jpop-1995-48",
-        "title": "青い雪",
+        "title": "青い愛",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1995
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-1995-69",
+        "title": "君の約束",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1995-71",
+        "title": "約束の朝",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1995-84",
+        "title": "ミッドナイト約束",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1995-92",
+        "title": "永遠の月",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-1994-11",
+        "title": "約束の約束",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1994-20",
+        "title": "青い影",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1994-26",
+        "title": "街ストーリー",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
     },
     {
       "rank": 52,
       "song": {
-        "id": "jpop-1995-52",
-        "title": "星の街",
+        "id": "jpop-1994-52",
+        "title": "旅サンセット",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1995-57",
-        "title": "夢の光",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-1995-100",
-        "title": "影の道",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "jpop-1994-29",
-        "title": "波物語",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 41,
+      "rank": 77,
       "song": {
-        "id": "jpop-1994-41",
-        "title": "夢の海",
+        "id": "jpop-1994-77",
+        "title": "希望サンセット",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 50,
+      "rank": 20,
       "song": {
-        "id": "jpop-1994-50",
-        "title": "真夜中の夢",
+        "id": "jpop-1993-20",
+        "title": "夢メロディ",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-1994-62",
-        "title": "桜の街",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1994-94",
-        "title": "涙の虹",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1993-15",
-        "title": "太陽の街",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 61,
+      "rank": 36,
       "song": {
-        "id": "jpop-1993-61",
-        "title": "影ストーリー",
+        "id": "jpop-1993-36",
+        "title": "風の夜",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1993-68",
-        "title": "涙の夜",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
@@ -513,101 +565,140 @@
       "rank": 74,
       "song": {
         "id": "jpop-1993-74",
-        "title": "世界の道",
+        "title": "君の影",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 80,
+      "rank": 81,
       "song": {
-        "id": "jpop-1993-80",
-        "title": "夢の希望",
+        "id": "jpop-1993-81",
+        "title": "虹の歌",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 90,
+      "rank": 99,
       "song": {
-        "id": "jpop-1993-90",
-        "title": "冬サンセット",
+        "id": "jpop-1993-99",
+        "title": "真夜中の夜",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 45,
+      "rank": 79,
       "song": {
-        "id": "jpop-1992-45",
-        "title": "涙の影",
+        "id": "jpop-1992-79",
+        "title": "森の街",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 47,
+      "rank": 83,
       "song": {
-        "id": "jpop-1992-47",
-        "title": "雪の記憶",
+        "id": "jpop-1992-83",
+        "title": "風の花",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 21,
+      "rank": 84,
       "song": {
-        "id": "jpop-1991-21",
-        "title": "風の虹",
+        "id": "jpop-1992-84",
+        "title": "旅の記憶",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1992-85",
+        "title": "風の冬",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "jpop-1991-12",
+        "title": "恋の星",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 36,
+      "rank": 26,
       "song": {
-        "id": "jpop-1991-36",
-        "title": "虹のかけら",
+        "id": "jpop-1991-26",
+        "title": "希望のリズム",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 38,
+      "rank": 32,
       "song": {
-        "id": "jpop-1991-38",
-        "title": "光の記憶",
+        "id": "jpop-1991-32",
+        "title": "涙の空",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1991-39",
+        "title": "約束の夜",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
@@ -617,23 +708,10 @@
       "rank": 45,
       "song": {
         "id": "jpop-1991-45",
-        "title": "恋の街",
+        "title": "君の時間",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1991-49",
-        "title": "希望ストーリー",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
@@ -643,127 +721,127 @@
       "rank": 52,
       "song": {
         "id": "jpop-1991-52",
-        "title": "花のリズム",
+        "title": "海のかけら",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 100,
+      "rank": 66,
       "song": {
-        "id": "jpop-1991-100",
-        "title": "恋の星",
+        "id": "jpop-1991-66",
+        "title": "星の時間",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1991
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1990-14",
-        "title": "最後の愛",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1990-20",
-        "title": "街の光",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1990-24",
-        "title": "永遠の影",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1990-35",
-        "title": "愛の花",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-1990-78",
-        "title": "森の街",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1990-82",
-        "title": "約束の雨",
-        "artist": {
-          "id": "a-globe",
-          "name": "globe"
-        },
-        "genre": "jpop"
-      },
-      "year": 1990
     },
     {
       "rank": 92,
       "song": {
-        "id": "jpop-1990-92",
-        "title": "風の空",
+        "id": "jpop-1991-92",
+        "title": "青い空",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1991
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-1990-19",
+        "title": "雨メロディ",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 95,
+      "rank": 22,
       "song": {
-        "id": "jpop-1990-95",
-        "title": "朝の花",
+        "id": "jpop-1990-22",
+        "title": "星のかけら",
         "artist": {
-          "id": "a-globe",
-          "name": "globe"
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1990-38",
+        "title": "時間の歌",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-1990-41",
+        "title": "時間の街",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-1990-49",
+        "title": "太陽フォーエバー",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1990-54",
+        "title": "最後の未来",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1990-67",
+        "title": "冬の空",
+        "artist": {
+          "id": "a-spitz",
+          "name": "スピッツ"
         },
         "genre": "jpop"
       },

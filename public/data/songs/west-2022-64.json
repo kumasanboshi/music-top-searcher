@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-2022-64",
-    "title": "Midnight Dawn",
+    "title": "Chasing Thunder",
     "artist": {
       "id": "a-sabrina",
       "name": "Sabrina Carpenter"
@@ -12,14 +12,14 @@
   "rank": 64,
   "cdInfo": [
     {
-      "title": "Midnight Dawn",
+      "title": "Chasing Thunder",
       "type": "single",
-      "releaseDate": "2022-12-12"
+      "releaseDate": "2022-05-06"
     },
     {
-      "title": "Rose Sessions",
+      "title": "Storm Anthology",
       "type": "album",
-      "releaseDate": "2022-08-14"
+      "releaseDate": "2022-06-22"
     }
   ],
   "externalLinks": {
@@ -29,10 +29,10 @@
   },
   "artistSongs": [
     {
-      "rank": 17,
+      "rank": 20,
       "song": {
-        "id": "west-2025-17",
-        "title": "Golden Bridge",
+        "id": "west-2025-20",
+        "title": "Electric Snow",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -42,10 +42,10 @@
       "year": 2025
     },
     {
-      "rank": 21,
+      "rank": 24,
       "song": {
-        "id": "west-2025-21",
-        "title": "Lost in Summer",
+        "id": "west-2025-24",
+        "title": "Wind Lights",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -55,10 +55,10 @@
       "year": 2025
     },
     {
-      "rank": 48,
+      "rank": 43,
       "song": {
-        "id": "west-2025-48",
-        "title": "Fading Silver",
+        "id": "west-2025-43",
+        "title": "Running Star",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -68,10 +68,10 @@
       "year": 2025
     },
     {
-      "rank": 65,
+      "rank": 64,
       "song": {
-        "id": "west-2025-65",
-        "title": "Star Night",
+        "id": "west-2025-64",
+        "title": "Chasing Thunder",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -81,10 +81,10 @@
       "year": 2025
     },
     {
-      "rank": 68,
+      "rank": 70,
       "song": {
-        "id": "west-2025-68",
-        "title": "Rain Heart",
+        "id": "west-2025-70",
+        "title": "Falling Shadow",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -94,10 +94,23 @@
       "year": 2025
     },
     {
-      "rank": 19,
+      "rank": 98,
       "song": {
-        "id": "west-2023-19",
-        "title": "Rose Way",
+        "id": "west-2025-98",
+        "title": "Chasing Sun",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2023-23",
+        "title": "Shadow Forever",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -107,9 +120,9 @@
       "year": 2023
     },
     {
-      "rank": 28,
+      "rank": 30,
       "song": {
-        "id": "west-2023-28",
+        "id": "west-2023-30",
         "title": "Dancing Snow",
         "artist": {
           "id": "a-sabrina",
@@ -120,139 +133,87 @@
       "year": 2023
     },
     {
+      "rank": 44,
+      "song": {
+        "id": "west-2023-44",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-2023-84",
+        "title": "Electric Winter",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2022-58",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-2022-70",
+        "title": "Shining City",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2022-91",
+        "title": "Dancing Crystal",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-2021-14",
+        "title": "Fading Sun",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2021
+    },
+    {
       "rank": 69,
       "song": {
-        "id": "west-2023-69",
-        "title": "Golden Flame",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2023-87",
-        "title": "Shining Dusk",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2023-90",
-        "title": "Sweet Fire",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2023-92",
-        "title": "Ice Moonlight",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2023-94",
-        "title": "Midnight Moon",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2022-17",
-        "title": "Fading Dawn",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2022-54",
-        "title": "Diamond Heart",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-2021-34",
-        "title": "Crystal Night",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-2021-35",
-        "title": "Running Gold",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2021-38",
-        "title": "Midnight Sky",
-        "artist": {
-          "id": "a-sabrina",
-          "name": "Sabrina Carpenter"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2021-63",
+        "id": "west-2021-69",
         "title": "Midnight Mountain",
         "artist": {
           "id": "a-sabrina",
@@ -263,10 +224,10 @@
       "year": 2021
     },
     {
-      "rank": 87,
+      "rank": 100,
       "song": {
-        "id": "west-2021-87",
-        "title": "Shining Ocean",
+        "id": "west-2021-100",
+        "title": "Never Summer",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -276,10 +237,10 @@
       "year": 2021
     },
     {
-      "rank": 24,
+      "rank": 15,
       "song": {
-        "id": "west-2020-24",
-        "title": "Shadow Forever",
+        "id": "west-2020-15",
+        "title": "Flame Fire",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -289,10 +250,10 @@
       "year": 2020
     },
     {
-      "rank": 36,
+      "rank": 25,
       "song": {
-        "id": "west-2020-36",
-        "title": "Golden Silver",
+        "id": "west-2020-25",
+        "title": "Into the Wind",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -302,10 +263,10 @@
       "year": 2020
     },
     {
-      "rank": 38,
+      "rank": 27,
       "song": {
-        "id": "west-2020-38",
-        "title": "Under the Star",
+        "id": "west-2020-27",
+        "title": "Thunder Love",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"
@@ -315,10 +276,36 @@
       "year": 2020
     },
     {
-      "rank": 45,
+      "rank": 43,
       "song": {
-        "id": "west-2020-45",
-        "title": "Electric Wave",
+        "id": "west-2020-43",
+        "title": "Electric Flame",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2020-91",
+        "title": "Shining Ocean",
+        "artist": {
+          "id": "a-sabrina",
+          "name": "Sabrina Carpenter"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2020-92",
+        "title": "Fading City",
         "artist": {
           "id": "a-sabrina",
           "name": "Sabrina Carpenter"

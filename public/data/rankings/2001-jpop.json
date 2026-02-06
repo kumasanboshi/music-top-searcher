@@ -138,10 +138,10 @@
       "rank": 12,
       "song": {
         "id": "jpop-2001-12",
-        "title": "恋の空",
+        "title": "未来の道",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-bump",
+          "name": "BUMP OF CHICKEN"
         },
         "genre": "jpop"
       }
@@ -150,10 +150,10 @@
       "rank": 13,
       "song": {
         "id": "jpop-2001-13",
-        "title": "星の街",
+        "title": "夏の花",
         "artist": {
-          "id": "a-southern",
-          "name": "サザンオールスターズ"
+          "id": "a-utada-hikaru",
+          "name": "宇多田ヒカル"
         },
         "genre": "jpop"
       }
@@ -162,7 +162,7 @@
       "rank": 14,
       "song": {
         "id": "jpop-2001-14",
-        "title": "光の花",
+        "title": "愛の空",
         "artist": {
           "id": "a-orange-range",
           "name": "ORANGE RANGE"
@@ -174,10 +174,10 @@
       "rank": 15,
       "song": {
         "id": "jpop-2001-15",
-        "title": "月の空",
+        "title": "夢の海",
         "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
         },
         "genre": "jpop"
       }
@@ -186,10 +186,10 @@
       "rank": 16,
       "song": {
         "id": "jpop-2001-16",
-        "title": "約束の桜",
+        "title": "空の花",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
         },
         "genre": "jpop"
       }
@@ -198,31 +198,7 @@
       "rank": 17,
       "song": {
         "id": "jpop-2001-17",
-        "title": "希望の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2001-18",
-        "title": "君の約束",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-2001-19",
-        "title": "夢フォーエバー",
+        "title": "最後の夏",
         "artist": {
           "id": "a-koda-kumi",
           "name": "倖田來未"
@@ -231,10 +207,34 @@
       }
     },
     {
+      "rank": 18,
+      "song": {
+        "id": "jpop-2001-18",
+        "title": "星の空",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-2001-19",
+        "title": "真夜中の森",
+        "artist": {
+          "id": "a-bz",
+          "name": "B'z"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 20,
       "song": {
         "id": "jpop-2001-20",
-        "title": "空の花",
+        "title": "約束の海",
         "artist": {
           "id": "a-ketsumeishi",
           "name": "ケツメイシ"
@@ -246,102 +246,6 @@
       "rank": 21,
       "song": {
         "id": "jpop-2001-21",
-        "title": "影の光",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-2001-22",
-        "title": "太陽のかけら",
-        "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "jpop-2001-23",
-        "title": "真夜中の未来",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-2001-24",
-        "title": "桜の空",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2001-25",
-        "title": "愛のリズム",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-2001-26",
-        "title": "夜の季節",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-2001-27",
-        "title": "君の雨",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-2001-28",
-        "title": "夢の影",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "jpop-2001-29",
         "title": "君の月",
         "artist": {
           "id": "a-kobukuro",
@@ -351,13 +255,109 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 22,
       "song": {
-        "id": "jpop-2001-30",
-        "title": "桜の道",
+        "id": "jpop-2001-22",
+        "title": "希望の街",
+        "artist": {
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-2001-23",
+        "title": "桜ストーリー",
+        "artist": {
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-2001-24",
+        "title": "空の空",
+        "artist": {
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-2001-25",
+        "title": "涙の虹",
         "artist": {
           "id": "a-exile",
           "name": "EXILE"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-2001-26",
+        "title": "海のリズム",
+        "artist": {
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "jpop-2001-27",
+        "title": "影の花",
+        "artist": {
+          "id": "a-arashi",
+          "name": "嵐"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "jpop-2001-28",
+        "title": "君の朝",
+        "artist": {
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-2001-29",
+        "title": "森の道",
+        "artist": {
+          "id": "a-orange-range",
+          "name": "ORANGE RANGE"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-2001-30",
+        "title": "恋のかけら",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       }
@@ -366,10 +366,10 @@
       "rank": 31,
       "song": {
         "id": "jpop-2001-31",
-        "title": "希望の道",
+        "title": "光の花",
         "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
+          "id": "a-bz",
+          "name": "B'z"
         },
         "genre": "jpop"
       }
@@ -378,10 +378,10 @@
       "rank": 32,
       "song": {
         "id": "jpop-2001-32",
-        "title": "花の記憶",
+        "title": "涙の光",
         "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
+          "id": "a-kobukuro",
+          "name": "コブクロ"
         },
         "genre": "jpop"
       }
@@ -390,10 +390,10 @@
       "rank": 33,
       "song": {
         "id": "jpop-2001-33",
-        "title": "約束の空",
+        "title": "約束の光",
         "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
+          "id": "a-exile",
+          "name": "EXILE"
         },
         "genre": "jpop"
       }
@@ -402,10 +402,10 @@
       "rank": 34,
       "song": {
         "id": "jpop-2001-34",
-        "title": "君の記憶",
+        "title": "影の空",
         "artist": {
-          "id": "a-southern",
-          "name": "サザンオールスターズ"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       }
@@ -414,10 +414,10 @@
       "rank": 35,
       "song": {
         "id": "jpop-2001-35",
-        "title": "夢の夢",
+        "title": "月の街",
         "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
+          "id": "a-arashi",
+          "name": "嵐"
         },
         "genre": "jpop"
       }
@@ -426,10 +426,10 @@
       "rank": 36,
       "song": {
         "id": "jpop-2001-36",
-        "title": "約束の恋",
+        "title": "旅の約束",
         "artist": {
-          "id": "a-mrchildren",
-          "name": "Mr.Children"
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
         },
         "genre": "jpop"
       }
@@ -438,10 +438,10 @@
       "rank": 37,
       "song": {
         "id": "jpop-2001-37",
-        "title": "君の花",
+        "title": "未来の歌",
         "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
+          "id": "a-exile",
+          "name": "EXILE"
         },
         "genre": "jpop"
       }
@@ -450,10 +450,10 @@
       "rank": 38,
       "song": {
         "id": "jpop-2001-38",
-        "title": "海のリズム",
+        "title": "風の未来",
         "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
+          "id": "a-arashi",
+          "name": "嵐"
         },
         "genre": "jpop"
       }
@@ -464,8 +464,8 @@
         "id": "jpop-2001-39",
         "title": "森の記憶",
         "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
+          "id": "a-arashi",
+          "name": "嵐"
         },
         "genre": "jpop"
       }
@@ -474,270 +474,6 @@
       "rank": 40,
       "song": {
         "id": "jpop-2001-40",
-        "title": "愛の花",
-        "artist": {
-          "id": "a-mrchildren",
-          "name": "Mr.Children"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-2001-41",
-        "title": "朝の歌",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-2001-42",
-        "title": "夢の雪",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-2001-43",
-        "title": "雪の夜",
-        "artist": {
-          "id": "a-mrchildren",
-          "name": "Mr.Children"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-2001-44",
-        "title": "星の夜",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-2001-45",
-        "title": "夏の記憶",
-        "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-2001-46",
-        "title": "愛の空",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-2001-47",
-        "title": "星の花",
-        "artist": {
-          "id": "a-bz",
-          "name": "B'z"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-2001-48",
-        "title": "冬の海",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-2001-49",
-        "title": "永遠の虹",
-        "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2001-50",
-        "title": "約束の雨",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-2001-51",
-        "title": "ミッドナイト星",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-2001-52",
-        "title": "影の空",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-2001-53",
-        "title": "青い雪",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-2001-54",
-        "title": "花の歌",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-2001-55",
-        "title": "未来の歌",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-2001-56",
-        "title": "涙の約束",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-2001-57",
-        "title": "海の約束",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-2001-58",
-        "title": "青い波",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "jpop-2001-59",
-        "title": "永遠の太陽",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-2001-60",
-        "title": "最後の桜",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-2001-61",
-        "title": "波の約束",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "jpop-2001-62",
         "title": "朝ストーリー",
         "artist": {
           "id": "a-hamasaki-ayumi",
@@ -747,826 +483,10 @@
       }
     },
     {
-      "rank": 63,
-      "song": {
-        "id": "jpop-2001-63",
-        "title": "星の夏",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-2001-64",
-        "title": "夏の海",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-2001-65",
-        "title": "約束の世界",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-2001-66",
-        "title": "朝フォーエバー",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "jpop-2001-67",
-        "title": "海の歌",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-2001-68",
-        "title": "時間の光",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-2001-69",
-        "title": "太陽サンセット",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-2001-70",
-        "title": "風の夜",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "jpop-2001-71",
-        "title": "永遠の未来",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "jpop-2001-72",
-        "title": "永遠の朝",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-2001-73",
-        "title": "最後の風",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-2001-74",
-        "title": "愛の海",
-        "artist": {
-          "id": "a-southern",
-          "name": "サザンオールスターズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2001-75",
-        "title": "月の花",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-2001-76",
-        "title": "海フォーエバー",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-2001-77",
-        "title": "影メロディ",
-        "artist": {
-          "id": "a-mrchildren",
-          "name": "Mr.Children"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-2001-78",
-        "title": "虹のかけら",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-2001-79",
-        "title": "永遠の時間",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-2001-80",
-        "title": "空サンセット",
-        "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2001-81",
-        "title": "花の花",
-        "artist": {
-          "id": "a-bz",
-          "name": "B'z"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-2001-82",
-        "title": "君の海",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "jpop-2001-83",
-        "title": "風の星",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-2001-84",
-        "title": "夢の街",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-2001-85",
-        "title": "ミッドナイト世界",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2001-86",
-        "title": "星メロディ",
-        "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-2001-87",
-        "title": "青い朝",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-2001-88",
-        "title": "君の星",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-2001-89",
-        "title": "ミッドナイト記憶",
-        "artist": {
-          "id": "a-bz",
-          "name": "B'z"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "jpop-2001-90",
-        "title": "世界の歌",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "jpop-2001-91",
-        "title": "夏のリズム",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-2001-92",
-        "title": "最後の世界",
-        "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2001-93",
-        "title": "夢の恋",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-2001-94",
-        "title": "星の記憶",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-2001-95",
-        "title": "永遠の花",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-2001-96",
-        "title": "朝の街",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2001-97",
-        "title": "愛のかけら",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-2001-98",
-        "title": "希望の季節",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-2001-99",
-        "title": "真夜中の月",
-        "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-2001-100",
-        "title": "朝物語",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-2001-11",
-        "title": "世界の海",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2001-12",
-        "title": "恋の記憶",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-2001-13",
-        "title": "未来のリズム",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-2001-14",
-        "title": "花の道",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-2001-15",
-        "title": "夢の世界",
-        "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-2001-16",
-        "title": "恋の花",
-        "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-2001-17",
-        "title": "海の夜",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2001-18",
-        "title": "冬ストーリー",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-2001-19",
-        "title": "朝の空",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-2001-20",
-        "title": "約束の歌",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2001-21",
-        "title": "涙の未来",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-2001-22",
-        "title": "太陽の海",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "jpop-2001-23",
-        "title": "希望の街",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-2001-24",
-        "title": "海物語",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-2001-25",
-        "title": "太陽のリズム",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "jpop-2001-26",
-        "title": "記憶の約束",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "jpop-2001-27",
-        "title": "森の道",
-        "artist": {
-          "id": "a-mrchildren",
-          "name": "Mr.Children"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-2001-28",
-        "title": "恋のかけら",
-        "artist": {
-          "id": "a-otsuka-ai",
-          "name": "大塚愛"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "jpop-2001-29",
-        "title": "青い夜",
-        "artist": {
-          "id": "a-bz",
-          "name": "B'z"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-2001-30",
-        "title": "記憶フォーエバー",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-2001-31",
-        "title": "風のリズム",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "jpop-2001-32",
-        "title": "ミッドナイト海",
-        "artist": {
-          "id": "a-mrchildren",
-          "name": "Mr.Children"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-2001-33",
-        "title": "朝メロディ",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-2001-34",
-        "title": "空の空",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-2001-35",
-        "title": "月サンセット",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-2001-36",
-        "title": "青い風",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-2001-37",
-        "title": "ミッドナイト月",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "jpop-2001-38",
-        "title": "君の希望",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "jpop-2001-39",
-        "title": "風の月",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-2001-40",
-        "title": "風の太陽",
-        "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
       "rank": 41,
       "song": {
         "id": "jpop-2001-41",
-        "title": "ミッドナイト雪",
+        "title": "ミッドナイト約束",
         "artist": {
           "id": "a-arashi",
           "name": "嵐"
@@ -1578,10 +498,10 @@
       "rank": 42,
       "song": {
         "id": "jpop-2001-42",
-        "title": "約束の夢",
+        "title": "未来の花",
         "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
+          "id": "a-southern",
+          "name": "サザンオールスターズ"
         },
         "genre": "jpop"
       }
@@ -1590,19 +510,7 @@
       "rank": 43,
       "song": {
         "id": "jpop-2001-43",
-        "title": "恋のリズム",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-2001-44",
-        "title": "涙の波",
+        "title": "風の月",
         "artist": {
           "id": "a-exile",
           "name": "EXILE"
@@ -1611,10 +519,22 @@
       }
     },
     {
+      "rank": 44,
+      "song": {
+        "id": "jpop-2001-44",
+        "title": "風の太陽",
+        "artist": {
+          "id": "a-orange-range",
+          "name": "ORANGE RANGE"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 45,
       "song": {
         "id": "jpop-2001-45",
-        "title": "未来の海",
+        "title": "永遠の未来",
         "artist": {
           "id": "a-arashi",
           "name": "嵐"
@@ -1626,187 +546,7 @@
       "rank": 46,
       "song": {
         "id": "jpop-2001-46",
-        "title": "桜の季節",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "jpop-2001-47",
-        "title": "夏の道",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-2001-48",
-        "title": "空フォーエバー",
-        "artist": {
-          "id": "a-southern",
-          "name": "サザンオールスターズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-2001-49",
-        "title": "夢の光",
-        "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2001-50",
-        "title": "記憶メロディ",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "jpop-2001-51",
-        "title": "ミッドナイト桜",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-2001-52",
-        "title": "恋の世界",
-        "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-2001-53",
-        "title": "最後の旅",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "jpop-2001-54",
-        "title": "真夜中の光",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-2001-55",
-        "title": "波の歌",
-        "artist": {
-          "id": "a-bz",
-          "name": "B'z"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-2001-56",
-        "title": "星の海",
-        "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-2001-57",
-        "title": "森の空",
-        "artist": {
-          "id": "a-mrchildren",
-          "name": "Mr.Children"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-2001-58",
-        "title": "時間のかけら",
-        "artist": {
-          "id": "a-kobukuro",
-          "name": "コブクロ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "jpop-2001-59",
-        "title": "街のかけら",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-2001-60",
-        "title": "ミッドナイト雨",
-        "artist": {
-          "id": "a-southern",
-          "name": "サザンオールスターズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-2001-61",
-        "title": "君の夢",
+        "title": "記憶の記憶",
         "artist": {
           "id": "a-otsuka-ai",
           "name": "大塚愛"
@@ -1815,10 +555,190 @@
       }
     },
     {
+      "rank": 47,
+      "song": {
+        "id": "jpop-2001-47",
+        "title": "約束の約束",
+        "artist": {
+          "id": "a-orange-range",
+          "name": "ORANGE RANGE"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2001-48",
+        "title": "空の街",
+        "artist": {
+          "id": "a-exile",
+          "name": "EXILE"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-2001-49",
+        "title": "風の夏",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2001-50",
+        "title": "記憶ストーリー",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-2001-51",
+        "title": "永遠の約束",
+        "artist": {
+          "id": "a-utada-hikaru",
+          "name": "宇多田ヒカル"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-2001-52",
+        "title": "夢の虹",
+        "artist": {
+          "id": "a-arashi",
+          "name": "嵐"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-2001-53",
+        "title": "ミッドナイト世界",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-2001-54",
+        "title": "光の記憶",
+        "artist": {
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2001-55",
+        "title": "最後の愛",
+        "artist": {
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-2001-56",
+        "title": "雪の道",
+        "artist": {
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2001-57",
+        "title": "君の夢",
+        "artist": {
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-2001-58",
+        "title": "星の記憶",
+        "artist": {
+          "id": "a-bump",
+          "name": "BUMP OF CHICKEN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "jpop-2001-59",
+        "title": "未来の空",
+        "artist": {
+          "id": "a-bump",
+          "name": "BUMP OF CHICKEN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "jpop-2001-60",
+        "title": "旅の季節",
+        "artist": {
+          "id": "a-kobukuro",
+          "name": "コブクロ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-2001-61",
+        "title": "真夜中の月",
+        "artist": {
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 62,
       "song": {
         "id": "jpop-2001-62",
-        "title": "最後の記憶",
+        "title": "青い愛",
         "artist": {
           "id": "a-exile",
           "name": "EXILE"
@@ -1830,10 +750,10 @@
       "rank": 63,
       "song": {
         "id": "jpop-2001-63",
-        "title": "海の記憶",
+        "title": "君の風",
         "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       }
@@ -1842,7 +762,7 @@
       "rank": 64,
       "song": {
         "id": "jpop-2001-64",
-        "title": "風フォーエバー",
+        "title": "旅サンセット",
         "artist": {
           "id": "a-koda-kumi",
           "name": "倖田來未"
@@ -1854,10 +774,10 @@
       "rank": 65,
       "song": {
         "id": "jpop-2001-65",
-        "title": "最後の森",
+        "title": "ミッドナイト太陽",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       }
@@ -1866,10 +786,10 @@
       "rank": 66,
       "song": {
         "id": "jpop-2001-66",
-        "title": "雪の約束",
+        "title": "約束の夏",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-exile",
+          "name": "EXILE"
         },
         "genre": "jpop"
       }
@@ -1878,10 +798,10 @@
       "rank": 67,
       "song": {
         "id": "jpop-2001-67",
-        "title": "時間メロディ",
+        "title": "波物語",
         "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
+          "id": "a-southern",
+          "name": "サザンオールスターズ"
         },
         "genre": "jpop"
       }
@@ -1890,10 +810,10 @@
       "rank": 68,
       "song": {
         "id": "jpop-2001-68",
-        "title": "真夜中の波",
+        "title": "森の海",
         "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
         },
         "genre": "jpop"
       }
@@ -1902,10 +822,10 @@
       "rank": 69,
       "song": {
         "id": "jpop-2001-69",
-        "title": "記憶の記憶",
+        "title": "桜メロディ",
         "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
+          "id": "a-exile",
+          "name": "EXILE"
         },
         "genre": "jpop"
       }
@@ -1914,10 +834,10 @@
       "rank": 70,
       "song": {
         "id": "jpop-2001-70",
-        "title": "森の季節",
+        "title": "涙の雪",
         "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       }
@@ -1926,10 +846,10 @@
       "rank": 71,
       "song": {
         "id": "jpop-2001-71",
-        "title": "月の海",
+        "title": "世界の光",
         "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       }
@@ -1938,10 +858,10 @@
       "rank": 72,
       "song": {
         "id": "jpop-2001-72",
-        "title": "夢の希望",
+        "title": "街の約束",
         "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
+          "id": "a-orange-range",
+          "name": "ORANGE RANGE"
         },
         "genre": "jpop"
       }
@@ -1950,10 +870,10 @@
       "rank": 73,
       "song": {
         "id": "jpop-2001-73",
-        "title": "虹の道",
+        "title": "夜フォーエバー",
         "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
         },
         "genre": "jpop"
       }
@@ -1962,43 +882,7 @@
       "rank": 74,
       "song": {
         "id": "jpop-2001-74",
-        "title": "雨の記憶",
-        "artist": {
-          "id": "a-arashi",
-          "name": "嵐"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2001-75",
-        "title": "光の季節",
-        "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-2001-76",
-        "title": "世界の記憶",
-        "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-2001-77",
-        "title": "約束サンセット",
+        "title": "風の波",
         "artist": {
           "id": "a-kat-tun",
           "name": "KAT-TUN"
@@ -2007,13 +891,49 @@
       }
     },
     {
+      "rank": 75,
+      "song": {
+        "id": "jpop-2001-75",
+        "title": "最後の桜",
+        "artist": {
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-2001-76",
+        "title": "空のリズム",
+        "artist": {
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2001-77",
+        "title": "雨の夜",
+        "artist": {
+          "id": "a-arashi",
+          "name": "嵐"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
       "rank": 78,
       "song": {
         "id": "jpop-2001-78",
-        "title": "世界サンセット",
+        "title": "風の旅",
         "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
         },
         "genre": "jpop"
       }
@@ -2022,10 +942,10 @@
       "rank": 79,
       "song": {
         "id": "jpop-2001-79",
-        "title": "ミッドナイト旅",
+        "title": "冬の歌",
         "artist": {
-          "id": "a-greeen",
-          "name": "GReeeeN"
+          "id": "a-utada-hikaru",
+          "name": "宇多田ヒカル"
         },
         "genre": "jpop"
       }
@@ -2034,10 +954,10 @@
       "rank": 80,
       "song": {
         "id": "jpop-2001-80",
-        "title": "約束の約束",
+        "title": "街の空",
         "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
         },
         "genre": "jpop"
       }
@@ -2046,10 +966,10 @@
       "rank": 81,
       "song": {
         "id": "jpop-2001-81",
-        "title": "真夜中の朝",
+        "title": "夢の月",
         "artist": {
-          "id": "a-ketsumeishi",
-          "name": "ケツメイシ"
+          "id": "a-greeen",
+          "name": "GReeeeN"
         },
         "genre": "jpop"
       }
@@ -2058,6 +978,78 @@
       "rank": 82,
       "song": {
         "id": "jpop-2001-82",
+        "title": "永遠の風",
+        "artist": {
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2001-83",
+        "title": "旅の光",
+        "artist": {
+          "id": "a-bump",
+          "name": "BUMP OF CHICKEN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-2001-84",
+        "title": "恋の世界",
+        "artist": {
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-2001-85",
+        "title": "ミッドナイト旅",
+        "artist": {
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-2001-86",
+        "title": "風の道",
+        "artist": {
+          "id": "a-bump",
+          "name": "BUMP OF CHICKEN"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-2001-87",
+        "title": "真夜中の朝",
+        "artist": {
+          "id": "a-utada-hikaru",
+          "name": "宇多田ヒカル"
+        },
+        "genre": "jpop"
+      }
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2001-88",
         "title": "雪の記憶",
         "artist": {
           "id": "a-koda-kumi",
@@ -2067,9 +1059,9 @@
       }
     },
     {
-      "rank": 83,
+      "rank": 89,
       "song": {
-        "id": "jpop-2001-83",
+        "id": "jpop-2001-89",
         "title": "希望フォーエバー",
         "artist": {
           "id": "a-greeen",
@@ -2079,85 +1071,13 @@
       }
     },
     {
-      "rank": 84,
-      "song": {
-        "id": "jpop-2001-84",
-        "title": "風の世界",
-        "artist": {
-          "id": "a-southern",
-          "name": "サザンオールスターズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-2001-85",
-        "title": "未来の記憶",
-        "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-2001-86",
-        "title": "約束の星",
-        "artist": {
-          "id": "a-southern",
-          "name": "サザンオールスターズ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "jpop-2001-87",
-        "title": "最後の夜",
-        "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-2001-88",
-        "title": "夏ストーリー",
-        "artist": {
-          "id": "a-hamasaki-ayumi",
-          "name": "浜崎あゆみ"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-2001-89",
-        "title": "光のリズム",
-        "artist": {
-          "id": "a-kat-tun",
-          "name": "KAT-TUN"
-        },
-        "genre": "jpop"
-      }
-    },
-    {
       "rank": 90,
       "song": {
         "id": "jpop-2001-90",
-        "title": "恋の森",
+        "title": "夏の道",
         "artist": {
-          "id": "a-koda-kumi",
-          "name": "倖田來未"
+          "id": "a-southern",
+          "name": "サザンオールスターズ"
         },
         "genre": "jpop"
       }
@@ -2166,10 +1086,10 @@
       "rank": 91,
       "song": {
         "id": "jpop-2001-91",
-        "title": "太陽の街",
+        "title": "記憶の空",
         "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
+          "id": "a-utada-hikaru",
+          "name": "宇多田ヒカル"
         },
         "genre": "jpop"
       }
@@ -2178,10 +1098,10 @@
       "rank": 92,
       "song": {
         "id": "jpop-2001-92",
-        "title": "波の光",
+        "title": "最後の夢",
         "artist": {
-          "id": "a-bz",
-          "name": "B'z"
+          "id": "a-hamasaki-ayumi",
+          "name": "浜崎あゆみ"
         },
         "genre": "jpop"
       }
@@ -2190,10 +1110,10 @@
       "rank": 93,
       "song": {
         "id": "jpop-2001-93",
-        "title": "真夜中の太陽",
+        "title": "希望の海",
         "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
         },
         "genre": "jpop"
       }
@@ -2202,10 +1122,10 @@
       "rank": 94,
       "song": {
         "id": "jpop-2001-94",
-        "title": "愛の道",
+        "title": "真夜中の虹",
         "artist": {
-          "id": "a-orange-range",
-          "name": "ORANGE RANGE"
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
         },
         "genre": "jpop"
       }
@@ -2214,10 +1134,10 @@
       "rank": 95,
       "song": {
         "id": "jpop-2001-95",
-        "title": "夜の道",
+        "title": "桜のかけら",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-otsuka-ai",
+          "name": "大塚愛"
         },
         "genre": "jpop"
       }
@@ -2226,10 +1146,10 @@
       "rank": 96,
       "song": {
         "id": "jpop-2001-96",
-        "title": "朝のかけら",
+        "title": "最後の影",
         "artist": {
-          "id": "a-bump",
-          "name": "BUMP OF CHICKEN"
+          "id": "a-kat-tun",
+          "name": "KAT-TUN"
         },
         "genre": "jpop"
       }
@@ -2238,10 +1158,10 @@
       "rank": 97,
       "song": {
         "id": "jpop-2001-97",
-        "title": "真夜中の空",
+        "title": "希望ストーリー",
         "artist": {
-          "id": "a-bz",
-          "name": "B'z"
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
         },
         "genre": "jpop"
       }
@@ -2250,10 +1170,10 @@
       "rank": 98,
       "song": {
         "id": "jpop-2001-98",
-        "title": "星の朝",
+        "title": "風の約束",
         "artist": {
-          "id": "a-exile",
-          "name": "EXILE"
+          "id": "a-ketsumeishi",
+          "name": "ケツメイシ"
         },
         "genre": "jpop"
       }
@@ -2262,10 +1182,10 @@
       "rank": 99,
       "song": {
         "id": "jpop-2001-99",
-        "title": "真夜中の街",
+        "title": "記憶メロディ",
         "artist": {
-          "id": "a-utada-hikaru",
-          "name": "宇多田ヒカル"
+          "id": "a-koda-kumi",
+          "name": "倖田來未"
         },
         "genre": "jpop"
       }
@@ -2274,10 +1194,10 @@
       "rank": 100,
       "song": {
         "id": "jpop-2001-100",
-        "title": "恋の月",
+        "title": "風の時間",
         "artist": {
-          "id": "a-bz",
-          "name": "B'z"
+          "id": "a-greeen",
+          "name": "GReeeeN"
         },
         "genre": "jpop"
       }

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1981-51",
-    "title": "Lost in Ice",
+    "title": "Shining Mountain",
     "artist": {
-      "id": "a-u2",
-      "name": "U2"
+      "id": "a-wham",
+      "name": "Wham!"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 51,
   "cdInfo": [
     {
-      "title": "Lost in Ice",
+      "title": "Shining Mountain",
       "type": "single",
-      "releaseDate": "1981-05-13"
+      "releaseDate": "1981-07-14"
     },
     {
-      "title": "Silver Reloaded",
+      "title": "Rain Stories",
       "type": "album",
-      "releaseDate": "1981-05-22"
+      "releaseDate": "1981-05-28"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,39 @@
   },
   "artistSongs": [
     {
-      "rank": 19,
+      "rank": 20,
       "song": {
-        "id": "west-1989-19",
-        "title": "Sky Rain",
+        "id": "west-1989-20",
+        "title": "Chasing Wave",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1989-23",
+        "title": "Storm Fire",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1989-32",
+        "title": "Star Lights",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
@@ -45,751 +71,673 @@
       "rank": 37,
       "song": {
         "id": "west-1989-37",
-        "title": "City Lights",
+        "title": "Dancing City",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 48,
+      "rank": 82,
       "song": {
-        "id": "west-1989-48",
-        "title": "Lost in Moon",
+        "id": "west-1989-82",
+        "title": "City Tears",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 56,
+      "rank": 99,
       "song": {
-        "id": "west-1989-56",
-        "title": "Falling Rain",
+        "id": "west-1989-99",
+        "title": "Shining Fire",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 66,
+      "rank": 12,
       "song": {
-        "id": "west-1989-66",
-        "title": "Wind Love",
+        "id": "west-1988-12",
+        "title": "Dancing Winter",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1989-69",
-        "title": "Fire Tears",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1989-77",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1989-84",
-        "title": "Fading Star",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1989-92",
-        "title": "Lost in Shadow",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1988-11",
-        "title": "Ocean Sky",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1988
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1988-32",
+        "title": "Wild Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1988-49",
+        "title": "Shining Dawn",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1988-74",
+        "title": "Ice Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1988-86",
+        "title": "Snow Lights",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1987-22",
+        "title": "Into the River",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1987-33",
+        "title": "Winter Heart",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1987-62",
+        "title": "Bridge Soul",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1987-63",
+        "title": "Mountain Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1987-88",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1987-100",
+        "title": "Star Fire",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1986-57",
+        "title": "Midnight Thunder",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1986-95",
+        "title": "Shining Light",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1986-99",
+        "title": "Sweet Diamond",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1985-01",
+        "title": "Careless Whisper",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-1985-09",
+        "title": "Everything She Wants",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
     },
     {
       "rank": 25,
       "song": {
-        "id": "west-1988-25",
-        "title": "Broken Star",
+        "id": "west-1985-25",
+        "title": "Never Summer",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1988-27",
-        "title": "Broken Flame",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1988-41",
-        "title": "Sun Dreams",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1988-51",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1988-72",
-        "title": "Falling Shadow",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-1987-06",
-        "title": "With or Without You",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 7,
-      "song": {
-        "id": "west-1987-07",
-        "title": "I Still Haven't Found What I'm Looking For",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1987-24",
-        "title": "Golden Thunder",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1987-28",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1987-46",
-        "title": "Falling Star",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1987-53",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1987-55",
-        "title": "Midnight Light",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1987-56",
-        "title": "Rose Night",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1987-76",
-        "title": "Ocean Moonlight",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1987-77",
-        "title": "River Way",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1987-94",
-        "title": "Electric Rose",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1987-95",
-        "title": "Sky Fire",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1986-26",
-        "title": "Falling Silver",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1986-37",
-        "title": "Mountain Sky",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1986-69",
-        "title": "Lost in Gold",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1986-82",
-        "title": "Star Love",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1986-86",
-        "title": "Road Lights",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1985-17",
-        "title": "Broken Summer",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1985
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1985-66",
-        "title": "Dancing Ice",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1985-76",
-        "title": "Broken Ocean",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1985-82",
-        "title": "Sweet City",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1985-86",
-        "title": "Chasing Road",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1984-42",
-        "title": "Midnight Gold",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1984-45",
-        "title": "Never Rose",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1984-61",
-        "title": "Wild City",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1983-42",
-        "title": "Falling Star",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1983-69",
-        "title": "Sweet River",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1983-95",
-        "title": "Electric Winter",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1982-23",
-        "title": "Crystal Moonlight",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1982-28",
-        "title": "Winter Forever",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1982-29",
-        "title": "Mountain Love",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1982-58",
-        "title": "Fire Soul",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1982-61",
-        "title": "Winter Heart",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1982-76",
-        "title": "Under the Star",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1982-78",
-        "title": "Under the Winter",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1981-31",
-        "title": "Chasing Rose",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1981-45",
-        "title": "Shining River",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1981-61",
-        "title": "Dancing Summer",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1981-78",
-        "title": "Flame Dreams",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1980-19",
-        "title": "Broken Wind",
-        "artist": {
-          "id": "a-u2",
-          "name": "U2"
-        },
-        "genre": "western"
-      },
-      "year": 1980
     },
     {
       "rank": 40,
       "song": {
-        "id": "west-1980-40",
-        "title": "Midnight Bridge",
+        "id": "west-1985-40",
+        "title": "Ice Tears",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1985-65",
+        "title": "Chasing Gold",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1985-90",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1985-92",
+        "title": "Crystal Love",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1985-94",
+        "title": "Wild Ice",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1984-26",
+        "title": "Wind Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1984-44",
+        "title": "Moon Love",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1984-84",
+        "title": "Shadow Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1984-93",
+        "title": "Storm Love",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1984-97",
+        "title": "Flame Moonlight",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1983-34",
+        "title": "Gold Soul",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1983-91",
+        "title": "Running Snow",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1983-100",
+        "title": "Wild Bridge",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1982-14",
+        "title": "Wild Road",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1982-36",
+        "title": "Broken Fire",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1982-48",
+        "title": "Last Bridge",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1982-49",
+        "title": "Summer Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1982-63",
+        "title": "Electric Crystal",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1982-94",
+        "title": "Into the Silver",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1982-96",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1981-17",
+        "title": "Wild Snow",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1981-44",
+        "title": "Running Summer",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1981-68",
+        "title": "Summer Rain",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1981-79",
+        "title": "Into the Light",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1981-81",
+        "title": "Wild Sky",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1981-97",
+        "title": "Sky Dreams",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1980-14",
+        "title": "Golden City",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 43,
+      "rank": 31,
       "song": {
-        "id": "west-1980-43",
-        "title": "Diamond Dreams",
+        "id": "west-1980-31",
+        "title": "Rain Soul",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 70,
+      "rank": 55,
       "song": {
-        "id": "west-1980-70",
-        "title": "City Dreams",
+        "id": "west-1980-55",
+        "title": "Rose Soul",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 78,
+      "rank": 67,
       "song": {
-        "id": "west-1980-78",
-        "title": "Falling Storm",
+        "id": "west-1980-67",
+        "title": "Sweet Silver",
         "artist": {
-          "id": "a-u2",
-          "name": "U2"
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1980-85",
+        "title": "Thunder Moonlight",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1980-97",
+        "title": "Summer Lights",
+        "artist": {
+          "id": "a-wham",
+          "name": "Wham!"
         },
         "genre": "western"
       },

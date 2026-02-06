@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1979-76",
-    "title": "Ice Lights",
+    "title": "Under the Ocean",
     "artist": {
-      "id": "a-ewf",
-      "name": "Earth, Wind & Fire"
+      "id": "a-bee-gees",
+      "name": "Bee Gees"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 76,
   "cdInfo": [
     {
-      "title": "Ice Lights",
+      "title": "Under the Ocean",
       "type": "single",
-      "releaseDate": "1979-12-20"
+      "releaseDate": "1979-03-08"
     },
     {
-      "title": "The Light Album",
+      "title": "City Anthology",
       "type": "album",
-      "releaseDate": "1979-02-17"
+      "releaseDate": "1979-12-03"
     }
   ],
   "externalLinks": {
@@ -29,221 +29,325 @@
   },
   "artistSongs": [
     {
-      "rank": 26,
+      "rank": 8,
       "song": {
-        "id": "west-1979-26",
-        "title": "Crystal Forever",
+        "id": "west-1979-08",
+        "title": "Too Much Heaven",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 94,
+      "rank": 31,
       "song": {
-        "id": "west-1979-94",
-        "title": "Last Wave",
+        "id": "west-1979-31",
+        "title": "Fading River",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1978-24",
-        "title": "Midnight Ice",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1978-32",
-        "title": "Fading Gold",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 40,
       "song": {
-        "id": "west-1978-40",
-        "title": "Golden Dawn",
+        "id": "west-1979-40",
+        "title": "Sweet Fire",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1979-85",
+        "title": "Snow Heart",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1979-90",
+        "title": "Wild Fire",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1978-02",
+        "title": "Night Fever",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 56,
+      "rank": 3,
       "song": {
-        "id": "west-1978-56",
-        "title": "Wave Fire",
+        "id": "west-1978-03",
+        "title": "Stayin' Alive",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1978
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1978-06",
+        "title": "How Deep Is Your Love",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1978-20",
+        "title": "Running Snow",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1978-43",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1978-47",
+        "title": "Last Crystal",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1978-70",
+        "title": "Shining Sun",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1977-13",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1977-18",
+        "title": "Sky Fire",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1977-40",
+        "title": "Ocean Love",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1977-42",
+        "title": "Fire Love",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-1978-57",
-        "title": "Flame Fire",
+        "id": "west-1977-57",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1977-33",
-        "title": "Fire Fire",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 90,
+      "rank": 60,
       "song": {
-        "id": "west-1977-90",
-        "title": "Sweet Light",
+        "id": "west-1977-60",
+        "title": "Storm Fire",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 28,
+      "rank": 63,
       "song": {
-        "id": "west-1976-28",
-        "title": "Ocean Heart",
+        "id": "west-1977-63",
+        "title": "Winter Heart",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1976-20",
+        "title": "River Fire",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 69,
+      "rank": 37,
       "song": {
-        "id": "west-1976-69",
-        "title": "Lost in Wind",
+        "id": "west-1976-37",
+        "title": "Golden Ice",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 78,
+      "rank": 62,
       "song": {
-        "id": "west-1976-78",
-        "title": "Chasing Ice",
+        "id": "west-1976-62",
+        "title": "Diamond Tears",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 90,
+      "rank": 11,
       "song": {
-        "id": "west-1976-90",
-        "title": "Thunder Soul",
+        "id": "west-1975-11",
+        "title": "Bridge Way",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1976-92",
-        "title": "Chasing Fire",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1976-93",
-        "title": "Dancing Ocean",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1975-30",
-        "title": "Sweet River",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 41,
+      "rank": 12,
       "song": {
-        "id": "west-1975-41",
-        "title": "Sweet Flame",
+        "id": "west-1975-12",
+        "title": "Golden Rain",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1975-33",
+        "title": "Rain Dreams",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
@@ -253,88 +357,36 @@
       "rank": 43,
       "song": {
         "id": "west-1975-43",
-        "title": "Shining Flame",
+        "title": "Summer Fire",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 50,
+      "rank": 44,
       "song": {
-        "id": "west-1975-50",
-        "title": "Never Light",
+        "id": "west-1975-44",
+        "title": "Under the Storm",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 53,
+      "rank": 46,
       "song": {
-        "id": "west-1975-53",
-        "title": "Last Moon",
+        "id": "west-1975-46",
+        "title": "Dancing Star",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1975-62",
-        "title": "Summer Moonlight",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1975-71",
-        "title": "Under the Silver",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1975-77",
-        "title": "Electric Moon",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1975-86",
-        "title": "Running Mountain",
-        "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
@@ -344,23 +396,49 @@
       "rank": 87,
       "song": {
         "id": "west-1975-87",
-        "title": "Never Mountain",
+        "title": "Fading Wind",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 98,
+      "rank": 88,
       "song": {
-        "id": "west-1975-98",
-        "title": "Sweet City",
+        "id": "west-1975-88",
+        "title": "Fire Soul",
         "artist": {
-          "id": "a-ewf",
-          "name": "Earth, Wind & Fire"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1975-90",
+        "title": "Last Ocean",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1975-94",
+        "title": "Lost in Snow",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },

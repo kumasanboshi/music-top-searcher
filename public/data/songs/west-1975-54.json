@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-54",
-    "title": "Midnight Road",
+    "title": "Last City",
     "artist": {
-      "id": "a-abba",
-      "name": "ABBA"
+      "id": "a-elton-john",
+      "name": "Elton John"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 54,
   "cdInfo": [
     {
-      "title": "Midnight Road",
+      "title": "Last City",
       "type": "single",
-      "releaseDate": "1975-12-18"
+      "releaseDate": "1975-12-02"
     },
     {
-      "title": "Wave Sessions",
+      "title": "Shadow Stories",
       "type": "album",
-      "releaseDate": "1975-08-13"
+      "releaseDate": "1975-11-16"
     }
   ],
   "externalLinks": {
@@ -29,39 +29,104 @@
   },
   "artistSongs": [
     {
-      "rank": 67,
+      "rank": 6,
       "song": {
-        "id": "west-1979-67",
-        "title": "Dancing Shadow",
+        "id": "west-2022-06",
+        "title": "Cold Heart",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John & Dua Lipa"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1997-01",
+        "title": "Candle in the Wind 1997",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1979-22",
+        "title": "Last Rose",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 23,
+      "rank": 33,
       "song": {
-        "id": "west-1978-23",
-        "title": "Into the Crystal",
+        "id": "west-1979-33",
+        "title": "Wind Lights",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
-      "year": 1978
+      "year": 1979
     },
     {
-      "rank": 29,
+      "rank": 47,
       "song": {
-        "id": "west-1978-29",
-        "title": "Never Thunder",
+        "id": "west-1979-47",
+        "title": "Chasing Storm",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1979-59",
+        "title": "Dusk Soul",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1979-80",
+        "title": "Midnight Rain",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1978-12",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -71,62 +136,62 @@
       "rank": 45,
       "song": {
         "id": "west-1978-45",
-        "title": "Running Ocean",
+        "title": "Fire Lights",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 76,
+      "rank": 82,
       "song": {
-        "id": "west-1978-76",
-        "title": "Wind Soul",
+        "id": "west-1978-82",
+        "title": "Under the City",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 85,
+      "rank": 83,
       "song": {
-        "id": "west-1978-85",
-        "title": "River Night",
+        "id": "west-1978-83",
+        "title": "Falling Diamond",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 98,
+      "rank": 30,
       "song": {
-        "id": "west-1978-98",
-        "title": "Light Moonlight",
+        "id": "west-1977-30",
+        "title": "Shining Silver",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
-      "year": 1978
+      "year": 1977
     },
     {
-      "rank": 6,
+      "rank": 31,
       "song": {
-        "id": "west-1977-06",
-        "title": "Dancing Queen",
+        "id": "west-1977-31",
+        "title": "Into the Ocean",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -136,36 +201,36 @@
       "rank": 32,
       "song": {
         "id": "west-1977-32",
-        "title": "Wild Wind",
+        "title": "Running Snow",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 45,
+      "rank": 55,
       "song": {
-        "id": "west-1977-45",
-        "title": "Wild Storm",
+        "id": "west-1977-55",
+        "title": "City Sky",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 54,
+      "rank": 62,
       "song": {
-        "id": "west-1977-54",
-        "title": "Never Rain",
+        "id": "west-1977-62",
+        "title": "Midnight Road",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -175,23 +240,10 @@
       "rank": 71,
       "song": {
         "id": "west-1977-71",
-        "title": "Midnight Ocean",
+        "title": "Shining Fire",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1977-84",
-        "title": "River Sky",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -201,23 +253,36 @@
       "rank": 89,
       "song": {
         "id": "west-1977-89",
-        "title": "Diamond Soul",
+        "title": "Diamond Way",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 98,
+      "rank": 90,
       "song": {
-        "id": "west-1977-98",
-        "title": "Sun Lights",
+        "id": "west-1977-90",
+        "title": "Never Road",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1977-91",
+        "title": "Golden Snow",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
@@ -227,101 +292,153 @@
       "rank": 99,
       "song": {
         "id": "west-1977-99",
-        "title": "Last City",
+        "title": "Storm Soul",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 94,
+      "rank": 21,
       "song": {
-        "id": "west-1976-94",
-        "title": "Dawn Tears",
+        "id": "west-1976-21",
+        "title": "Shadow Soul",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 97,
+      "rank": 32,
       "song": {
-        "id": "west-1976-97",
-        "title": "Electric Snow",
+        "id": "west-1976-32",
+        "title": "Last Rose",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 22,
+      "rank": 44,
       "song": {
-        "id": "west-1975-22",
-        "title": "Lost in Sky",
+        "id": "west-1976-44",
+        "title": "Sun Sky",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1976-81",
+        "title": "Electric Fire",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 85,
       "song": {
-        "id": "west-1975-85",
-        "title": "Wind Sky",
+        "id": "west-1976-85",
+        "title": "Sun Fire",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1976-93",
+        "title": "Never Crystal",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1975-03",
+        "title": "Philadelphia Freedom",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 91,
+      "rank": 63,
       "song": {
-        "id": "west-1975-91",
-        "title": "Falling Crystal",
+        "id": "west-1975-63",
+        "title": "Star Love",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 92,
+      "rank": 83,
       "song": {
-        "id": "west-1975-92",
-        "title": "Golden Snow",
+        "id": "west-1975-83",
+        "title": "Thunder Lights",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 94,
+      "rank": 86,
       "song": {
-        "id": "west-1975-94",
-        "title": "Last Storm",
+        "id": "west-1975-86",
+        "title": "Sun Night",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-elton-john",
+          "name": "Elton John"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1975-89",
+        "title": "Dancing Ice",
+        "artist": {
+          "id": "a-elton-john",
+          "name": "Elton John"
         },
         "genre": "western"
       },

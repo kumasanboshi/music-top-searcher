@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-2021-78",
-    "title": "夢の海",
+    "title": "星の街",
     "artist": {
-      "id": "a-creepy-nuts",
-      "name": "Creepy Nuts"
+      "id": "a-yuuri",
+      "name": "優里"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 78,
   "cdInfo": [
     {
-      "title": "夢の海",
+      "title": "星の街",
       "type": "single",
-      "releaseDate": "2021-04-12"
+      "releaseDate": "2021-01-11"
     },
     {
-      "title": "ALL TIME 冬",
+      "title": "影ストーリーズ",
       "type": "album",
-      "releaseDate": "2021-03-16"
+      "releaseDate": "2021-02-21"
     }
   ],
   "externalLinks": {
@@ -29,260 +29,247 @@
   },
   "artistSongs": [
     {
-      "rank": 41,
+      "rank": 10,
       "song": {
-        "id": "jpop-2025-41",
-        "title": "風の季節",
+        "id": "jpop-2025-10",
+        "title": "星屑のワルツ",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2025
     },
     {
+      "rank": 11,
+      "song": {
+        "id": "jpop-2025-11",
+        "title": "太陽の季節",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-2025-48",
+        "title": "影サンセット",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-2025-86",
+        "title": "希望のかけら",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-2023-25",
+        "title": "星の冬",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2023-38",
+        "title": "君の海",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-2023-58",
+        "title": "君の冬",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-2023-72",
+        "title": "恋ストーリー",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 7,
+      "song": {
+        "id": "jpop-2022-07",
+        "title": "ベテルギウス",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-2022-26",
+        "title": "雨の季節",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-2022-47",
+        "title": "希望の歌",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-2022-52",
+        "title": "涙の桜",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-2022-61",
+        "title": "星の恋",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-2022-67",
+        "title": "真夜中の愛",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2022-81",
+        "title": "時間の光",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2022-94",
+        "title": "ミッドナイト街",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
       "rank": 1,
       "song": {
-        "id": "jpop-2024-01",
-        "title": "Bling-Bang-Bang-Born",
+        "id": "jpop-2021-01",
+        "title": "ドライフラワー",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2024
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2023-12",
-        "title": "雪の季節",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-2023-36",
-        "title": "冬フォーエバー",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-2023-43",
-        "title": "星の朝",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-2022-12",
-        "title": "風の海",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-2022-20",
-        "title": "永遠の時間",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-2022-30",
-        "title": "海ストーリー",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "jpop-2022-34",
-        "title": "時間の花",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-2022-45",
-        "title": "永遠の夢",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-2022-46",
-        "title": "影の歌",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "jpop-2022-63",
-        "title": "光の光",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "jpop-2022-69",
-        "title": "世界の夜",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "jpop-2022-77",
-        "title": "恋の波",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-2022-92",
-        "title": "記憶の海",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2022-93",
-        "title": "空の季節",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-2022-99",
-        "title": "風の夜",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-2022-100",
-        "title": "ミッドナイト空",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2021-21",
-        "title": "風の海",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 22,
+      "rank": 13,
       "song": {
-        "id": "jpop-2021-22",
-        "title": "約束の雨",
+        "id": "jpop-2021-13",
+        "title": "夢メロディ",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "jpop-2021-33",
+        "title": "ミッドナイト空",
+        "artist": {
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
@@ -292,192 +279,114 @@
       "rank": 38,
       "song": {
         "id": "jpop-2021-38",
-        "title": "冬のかけら",
+        "title": "永遠の希望",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 65,
+      "rank": 84,
       "song": {
-        "id": "jpop-2021-65",
-        "title": "最後の希望",
+        "id": "jpop-2021-84",
+        "title": "月の記憶",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 77,
+      "rank": 86,
       "song": {
-        "id": "jpop-2021-77",
-        "title": "風ストーリー",
+        "id": "jpop-2021-86",
+        "title": "君の雨",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2021
     },
     {
-      "rank": 16,
+      "rank": 24,
       "song": {
-        "id": "jpop-2020-16",
-        "title": "雪の海",
+        "id": "jpop-2020-24",
+        "title": "雨の空",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 34,
+      "rank": 28,
       "song": {
-        "id": "jpop-2020-34",
-        "title": "朝の海",
+        "id": "jpop-2020-28",
+        "title": "恋の月",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 36,
+      "rank": 41,
       "song": {
-        "id": "jpop-2020-36",
-        "title": "恋の記憶",
+        "id": "jpop-2020-41",
+        "title": "真夜中の花",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 37,
+      "rank": 42,
       "song": {
-        "id": "jpop-2020-37",
-        "title": "記憶の海",
+        "id": "jpop-2020-42",
+        "title": "涙の空",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 48,
+      "rank": 86,
       "song": {
-        "id": "jpop-2020-48",
-        "title": "星の恋",
+        "id": "jpop-2020-86",
+        "title": "星の月",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },
       "year": 2020
     },
     {
-      "rank": 50,
+      "rank": 93,
       "song": {
-        "id": "jpop-2020-50",
-        "title": "光の海",
+        "id": "jpop-2020-93",
+        "title": "恋の雨",
         "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "jpop-2020-55",
-        "title": "夢の街",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "jpop-2020-61",
-        "title": "記憶の街",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-2020-75",
-        "title": "未来の海",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "jpop-2020-80",
-        "title": "波の歌",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2020-81",
-        "title": "雪の歌",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-2020-97",
-        "title": "影メロディ",
-        "artist": {
-          "id": "a-creepy-nuts",
-          "name": "Creepy Nuts"
+          "id": "a-yuuri",
+          "name": "優里"
         },
         "genre": "jpop"
       },

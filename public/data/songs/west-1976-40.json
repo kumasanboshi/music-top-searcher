@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1976-40",
-    "title": "Shadow Forever",
+    "title": "Never Bridge",
     "artist": {
-      "id": "a-stevie-wonder",
-      "name": "Stevie Wonder"
+      "id": "a-carpenters",
+      "name": "The Carpenters"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 40,
   "cdInfo": [
     {
-      "title": "Shadow Forever",
+      "title": "Never Bridge",
       "type": "single",
-      "releaseDate": "1976-04-01"
+      "releaseDate": "1976-08-19"
     },
     {
-      "title": "The Fire Album",
+      "title": "City Collection",
       "type": "album",
-      "releaseDate": "1976-10-27"
+      "releaseDate": "1976-05-19"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,39 @@
   },
   "artistSongs": [
     {
-      "rank": 22,
+      "rank": 13,
       "song": {
-        "id": "west-1979-22",
-        "title": "Sweet Rose",
+        "id": "west-1979-13",
+        "title": "Chasing Star",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1979-17",
+        "title": "Electric Sky",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1979-18",
+        "title": "Under the Star",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
@@ -45,23 +71,36 @@
       "rank": 34,
       "song": {
         "id": "west-1979-34",
-        "title": "Star Lights",
+        "title": "Last Dusk",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 60,
+      "rank": 39,
       "song": {
-        "id": "west-1979-60",
-        "title": "Wave Dreams",
+        "id": "west-1979-39",
+        "title": "Electric Storm",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1979-48",
+        "title": "Dancing Dawn",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
@@ -71,322 +110,374 @@
       "rank": 64,
       "song": {
         "id": "west-1979-64",
-        "title": "Sky Forever",
+        "title": "Flame Sky",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 65,
+      "rank": 83,
       "song": {
-        "id": "west-1979-65",
-        "title": "Dusk Rain",
+        "id": "west-1979-83",
+        "title": "Dusk Fire",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1979-81",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1979-95",
-        "title": "Lost in Thunder",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1978-33",
-        "title": "Wind Love",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1978-53",
-        "title": "Electric Winter",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1978-58",
-        "title": "Into the Rain",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1978-69",
-        "title": "Thunder Sky",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 99,
       "song": {
-        "id": "west-1978-99",
-        "title": "Sweet Dusk",
+        "id": "west-1979-99",
+        "title": "Into the Crystal",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1978-11",
+        "title": "Chasing Summer",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 7,
+      "rank": 48,
       "song": {
-        "id": "west-1977-07",
-        "title": "I Wish",
+        "id": "west-1978-48",
+        "title": "Shadow Lights",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
-      "year": 1977
+      "year": 1978
     },
     {
-      "rank": 23,
+      "rank": 54,
       "song": {
-        "id": "west-1977-23",
-        "title": "Flame Forever",
+        "id": "west-1978-54",
+        "title": "River Forever",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
-      "year": 1977
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1977-44",
-        "title": "Broken Sun",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1977-74",
-        "title": "Into the Ice",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1976-12",
-        "title": "Midnight Wave",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1976-14",
-        "title": "Ice Moonlight",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1976-81",
-        "title": "Rose Tears",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1976-91",
-        "title": "City Rain",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1975-23",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1975-31",
-        "title": "Wild Rose",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1975-42",
-        "title": "Gold Dreams",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1975-44",
-        "title": "Under the Moon",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1975-59",
-        "title": "River Tears",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1975-63",
-        "title": "Broken Snow",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
+      "year": 1978
     },
     {
       "rank": 65,
       "song": {
-        "id": "west-1975-65",
-        "title": "Mountain Lights",
+        "id": "west-1978-65",
+        "title": "Rain Dreams",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1978-68",
+        "title": "Under the Road",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1978-97",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1977-15",
+        "title": "Sky Way",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1977-17",
+        "title": "Fading Rose",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1977-59",
+        "title": "Flame Tears",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1976-35",
+        "title": "Moon Tears",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1976-48",
+        "title": "Diamond Rain",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1976-53",
+        "title": "Fire Fire",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1976-64",
+        "title": "Shining Dusk",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1976-68",
+        "title": "Broken Ice",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1976-87",
+        "title": "Under the Star",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1975-18",
+        "title": "Fire Fire",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 96,
+      "rank": 37,
       "song": {
-        "id": "west-1975-96",
-        "title": "Into the Ocean",
+        "id": "west-1975-37",
+        "title": "Under the Mountain",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1975-53",
+        "title": "Rose Forever",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1975-57",
+        "title": "Shining Flame",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1975-70",
+        "title": "Lost in Bridge",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1975-72",
+        "title": "Shining Road",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1975-78",
+        "title": "Running River",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1975-91",
+        "title": "Star Sky",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1975-95",
+        "title": "Shining Storm",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1975-98",
+        "title": "Never Fire",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1975-99",
+        "title": "River Soul",
+        "artist": {
+          "id": "a-carpenters",
+          "name": "The Carpenters"
         },
         "genre": "western"
       },

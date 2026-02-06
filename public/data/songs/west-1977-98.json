@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-98",
-    "title": "Sun Lights",
+    "title": "Broken Silver",
     "artist": {
-      "id": "a-abba",
-      "name": "ABBA"
+      "id": "a-billy-joel",
+      "name": "Billy Joel"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 98,
   "cdInfo": [
     {
-      "title": "Sun Lights",
+      "title": "Broken Silver",
       "type": "single",
-      "releaseDate": "1977-04-25"
+      "releaseDate": "1977-10-24"
     },
     {
-      "title": "River Stories",
+      "title": "The Wind Album",
       "type": "album",
-      "releaseDate": "1977-06-28"
+      "releaseDate": "1977-02-06"
     }
   ],
   "externalLinks": {
@@ -29,52 +29,195 @@
   },
   "artistSongs": [
     {
-      "rank": 67,
+      "rank": 9,
       "song": {
-        "id": "west-1979-67",
-        "title": "Dancing Shadow",
+        "id": "west-1980-09",
+        "title": "It's Still Rock and Roll to Me",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1979-11",
+        "title": "Falling Sky",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 23,
+      "rank": 24,
       "song": {
-        "id": "west-1978-23",
-        "title": "Into the Crystal",
+        "id": "west-1979-24",
+        "title": "Star Dreams",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1979-30",
+        "title": "Broken Rain",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1979-38",
+        "title": "Midnight Storm",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1979-43",
+        "title": "Wild Silver",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1979-66",
+        "title": "Midnight Road",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1979-95",
+        "title": "Crystal Lights",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1978-33",
+        "title": "Golden Road",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 29,
+      "rank": 34,
       "song": {
-        "id": "west-1978-29",
-        "title": "Never Thunder",
+        "id": "west-1978-34",
+        "title": "Golden Summer",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 45,
+      "rank": 42,
       "song": {
-        "id": "west-1978-45",
-        "title": "Running Ocean",
+        "id": "west-1978-42",
+        "title": "Chasing Moon",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1978-49",
+        "title": "Midnight Diamond",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1978-50",
+        "title": "Thunder Night",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1978-57",
+        "title": "Star Forever",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1978-58",
+        "title": "Into the Rain",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
@@ -84,244 +227,192 @@
       "rank": 76,
       "song": {
         "id": "west-1978-76",
-        "title": "Wind Soul",
+        "title": "Last Shadow",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 85,
+      "rank": 39,
       "song": {
-        "id": "west-1978-85",
-        "title": "River Night",
+        "id": "west-1977-39",
+        "title": "Broken Rose",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1978-98",
-        "title": "Light Moonlight",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-1977-06",
-        "title": "Dancing Queen",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 32,
+      "rank": 43,
       "song": {
-        "id": "west-1977-32",
-        "title": "Wild Wind",
+        "id": "west-1977-43",
+        "title": "Rain Fire",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 45,
+      "rank": 100,
       "song": {
-        "id": "west-1977-45",
-        "title": "Wild Storm",
+        "id": "west-1977-100",
+        "title": "City Night",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 54,
+      "rank": 23,
       "song": {
-        "id": "west-1977-54",
-        "title": "Never Rain",
+        "id": "west-1976-23",
+        "title": "Electric Diamond",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
-      "year": 1977
+      "year": 1976
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1976-38",
+        "title": "Silver Moonlight",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1976-57",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
+        },
+        "genre": "western"
+      },
+      "year": 1976
     },
     {
       "rank": 71,
       "song": {
-        "id": "west-1977-71",
-        "title": "Midnight Ocean",
+        "id": "west-1976-71",
+        "title": "Ocean Love",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
-      "year": 1977
+      "year": 1976
     },
     {
-      "rank": 84,
+      "rank": 76,
       "song": {
-        "id": "west-1977-84",
-        "title": "River Sky",
+        "id": "west-1976-76",
+        "title": "Flame Love",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
-      "year": 1977
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1977-89",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
+      "year": 1976
     },
     {
       "rank": 99,
       "song": {
-        "id": "west-1977-99",
-        "title": "Last City",
+        "id": "west-1976-99",
+        "title": "Gold Rain",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1976-94",
-        "title": "Dawn Tears",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 97,
+      "rank": 13,
       "song": {
-        "id": "west-1976-97",
-        "title": "Electric Snow",
+        "id": "west-1975-13",
+        "title": "Lost in Crystal",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1975-22",
-        "title": "Lost in Sky",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 54,
+      "rank": 17,
       "song": {
-        "id": "west-1975-54",
-        "title": "Midnight Road",
+        "id": "west-1975-17",
+        "title": "Never Winter",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 85,
+      "rank": 39,
       "song": {
-        "id": "west-1975-85",
-        "title": "Wind Sky",
+        "id": "west-1975-39",
+        "title": "Shining City",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 91,
+      "rank": 40,
       "song": {
-        "id": "west-1975-91",
-        "title": "Falling Crystal",
+        "id": "west-1975-40",
+        "title": "Moon Rain",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 92,
+      "rank": 69,
       "song": {
-        "id": "west-1975-92",
-        "title": "Golden Snow",
+        "id": "west-1975-69",
+        "title": "Running Flame",
         "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1975-94",
-        "title": "Last Storm",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
+          "id": "a-billy-joel",
+          "name": "Billy Joel"
         },
         "genre": "western"
       },

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-45",
-    "title": "Golden Moon",
+    "title": "Chasing Rose",
     "artist": {
-      "id": "a-queen",
-      "name": "Queen"
+      "id": "a-wings",
+      "name": "Paul McCartney & Wings"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 45,
   "cdInfo": [
     {
-      "title": "Golden Moon",
+      "title": "Chasing Rose",
       "type": "single",
-      "releaseDate": "1975-03-07"
+      "releaseDate": "1975-05-26"
     },
     {
-      "title": "Rose Diaries",
+      "title": "Summer Reloaded",
       "type": "album",
-      "releaseDate": "1975-04-13"
+      "releaseDate": "1975-09-14"
     }
   ],
   "externalLinks": {
@@ -29,39 +29,65 @@
   },
   "artistSongs": [
     {
-      "rank": 6,
+      "rank": 19,
       "song": {
-        "id": "west-1980-06",
-        "title": "Crazy Little Thing Called Love",
+        "id": "west-1979-19",
+        "title": "Diamond Heart",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1979-14",
-        "title": "Sun Sky",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 17,
+      "rank": 26,
       "song": {
-        "id": "west-1979-17",
-        "title": "Rose Lights",
+        "id": "west-1979-26",
+        "title": "Falling Light",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1979-28",
+        "title": "Last Fire",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1979-77",
+        "title": "Golden Star",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1979-89",
+        "title": "Shining Dusk",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
@@ -70,102 +96,24 @@
     {
       "rank": 36,
       "song": {
-        "id": "west-1979-36",
-        "title": "Into the Rose",
+        "id": "west-1978-36",
+        "title": "Sun Fire",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
-      "year": 1979
+      "year": 1978
     },
     {
       "rank": 37,
       "song": {
-        "id": "west-1979-37",
-        "title": "Golden Thunder",
+        "id": "west-1978-37",
+        "title": "Dawn Forever",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1979-56",
-        "title": "Sky Dreams",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1979-73",
-        "title": "Sky Sky",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1979-96",
-        "title": "Dancing Diamond",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1978-19",
-        "title": "Crystal Moonlight",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1978-22",
-        "title": "Running Road",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1978-28",
-        "title": "Star Lights",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
@@ -175,127 +123,88 @@
       "rank": 62,
       "song": {
         "id": "west-1978-62",
-        "title": "Ice Fire",
+        "title": "Wave Fire",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 64,
+      "rank": 78,
       "song": {
-        "id": "west-1978-64",
-        "title": "Shadow Dreams",
+        "id": "west-1978-78",
+        "title": "Star Tears",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1978
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1977-12",
+        "title": "Summer Fire",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1977-36",
+        "title": "Diamond Dreams",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1977-47",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 65,
       "song": {
-        "id": "west-1978-65",
-        "title": "Moon Night",
+        "id": "west-1977-65",
+        "title": "Falling Ocean",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1978-70",
-        "title": "Wild City",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1978-83",
-        "title": "Broken Summer",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1978-96",
-        "title": "Dancing Ocean",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1977-22",
-        "title": "Rose Lights",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 57,
+      "rank": 79,
       "song": {
-        "id": "west-1977-57",
-        "title": "Midnight Mountain",
+        "id": "west-1977-79",
+        "title": "Dawn Fire",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1977-64",
-        "title": "City Soul",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1977-82",
-        "title": "Electric Star",
-        "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
@@ -305,101 +214,192 @@
       "rank": 94,
       "song": {
         "id": "west-1977-94",
-        "title": "Midnight Gold",
+        "title": "Shining Light",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 45,
+      "rank": 97,
       "song": {
-        "id": "west-1976-45",
-        "title": "Storm Forever",
+        "id": "west-1977-97",
+        "title": "Midnight Light",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 1,
+      "song": {
+        "id": "west-1976-01",
+        "title": "Silly Love Songs",
+        "artist": {
+          "id": "a-wings",
+          "name": "Wings"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 46,
+      "rank": 13,
       "song": {
-        "id": "west-1976-46",
-        "title": "Dancing Star",
+        "id": "west-1976-13",
+        "title": "Snow Soul",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 51,
+      "rank": 26,
       "song": {
-        "id": "west-1976-51",
-        "title": "Silver Night",
+        "id": "west-1976-26",
+        "title": "Lost in Dusk",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 71,
+      "rank": 43,
       "song": {
-        "id": "west-1976-71",
-        "title": "Running Wave",
+        "id": "west-1976-43",
+        "title": "Moon Sky",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 15,
+      "rank": 59,
       "song": {
-        "id": "west-1975-15",
-        "title": "Fading Flame",
+        "id": "west-1976-59",
+        "title": "Storm Heart",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1976-74",
+        "title": "Falling Mountain",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1976-77",
+        "title": "Broken Road",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1976-97",
+        "title": "Shining Rain",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1975-32",
+        "title": "Broken Rose",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 58,
+      "rank": 41,
       "song": {
-        "id": "west-1975-58",
-        "title": "Chasing Sun",
+        "id": "west-1975-41",
+        "title": "Wild Sun",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 90,
+      "rank": 47,
       "song": {
-        "id": "west-1975-90",
-        "title": "Diamond Soul",
+        "id": "west-1975-47",
+        "title": "Gold Love",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1975-65",
+        "title": "Fire Rain",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1975-81",
+        "title": "Silver Tears",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },
@@ -409,10 +409,23 @@
       "rank": 93,
       "song": {
         "id": "west-1975-93",
-        "title": "Fading Shadow",
+        "title": "Chasing Diamond",
         "artist": {
-          "id": "a-queen",
-          "name": "Queen"
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1975-96",
+        "title": "Dancing Dawn",
+        "artist": {
+          "id": "a-wings",
+          "name": "Paul McCartney & Wings"
         },
         "genre": "western"
       },

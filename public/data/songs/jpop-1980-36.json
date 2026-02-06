@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1980-36",
-    "title": "森の空",
+    "title": "太陽の記憶",
     "artist": {
-      "id": "a-tm-network",
-      "name": "TM NETWORK"
+      "id": "a-checkers",
+      "name": "チェッカーズ"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 36,
   "cdInfo": [
     {
-      "title": "森の空",
+      "title": "太陽の記憶",
       "type": "single",
-      "releaseDate": "1980-07-14"
+      "releaseDate": "1980-10-24"
     },
     {
-      "title": "ベスト・オブ・太陽",
+      "title": "夢メモリーズ",
       "type": "album",
-      "releaseDate": "1980-06-05"
+      "releaseDate": "1980-04-06"
     }
   ],
   "externalLinks": {
@@ -29,65 +29,26 @@
   },
   "artistSongs": [
     {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1989-17",
-        "title": "恋の時間",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1989-24",
-        "title": "青い虹",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1989-31",
-        "title": "約束フォーエバー",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
       "rank": 47,
       "song": {
         "id": "jpop-1989-47",
-        "title": "朝メロディ",
+        "title": "愛物語",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 63,
+      "rank": 64,
       "song": {
-        "id": "jpop-1989-63",
-        "title": "君の朝",
+        "id": "jpop-1989-64",
+        "title": "夢の光",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -97,62 +58,179 @@
       "rank": 67,
       "song": {
         "id": "jpop-1989-67",
-        "title": "光のかけら",
+        "title": "青い朝",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 87,
+      "rank": 71,
       "song": {
-        "id": "jpop-1989-87",
-        "title": "未来の光",
+        "id": "jpop-1989-71",
+        "title": "夏メロディ",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 73,
+      "rank": 72,
       "song": {
-        "id": "jpop-1988-73",
-        "title": "風の太陽",
+        "id": "jpop-1989-72",
+        "title": "青い雪",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1989-78",
+        "title": "影のリズム",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1989-81",
+        "title": "夢の時間",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1989-83",
+        "title": "桜の記憶",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1989-90",
+        "title": "愛の季節",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1989-95",
+        "title": "約束の夢",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-1988-25",
+        "title": "月物語",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 84,
+      "rank": 32,
       "song": {
-        "id": "jpop-1988-84",
-        "title": "恋の空",
+        "id": "jpop-1988-32",
+        "title": "ミッドナイト森",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 3,
+      "rank": 75,
       "song": {
-        "id": "jpop-1987-03",
-        "title": "Get Wild",
+        "id": "jpop-1988-75",
+        "title": "夏の光",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "jpop-1987-40",
+        "title": "時間の空",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-1987-44",
+        "title": "風の月",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1987-63",
+        "title": "君の海",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -162,179 +240,127 @@
       "rank": 66,
       "song": {
         "id": "jpop-1987-66",
-        "title": "希望の記憶",
+        "title": "影の記憶",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 87,
+      "rank": 91,
       "song": {
-        "id": "jpop-1987-87",
-        "title": "愛の光",
+        "id": "jpop-1987-91",
+        "title": "青い時間",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 88,
+      "rank": 97,
       "song": {
-        "id": "jpop-1987-88",
-        "title": "森の歌",
+        "id": "jpop-1987-97",
+        "title": "真夜中の花",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 89,
+      "rank": 14,
       "song": {
-        "id": "jpop-1987-89",
-        "title": "涙の風",
+        "id": "jpop-1986-14",
+        "title": "夢の記憶",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1987
+      "year": 1986
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1986-17",
+        "title": "時間ストーリー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
     },
     {
       "rank": 32,
       "song": {
         "id": "jpop-1986-32",
-        "title": "朝の歌",
+        "title": "森フォーエバー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 40,
+      "rank": 35,
       "song": {
-        "id": "jpop-1986-40",
-        "title": "君の月",
+        "id": "jpop-1986-35",
+        "title": "星の街",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 61,
+      "rank": 46,
       "song": {
-        "id": "jpop-1986-61",
-        "title": "冬のかけら",
+        "id": "jpop-1986-46",
+        "title": "夏物語",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 69,
+      "rank": 59,
       "song": {
-        "id": "jpop-1986-69",
-        "title": "約束の朝",
+        "id": "jpop-1986-59",
+        "title": "星の花",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 71,
+      "rank": 78,
       "song": {
-        "id": "jpop-1986-71",
-        "title": "最後の朝",
+        "id": "jpop-1986-78",
+        "title": "ミッドナイト街",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-1986-73",
-        "title": "恋の世界",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1986-74",
-        "title": "ミッドナイト花",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1986-85",
-        "title": "光物語",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1986-86",
-        "title": "ミッドナイト夢",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1986-88",
-        "title": "涙の世界",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -344,283 +370,374 @@
       "rank": 93,
       "song": {
         "id": "jpop-1986-93",
-        "title": "時間のリズム",
+        "title": "雨の道",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 21,
+      "rank": 1,
       "song": {
-        "id": "jpop-1985-21",
-        "title": "永遠の約束",
+        "id": "jpop-1985-01",
+        "title": "ジュリアに傷心",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 27,
+      "rank": 4,
       "song": {
-        "id": "jpop-1985-27",
+        "id": "jpop-1985-04",
+        "title": "あの娘とスキャンダル",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "jpop-1985-08",
+        "title": "俺たちのロカビリーナイト",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1985-23",
+        "title": "世界物語",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-1985-29",
         "title": "太陽物語",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 42,
+      "rank": 36,
       "song": {
-        "id": "jpop-1985-42",
-        "title": "影の花",
+        "id": "jpop-1985-36",
+        "title": "朝サンセット",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 71,
+      "rank": 46,
       "song": {
-        "id": "jpop-1985-71",
-        "title": "未来の約束",
+        "id": "jpop-1985-46",
+        "title": "君の海",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 78,
+      "rank": 50,
       "song": {
-        "id": "jpop-1985-78",
-        "title": "未来の夜",
+        "id": "jpop-1985-50",
+        "title": "冬ストーリー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 80,
+      "rank": 60,
       "song": {
-        "id": "jpop-1985-80",
-        "title": "青い旅",
+        "id": "jpop-1985-60",
+        "title": "希望の歌",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 95,
+      "rank": 65,
       "song": {
-        "id": "jpop-1985-95",
-        "title": "恋の雪",
+        "id": "jpop-1985-65",
+        "title": "太陽の記憶",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 15,
+      "rank": 3,
       "song": {
-        "id": "jpop-1984-15",
-        "title": "月の夜",
+        "id": "jpop-1984-03",
+        "title": "涙のリクエスト",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 16,
+      "rank": 4,
       "song": {
-        "id": "jpop-1984-16",
-        "title": "風サンセット",
+        "id": "jpop-1984-04",
+        "title": "星屑のステージ",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 21,
+      "rank": 9,
       "song": {
-        "id": "jpop-1984-21",
-        "title": "風の光",
+        "id": "jpop-1984-09",
+        "title": "哀しくてジェラシー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 35,
+      "rank": 12,
       "song": {
-        "id": "jpop-1984-35",
-        "title": "恋の歌",
+        "id": "jpop-1984-12",
+        "title": "森のかけら",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 49,
+      "rank": 28,
       "song": {
-        "id": "jpop-1984-49",
-        "title": "波物語",
+        "id": "jpop-1984-28",
+        "title": "波の記憶",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 61,
+      "rank": 45,
       "song": {
-        "id": "jpop-1984-61",
-        "title": "約束ストーリー",
+        "id": "jpop-1984-45",
+        "title": "波の光",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 72,
+      "rank": 46,
       "song": {
-        "id": "jpop-1984-72",
-        "title": "光の空",
+        "id": "jpop-1984-46",
+        "title": "風の星",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1984
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1984-89",
-        "title": "森の光",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1983-13",
-        "title": "空のリズム",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1983-33",
-        "title": "森の海",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1983-49",
-        "title": "風サンセット",
-        "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
     },
     {
       "rank": 58,
       "song": {
-        "id": "jpop-1983-58",
-        "title": "街の空",
+        "id": "jpop-1984-58",
+        "title": "ミッドナイト海",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-1984-64",
+        "title": "永遠の星",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-1984-73",
+        "title": "風の夢",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1984-81",
+        "title": "恋の夜",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1983-31",
+        "title": "未来の光",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 68,
+      "rank": 36,
       "song": {
-        "id": "jpop-1983-68",
-        "title": "旅のリズム",
+        "id": "jpop-1983-36",
+        "title": "約束の恋",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 82,
+      "rank": 79,
       "song": {
-        "id": "jpop-1983-82",
-        "title": "約束物語",
+        "id": "jpop-1983-79",
+        "title": "涙の希望",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1983-81",
+        "title": "世界フォーエバー",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-1983-87",
+        "title": "希望の夜",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1983-91",
+        "title": "夢の夜",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "jpop-1983-93",
+        "title": "約束サンセット",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -630,75 +747,75 @@
       "rank": 29,
       "song": {
         "id": "jpop-1982-29",
-        "title": "雪の季節",
+        "title": "最後の時間",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 72,
+      "rank": 41,
       "song": {
-        "id": "jpop-1982-72",
-        "title": "虹の記憶",
+        "id": "jpop-1982-41",
+        "title": "花の空",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 83,
+      "rank": 81,
       "song": {
-        "id": "jpop-1982-83",
-        "title": "恋の花",
+        "id": "jpop-1982-81",
+        "title": "朝の歌",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 84,
+      "rank": 86,
       "song": {
-        "id": "jpop-1982-84",
-        "title": "ミッドナイト雪",
+        "id": "jpop-1982-86",
+        "title": "恋の希望",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 96,
+      "rank": 22,
       "song": {
-        "id": "jpop-1982-96",
-        "title": "波の海",
+        "id": "jpop-1981-22",
+        "title": "虹フォーエバー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
-      "year": 1982
+      "year": 1981
     },
     {
-      "rank": 33,
+      "rank": 23,
       "song": {
-        "id": "jpop-1981-33",
-        "title": "恋の夜",
+        "id": "jpop-1981-23",
+        "title": "空の空",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -708,101 +825,114 @@
       "rank": 40,
       "song": {
         "id": "jpop-1981-40",
-        "title": "君の雪",
+        "title": "風の時間",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 48,
+      "rank": 53,
       "song": {
-        "id": "jpop-1981-48",
-        "title": "太陽サンセット",
+        "id": "jpop-1981-53",
+        "title": "永遠の虹",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 55,
+      "rank": 61,
       "song": {
-        "id": "jpop-1981-55",
-        "title": "永遠の世界",
+        "id": "jpop-1981-61",
+        "title": "涙の夢",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 63,
+      "rank": 66,
       "song": {
-        "id": "jpop-1981-63",
-        "title": "真夜中の夜",
+        "id": "jpop-1981-66",
+        "title": "恋のリズム",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 69,
+      "rank": 72,
       "song": {
-        "id": "jpop-1981-69",
-        "title": "希望の道",
+        "id": "jpop-1981-72",
+        "title": "冬の記憶",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 80,
+      "rank": 76,
       "song": {
-        "id": "jpop-1981-80",
-        "title": "青い雨",
+        "id": "jpop-1981-76",
+        "title": "太陽ストーリー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 15,
+      "rank": 99,
       "song": {
-        "id": "jpop-1980-15",
-        "title": "約束の未来",
+        "id": "jpop-1981-99",
+        "title": "夜ストーリー",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1980-26",
+        "title": "ミッドナイト太陽",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 34,
+      "rank": 44,
       "song": {
-        "id": "jpop-1980-34",
-        "title": "星のリズム",
+        "id": "jpop-1980-44",
+        "title": "涙の光",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
@@ -812,49 +942,75 @@
       "rank": 48,
       "song": {
         "id": "jpop-1980-48",
-        "title": "光のかけら",
+        "title": "時間のかけら",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 62,
+      "rank": 65,
       "song": {
-        "id": "jpop-1980-62",
-        "title": "旅の季節",
+        "id": "jpop-1980-65",
+        "title": "風の光",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 67,
+      "rank": 77,
       "song": {
-        "id": "jpop-1980-67",
-        "title": "星の花",
+        "id": "jpop-1980-77",
+        "title": "風の雪",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 68,
+      "rank": 85,
       "song": {
-        "id": "jpop-1980-68",
-        "title": "雪の記憶",
+        "id": "jpop-1980-85",
+        "title": "夢の花",
         "artist": {
-          "id": "a-tm-network",
-          "name": "TM NETWORK"
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1980-91",
+        "title": "花の光",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1980-92",
+        "title": "桜のかけら",
+        "artist": {
+          "id": "a-checkers",
+          "name": "チェッカーズ"
         },
         "genre": "jpop"
       },

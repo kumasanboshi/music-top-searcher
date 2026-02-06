@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1980-38",
-    "title": "Last Winter",
+    "title": "Into the Gold",
     "artist": {
-      "id": "a-bon-jovi",
-      "name": "Bon Jovi"
+      "id": "a-madonna",
+      "name": "Madonna"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 38,
   "cdInfo": [
     {
-      "title": "Last Winter",
+      "title": "Into the Gold",
       "type": "single",
-      "releaseDate": "1980-09-05"
+      "releaseDate": "1980-05-28"
     },
     {
-      "title": "Wind Chronicles",
+      "title": "The Winter Album",
       "type": "album",
-      "releaseDate": "1980-04-19"
+      "releaseDate": "1980-09-08"
     }
   ],
   "externalLinks": {
@@ -29,78 +29,104 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 10,
       "song": {
-        "id": "west-1989-12",
-        "title": "Fading Light",
+        "id": "west-2000-10",
+        "title": "Music",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 8,
+      "song": {
+        "id": "west-1995-08",
+        "title": "Take a Bow",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-1990-04",
+        "title": "Vogue",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1989-10",
+        "title": "Like a Prayer",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 15,
+      "rank": 69,
       "song": {
-        "id": "west-1989-15",
-        "title": "Shining Winter",
+        "id": "west-1989-69",
+        "title": "Last Rose",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 22,
+      "rank": 80,
       "song": {
-        "id": "west-1989-22",
-        "title": "Golden Mountain",
+        "id": "west-1989-80",
+        "title": "Moon Forever",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 28,
+      "rank": 84,
       "song": {
-        "id": "west-1989-28",
-        "title": "Falling Gold",
+        "id": "west-1989-84",
+        "title": "Midnight River",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 32,
+      "rank": 89,
       "song": {
-        "id": "west-1989-32",
-        "title": "Sky Way",
+        "id": "west-1989-89",
+        "title": "Crystal Night",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1989-67",
-        "title": "Dawn Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -110,75 +136,88 @@
       "rank": 100,
       "song": {
         "id": "west-1989-100",
-        "title": "Into the Dawn",
+        "title": "Under the Sky",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 29,
+      "rank": 19,
       "song": {
-        "id": "west-1988-29",
-        "title": "Storm Lights",
+        "id": "west-1988-19",
+        "title": "Never Star",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 54,
+      "rank": 24,
       "song": {
-        "id": "west-1988-54",
-        "title": "Crystal Lights",
+        "id": "west-1988-24",
+        "title": "Wave Lights",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 69,
+      "rank": 25,
       "song": {
-        "id": "west-1988-69",
-        "title": "Gold Fire",
+        "id": "west-1988-25",
+        "title": "Golden Snow",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 70,
+      "rank": 59,
       "song": {
-        "id": "west-1988-70",
-        "title": "Under the Diamond",
+        "id": "west-1988-59",
+        "title": "Wild Dusk",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 73,
+      "rank": 71,
       "song": {
-        "id": "west-1988-73",
-        "title": "Wild River",
+        "id": "west-1988-71",
+        "title": "Dancing River",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1988-75",
+        "title": "Chasing Ocean",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -188,49 +227,62 @@
       "rank": 83,
       "song": {
         "id": "west-1988-83",
-        "title": "Rose Forever",
+        "title": "Snow Heart",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 97,
+      "rank": 96,
       "song": {
-        "id": "west-1988-97",
-        "title": "Storm Way",
+        "id": "west-1988-96",
+        "title": "Last Sky",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 4,
+      "rank": 98,
       "song": {
-        "id": "west-1987-04",
-        "title": "Livin' on a Prayer",
+        "id": "west-1988-98",
+        "title": "Sweet Rose",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1987-10",
+        "title": "Open Your Heart",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 18,
+      "rank": 26,
       "song": {
-        "id": "west-1987-18",
-        "title": "Shining Mountain",
+        "id": "west-1987-26",
+        "title": "Golden Thunder",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -240,621 +292,621 @@
       "rank": 32,
       "song": {
         "id": "west-1987-32",
-        "title": "Shadow Forever",
+        "title": "Last Diamond",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 61,
+      "rank": 67,
       "song": {
-        "id": "west-1987-61",
-        "title": "Snow Rain",
+        "id": "west-1987-67",
+        "title": "Under the Silver",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 78,
+      "rank": 77,
       "song": {
-        "id": "west-1987-78",
-        "title": "Rose Way",
+        "id": "west-1987-77",
+        "title": "Wave Lights",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 86,
+      "rank": 81,
       "song": {
-        "id": "west-1987-86",
-        "title": "Dawn Heart",
+        "id": "west-1987-81",
+        "title": "Wild Shadow",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1987
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1987-89",
-        "title": "Summer Dreams",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1986-49",
-        "title": "Midnight Thunder",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1986-91",
-        "title": "Into the Mountain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1986
     },
     {
       "rank": 98,
       "song": {
-        "id": "west-1986-98",
-        "title": "Fading Dusk",
+        "id": "west-1987-98",
+        "title": "Lost in Moon",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-1986-09",
+        "title": "Papa Don't Preach",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1986
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1986-10",
+        "title": "Live to Tell",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1986-25",
+        "title": "Mountain Way",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1986-27",
+        "title": "Under the Ocean",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1986-38",
+        "title": "Sweet Flame",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1986-67",
+        "title": "Road Love",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1986-88",
+        "title": "Fading Sun",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1986-100",
+        "title": "Falling River",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1985-02",
+        "title": "Like a Virgin",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1985
     },
     {
       "rank": 19,
       "song": {
         "id": "west-1985-19",
-        "title": "Sun Lights",
+        "title": "Sky Forever",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 25,
+      "rank": 76,
       "song": {
-        "id": "west-1985-25",
-        "title": "Snow Soul",
+        "id": "west-1985-76",
+        "title": "Running Crystal",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 28,
+      "rank": 82,
       "song": {
-        "id": "west-1985-28",
-        "title": "Running Storm",
+        "id": "west-1985-82",
+        "title": "Crystal Lights",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1985
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1985-29",
-        "title": "Sweet Wave",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1985-33",
-        "title": "Mountain Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1985-38",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1985-42",
-        "title": "Moon Rain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1985-100",
-        "title": "Sun Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1984-34",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1984-72",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1984-78",
-        "title": "Last Moon",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1983-18",
-        "title": "Golden Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1983-20",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1983-27",
-        "title": "Falling Wave",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1983-31",
-        "title": "Running Gold",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1983-33",
-        "title": "Bridge Tears",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1983-35",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1983-61",
-        "title": "Silver Tears",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1983-62",
-        "title": "Dusk Night",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1983-80",
-        "title": "Last Mountain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1983-94",
-        "title": "Fading Sun",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1983-98",
-        "title": "Sweet City",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1983-99",
-        "title": "Falling Light",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1982-20",
-        "title": "River Moonlight",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1982-25",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1982-37",
-        "title": "Electric City",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1982-40",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1982-49",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1982-62",
-        "title": "Rain Rain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1981-13",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1981-25",
-        "title": "Sky Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1981-26",
-        "title": "Moon Heart",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1981-34",
-        "title": "Crystal Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1981-37",
-        "title": "Midnight Gold",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1981-81",
-        "title": "Summer Sky",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1981-89",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1980-17",
-        "title": "City Way",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1980
     },
     {
       "rank": 30,
       "song": {
-        "id": "west-1980-30",
-        "title": "Last Ice",
+        "id": "west-1984-30",
+        "title": "Running Gold",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1984-49",
+        "title": "Midnight Wave",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1984-60",
+        "title": "Wild Rose",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1984-62",
+        "title": "Mountain Rain",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1984-64",
+        "title": "Dusk Fire",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1984-70",
+        "title": "Running Summer",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1984-92",
+        "title": "Flame Forever",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1984-95",
+        "title": "Snow Rain",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1984-96",
+        "title": "Midnight Gold",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1984-98",
+        "title": "Star Soul",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1983-13",
+        "title": "Rain Forever",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1983-66",
+        "title": "Moon Lights",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1983-72",
+        "title": "Falling Sun",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1983-76",
+        "title": "Sweet Star",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1983-77",
+        "title": "Thunder Rain",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1983-95",
+        "title": "Chasing Diamond",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "west-1982-11",
+        "title": "Broken Road",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1982-24",
+        "title": "Star Sky",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1982-28",
+        "title": "Bridge Tears",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1982-35",
+        "title": "Winter Lights",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1982-54",
+        "title": "Sweet Silver",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1982-56",
+        "title": "Never Dawn",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1982-59",
+        "title": "Chasing Crystal",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1982-90",
+        "title": "Snow Lights",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1981-15",
+        "title": "Into the Star",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1981-48",
+        "title": "Bridge Sky",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1981-96",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1980-24",
+        "title": "Winter Way",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 39,
+      "rank": 45,
       "song": {
-        "id": "west-1980-39",
-        "title": "Gold Forever",
+        "id": "west-1980-45",
+        "title": "Wild Wave",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 68,
+      "rank": 52,
       "song": {
-        "id": "west-1980-68",
-        "title": "Ice Dreams",
+        "id": "west-1980-52",
+        "title": "Wave Soul",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1980-74",
+        "title": "Ice Way",
+        "artist": {
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },
@@ -864,10 +916,10 @@
       "rank": 79,
       "song": {
         "id": "west-1980-79",
-        "title": "Lost in Light",
+        "title": "Fading City",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-madonna",
+          "name": "Madonna"
         },
         "genre": "western"
       },

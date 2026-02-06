@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1979-60",
-    "title": "Wave Dreams",
+    "title": "Running Diamond",
     "artist": {
-      "id": "a-stevie-wonder",
-      "name": "Stevie Wonder"
+      "id": "a-chicago",
+      "name": "Chicago"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 60,
   "cdInfo": [
     {
-      "title": "Wave Dreams",
+      "title": "Running Diamond",
       "type": "single",
-      "releaseDate": "1979-03-25"
+      "releaseDate": "1979-08-08"
     },
     {
-      "title": "Best of Storm",
+      "title": "Snow Collection",
       "type": "album",
-      "releaseDate": "1979-10-13"
+      "releaseDate": "1979-10-06"
     }
   ],
   "externalLinks": {
@@ -29,130 +29,195 @@
   },
   "artistSongs": [
     {
-      "rank": 22,
+      "rank": 1,
       "song": {
-        "id": "west-1979-22",
-        "title": "Sweet Rose",
+        "id": "west-1989-01",
+        "title": "Look Away",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1982-10",
+        "title": "Hard to Say I'm Sorry",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1979-45",
+        "title": "Flame Way",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 34,
+      "rank": 49,
       "song": {
-        "id": "west-1979-34",
-        "title": "Star Lights",
+        "id": "west-1979-49",
+        "title": "Shining Road",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1979-64",
-        "title": "Sky Forever",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1979-65",
-        "title": "Dusk Rain",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1979-81",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1979-95",
-        "title": "Lost in Thunder",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1978-33",
-        "title": "Wind Love",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1978-53",
-        "title": "Electric Winter",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1978-58",
-        "title": "Into the Rain",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 69,
       "song": {
-        "id": "west-1978-69",
-        "title": "Thunder Sky",
+        "id": "west-1979-69",
+        "title": "River Dreams",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1979-73",
+        "title": "Light Dreams",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1978-14",
+        "title": "Fading Road",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1978-22",
+        "title": "Wave Night",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1978-23",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1978-25",
+        "title": "Last Light",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1978-29",
+        "title": "Wild Sun",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1978-32",
+        "title": "Dancing Fire",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1978-46",
+        "title": "Ocean Love",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1978-75",
+        "title": "Sweet Road",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1978-86",
+        "title": "Moon Heart",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -162,231 +227,192 @@
       "rank": 99,
       "song": {
         "id": "west-1978-99",
-        "title": "Sweet Dusk",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 7,
+      "rank": 11,
       "song": {
-        "id": "west-1977-07",
-        "title": "I Wish",
+        "id": "west-1977-11",
+        "title": "Shining Bridge",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 23,
+      "rank": 28,
       "song": {
-        "id": "west-1977-23",
-        "title": "Flame Forever",
+        "id": "west-1977-28",
+        "title": "Chasing Rain",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1977
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1977-44",
-        "title": "Broken Sun",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1977-74",
-        "title": "Into the Ice",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1976-12",
-        "title": "Midnight Wave",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1976-14",
-        "title": "Ice Moonlight",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1976-40",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1976
     },
     {
       "rank": 81,
       "song": {
-        "id": "west-1976-81",
-        "title": "Rose Tears",
+        "id": "west-1977-81",
+        "title": "Sweet Ice",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1976-15",
+        "title": "Diamond Forever",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 91,
+      "rank": 17,
       "song": {
-        "id": "west-1976-91",
-        "title": "City Rain",
+        "id": "west-1976-17",
+        "title": "Electric Wave",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1975-23",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
     },
     {
       "rank": 31,
       "song": {
-        "id": "west-1975-31",
-        "title": "Wild Rose",
+        "id": "west-1976-31",
+        "title": "Flame Dreams",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 42,
+      "rank": 45,
       "song": {
-        "id": "west-1975-42",
-        "title": "Gold Dreams",
+        "id": "west-1976-45",
+        "title": "Shining Light",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 44,
+      "rank": 58,
       "song": {
-        "id": "west-1975-44",
-        "title": "Under the Moon",
+        "id": "west-1976-58",
+        "title": "Wind Heart",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
-      "year": 1975
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1975-59",
-        "title": "River Tears",
-        "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
-        },
-        "genre": "western"
-      },
-      "year": 1975
+      "year": 1976
     },
     {
       "rank": 63,
       "song": {
-        "id": "west-1975-63",
-        "title": "Broken Snow",
+        "id": "west-1976-63",
+        "title": "Chasing Dusk",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1976-79",
+        "title": "Under the Shadow",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1975-21",
+        "title": "Moon Heart",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 65,
+      "rank": 35,
       "song": {
-        "id": "west-1975-65",
-        "title": "Mountain Lights",
+        "id": "west-1975-35",
+        "title": "Golden Light",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 96,
+      "rank": 67,
       "song": {
-        "id": "west-1975-96",
-        "title": "Into the Ocean",
+        "id": "west-1975-67",
+        "title": "Sweet Storm",
         "artist": {
-          "id": "a-stevie-wonder",
-          "name": "Stevie Wonder"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1975-82",
+        "title": "Falling Thunder",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },

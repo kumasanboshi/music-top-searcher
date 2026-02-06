@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1979-67",
-    "title": "Dancing Shadow",
+    "title": "Rain Fire",
     "artist": {
       "id": "a-abba",
       "name": "ABBA"
@@ -12,14 +12,14 @@
   "rank": 67,
   "cdInfo": [
     {
-      "title": "Dancing Shadow",
+      "title": "Rain Fire",
       "type": "single",
-      "releaseDate": "1979-03-12"
+      "releaseDate": "1979-06-05"
     },
     {
-      "title": "The Gold Album",
+      "title": "Dawn Chronicles",
       "type": "album",
-      "releaseDate": "1979-11-18"
+      "releaseDate": "1979-02-23"
     }
   ],
   "externalLinks": {
@@ -29,10 +29,75 @@
   },
   "artistSongs": [
     {
-      "rank": 23,
+      "rank": 35,
       "song": {
-        "id": "west-1978-23",
-        "title": "Into the Crystal",
+        "id": "west-1979-35",
+        "title": "Crystal Soul",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1979-54",
+        "title": "Golden Flame",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1979-61",
+        "title": "Storm Rain",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1979-92",
+        "title": "Road Soul",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1979-98",
+        "title": "Chasing Shadow",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1978-16",
+        "title": "Under the Diamond",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -42,9 +107,9 @@
       "year": 1978
     },
     {
-      "rank": 29,
+      "rank": 31,
       "song": {
-        "id": "west-1978-29",
+        "id": "west-1978-31",
         "title": "Never Thunder",
         "artist": {
           "id": "a-abba",
@@ -55,10 +120,10 @@
       "year": 1978
     },
     {
-      "rank": 45,
+      "rank": 41,
       "song": {
-        "id": "west-1978-45",
-        "title": "Running Ocean",
+        "id": "west-1978-41",
+        "title": "Falling Crystal",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -68,10 +133,10 @@
       "year": 1978
     },
     {
-      "rank": 76,
+      "rank": 51,
       "song": {
-        "id": "west-1978-76",
-        "title": "Wind Soul",
+        "id": "west-1978-51",
+        "title": "Last City",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -81,10 +146,10 @@
       "year": 1978
     },
     {
-      "rank": 85,
+      "rank": 60,
       "song": {
-        "id": "west-1978-85",
-        "title": "River Night",
+        "id": "west-1978-60",
+        "title": "Bridge Rain",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -94,10 +159,23 @@
       "year": 1978
     },
     {
-      "rank": 98,
+      "rank": 71,
       "song": {
-        "id": "west-1978-98",
-        "title": "Light Moonlight",
+        "id": "west-1978-71",
+        "title": "Rose Forever",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1978-89",
+        "title": "Lost in Sky",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -120,9 +198,35 @@
       "year": 1977
     },
     {
-      "rank": 32,
+      "rank": 22,
       "song": {
-        "id": "west-1977-32",
+        "id": "west-1977-22",
+        "title": "Thunder Moonlight",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1977-27",
+        "title": "Into the Ice",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1977-34",
         "title": "Wild Wind",
         "artist": {
           "id": "a-abba",
@@ -133,10 +237,10 @@
       "year": 1977
     },
     {
-      "rank": 45,
+      "rank": 41,
       "song": {
-        "id": "west-1977-45",
-        "title": "Wild Storm",
+        "id": "west-1977-41",
+        "title": "Falling Winter",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -146,10 +250,10 @@
       "year": 1977
     },
     {
-      "rank": 54,
+      "rank": 53,
       "song": {
-        "id": "west-1977-54",
-        "title": "Never Rain",
+        "id": "west-1977-53",
+        "title": "Bridge Tears",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -159,10 +263,10 @@
       "year": 1977
     },
     {
-      "rank": 71,
+      "rank": 58,
       "song": {
-        "id": "west-1977-71",
-        "title": "Midnight Ocean",
+        "id": "west-1977-58",
+        "title": "Gold Way",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -172,10 +276,10 @@
       "year": 1977
     },
     {
-      "rank": 84,
+      "rank": 69,
       "song": {
-        "id": "west-1977-84",
-        "title": "River Sky",
+        "id": "west-1977-69",
+        "title": "Flame Forever",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -185,10 +289,10 @@
       "year": 1977
     },
     {
-      "rank": 89,
+      "rank": 77,
       "song": {
-        "id": "west-1977-89",
-        "title": "Diamond Soul",
+        "id": "west-1977-77",
+        "title": "Golden Flame",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -198,10 +302,10 @@
       "year": 1977
     },
     {
-      "rank": 98,
+      "rank": 93,
       "song": {
-        "id": "west-1977-98",
-        "title": "Sun Lights",
+        "id": "west-1977-93",
+        "title": "Fading Light",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -211,23 +315,10 @@
       "year": 1977
     },
     {
-      "rank": 99,
+      "rank": 69,
       "song": {
-        "id": "west-1977-99",
-        "title": "Last City",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1976-94",
-        "title": "Dawn Tears",
+        "id": "west-1976-69",
+        "title": "Silver Love",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -237,10 +328,10 @@
       "year": 1976
     },
     {
-      "rank": 97,
+      "rank": 78,
       "song": {
-        "id": "west-1976-97",
-        "title": "Electric Snow",
+        "id": "west-1976-78",
+        "title": "Broken Dawn",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"
@@ -250,9 +341,22 @@
       "year": 1976
     },
     {
-      "rank": 22,
+      "rank": 90,
       "song": {
-        "id": "west-1975-22",
+        "id": "west-1976-90",
+        "title": "Fading Flame",
+        "artist": {
+          "id": "a-abba",
+          "name": "ABBA"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1975-24",
         "title": "Lost in Sky",
         "artist": {
           "id": "a-abba",
@@ -263,62 +367,10 @@
       "year": 1975
     },
     {
-      "rank": 54,
+      "rank": 71,
       "song": {
-        "id": "west-1975-54",
-        "title": "Midnight Road",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1975-85",
-        "title": "Wind Sky",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1975-91",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1975-92",
-        "title": "Golden Snow",
-        "artist": {
-          "id": "a-abba",
-          "name": "ABBA"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1975-94",
-        "title": "Last Storm",
+        "id": "west-1975-71",
+        "title": "Winter Fire",
         "artist": {
           "id": "a-abba",
           "name": "ABBA"

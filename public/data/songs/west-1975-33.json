@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-33",
-    "title": "Under the Mountain",
+    "title": "Rain Dreams",
     "artist": {
-      "id": "a-kc",
-      "name": "KC and the Sunshine Band"
+      "id": "a-bee-gees",
+      "name": "Bee Gees"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 33,
   "cdInfo": [
     {
-      "title": "Under the Mountain",
+      "title": "Rain Dreams",
       "type": "single",
-      "releaseDate": "1975-02-26"
+      "releaseDate": "1975-11-27"
     },
     {
-      "title": "Fire Unplugged",
+      "title": "River Anthology",
       "type": "album",
-      "releaseDate": "1975-10-18"
+      "releaseDate": "1975-01-09"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,26 @@
   },
   "artistSongs": [
     {
-      "rank": 21,
+      "rank": 8,
       "song": {
-        "id": "west-1979-21",
-        "title": "Diamond Moonlight",
+        "id": "west-1979-08",
+        "title": "Too Much Heaven",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1979-31",
+        "title": "Fading River",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
@@ -45,49 +58,23 @@
       "rank": 40,
       "song": {
         "id": "west-1979-40",
-        "title": "Ice Rain",
+        "title": "Sweet Fire",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 47,
+      "rank": 76,
       "song": {
-        "id": "west-1979-47",
-        "title": "Fading Diamond",
+        "id": "west-1979-76",
+        "title": "Under the Ocean",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1979-57",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1979-69",
-        "title": "Fading Rose",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
@@ -97,218 +84,231 @@
       "rank": 85,
       "song": {
         "id": "west-1979-85",
-        "title": "Rain Tears",
+        "title": "Snow Heart",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 26,
+      "rank": 90,
       "song": {
-        "id": "west-1978-26",
-        "title": "Ocean Rain",
+        "id": "west-1979-90",
+        "title": "Wild Fire",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 2,
+      "song": {
+        "id": "west-1978-02",
+        "title": "Night Fever",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1978
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1978-03",
+        "title": "Stayin' Alive",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1978-06",
+        "title": "How Deep Is Your Love",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1978-20",
+        "title": "Running Snow",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-1978-43",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-1978-47",
+        "title": "Last Crystal",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1978-70",
+        "title": "Shining Sun",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1977-13",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-1977-18",
+        "title": "Sky Fire",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1977-40",
+        "title": "Ocean Love",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 42,
+      "song": {
+        "id": "west-1977-42",
+        "title": "Fire Love",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1977-57",
+        "title": "Shining Flame",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1977
     },
     {
       "rank": 60,
       "song": {
-        "id": "west-1978-60",
-        "title": "Rain Night",
+        "id": "west-1977-60",
+        "title": "Storm Fire",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1978-86",
-        "title": "Dusk Way",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1978-88",
-        "title": "Shining Gold",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1978-90",
-        "title": "River Way",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1978-94",
-        "title": "Into the Road",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1977-12",
-        "title": "Dancing Wave",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 38,
+      "rank": 63,
       "song": {
-        "id": "west-1977-38",
-        "title": "Running Shadow",
+        "id": "west-1977-63",
+        "title": "Winter Heart",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 52,
+      "rank": 20,
       "song": {
-        "id": "west-1977-52",
-        "title": "Under the Light",
+        "id": "west-1976-20",
+        "title": "River Fire",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1977-59",
-        "title": "Into the Shadow",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1977-66",
-        "title": "Diamond Sky",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1977-78",
-        "title": "Star Night",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1977-81",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1977-97",
-        "title": "Fading Mountain",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1976-11",
-        "title": "Electric Wave",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 32,
+      "rank": 37,
       "song": {
-        "id": "west-1976-32",
-        "title": "Light Dreams",
+        "id": "west-1976-37",
+        "title": "Golden Ice",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
@@ -318,101 +318,127 @@
       "rank": 62,
       "song": {
         "id": "west-1976-62",
-        "title": "Electric Diamond",
+        "title": "Diamond Tears",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 75,
+      "rank": 11,
       "song": {
-        "id": "west-1976-75",
-        "title": "Sweet Wind",
+        "id": "west-1975-11",
+        "title": "Bridge Way",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1976-82",
-        "title": "Falling Wind",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1976-96",
-        "title": "Road Rain",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1975-24",
-        "title": "Chasing Fire",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 67,
+      "rank": 12,
       "song": {
-        "id": "west-1975-67",
-        "title": "City Tears",
+        "id": "west-1975-12",
+        "title": "Golden Rain",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 70,
+      "rank": 43,
       "song": {
-        "id": "west-1975-70",
-        "title": "Fire Moonlight",
+        "id": "west-1975-43",
+        "title": "Summer Fire",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 95,
+      "rank": 44,
       "song": {
-        "id": "west-1975-95",
-        "title": "Into the Dusk",
+        "id": "west-1975-44",
+        "title": "Under the Storm",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1975-46",
+        "title": "Dancing Star",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1975-87",
+        "title": "Fading Wind",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1975-88",
+        "title": "Fire Soul",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1975-90",
+        "title": "Last Ocean",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1975-94",
+        "title": "Lost in Snow",
+        "artist": {
+          "id": "a-bee-gees",
+          "name": "Bee Gees"
         },
         "genre": "western"
       },

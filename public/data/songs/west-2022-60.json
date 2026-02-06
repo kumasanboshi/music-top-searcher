@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-2022-60",
-    "title": "Running Sun",
+    "title": "Broken Bridge",
     "artist": {
       "id": "a-olivia",
       "name": "Olivia Rodrigo"
@@ -12,14 +12,14 @@
   "rank": 60,
   "cdInfo": [
     {
-      "title": "Running Sun",
+      "title": "Broken Bridge",
       "type": "single",
-      "releaseDate": "2022-09-10"
+      "releaseDate": "2022-08-18"
     },
     {
-      "title": "Flame Collection",
+      "title": "The Star Album",
       "type": "album",
-      "releaseDate": "2022-10-06"
+      "releaseDate": "2022-05-21"
     }
   ],
   "externalLinks": {
@@ -29,10 +29,23 @@
   },
   "artistSongs": [
     {
-      "rank": 20,
+      "rank": 19,
       "song": {
-        "id": "west-2025-20",
-        "title": "Midnight Diamond",
+        "id": "west-2025-19",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2025
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2025-25",
+        "title": "Falling Ocean",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -45,7 +58,7 @@
       "rank": 26,
       "song": {
         "id": "west-2025-26",
-        "title": "Silver Lights",
+        "title": "Running Storm",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -55,10 +68,10 @@
       "year": 2025
     },
     {
-      "rank": 27,
+      "rank": 29,
       "song": {
-        "id": "west-2025-27",
-        "title": "Lost in Star",
+        "id": "west-2025-29",
+        "title": "Winter Fire",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -68,10 +81,10 @@
       "year": 2025
     },
     {
-      "rank": 35,
+      "rank": 47,
       "song": {
-        "id": "west-2025-35",
-        "title": "Golden Shadow",
+        "id": "west-2025-47",
+        "title": "City Moonlight",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -81,22 +94,9 @@
       "year": 2025
     },
     {
-      "rank": 39,
+      "rank": 49,
       "song": {
-        "id": "west-2025-39",
-        "title": "Dawn Sky",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2025-45",
+        "id": "west-2025-49",
         "title": "Rain Moonlight",
         "artist": {
           "id": "a-olivia",
@@ -107,10 +107,10 @@
       "year": 2025
     },
     {
-      "rank": 82,
+      "rank": 56,
       "song": {
-        "id": "west-2025-82",
-        "title": "Fire Tears",
+        "id": "west-2025-56",
+        "title": "Rain Lights",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -120,23 +120,10 @@
       "year": 2025
     },
     {
-      "rank": 99,
+      "rank": 25,
       "song": {
-        "id": "west-2025-99",
-        "title": "Shining Rain",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2023-13",
-        "title": "Midnight Summer",
+        "id": "west-2023-25",
+        "title": "Road Rain",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -146,10 +133,10 @@
       "year": 2023
     },
     {
-      "rank": 24,
+      "rank": 31,
       "song": {
-        "id": "west-2023-24",
-        "title": "Diamond Soul",
+        "id": "west-2023-31",
+        "title": "Ocean Love",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -159,10 +146,10 @@
       "year": 2023
     },
     {
-      "rank": 29,
+      "rank": 47,
       "song": {
-        "id": "west-2023-29",
-        "title": "Gold Forever",
+        "id": "west-2023-47",
+        "title": "Falling Rain",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -172,10 +159,10 @@
       "year": 2023
     },
     {
-      "rank": 46,
+      "rank": 60,
       "song": {
-        "id": "west-2023-46",
-        "title": "Under the Gold",
+        "id": "west-2023-60",
+        "title": "Fading Wave",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -185,10 +172,10 @@
       "year": 2023
     },
     {
-      "rank": 67,
+      "rank": 73,
       "song": {
-        "id": "west-2023-67",
-        "title": "Sky Soul",
+        "id": "west-2023-73",
+        "title": "Thunder Love",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -196,167 +183,37 @@
         "genre": "western"
       },
       "year": 2023
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2022-85",
+        "title": "Mountain Rain",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2021-50",
+        "title": "Dancing Winter",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2021
     },
     {
       "rank": 78,
       "song": {
-        "id": "west-2023-78",
-        "title": "Star Tears",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2023-89",
-        "title": "Last Winter",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2022-16",
-        "title": "Crystal Rain",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2022-29",
-        "title": "Under the Gold",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2022-30",
-        "title": "Ocean Moonlight",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2022-40",
-        "title": "Dancing Storm",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2022-49",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2022-55",
-        "title": "Fading City",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-2022-76",
-        "title": "Broken Wave",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-2022-97",
-        "title": "Dusk Lights",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2021-40",
-        "title": "Fading River",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-2021-45",
-        "title": "Sweet Flame",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2021-72",
+        "id": "west-2021-78",
         "title": "Road Love",
         "artist": {
           "id": "a-olivia",
@@ -367,10 +224,10 @@
       "year": 2021
     },
     {
-      "rank": 85,
+      "rank": 92,
       "song": {
-        "id": "west-2021-85",
-        "title": "Moon Sky",
+        "id": "west-2021-92",
+        "title": "Silver Dreams",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -380,10 +237,10 @@
       "year": 2021
     },
     {
-      "rank": 33,
+      "rank": 46,
       "song": {
-        "id": "west-2020-33",
-        "title": "Summer Way",
+        "id": "west-2020-46",
+        "title": "Falling Star",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -393,10 +250,10 @@
       "year": 2020
     },
     {
-      "rank": 40,
+      "rank": 52,
       "song": {
-        "id": "west-2020-40",
-        "title": "Broken Thunder",
+        "id": "west-2020-52",
+        "title": "Snow Sky",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -406,10 +263,10 @@
       "year": 2020
     },
     {
-      "rank": 60,
+      "rank": 62,
       "song": {
-        "id": "west-2020-60",
-        "title": "Electric Light",
+        "id": "west-2020-62",
+        "title": "Dawn Way",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"
@@ -419,23 +276,23 @@
       "year": 2020
     },
     {
-      "rank": 93,
+      "rank": 82,
       "song": {
-        "id": "west-2020-93",
+        "id": "west-2020-82",
+        "title": "Running Wind",
+        "artist": {
+          "id": "a-olivia",
+          "name": "Olivia Rodrigo"
+        },
+        "genre": "western"
+      },
+      "year": 2020
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-2020-99",
         "title": "Sun Tears",
-        "artist": {
-          "id": "a-olivia",
-          "name": "Olivia Rodrigo"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2020-95",
-        "title": "Electric Winter",
         "artist": {
           "id": "a-olivia",
           "name": "Olivia Rodrigo"

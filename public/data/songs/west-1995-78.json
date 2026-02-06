@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1995-78",
-    "title": "Ice Tears",
+    "title": "Last Road",
     "artist": {
-      "id": "a-no-doubt",
-      "name": "No Doubt"
+      "id": "a-alanis",
+      "name": "Alanis Morissette"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 78,
   "cdInfo": [
     {
-      "title": "Ice Tears",
+      "title": "Last Road",
       "type": "single",
-      "releaseDate": "1995-09-04"
+      "releaseDate": "1995-05-19"
     },
     {
-      "title": "Best of Diamond",
+      "title": "Sky Unplugged",
       "type": "album",
-      "releaseDate": "1995-02-09"
+      "releaseDate": "1995-12-21"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,78 @@
   },
   "artistSongs": [
     {
-      "rank": 23,
+      "rank": 66,
       "song": {
-        "id": "west-1999-23",
-        "title": "Under the Dawn",
+        "id": "west-1999-66",
+        "title": "Dancing Winter",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1999-67",
+        "title": "Fading Winter",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1999-72",
+        "title": "Winter Tears",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1999-91",
+        "title": "Shadow Rain",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1999-94",
+        "title": "Falling Road",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1999-97",
+        "title": "Electric Light",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
@@ -44,206 +109,37 @@
     {
       "rank": 26,
       "song": {
-        "id": "west-1999-26",
-        "title": "Last Moon",
+        "id": "west-1998-26",
+        "title": "Winter Forever",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1999-32",
-        "title": "Summer Love",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1999-37",
-        "title": "Sun Fire",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1999-55",
-        "title": "Wild Gold",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1999-56",
-        "title": "Light Soul",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1999-84",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1999-85",
-        "title": "Road Sky",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1999-88",
-        "title": "Broken Snow",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1999-93",
-        "title": "Under the Bridge",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1999-95",
-        "title": "Into the River",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1999
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1998-13",
-        "title": "Dawn Lights",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 35,
+      "rank": 40,
       "song": {
-        "id": "west-1998-35",
-        "title": "Flame Moonlight",
+        "id": "west-1998-40",
+        "title": "Broken Star",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 38,
+      "rank": 61,
       "song": {
-        "id": "west-1998-38",
-        "title": "Dancing Ice",
+        "id": "west-1998-61",
+        "title": "Sweet Crystal",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1998-54",
-        "title": "Sweet Flame",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1998-58",
-        "title": "Sky Forever",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1998-64",
-        "title": "Golden Mountain",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
@@ -253,374 +149,556 @@
       "rank": 74,
       "song": {
         "id": "west-1998-74",
-        "title": "Golden Ice",
+        "title": "Sweet Light",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1998
     },
     {
-      "rank": 37,
+      "rank": 34,
       "song": {
-        "id": "west-1997-37",
-        "title": "Ocean Dreams",
+        "id": "west-1997-34",
+        "title": "Wind Moonlight",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 70,
+      "rank": 39,
       "song": {
-        "id": "west-1997-70",
-        "title": "Into the Winter",
+        "id": "west-1997-39",
+        "title": "Golden Dusk",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1997
     },
     {
-      "rank": 88,
+      "rank": 47,
       "song": {
-        "id": "west-1997-88",
-        "title": "Silver Forever",
+        "id": "west-1997-47",
+        "title": "Dusk Soul",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1997
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1997-75",
+        "title": "Running Light",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1997-79",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1997-86",
+        "title": "Running Bridge",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1997
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1996-12",
+        "title": "Summer Way",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1996
     },
     {
       "rank": 22,
       "song": {
         "id": "west-1996-22",
-        "title": "Sweet Sun",
+        "title": "Wild Road",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 25,
+      "rank": 47,
       "song": {
-        "id": "west-1996-25",
-        "title": "Broken Shadow",
+        "id": "west-1996-47",
+        "title": "Into the Star",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 52,
+      "rank": 59,
       "song": {
-        "id": "west-1996-52",
-        "title": "Electric Moon",
+        "id": "west-1996-59",
+        "title": "Electric Crystal",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1996
     },
     {
-      "rank": 39,
+      "rank": 77,
       "song": {
-        "id": "west-1995-39",
-        "title": "Electric Light",
+        "id": "west-1996-77",
+        "title": "Fading Storm",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1996-83",
+        "title": "Shining Diamond",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1996
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1995-14",
+        "title": "Silver Moonlight",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1995
     },
     {
-      "rank": 16,
+      "rank": 28,
       "song": {
-        "id": "west-1994-16",
-        "title": "Shining River",
+        "id": "west-1995-28",
+        "title": "Shadow Tears",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1995-37",
+        "title": "Last Gold",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1995-46",
+        "title": "Rain Heart",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1995-88",
+        "title": "Ice Fire",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1994-35",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 38,
+      "rank": 59,
       "song": {
-        "id": "west-1994-38",
-        "title": "Sky Heart",
+        "id": "west-1994-59",
+        "title": "Lost in Sun",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 44,
+      "rank": 78,
       "song": {
-        "id": "west-1994-44",
-        "title": "Midnight Sun",
+        "id": "west-1994-78",
+        "title": "Dusk Way",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 55,
+      "rank": 89,
       "song": {
-        "id": "west-1994-55",
-        "title": "Fading Bridge",
+        "id": "west-1994-89",
+        "title": "Lost in Mountain",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1994
     },
     {
-      "rank": 83,
+      "rank": 12,
       "song": {
-        "id": "west-1994-83",
-        "title": "Lost in Dusk",
+        "id": "west-1993-12",
+        "title": "City Dreams",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1994-99",
-        "title": "Fading Star",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1993-86",
-        "title": "Fading Wave",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1993
     },
     {
-      "rank": 20,
+      "rank": 31,
       "song": {
-        "id": "west-1992-20",
-        "title": "Snow Night",
+        "id": "west-1993-31",
+        "title": "Chasing Crystal",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1993-44",
+        "title": "Midnight Flame",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "west-1993-52",
+        "title": "Midnight Gold",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1993-57",
+        "title": "Chasing Rain",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1993-61",
+        "title": "Midnight Dawn",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1993-94",
+        "title": "Running Shadow",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1992-24",
+        "title": "Wild Wave",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 37,
+      "rank": 29,
       "song": {
-        "id": "west-1992-37",
-        "title": "Sweet Snow",
+        "id": "west-1992-29",
+        "title": "Wave Tears",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 49,
+      "rank": 30,
       "song": {
-        "id": "west-1992-49",
-        "title": "Bridge Way",
+        "id": "west-1992-30",
+        "title": "Broken Wave",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 85,
+      "rank": 64,
       "song": {
-        "id": "west-1992-85",
-        "title": "Mountain Way",
+        "id": "west-1992-64",
+        "title": "Chasing Gold",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 89,
+      "rank": 95,
       "song": {
-        "id": "west-1992-89",
-        "title": "Running Thunder",
+        "id": "west-1992-95",
+        "title": "Fading Diamond",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1992
     },
     {
-      "rank": 92,
+      "rank": 36,
       "song": {
-        "id": "west-1992-92",
-        "title": "Fading Winter",
+        "id": "west-1991-36",
+        "title": "Dancing Snow",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1991-11",
-        "title": "Snow Way",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 32,
+      "rank": 39,
       "song": {
-        "id": "west-1991-32",
-        "title": "Sweet Shadow",
+        "id": "west-1991-39",
+        "title": "Dawn Forever",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 47,
+      "rank": 76,
       "song": {
-        "id": "west-1991-47",
-        "title": "Running Rose",
+        "id": "west-1991-76",
+        "title": "Electric Bridge",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1991
     },
     {
-      "rank": 54,
+      "rank": 24,
       "song": {
-        "id": "west-1991-54",
-        "title": "Dancing Winter",
+        "id": "west-1990-24",
+        "title": "Electric Winter",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
-      "year": 1991
+      "year": 1990
     },
     {
       "rank": 27,
       "song": {
         "id": "west-1990-27",
-        "title": "Dancing Winter",
+        "title": "Ocean Night",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 33,
+      "rank": 41,
       "song": {
-        "id": "west-1990-33",
-        "title": "Silver Way",
+        "id": "west-1990-41",
+        "title": "Winter Love",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 35,
+      "rank": 51,
       "song": {
-        "id": "west-1990-35",
-        "title": "Under the Diamond",
+        "id": "west-1990-51",
+        "title": "Golden Flame",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },
       "year": 1990
     },
     {
-      "rank": 79,
+      "rank": 59,
       "song": {
-        "id": "west-1990-79",
-        "title": "Never Rose",
+        "id": "west-1990-59",
+        "title": "Last Rose",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1990-100",
+        "title": "Lost in Ocean",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       },

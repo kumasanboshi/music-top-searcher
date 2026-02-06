@@ -29,10 +29,10 @@
   },
   "artistSongs": [
     {
-      "rank": 15,
+      "rank": 32,
       "song": {
-        "id": "west-1979-15",
-        "title": "Sun Night",
+        "id": "west-1979-32",
+        "title": "Mountain Love",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -42,10 +42,10 @@
       "year": 1979
     },
     {
-      "rank": 27,
+      "rank": 53,
       "song": {
-        "id": "west-1979-27",
-        "title": "Sweet Storm",
+        "id": "west-1979-53",
+        "title": "Gold Moonlight",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -55,10 +55,10 @@
       "year": 1979
     },
     {
-      "rank": 31,
+      "rank": 62,
       "song": {
-        "id": "west-1979-31",
-        "title": "Wind Fire",
+        "id": "west-1979-62",
+        "title": "Rose Sky",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -68,10 +68,10 @@
       "year": 1979
     },
     {
-      "rank": 90,
+      "rank": 79,
       "song": {
-        "id": "west-1979-90",
-        "title": "Ice Moonlight",
+        "id": "west-1979-79",
+        "title": "Never Light",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -81,10 +81,23 @@
       "year": 1979
     },
     {
-      "rank": 12,
+      "rank": 97,
       "song": {
-        "id": "west-1978-12",
-        "title": "Winter Tears",
+        "id": "west-1979-97",
+        "title": "Snow Forever",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1978-17",
+        "title": "Rose Rain",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -94,10 +107,10 @@
       "year": 1978
     },
     {
-      "rank": 20,
+      "rank": 64,
       "song": {
-        "id": "west-1978-20",
-        "title": "Rose Love",
+        "id": "west-1978-64",
+        "title": "Under the Moon",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -105,181 +118,168 @@
         "genre": "western"
       },
       "year": 1978
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1978-34",
-        "title": "Sweet Sun",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1978-49",
-        "title": "Silver Way",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1978-68",
-        "title": "Wild Summer",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1978-73",
-        "title": "Flame Way",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1978-75",
-        "title": "Ocean Tears",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1977-20",
-        "title": "Bridge Forever",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1977-36",
-        "title": "Running Light",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1977-70",
-        "title": "Never Sky",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1977-73",
-        "title": "Ice Dreams",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1977-75",
-        "title": "Electric Wave",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1977-92",
-        "title": "City Night",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1976-65",
-        "title": "Mountain Tears",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1976
     },
     {
       "rank": 72,
       "song": {
-        "id": "west-1976-72",
-        "title": "Rose Moonlight",
+        "id": "west-1978-72",
+        "title": "Midnight Crystal",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
         },
         "genre": "western"
       },
-      "year": 1976
+      "year": 1978
     },
     {
       "rank": 77,
       "song": {
-        "id": "west-1976-77",
-        "title": "Electric River",
+        "id": "west-1978-77",
+        "title": "Flame Rain",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1978-80",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1977-16",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1977-19",
+        "title": "City Way",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1977-21",
+        "title": "Wind Forever",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1977-26",
+        "title": "Fading Diamond",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-1977-38",
+        "title": "Wind Way",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "west-1977-49",
+        "title": "Thunder Forever",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1977-67",
+        "title": "Sweet Dusk",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-1977-76",
+        "title": "Shadow Night",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1977-84",
+        "title": "Falling Snow",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1976-27",
+        "title": "Into the Summer",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -289,10 +289,10 @@
       "year": 1976
     },
     {
-      "rank": 86,
+      "rank": 29,
       "song": {
-        "id": "west-1976-86",
-        "title": "Chasing Dusk",
+        "id": "west-1976-29",
+        "title": "Running Diamond",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -302,10 +302,62 @@
       "year": 1976
     },
     {
-      "rank": 100,
+      "rank": 52,
       "song": {
-        "id": "west-1976-100",
-        "title": "Fading Sky",
+        "id": "west-1976-52",
+        "title": "Chasing Moon",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1976-54",
+        "title": "Light Way",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1976-67",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1976-92",
+        "title": "Chasing Thunder",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1976-95",
+        "title": "Sweet River",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -331,7 +383,7 @@
       "rank": 14,
       "song": {
         "id": "west-1975-14",
-        "title": "Chasing Bridge",
+        "title": "Under the Fire",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -341,22 +393,9 @@
       "year": 1975
     },
     {
-      "rank": 16,
+      "rank": 42,
       "song": {
-        "id": "west-1975-16",
-        "title": "Chasing Rose",
-        "artist": {
-          "id": "a-eagles",
-          "name": "Eagles"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1975-38",
+        "id": "west-1975-42",
         "title": "Dancing Snow",
         "artist": {
           "id": "a-eagles",
@@ -367,10 +406,10 @@
       "year": 1975
     },
     {
-      "rank": 46,
+      "rank": 48,
       "song": {
-        "id": "west-1975-46",
-        "title": "Bridge Rain",
+        "id": "west-1975-48",
+        "title": "Running Road",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"
@@ -380,10 +419,49 @@
       "year": 1975
     },
     {
-      "rank": 79,
+      "rank": 56,
       "song": {
-        "id": "west-1975-79",
-        "title": "Running Rain",
+        "id": "west-1975-56",
+        "title": "Gold Heart",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1975-58",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1975-59",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "west-1975-66",
+        "title": "Broken Snow",
         "artist": {
           "id": "a-eagles",
           "name": "Eagles"

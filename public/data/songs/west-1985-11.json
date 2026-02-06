@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1985-11",
-    "title": "Lost in Fire",
+    "title": "Storm Fire",
     "artist": {
       "id": "a-springsteen",
       "name": "Bruce Springsteen"
@@ -12,14 +12,14 @@
   "rank": 11,
   "cdInfo": [
     {
-      "title": "Lost in Fire",
+      "title": "Storm Fire",
       "type": "single",
-      "releaseDate": "1985-10-01"
+      "releaseDate": "1985-07-10"
     },
     {
-      "title": "Gold Anthology",
+      "title": "Crystal Collection",
       "type": "album",
-      "releaseDate": "1985-12-05"
+      "releaseDate": "1985-09-15"
     }
   ],
   "externalLinks": {
@@ -29,10 +29,10 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 40,
       "song": {
-        "id": "west-1989-14",
-        "title": "Never Gold",
+        "id": "west-1989-40",
+        "title": "Chasing Gold",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -42,10 +42,10 @@
       "year": 1989
     },
     {
-      "rank": 23,
+      "rank": 45,
       "song": {
-        "id": "west-1989-23",
-        "title": "Snow Tears",
+        "id": "west-1989-45",
+        "title": "Electric City",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -55,10 +55,10 @@
       "year": 1989
     },
     {
-      "rank": 38,
+      "rank": 63,
       "song": {
-        "id": "west-1989-38",
-        "title": "Thunder Rain",
+        "id": "west-1989-63",
+        "title": "Running Rose",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -68,10 +68,10 @@
       "year": 1989
     },
     {
-      "rank": 53,
+      "rank": 98,
       "song": {
-        "id": "west-1989-53",
-        "title": "Shining Sky",
+        "id": "west-1989-98",
+        "title": "Last Star",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -81,75 +81,10 @@
       "year": 1989
     },
     {
-      "rank": 60,
+      "rank": 16,
       "song": {
-        "id": "west-1989-60",
-        "title": "Midnight Silver",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1989-73",
-        "title": "Never Snow",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1989-79",
-        "title": "Golden Gold",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1989-81",
-        "title": "Fire Forever",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1989-93",
-        "title": "Midnight Storm",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1988-17",
-        "title": "Falling Sun",
+        "id": "west-1988-16",
+        "title": "Under the Rain",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -159,36 +94,10 @@
       "year": 1988
     },
     {
-      "rank": 33,
+      "rank": 36,
       "song": {
-        "id": "west-1988-33",
-        "title": "Fading Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1988-38",
-        "title": "Midnight Silver",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1988-52",
-        "title": "Diamond Lights",
+        "id": "west-1988-36",
+        "title": "Flame Rain",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -201,7 +110,7 @@
       "rank": 56,
       "song": {
         "id": "west-1988-56",
-        "title": "Bridge Love",
+        "title": "Sweet Fire",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -209,38 +118,77 @@
         "genre": "western"
       },
       "year": 1988
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1988-60",
+        "title": "Diamond Way",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1988-92",
+        "title": "Wild Moon",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1988-97",
+        "title": "Last Gold",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1987-45",
+        "title": "Chasing Light",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1987-54",
+        "title": "Star Rain",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1987
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-1988-57",
-        "title": "Under the Wind",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1988-64",
-        "title": "Sweet Mountain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1987-13",
-        "title": "Fading Shadow",
+        "id": "west-1987-57",
+        "title": "Dancing Fire",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -250,10 +198,10 @@
       "year": 1987
     },
     {
-      "rank": 36,
+      "rank": 66,
       "song": {
-        "id": "west-1987-36",
-        "title": "Sun Soul",
+        "id": "west-1987-66",
+        "title": "Flame Dreams",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -263,10 +211,10 @@
       "year": 1987
     },
     {
-      "rank": 47,
+      "rank": 82,
       "song": {
-        "id": "west-1987-47",
-        "title": "Into the Rain",
+        "id": "west-1987-82",
+        "title": "Storm Tears",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -276,10 +224,10 @@
       "year": 1987
     },
     {
-      "rank": 70,
+      "rank": 91,
       "song": {
-        "id": "west-1987-70",
-        "title": "Dusk Rain",
+        "id": "west-1987-91",
+        "title": "Dancing River",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -292,7 +240,7 @@
       "rank": 16,
       "song": {
         "id": "west-1986-16",
-        "title": "Falling Bridge",
+        "title": "Golden Dusk",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -302,10 +250,10 @@
       "year": 1986
     },
     {
-      "rank": 31,
+      "rank": 21,
       "song": {
-        "id": "west-1986-31",
-        "title": "Snow Soul",
+        "id": "west-1986-21",
+        "title": "Thunder Moonlight",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -315,10 +263,10 @@
       "year": 1986
     },
     {
-      "rank": 44,
+      "rank": 34,
       "song": {
-        "id": "west-1986-44",
-        "title": "Wild Dawn",
+        "id": "west-1986-34",
+        "title": "Shining Flame",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -328,10 +276,10 @@
       "year": 1986
     },
     {
-      "rank": 51,
+      "rank": 36,
       "song": {
-        "id": "west-1986-51",
-        "title": "Broken Rose",
+        "id": "west-1986-36",
+        "title": "Midnight Star",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -341,10 +289,10 @@
       "year": 1986
     },
     {
-      "rank": 56,
+      "rank": 82,
       "song": {
-        "id": "west-1986-56",
-        "title": "Into the Star",
+        "id": "west-1986-82",
+        "title": "Never Thunder",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -354,10 +302,10 @@
       "year": 1986
     },
     {
-      "rank": 57,
+      "rank": 83,
       "song": {
-        "id": "west-1986-57",
-        "title": "Running Shadow",
+        "id": "west-1986-83",
+        "title": "Sky Night",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -367,61 +315,9 @@
       "year": 1986
     },
     {
-      "rank": 85,
+      "rank": 61,
       "song": {
-        "id": "west-1986-85",
-        "title": "Sweet Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1985-12",
-        "title": "Chasing Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1985-22",
-        "title": "Golden Moon",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1985-26",
-        "title": "Midnight Light",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1985-57",
+        "id": "west-1985-61",
         "title": "Shadow Rain",
         "artist": {
           "id": "a-springsteen",
@@ -432,10 +328,10 @@
       "year": 1985
     },
     {
-      "rank": 89,
+      "rank": 81,
       "song": {
-        "id": "west-1985-89",
-        "title": "Rain Sky",
+        "id": "west-1985-81",
+        "title": "Golden Rose",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -445,10 +341,23 @@
       "year": 1985
     },
     {
-      "rank": 14,
+      "rank": 96,
       "song": {
-        "id": "west-1984-14",
-        "title": "Shining Rain",
+        "id": "west-1985-96",
+        "title": "Dawn Dreams",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1984-32",
+        "title": "Fading Light",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -458,10 +367,10 @@
       "year": 1984
     },
     {
-      "rank": 53,
+      "rank": 43,
       "song": {
-        "id": "west-1984-53",
-        "title": "Shining City",
+        "id": "west-1984-43",
+        "title": "Electric Silver",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -471,10 +380,10 @@
       "year": 1984
     },
     {
-      "rank": 54,
+      "rank": 51,
       "song": {
-        "id": "west-1984-54",
-        "title": "Last Ocean",
+        "id": "west-1984-51",
+        "title": "Ice Heart",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -484,10 +393,10 @@
       "year": 1984
     },
     {
-      "rank": 63,
+      "rank": 52,
       "song": {
-        "id": "west-1984-63",
-        "title": "Wave Moonlight",
+        "id": "west-1984-52",
+        "title": "Fading Winter",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -497,10 +406,10 @@
       "year": 1984
     },
     {
-      "rank": 80,
+      "rank": 59,
       "song": {
-        "id": "west-1984-80",
-        "title": "Fading Dawn",
+        "id": "west-1984-59",
+        "title": "Midnight Summer",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -513,7 +422,7 @@
       "rank": 86,
       "song": {
         "id": "west-1984-86",
-        "title": "Fading Star",
+        "title": "Ocean Night",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -523,23 +432,10 @@
       "year": 1984
     },
     {
-      "rank": 97,
+      "rank": 24,
       "song": {
-        "id": "west-1984-97",
-        "title": "Rain Moonlight",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1983-23",
-        "title": "Chasing Storm",
+        "id": "west-1983-24",
+        "title": "Shining Light",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -547,89 +443,89 @@
         "genre": "western"
       },
       "year": 1983
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1983-28",
-        "title": "Shadow Rain",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1983-48",
-        "title": "Lost in Bridge",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1983-49",
-        "title": "Snow Dreams",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1983-78",
-        "title": "Sweet Fire",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1982-16",
-        "title": "Moon Forever",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1982-19",
-        "title": "Wind Lights",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
     },
     {
       "rank": 54,
       "song": {
-        "id": "west-1982-54",
+        "id": "west-1983-54",
+        "title": "Sweet Summer",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1983-60",
+        "title": "Lost in Dawn",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-1982-22",
+        "title": "Broken River",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1982-25",
+        "title": "City Heart",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-1982-34",
+        "title": "Thunder Night",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1982-53",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1982-58",
         "title": "Bridge Night",
         "artist": {
           "id": "a-springsteen",
@@ -643,7 +539,7 @@
       "rank": 71,
       "song": {
         "id": "west-1982-71",
-        "title": "Dusk Lights",
+        "title": "Ice Sky",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -653,10 +549,10 @@
       "year": 1982
     },
     {
-      "rank": 82,
+      "rank": 76,
       "song": {
-        "id": "west-1982-82",
-        "title": "Golden Diamond",
+        "id": "west-1982-76",
+        "title": "Never Light",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -666,10 +562,10 @@
       "year": 1982
     },
     {
-      "rank": 85,
+      "rank": 80,
       "song": {
-        "id": "west-1982-85",
-        "title": "Rain Way",
+        "id": "west-1982-80",
+        "title": "Gold Moonlight",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -679,9 +575,9 @@
       "year": 1982
     },
     {
-      "rank": 94,
+      "rank": 100,
       "song": {
-        "id": "west-1982-94",
+        "id": "west-1982-100",
         "title": "Lost in Summer",
         "artist": {
           "id": "a-springsteen",
@@ -692,23 +588,10 @@
       "year": 1982
     },
     {
-      "rank": 99,
+      "rank": 13,
       "song": {
-        "id": "west-1982-99",
-        "title": "Sun Night",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1981-24",
-        "title": "Lost in Rose",
+        "id": "west-1981-13",
+        "title": "Lost in Ice",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -718,10 +601,10 @@
       "year": 1981
     },
     {
-      "rank": 53,
+      "rank": 16,
       "song": {
-        "id": "west-1981-53",
-        "title": "Fading Mountain",
+        "id": "west-1981-16",
+        "title": "Broken Moon",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -731,10 +614,10 @@
       "year": 1981
     },
     {
-      "rank": 64,
+      "rank": 23,
       "song": {
-        "id": "west-1981-64",
-        "title": "Summer Love",
+        "id": "west-1981-23",
+        "title": "Electric City",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -744,22 +627,61 @@
       "year": 1981
     },
     {
-      "rank": 15,
+      "rank": 26,
       "song": {
-        "id": "west-1980-15",
-        "title": "Chasing Storm",
+        "id": "west-1981-26",
+        "title": "Under the Mountain",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1981
     },
     {
-      "rank": 21,
+      "rank": 34,
       "song": {
-        "id": "west-1980-21",
+        "id": "west-1981-34",
+        "title": "Wave Way",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1981-50",
+        "title": "Rose Way",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1981-60",
+        "title": "Sun Moonlight",
+        "artist": {
+          "id": "a-springsteen",
+          "name": "Bruce Springsteen"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1980-23",
         "title": "Crystal Soul",
         "artist": {
           "id": "a-springsteen",
@@ -770,10 +692,10 @@
       "year": 1980
     },
     {
-      "rank": 23,
+      "rank": 34,
       "song": {
-        "id": "west-1980-23",
-        "title": "Fire Lights",
+        "id": "west-1980-34",
+        "title": "Bridge Tears",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -783,10 +705,10 @@
       "year": 1980
     },
     {
-      "rank": 35,
+      "rank": 49,
       "song": {
-        "id": "west-1980-35",
-        "title": "Light Forever",
+        "id": "west-1980-49",
+        "title": "Electric River",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -796,10 +718,10 @@
       "year": 1980
     },
     {
-      "rank": 41,
+      "rank": 59,
       "song": {
-        "id": "west-1980-41",
-        "title": "Broken Sun",
+        "id": "west-1980-59",
+        "title": "Rose Sky",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -809,22 +731,9 @@
       "year": 1980
     },
     {
-      "rank": 55,
+      "rank": 70,
       "song": {
-        "id": "west-1980-55",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-springsteen",
-          "name": "Bruce Springsteen"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1980-64",
+        "id": "west-1980-70",
         "title": "Bridge Fire",
         "artist": {
           "id": "a-springsteen",
@@ -835,10 +744,10 @@
       "year": 1980
     },
     {
-      "rank": 69,
+      "rank": 82,
       "song": {
-        "id": "west-1980-69",
-        "title": "Lost in Ocean",
+        "id": "west-1980-82",
+        "title": "Sun Love",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"
@@ -848,10 +757,10 @@
       "year": 1980
     },
     {
-      "rank": 94,
+      "rank": 90,
       "song": {
-        "id": "west-1980-94",
-        "title": "Broken Moon",
+        "id": "west-1980-90",
+        "title": "City Love",
         "artist": {
           "id": "a-springsteen",
           "name": "Bruce Springsteen"

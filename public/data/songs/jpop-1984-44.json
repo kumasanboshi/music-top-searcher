@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1984-44",
-    "title": "恋の雨",
+    "title": "約束サンセット",
     "artist": {
-      "id": "a-shonentai",
-      "name": "少年隊"
+      "id": "a-hamada-shogo",
+      "name": "浜田省吾"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 44,
   "cdInfo": [
     {
-      "title": "恋の雨",
+      "title": "約束サンセット",
       "type": "single",
-      "releaseDate": "1984-11-24"
+      "releaseDate": "1984-12-16"
     },
     {
-      "title": "ALL TIME 桜",
+      "title": "月アルバム",
       "type": "album",
-      "releaseDate": "1984-04-18"
+      "releaseDate": "1984-05-26"
     }
   ],
   "externalLinks": {
@@ -29,13 +29,26 @@
   },
   "artistSongs": [
     {
-      "rank": 15,
+      "rank": 2,
       "song": {
-        "id": "jpop-1989-15",
-        "title": "星の太陽",
+        "id": "jpop-1992-02",
+        "title": "悲しみは雪のように",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-1989-14",
+        "title": "恋の影",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -45,361 +58,426 @@
       "rank": 22,
       "song": {
         "id": "jpop-1989-22",
-        "title": "風の雨",
+        "title": "夢の空",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 86,
+      "rank": 39,
       "song": {
-        "id": "jpop-1989-86",
-        "title": "夏フォーエバー",
+        "id": "jpop-1989-39",
+        "title": "永遠の恋",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 11,
+      "rank": 52,
       "song": {
-        "id": "jpop-1988-11",
-        "title": "月の光",
+        "id": "jpop-1989-52",
+        "title": "街の街",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1989-54",
+        "title": "空の光",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "jpop-1989-62",
+        "title": "最後の夏",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1989-80",
+        "title": "空のかけら",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-1989-94",
+        "title": "風の街",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1989-99",
+        "title": "青い雨",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1988-50",
+        "title": "星の桜",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 29,
+      "rank": 54,
       "song": {
-        "id": "jpop-1988-29",
-        "title": "青い雪",
+        "id": "jpop-1988-54",
+        "title": "星の夏",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 34,
+      "rank": 67,
       "song": {
-        "id": "jpop-1988-34",
-        "title": "雪の海",
+        "id": "jpop-1988-67",
+        "title": "青い花",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 60,
+      "rank": 46,
       "song": {
-        "id": "jpop-1988-60",
-        "title": "世界の歌",
+        "id": "jpop-1987-46",
+        "title": "愛の道",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "jpop-1988-75",
-        "title": "星の季節",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1988-95",
-        "title": "月の歌",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 8,
-      "song": {
-        "id": "jpop-1987-08",
-        "title": "君だけに",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 16,
+      "rank": 79,
       "song": {
-        "id": "jpop-1987-16",
-        "title": "恋の季節",
+        "id": "jpop-1987-79",
+        "title": "青い世界",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 28,
+      "rank": 80,
       "song": {
-        "id": "jpop-1987-28",
-        "title": "夢の世界",
+        "id": "jpop-1987-80",
+        "title": "風の星",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 40,
+      "rank": 88,
       "song": {
-        "id": "jpop-1987-40",
-        "title": "涙の街",
+        "id": "jpop-1987-88",
+        "title": "波物語",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 85,
+      "rank": 93,
       "song": {
-        "id": "jpop-1987-85",
-        "title": "星の道",
+        "id": "jpop-1987-93",
+        "title": "夏ストーリー",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1987
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "jpop-1986-03",
-        "title": "仮面舞踏会",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 10,
-      "song": {
-        "id": "jpop-1986-10",
-        "title": "仮面ライダーBLACK",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
     },
     {
       "rank": 13,
       "song": {
         "id": "jpop-1986-13",
-        "title": "世界の夜",
+        "title": "街物語",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 37,
+      "rank": 41,
       "song": {
-        "id": "jpop-1986-37",
-        "title": "真夜中の未来",
+        "id": "jpop-1986-41",
+        "title": "月のリズム",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 45,
+      "rank": 88,
       "song": {
-        "id": "jpop-1986-45",
-        "title": "夜の歌",
+        "id": "jpop-1986-88",
+        "title": "影フォーエバー",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 55,
+      "rank": 100,
       "song": {
-        "id": "jpop-1986-55",
-        "title": "夢の歌",
+        "id": "jpop-1986-100",
+        "title": "未来の海",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1986
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-1986-92",
-        "title": "太陽の記憶",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "jpop-1985-19",
-        "title": "風の月",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
     },
     {
       "rank": 24,
       "song": {
         "id": "jpop-1985-24",
-        "title": "恋の風",
+        "title": "君の影",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 39,
+      "rank": 35,
       "song": {
-        "id": "jpop-1985-39",
-        "title": "涙の虹",
+        "id": "jpop-1985-35",
+        "title": "約束の光",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1985
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-1985-41",
+        "title": "夜物語",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-1985-55",
+        "title": "青い影",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1985-71",
+        "title": "風の朝",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1985-88",
+        "title": "桜の約束",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-1985-89",
+        "title": "影サンセット",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1985-91",
+        "title": "愛の海",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1985-97",
+        "title": "涙の未来",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1985-99",
+        "title": "雪メロディ",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "jpop-1984-26",
+        "title": "ミッドナイト夢",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "jpop-1984-27",
+        "title": "恋の花",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
     },
     {
       "rank": 51,
       "song": {
-        "id": "jpop-1985-51",
-        "title": "星の恋",
+        "id": "jpop-1984-51",
+        "title": "愛のかけら",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "jpop-1985-84",
-        "title": "恋の夜",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "jpop-1984-25",
-        "title": "恋の花",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1984-37",
-        "title": "最後の星",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "jpop-1984-40",
-        "title": "夏の街",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -409,23 +487,49 @@
       "rank": 53,
       "song": {
         "id": "jpop-1984-53",
-        "title": "月の海",
+        "title": "時間の夜",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 69,
+      "rank": 54,
       "song": {
-        "id": "jpop-1984-69",
-        "title": "空の空",
+        "id": "jpop-1984-54",
+        "title": "雨の夜",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-1984-67",
+        "title": "朝の街",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1984-74",
+        "title": "夜のリズム",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
@@ -435,270 +539,270 @@
       "rank": 83,
       "song": {
         "id": "jpop-1984-83",
-        "title": "月フォーエバー",
+        "title": "虹の季節",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1984
     },
     {
-      "rank": 15,
+      "rank": 11,
       "song": {
-        "id": "jpop-1983-15",
-        "title": "恋物語",
+        "id": "jpop-1983-11",
+        "title": "ミッドナイト星",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 24,
+      "rank": 35,
       "song": {
-        "id": "jpop-1983-24",
-        "title": "愛ストーリー",
+        "id": "jpop-1983-35",
+        "title": "涙の記憶",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 77,
+      "rank": 13,
       "song": {
-        "id": "jpop-1983-77",
-        "title": "朝の季節",
+        "id": "jpop-1982-13",
+        "title": "太陽サンセット",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1982-17",
-        "title": "朝の海",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1982
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "jpop-1982-31",
-        "title": "風の星",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1982-41",
-        "title": "真夜中の恋",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-1982-64",
-        "title": "夜の光",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1982-74",
-        "title": "ミッドナイト花",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-1981-30",
-        "title": "月のかけら",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1981-68",
-        "title": "街のリズム",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1981-95",
-        "title": "時間のリズム",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "jpop-1981-97",
-        "title": "ミッドナイト空",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
     },
     {
       "rank": 18,
       "song": {
-        "id": "jpop-1980-18",
-        "title": "最後の夜",
+        "id": "jpop-1982-18",
+        "title": "夜の約束",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1980
+      "year": 1982
     },
     {
-      "rank": 21,
+      "rank": 28,
       "song": {
-        "id": "jpop-1980-21",
-        "title": "恋のリズム",
+        "id": "jpop-1982-28",
+        "title": "空の夜",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1980
+      "year": 1982
     },
     {
-      "rank": 38,
+      "rank": 56,
       "song": {
-        "id": "jpop-1980-38",
-        "title": "月の約束",
+        "id": "jpop-1982-56",
+        "title": "空のかけら",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
-      "year": 1980
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1980-45",
-        "title": "約束物語",
-        "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
+      "year": 1982
     },
     {
       "rank": 61,
       "song": {
-        "id": "jpop-1980-61",
-        "title": "君の桜",
+        "id": "jpop-1982-61",
+        "title": "恋の桜",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1982-72",
+        "title": "愛の街",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1982-84",
+        "title": "雪フォーエバー",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1982-97",
+        "title": "夜メロディ",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1981-47",
+        "title": "記憶の海",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-1981-71",
+        "title": "約束の桜",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-1981-82",
+        "title": "約束の道",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1980-17",
+        "title": "恋の朝",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 70,
+      "rank": 25,
       "song": {
-        "id": "jpop-1980-70",
-        "title": "街の花",
+        "id": "jpop-1980-25",
+        "title": "空フォーエバー",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 92,
+      "rank": 51,
       "song": {
-        "id": "jpop-1980-92",
-        "title": "海フォーエバー",
+        "id": "jpop-1980-51",
+        "title": "恋の太陽",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 98,
+      "rank": 58,
       "song": {
-        "id": "jpop-1980-98",
-        "title": "波ストーリー",
+        "id": "jpop-1980-58",
+        "title": "約束の月",
         "artist": {
-          "id": "a-shonentai",
-          "name": "少年隊"
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1980-78",
+        "title": "桜の道",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-1980-89",
+        "title": "朝の光",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
+        },
+        "genre": "jpop"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "jpop-1980-99",
+        "title": "ミッドナイト月",
+        "artist": {
+          "id": "a-hamada-shogo",
+          "name": "浜田省吾"
         },
         "genre": "jpop"
       },

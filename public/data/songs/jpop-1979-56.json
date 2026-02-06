@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1979-56",
-    "title": "街の季節",
+    "title": "夢の夢",
     "artist": {
-      "id": "a-alice",
-      "name": "アリス"
+      "id": "a-yamaguchi-momoe",
+      "name": "山口百恵"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 56,
   "cdInfo": [
     {
-      "title": "街の季節",
+      "title": "夢の夢",
       "type": "single",
-      "releaseDate": "1979-02-05"
+      "releaseDate": "1979-08-14"
     },
     {
-      "title": "冬アルバム",
+      "title": "雪セレクション",
       "type": "album",
-      "releaseDate": "1979-09-18"
+      "releaseDate": "1979-04-11"
     }
   ],
   "externalLinks": {
@@ -29,117 +29,143 @@
   },
   "artistSongs": [
     {
-      "rank": 31,
+      "rank": 5,
       "song": {
-        "id": "jpop-1979-31",
-        "title": "恋の雪",
+        "id": "jpop-1979-05",
+        "title": "いい日旅立ち",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 36,
+      "rank": 62,
       "song": {
-        "id": "jpop-1979-36",
-        "title": "雪ストーリー",
+        "id": "jpop-1979-62",
+        "title": "空の約束",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 40,
+      "rank": 72,
       "song": {
-        "id": "jpop-1979-40",
-        "title": "風の冬",
+        "id": "jpop-1979-72",
+        "title": "愛の季節",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1979
     },
     {
-      "rank": 61,
+      "rank": 6,
       "song": {
-        "id": "jpop-1979-61",
-        "title": "海の記憶",
+        "id": "jpop-1978-06",
+        "title": "プレイバックPart2",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "jpop-1979-86",
-        "title": "ミッドナイト愛",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1979-88",
-        "title": "花の歌",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1978-35",
-        "title": "森フォーエバー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 40,
+      "rank": 9,
       "song": {
-        "id": "jpop-1978-40",
-        "title": "桜のリズム",
+        "id": "jpop-1978-09",
+        "title": "乙女座 宮",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 81,
+      "rank": 11,
       "song": {
-        "id": "jpop-1978-81",
-        "title": "夏の光",
+        "id": "jpop-1978-11",
+        "title": "朝フォーエバー",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-1978-16",
+        "title": "風の空",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1978-20",
+        "title": "街の街",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1978-39",
+        "title": "真夜中の約束",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-1978-47",
+        "title": "青い朝",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "jpop-1978-54",
+        "title": "真夜中の愛",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
@@ -149,283 +175,205 @@
       "rank": 91,
       "song": {
         "id": "jpop-1978-91",
-        "title": "君の星",
+        "title": "夜の街",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1978
     },
     {
-      "rank": 95,
+      "rank": 7,
       "song": {
-        "id": "jpop-1978-95",
-        "title": "最後の夜",
+        "id": "jpop-1977-07",
+        "title": "秋桜",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1978-98",
-        "title": "光のかけら",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "jpop-1977-13",
-        "title": "ミッドナイト夏",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1977
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1977-15",
-        "title": "夢の歌",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1977-66",
-        "title": "愛の道",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1977-79",
-        "title": "君の空",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "jpop-1977-94",
-        "title": "太陽の歌",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "jpop-1976-11",
-        "title": "街メロディ",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1976-24",
-        "title": "月の道",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-1976-37",
-        "title": "君の夜",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1976-45",
-        "title": "旅のかけら",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-1975-14",
-        "title": "冬ストーリー",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "jpop-1975-15",
-        "title": "風サンセット",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-1975-17",
-        "title": "永遠の光",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1975-20",
-        "title": "青い未来",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1975-21",
-        "title": "桜のリズム",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1975-33",
-        "title": "希望サンセット",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1975-41",
-        "title": "星の愛",
-        "artist": {
-          "id": "a-alice",
-          "name": "アリス"
-        },
-        "genre": "jpop"
-      },
-      "year": 1975
     },
     {
       "rank": 51,
       "song": {
-        "id": "jpop-1975-51",
-        "title": "未来ストーリー",
+        "id": "jpop-1977-51",
+        "title": "青い記憶",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
-      "year": 1975
+      "year": 1977
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-1977-55",
+        "title": "約束の夢",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
     },
     {
       "rank": 62,
       "song": {
-        "id": "jpop-1975-62",
-        "title": "花の海",
+        "id": "jpop-1977-62",
+        "title": "記憶ストーリー",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1977-63",
+        "title": "花の花",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "jpop-1976-06",
+        "title": "横須賀ストーリー",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "jpop-1976-18",
+        "title": "雨の光",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-1976-51",
+        "title": "海の海",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-1976-56",
+        "title": "約束の道",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1976-68",
+        "title": "世界の夜",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-1976-98",
+        "title": "花の道",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 39,
+      "song": {
+        "id": "jpop-1975-39",
+        "title": "恋の波",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },
       "year": 1975
     },
     {
-      "rank": 64,
+      "rank": 76,
       "song": {
-        "id": "jpop-1975-64",
-        "title": "時間の光",
+        "id": "jpop-1975-76",
+        "title": "光のリズム",
         "artist": {
-          "id": "a-alice",
-          "name": "アリス"
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-1975-78",
+        "title": "風の影",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
+        },
+        "genre": "jpop"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-1975-81",
+        "title": "永遠の冬",
+        "artist": {
+          "id": "a-yamaguchi-momoe",
+          "name": "山口百恵"
         },
         "genre": "jpop"
       },

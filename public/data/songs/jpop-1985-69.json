@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1985-69",
-    "title": "青い世界",
+    "title": "街の歌",
     "artist": {
-      "id": "a-anri",
-      "name": "杏里"
+      "id": "a-shonentai",
+      "name": "少年隊"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 69,
   "cdInfo": [
     {
-      "title": "青い世界",
+      "title": "街の歌",
       "type": "single",
-      "releaseDate": "1985-07-03"
+      "releaseDate": "1985-11-11"
     },
     {
-      "title": "夢の世界",
+      "title": "海アンソロジー",
       "type": "album",
-      "releaseDate": "1985-04-10"
+      "releaseDate": "1985-10-15"
     }
   ],
   "externalLinks": {
@@ -29,117 +29,26 @@
   },
   "artistSongs": [
     {
-      "rank": 38,
+      "rank": 19,
       "song": {
-        "id": "jpop-1989-38",
-        "title": "光の海",
+        "id": "jpop-1989-19",
+        "title": "涙の風",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1989
     },
     {
-      "rank": 48,
+      "rank": 33,
       "song": {
-        "id": "jpop-1989-48",
-        "title": "未来の海",
+        "id": "jpop-1989-33",
+        "title": "時間の空",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-1989-52",
-        "title": "星の愛",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-1989-56",
-        "title": "未来の街",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1989-60",
-        "title": "雨の夜",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "jpop-1989-68",
-        "title": "夏の歌",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-1989-81",
-        "title": "恋の光",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-1989-89",
-        "title": "約束の森",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "jpop-1989-96",
-        "title": "旅のかけら",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
@@ -148,11 +57,89 @@
     {
       "rank": 41,
       "song": {
-        "id": "jpop-1988-41",
-        "title": "光のリズム",
+        "id": "jpop-1989-41",
+        "title": "約束の約束",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-1989-66",
+        "title": "太陽の道",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-1988-11",
+        "title": "光の街",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1988-13",
+        "title": "風のかけら",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "jpop-1988-14",
+        "title": "星の道",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-1988-21",
+        "title": "星の海",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-1988-38",
+        "title": "冬の記憶",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
@@ -162,10 +149,88 @@
       "rank": 66,
       "song": {
         "id": "jpop-1988-66",
-        "title": "涙の太陽",
+        "title": "愛の歌",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "jpop-1988-72",
+        "title": "未来物語",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-1988-77",
+        "title": "希望メロディ",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-1988-83",
+        "title": "未来の道",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-1988-90",
+        "title": "希望のリズム",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-1988-91",
+        "title": "朝の海",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1988-95",
+        "title": "時間メロディ",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
@@ -175,88 +240,49 @@
       "rank": 97,
       "song": {
         "id": "jpop-1988-97",
-        "title": "星の星",
+        "title": "愛サンセット",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1988
     },
     {
-      "rank": 13,
+      "rank": 8,
       "song": {
-        "id": "jpop-1987-13",
-        "title": "君の光",
+        "id": "jpop-1987-08",
+        "title": "君だけに",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 15,
+      "rank": 23,
       "song": {
-        "id": "jpop-1987-15",
-        "title": "青い影",
+        "id": "jpop-1987-23",
+        "title": "涙の未来",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 31,
+      "rank": 77,
       "song": {
-        "id": "jpop-1987-31",
-        "title": "影フォーエバー",
+        "id": "jpop-1987-77",
+        "title": "約束の太陽",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "jpop-1987-32",
-        "title": "約束の虹",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-1987-48",
-        "title": "真夜中の夢",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1987-50",
-        "title": "真夜中の森",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
@@ -266,322 +292,335 @@
       "rank": 82,
       "song": {
         "id": "jpop-1987-82",
-        "title": "桜の街",
+        "title": "星の愛",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1987
     },
     {
-      "rank": 98,
+      "rank": 3,
       "song": {
-        "id": "jpop-1987-98",
-        "title": "波のかけら",
+        "id": "jpop-1986-03",
+        "title": "仮面舞踏会",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1986-41",
-        "title": "永遠の街",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 46,
+      "rank": 10,
       "song": {
-        "id": "jpop-1986-46",
-        "title": "風の森",
+        "id": "jpop-1986-10",
+        "title": "仮面ライダーBLACK",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 51,
+      "rank": 15,
       "song": {
-        "id": "jpop-1986-51",
-        "title": "未来サンセット",
+        "id": "jpop-1986-15",
+        "title": "ミッドナイト太陽",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 52,
+      "rank": 18,
       "song": {
-        "id": "jpop-1986-52",
-        "title": "世界のリズム",
+        "id": "jpop-1986-18",
+        "title": "花物語",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 83,
+      "rank": 43,
       "song": {
-        "id": "jpop-1986-83",
-        "title": "虹の海",
+        "id": "jpop-1986-43",
+        "title": "夢フォーエバー",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 94,
+      "rank": 49,
       "song": {
-        "id": "jpop-1986-94",
-        "title": "花ストーリー",
+        "id": "jpop-1986-49",
+        "title": "夜の歌",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 96,
+      "rank": 55,
       "song": {
-        "id": "jpop-1986-96",
-        "title": "青い風",
+        "id": "jpop-1986-55",
+        "title": "朝の海",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 99,
+      "rank": 71,
       "song": {
-        "id": "jpop-1986-99",
-        "title": "光の約束",
+        "id": "jpop-1986-71",
+        "title": "永遠の月",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1986
     },
     {
-      "rank": 14,
+      "rank": 72,
       "song": {
-        "id": "jpop-1985-14",
-        "title": "冬の約束",
+        "id": "jpop-1986-72",
+        "title": "花の季節",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1986-74",
+        "title": "雨の光",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "jpop-1986-85",
+        "title": "最後の星",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-1986-86",
+        "title": "希望の夜",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-1985-19",
+        "title": "朝フォーエバー",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1985
     },
     {
-      "rank": 22,
+      "rank": 27,
       "song": {
-        "id": "jpop-1985-22",
-        "title": "ミッドナイト夢",
+        "id": "jpop-1985-27",
+        "title": "光のリズム",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1985
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-1985-45",
-        "title": "君の街",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "jpop-1985-58",
-        "title": "ミッドナイト森",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1985-65",
-        "title": "青い朝",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "jpop-1984-30",
-        "title": "恋の空",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "jpop-1984-60",
-        "title": "雨の歌",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "jpop-1984-65",
-        "title": "太陽の街",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1984-98",
-        "title": "街物語",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "jpop-1983-06",
-        "title": "キャッツ・アイ",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "jpop-1983-28",
-        "title": "冬の歌",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "jpop-1983-42",
-        "title": "森のかけら",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
     },
     {
       "rank": 44,
       "song": {
-        "id": "jpop-1983-44",
-        "title": "森サンセット",
+        "id": "jpop-1985-44",
+        "title": "君の雪",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1985-68",
+        "title": "愛メロディ",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1985-70",
+        "title": "真夜中の光",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-1985-76",
+        "title": "夜フォーエバー",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-1985-92",
+        "title": "太陽サンセット",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-1985-95",
+        "title": "夏のリズム",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1984-23",
+        "title": "街メロディ",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-1984-75",
+        "title": "空の空",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "jpop-1983-13",
+        "title": "永遠の記憶",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 51,
+      "rank": 46,
       "song": {
-        "id": "jpop-1983-51",
-        "title": "光の約束",
+        "id": "jpop-1983-46",
+        "title": "ミッドナイト未来",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 54,
+      "rank": 48,
       "song": {
-        "id": "jpop-1983-54",
-        "title": "月のリズム",
+        "id": "jpop-1983-48",
+        "title": "未来のリズム",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
@@ -591,179 +630,218 @@
       "rank": 63,
       "song": {
         "id": "jpop-1983-63",
-        "title": "青い約束",
+        "title": "希望の約束",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 67,
+      "rank": 68,
       "song": {
-        "id": "jpop-1983-67",
-        "title": "約束ストーリー",
+        "id": "jpop-1983-68",
+        "title": "ミッドナイト恋",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 88,
+      "rank": 69,
       "song": {
-        "id": "jpop-1983-88",
-        "title": "夢の記憶",
+        "id": "jpop-1983-69",
+        "title": "君の約束",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 97,
+      "rank": 86,
       "song": {
-        "id": "jpop-1983-97",
-        "title": "波の歌",
+        "id": "jpop-1983-86",
+        "title": "海の花",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1983
     },
     {
-      "rank": 45,
+      "rank": 100,
       "song": {
-        "id": "jpop-1982-45",
-        "title": "未来メロディ",
+        "id": "jpop-1983-100",
+        "title": "光の夜",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-1982-21",
+        "title": "虹ストーリー",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 70,
+      "rank": 22,
       "song": {
-        "id": "jpop-1982-70",
-        "title": "星の愛",
+        "id": "jpop-1982-22",
+        "title": "記憶メロディ",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 71,
+      "rank": 33,
       "song": {
-        "id": "jpop-1982-71",
-        "title": "時間の約束",
+        "id": "jpop-1982-33",
+        "title": "君の桜",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 77,
+      "rank": 74,
       "song": {
-        "id": "jpop-1982-77",
-        "title": "最後の空",
+        "id": "jpop-1982-74",
+        "title": "夜の歌",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1982
     },
     {
-      "rank": 91,
+      "rank": 83,
       "song": {
-        "id": "jpop-1982-91",
-        "title": "ミッドナイト希望",
+        "id": "jpop-1982-83",
+        "title": "約束の光",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1982
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "jpop-1981-24",
-        "title": "約束の海",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "jpop-1981-29",
-        "title": "風の森",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "jpop-1981-35",
-        "title": "冬の季節",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1981-85",
-        "title": "冬のリズム",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1981
     },
     {
       "rank": 92,
       "song": {
-        "id": "jpop-1981-92",
-        "title": "雪のリズム",
+        "id": "jpop-1982-92",
+        "title": "星の希望",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-1981-30",
+        "title": "光の道",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-1981-31",
+        "title": "風の希望",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-1981-45",
+        "title": "希望物語",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "jpop-1981-63",
+        "title": "風の月",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "jpop-1981-74",
+        "title": "街のリズム",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "jpop-1981-87",
+        "title": "愛のかけら",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
@@ -773,127 +851,140 @@
       "rank": 94,
       "song": {
         "id": "jpop-1981-94",
-        "title": "真夜中の朝",
+        "title": "星の太陽",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1981
     },
     {
-      "rank": 11,
+      "rank": 96,
       "song": {
-        "id": "jpop-1980-11",
-        "title": "恋の海",
+        "id": "jpop-1981-96",
+        "title": "ミッドナイト雨",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1981-97",
+        "title": "星ストーリー",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
+        },
+        "genre": "jpop"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-1980-20",
+        "title": "最後の夜",
+        "artist": {
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 31,
+      "rank": 37,
       "song": {
-        "id": "jpop-1980-31",
-        "title": "太陽サンセット",
+        "id": "jpop-1980-37",
+        "title": "夢サンセット",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 49,
+      "rank": 38,
       "song": {
-        "id": "jpop-1980-49",
-        "title": "夏の歌",
+        "id": "jpop-1980-38",
+        "title": "君の星",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 51,
+      "rank": 40,
       "song": {
-        "id": "jpop-1980-51",
-        "title": "最後の街",
+        "id": "jpop-1980-40",
+        "title": "最後の未来",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 55,
+      "rank": 42,
       "song": {
-        "id": "jpop-1980-55",
-        "title": "太陽のかけら",
+        "id": "jpop-1980-42",
+        "title": "月の約束",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 81,
+      "rank": 47,
       "song": {
-        "id": "jpop-1980-81",
-        "title": "真夜中の希望",
+        "id": "jpop-1980-47",
+        "title": "太陽の道",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 83,
+      "rank": 67,
       "song": {
-        "id": "jpop-1980-83",
-        "title": "記憶の夜",
+        "id": "jpop-1980-67",
+        "title": "君の桜",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },
       "year": 1980
     },
     {
-      "rank": 89,
+      "rank": 97,
       "song": {
-        "id": "jpop-1980-89",
-        "title": "冬の海",
+        "id": "jpop-1980-97",
+        "title": "約束の約束",
         "artist": {
-          "id": "a-anri",
-          "name": "杏里"
-        },
-        "genre": "jpop"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1980-95",
-        "title": "波の約束",
-        "artist": {
-          "id": "a-anri",
-          "name": "杏里"
+          "id": "a-shonentai",
+          "name": "少年隊"
         },
         "genre": "jpop"
       },

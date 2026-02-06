@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1975-66",
-    "title": "Ice Love",
+    "title": "Broken Snow",
     "artist": {
-      "id": "a-wings",
-      "name": "Paul McCartney & Wings"
+      "id": "a-eagles",
+      "name": "Eagles"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 66,
   "cdInfo": [
     {
-      "title": "Ice Love",
+      "title": "Broken Snow",
       "type": "single",
-      "releaseDate": "1975-12-25"
+      "releaseDate": "1975-05-23"
     },
     {
-      "title": "Flame Anthology",
+      "title": "Flame Sessions",
       "type": "album",
-      "releaseDate": "1975-12-11"
+      "releaseDate": "1975-01-26"
     }
   ],
   "externalLinks": {
@@ -29,169 +29,234 @@
   },
   "artistSongs": [
     {
+      "rank": 32,
+      "song": {
+        "id": "west-1979-32",
+        "title": "Mountain Love",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "west-1979-53",
+        "title": "Gold Moonlight",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1979-62",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1979-79",
+        "title": "Never Light",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1979-97",
+        "title": "Snow Forever",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1978-17",
+        "title": "Rose Rain",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1978-64",
+        "title": "Under the Moon",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1978-72",
+        "title": "Midnight Crystal",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1978-77",
+        "title": "Flame Rain",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1978-80",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 3,
+      "song": {
+        "id": "west-1977-03",
+        "title": "Hotel California",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1977-16",
+        "title": "Summer Sky",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1977-19",
+        "title": "City Way",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1977-21",
+        "title": "Wind Forever",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1977-26",
+        "title": "Fading Diamond",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
       "rank": 38,
       "song": {
-        "id": "west-1979-38",
-        "title": "Chasing Fire",
+        "id": "west-1977-38",
+        "title": "Wind Way",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1979-44",
-        "title": "Sweet Winter",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1979-59",
-        "title": "Moon Tears",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1979-89",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1979-92",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1978-25",
-        "title": "Never Ice",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1978-43",
-        "title": "Gold Rain",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1978-48",
-        "title": "Lost in Wave",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1978-54",
-        "title": "Midnight Moon",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1978-93",
-        "title": "Under the City",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1977-25",
-        "title": "Chasing Thunder",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 34,
+      "rank": 49,
       "song": {
-        "id": "west-1977-34",
-        "title": "Into the Bridge",
+        "id": "west-1977-49",
+        "title": "Thunder Forever",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 35,
+      "rank": 67,
       "song": {
-        "id": "west-1977-35",
-        "title": "Never Bridge",
+        "id": "west-1977-67",
+        "title": "Sweet Dusk",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
@@ -201,166 +266,205 @@
       "rank": 76,
       "song": {
         "id": "west-1977-76",
-        "title": "Wild Summer",
+        "title": "Shadow Night",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 1,
+      "rank": 84,
       "song": {
-        "id": "west-1976-01",
-        "title": "Silly Love Songs",
+        "id": "west-1977-84",
+        "title": "Falling Snow",
         "artist": {
-          "id": "a-wings",
-          "name": "Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
-      "year": 1976
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1976-19",
-        "title": "Rain Way",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1976-20",
-        "title": "Rose Sky",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
+      "year": 1977
     },
     {
       "rank": 27,
       "song": {
         "id": "west-1976-27",
+        "title": "Into the Summer",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1976-29",
         "title": "Running Diamond",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 36,
+      "rank": 52,
       "song": {
-        "id": "west-1976-36",
-        "title": "Rain Forever",
+        "id": "west-1976-52",
+        "title": "Chasing Moon",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 63,
+      "rank": 54,
       "song": {
-        "id": "west-1976-63",
-        "title": "Shining Moon",
+        "id": "west-1976-54",
+        "title": "Light Way",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 68,
+      "rank": 67,
       "song": {
-        "id": "west-1976-68",
-        "title": "Golden City",
+        "id": "west-1976-67",
+        "title": "Running Rain",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 83,
+      "rank": 92,
       "song": {
-        "id": "west-1976-83",
-        "title": "Storm Love",
+        "id": "west-1976-92",
+        "title": "Chasing Thunder",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 13,
+      "rank": 95,
       "song": {
-        "id": "west-1975-13",
-        "title": "Fading Mountain",
+        "id": "west-1976-95",
+        "title": "Sweet River",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-1975-09",
+        "title": "One of These Nights",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 37,
+      "rank": 14,
       "song": {
-        "id": "west-1975-37",
-        "title": "Wild Sun",
+        "id": "west-1975-14",
+        "title": "Under the Fire",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 57,
+      "rank": 42,
       "song": {
-        "id": "west-1975-57",
-        "title": "Fading City",
+        "id": "west-1975-42",
+        "title": "Dancing Snow",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 100,
+      "rank": 48,
       "song": {
-        "id": "west-1975-100",
-        "title": "Electric Light",
+        "id": "west-1975-48",
+        "title": "Running Road",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-1975-56",
+        "title": "Gold Heart",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-1975-58",
+        "title": "Dancing Flame",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
+        },
+        "genre": "western"
+      },
+      "year": 1975
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1975-59",
+        "title": "Dusk Tears",
+        "artist": {
+          "id": "a-eagles",
+          "name": "Eagles"
         },
         "genre": "western"
       },

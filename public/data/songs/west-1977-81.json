@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-81",
-    "title": "Fire Way",
+    "title": "Sweet Ice",
     "artist": {
-      "id": "a-kc",
-      "name": "KC and the Sunshine Band"
+      "id": "a-chicago",
+      "name": "Chicago"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 81,
   "cdInfo": [
     {
-      "title": "Fire Way",
+      "title": "Sweet Ice",
       "type": "single",
-      "releaseDate": "1977-05-24"
+      "releaseDate": "1977-02-04"
     },
     {
-      "title": "Ocean Chronicles",
+      "title": "Fire Anthology",
       "type": "album",
-      "releaseDate": "1977-04-02"
+      "releaseDate": "1977-08-17"
     }
   ],
   "externalLinks": {
@@ -29,52 +29,65 @@
   },
   "artistSongs": [
     {
-      "rank": 21,
+      "rank": 1,
       "song": {
-        "id": "west-1979-21",
-        "title": "Diamond Moonlight",
+        "id": "west-1989-01",
+        "title": "Look Away",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-1982-10",
+        "title": "Hard to Say I'm Sorry",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1979-45",
+        "title": "Flame Way",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 40,
+      "rank": 49,
       "song": {
-        "id": "west-1979-40",
-        "title": "Ice Rain",
+        "id": "west-1979-49",
+        "title": "Shining Road",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 47,
+      "rank": 60,
       "song": {
-        "id": "west-1979-47",
-        "title": "Fading Diamond",
+        "id": "west-1979-60",
+        "title": "Running Diamond",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1979-57",
-        "title": "Running Bridge",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -84,49 +97,127 @@
       "rank": 69,
       "song": {
         "id": "west-1979-69",
-        "title": "Fading Rose",
+        "title": "River Dreams",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 85,
+      "rank": 73,
       "song": {
-        "id": "west-1979-85",
-        "title": "Rain Tears",
+        "id": "west-1979-73",
+        "title": "Light Dreams",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 26,
+      "rank": 14,
       "song": {
-        "id": "west-1978-26",
-        "title": "Ocean Rain",
+        "id": "west-1978-14",
+        "title": "Fading Road",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 60,
+      "rank": 22,
       "song": {
-        "id": "west-1978-60",
-        "title": "Rain Night",
+        "id": "west-1978-22",
+        "title": "Wave Night",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1978-23",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1978-25",
+        "title": "Last Light",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1978-29",
+        "title": "Wild Sun",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-1978-32",
+        "title": "Dancing Fire",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 46,
+      "song": {
+        "id": "west-1978-46",
+        "title": "Ocean Love",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1978-75",
+        "title": "Sweet Road",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -136,244 +227,166 @@
       "rank": 86,
       "song": {
         "id": "west-1978-86",
-        "title": "Dusk Way",
+        "title": "Moon Heart",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
     },
     {
-      "rank": 88,
+      "rank": 99,
       "song": {
-        "id": "west-1978-88",
-        "title": "Shining Gold",
+        "id": "west-1978-99",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1978
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1978-90",
-        "title": "River Way",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1978-94",
-        "title": "Into the Road",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1977-12",
-        "title": "Dancing Wave",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1977-38",
-        "title": "Running Shadow",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1977-52",
-        "title": "Under the Light",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1977-59",
-        "title": "Into the Shadow",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1977-66",
-        "title": "Diamond Sky",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1977-78",
-        "title": "Star Night",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1977-97",
-        "title": "Fading Mountain",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1977
     },
     {
       "rank": 11,
       "song": {
-        "id": "west-1976-11",
+        "id": "west-1977-11",
+        "title": "Shining Bridge",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1977-28",
+        "title": "Chasing Rain",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1976-15",
+        "title": "Diamond Forever",
+        "artist": {
+          "id": "a-chicago",
+          "name": "Chicago"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1976-17",
         "title": "Electric Wave",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 32,
+      "rank": 31,
       "song": {
-        "id": "west-1976-32",
-        "title": "Light Dreams",
+        "id": "west-1976-31",
+        "title": "Flame Dreams",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 62,
+      "rank": 45,
       "song": {
-        "id": "west-1976-62",
-        "title": "Electric Diamond",
+        "id": "west-1976-45",
+        "title": "Shining Light",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 75,
+      "rank": 58,
       "song": {
-        "id": "west-1976-75",
-        "title": "Sweet Wind",
+        "id": "west-1976-58",
+        "title": "Wind Heart",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 82,
+      "rank": 63,
       "song": {
-        "id": "west-1976-82",
-        "title": "Falling Wind",
+        "id": "west-1976-63",
+        "title": "Chasing Dusk",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 96,
+      "rank": 79,
       "song": {
-        "id": "west-1976-96",
-        "title": "Road Rain",
+        "id": "west-1976-79",
+        "title": "Under the Shadow",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 24,
+      "rank": 21,
       "song": {
-        "id": "west-1975-24",
-        "title": "Chasing Fire",
+        "id": "west-1975-21",
+        "title": "Moon Heart",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 33,
+      "rank": 35,
       "song": {
-        "id": "west-1975-33",
-        "title": "Under the Mountain",
+        "id": "west-1975-35",
+        "title": "Golden Light",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
@@ -383,36 +396,23 @@
       "rank": 67,
       "song": {
         "id": "west-1975-67",
-        "title": "City Tears",
+        "title": "Sweet Storm",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 70,
+      "rank": 82,
       "song": {
-        "id": "west-1975-70",
-        "title": "Fire Moonlight",
+        "id": "west-1975-82",
+        "title": "Falling Thunder",
         "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1975-95",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-kc",
-          "name": "KC and the Sunshine Band"
+          "id": "a-chicago",
+          "name": "Chicago"
         },
         "genre": "western"
       },

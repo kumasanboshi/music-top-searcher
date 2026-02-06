@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1996-47",
-    "title": "夜物語",
+    "title": "真夜中の街",
     "artist": {
-      "id": "a-elt",
-      "name": "Every Little Thing"
+      "id": "a-mrchildren",
+      "name": "Mr.Children"
     },
     "genre": "jpop"
   },
@@ -12,14 +12,14 @@
   "rank": 47,
   "cdInfo": [
     {
-      "title": "夜物語",
+      "title": "真夜中の街",
       "type": "single",
-      "releaseDate": "1996-12-16"
+      "releaseDate": "1996-10-15"
     },
     {
-      "title": "星ストーリーズ",
+      "title": "未来アンソロジー",
       "type": "album",
-      "releaseDate": "1996-12-22"
+      "releaseDate": "1996-10-14"
     }
   ],
   "externalLinks": {
@@ -29,78 +29,806 @@
   },
   "artistSongs": [
     {
-      "rank": 35,
+      "rank": 88,
       "song": {
-        "id": "jpop-1999-35",
-        "title": "夜のかけら",
+        "id": "jpop-2009-88",
+        "title": "森ストーリー",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2009
     },
     {
-      "rank": 37,
+      "rank": 27,
       "song": {
-        "id": "jpop-1999-37",
-        "title": "君の影",
+        "id": "jpop-2008-27",
+        "title": "世界物語",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
-      "year": 1999
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-1999-50",
-        "title": "星の朝",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1999
+      "year": 2008
     },
     {
       "rank": 57,
       "song": {
-        "id": "jpop-1999-57",
-        "title": "雨ストーリー",
+        "id": "jpop-2008-57",
+        "title": "君の光",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
-      "year": 1999
+      "year": 2008
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-2008-58",
+        "title": "夏物語",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "jpop-2008-61",
+        "title": "青い星",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "jpop-2008-65",
+        "title": "涙の記憶",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-2008-75",
+        "title": "夜の季節",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "jpop-2008-79",
+        "title": "星の花",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-2008-80",
+        "title": "空メロディ",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2008-81",
+        "title": "桜の海",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2008-82",
+        "title": "波サンセット",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "jpop-2007-21",
+        "title": "未来の歌",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "jpop-2007-24",
+        "title": "約束の時間",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2007-38",
+        "title": "冬の街",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "jpop-2007-67",
+        "title": "最後の夜",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-2007-88",
+        "title": "夏の道",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-2006-20",
+        "title": "影の季節",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-2006-23",
+        "title": "約束の時間",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-2006-29",
+        "title": "涙の光",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2006-50",
+        "title": "太陽の夜",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "jpop-2006-51",
+        "title": "波の季節",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-2006-58",
+        "title": "希望の海",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "jpop-2006-92",
+        "title": "夢のリズム",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "jpop-2006-95",
+        "title": "夜のかけら",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2006-100",
+        "title": "虹の夜",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2006
     },
     {
       "rank": 96,
       "song": {
-        "id": "jpop-1999-96",
-        "title": "夢の空",
+        "id": "jpop-2005-96",
+        "title": "波サンセット",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "jpop-2004-15",
+        "title": "月の道",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "jpop-2004-25",
+        "title": "永遠の雨",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-2004-30",
+        "title": "朝物語",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "jpop-2004-38",
+        "title": "涙の未来",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2004-57",
+        "title": "影の記憶",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-2004-69",
+        "title": "青い約束",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "jpop-2004-75",
+        "title": "最後の影",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-2004-78",
+        "title": "風の花",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2004-81",
+        "title": "雪物語",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "jpop-2004-91",
+        "title": "未来の海",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2004-94",
+        "title": "約束の旅",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-2004-98",
+        "title": "世界の記憶",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2004
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "jpop-2003-16",
+        "title": "波フォーエバー",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "jpop-2003-57",
+        "title": "青い星",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "jpop-2003-77",
+        "title": "時間の海",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "jpop-2003-81",
+        "title": "街の季節",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-2003-98",
+        "title": "恋の月",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-2002-35",
+        "title": "真夜中の旅",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-2002-52",
+        "title": "花ストーリー",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "jpop-2002-64",
+        "title": "星の記憶",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "jpop-2002-69",
+        "title": "世界の夜",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-2002-73",
+        "title": "風の風",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "jpop-2002-86",
+        "title": "太陽メロディ",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "jpop-2000-44",
+        "title": "青い街",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "jpop-2000-73",
+        "title": "君の未来",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "jpop-1999-34",
+        "title": "真夜中の影",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1999
     },
     {
-      "rank": 54,
+      "rank": 35,
       "song": {
-        "id": "jpop-1998-54",
-        "title": "最後の空",
+        "id": "jpop-1999-35",
+        "title": "夏の歌",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "jpop-1999-45",
+        "title": "波メロディ",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 52,
+      "song": {
+        "id": "jpop-1999-52",
+        "title": "夢の世界",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1999-70",
+        "title": "恋の雨",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "jpop-1999-80",
+        "title": "星の海",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "jpop-1999-84",
+        "title": "波のかけら",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1999
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "jpop-1998-17",
+        "title": "雪メロディ",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "jpop-1998-23",
+        "title": "真夜中の夏",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "jpop-1998-35",
+        "title": "星の海",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1998
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "jpop-1998-48",
+        "title": "君の光",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
@@ -110,387 +838,192 @@
       "rank": 57,
       "song": {
         "id": "jpop-1998-57",
-        "title": "涙の星",
+        "title": "森フォーエバー",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 59,
+      "rank": 74,
       "song": {
-        "id": "jpop-1998-59",
-        "title": "青い空",
+        "id": "jpop-1998-74",
+        "title": "風の雪",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1998
     },
     {
-      "rank": 64,
+      "rank": 32,
       "song": {
-        "id": "jpop-1998-64",
-        "title": "最後の朝",
+        "id": "jpop-1997-32",
+        "title": "青い太陽",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1998-95",
-        "title": "風の森",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-1998-98",
-        "title": "星の夜",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1998
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-1997-43",
-        "title": "風ストーリー",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 45,
+      "rank": 53,
       "song": {
-        "id": "jpop-1997-45",
-        "title": "恋の光",
+        "id": "jpop-1997-53",
+        "title": "波の夜",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 83,
+      "rank": 66,
       "song": {
-        "id": "jpop-1997-83",
-        "title": "記憶の道",
+        "id": "jpop-1997-66",
+        "title": "風の世界",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1997
     },
     {
-      "rank": 11,
+      "rank": 69,
       "song": {
-        "id": "jpop-1996-11",
-        "title": "旅物語",
+        "id": "jpop-1997-69",
+        "title": "夏の約束",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
-      "year": 1996
+      "year": 1997
     },
     {
-      "rank": 14,
+      "rank": 79,
       "song": {
-        "id": "jpop-1996-14",
-        "title": "時間の歌",
+        "id": "jpop-1997-79",
+        "title": "桜物語",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
-      "year": 1996
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "jpop-1996-16",
-        "title": "愛の夜",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1996-20",
-        "title": "夢の桜",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-1996-21",
-        "title": "夜の季節",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
+      "year": 1997
     },
     {
       "rank": 43,
       "song": {
         "id": "jpop-1996-43",
-        "title": "夢の恋",
+        "title": "最後の影",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1996
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-1996-48",
-        "title": "月のリズム",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1996-49",
-        "title": "約束の太陽",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-1996-57",
-        "title": "青い旅",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "jpop-1996-70",
-        "title": "月の季節",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "jpop-1996-74",
-        "title": "森フォーエバー",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "jpop-1996-82",
-        "title": "風の空",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "jpop-1996-88",
-        "title": "花の季節",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1996
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-1995-18",
-        "title": "約束の未来",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-1995-36",
-        "title": "真夜中の花",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1995-46",
-        "title": "約束メロディ",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "jpop-1995-49",
-        "title": "約束の花",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-1995-53",
-        "title": "太陽の空",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-1995-66",
-        "title": "風の夏",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-1995-99",
-        "title": "太陽の花",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1995
     },
     {
       "rank": 15,
       "song": {
-        "id": "jpop-1994-15",
-        "title": "森の海",
+        "id": "jpop-1995-15",
+        "title": "恋の旅",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
-      "year": 1994
+      "year": 1995
     },
     {
-      "rank": 30,
+      "rank": 28,
       "song": {
-        "id": "jpop-1994-30",
-        "title": "約束の夏",
+        "id": "jpop-1995-28",
+        "title": "君の星",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "jpop-1995-58",
+        "title": "海サンセット",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-1995-68",
+        "title": "夜の約束",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-1995-97",
+        "title": "約束の風",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-1995-98",
+        "title": "影の道",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1995
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "jpop-1994-12",
+        "title": "世界フォーエバー",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
@@ -500,36 +1033,10 @@
       "rank": 35,
       "song": {
         "id": "jpop-1994-35",
-        "title": "恋の花",
+        "title": "花のかけら",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-1994-46",
-        "title": "君の森",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1994
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "jpop-1994-56",
-        "title": "涙の希望",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
@@ -539,10 +1046,10 @@
       "rank": 57,
       "song": {
         "id": "jpop-1994-57",
-        "title": "最後の未来",
+        "title": "旅ストーリー",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
@@ -552,335 +1059,296 @@
       "rank": 72,
       "song": {
         "id": "jpop-1994-72",
-        "title": "星の道",
+        "title": "影の季節",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 83,
+      "rank": 87,
       "song": {
-        "id": "jpop-1994-83",
-        "title": "月の空",
+        "id": "jpop-1994-87",
+        "title": "青い時間",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1994
     },
     {
-      "rank": 12,
+      "rank": 89,
       "song": {
-        "id": "jpop-1993-12",
-        "title": "約束の桜",
+        "id": "jpop-1994-89",
+        "title": "風の未来",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-1994-100",
+        "title": "風の海",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1994
+    },
+    {
+      "rank": 11,
+      "song": {
+        "id": "jpop-1993-11",
+        "title": "花の光",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 24,
+      "rank": 13,
       "song": {
-        "id": "jpop-1993-24",
-        "title": "旅フォーエバー",
+        "id": "jpop-1993-13",
+        "title": "冬の光",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 52,
+      "rank": 21,
       "song": {
-        "id": "jpop-1993-52",
-        "title": "涙の愛",
+        "id": "jpop-1993-21",
+        "title": "青い波",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1993
     },
     {
-      "rank": 56,
+      "rank": 31,
       "song": {
-        "id": "jpop-1993-56",
-        "title": "海のかけら",
+        "id": "jpop-1993-31",
+        "title": "雨フォーエバー",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1993
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "jpop-1993-79",
-        "title": "真夜中の未来",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-1993-92",
-        "title": "夜のかけら",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1993
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-1992-20",
-        "title": "雨サンセット",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-1992-22",
-        "title": "最後の朝",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "jpop-1992-33",
-        "title": "街の空",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-1992-41",
-        "title": "夢の世界",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "jpop-1992-85",
-        "title": "青い海",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1992
     },
     {
       "rank": 93,
       "song": {
-        "id": "jpop-1992-93",
-        "title": "旅メロディ",
+        "id": "jpop-1993-93",
+        "title": "太陽のリズム",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1993
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-1992-53",
+        "title": "桜物語",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 94,
+      "rank": 59,
       "song": {
-        "id": "jpop-1992-94",
-        "title": "雨の光",
+        "id": "jpop-1992-59",
+        "title": "青い夏",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 99,
+      "rank": 76,
       "song": {
-        "id": "jpop-1992-99",
-        "title": "波物語",
+        "id": "jpop-1992-76",
+        "title": "涙の空",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1992
     },
     {
-      "rank": 40,
+      "rank": 78,
       "song": {
-        "id": "jpop-1991-40",
-        "title": "夜の花",
+        "id": "jpop-1992-78",
+        "title": "森のリズム",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1992
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-1991-50",
+        "title": "恋の未来",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 43,
+      "rank": 59,
       "song": {
-        "id": "jpop-1991-43",
-        "title": "涙の記憶",
+        "id": "jpop-1991-59",
+        "title": "虹の街",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 54,
+      "rank": 61,
       "song": {
-        "id": "jpop-1991-54",
-        "title": "最後の雨",
+        "id": "jpop-1991-61",
+        "title": "君の波",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 65,
+      "rank": 67,
       "song": {
-        "id": "jpop-1991-65",
-        "title": "夏の空",
+        "id": "jpop-1991-67",
+        "title": "夢の花",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 77,
+      "rank": 79,
       "song": {
-        "id": "jpop-1991-77",
-        "title": "雪メロディ",
+        "id": "jpop-1991-79",
+        "title": "星の森",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1991
     },
     {
-      "rank": 81,
+      "rank": 24,
       "song": {
-        "id": "jpop-1991-81",
-        "title": "雪の道",
+        "id": "jpop-1990-24",
+        "title": "恋の約束",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-1991-95",
-        "title": "太陽物語",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
-        },
-        "genre": "jpop"
-      },
-      "year": 1991
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "jpop-1990-12",
-        "title": "ミッドナイト空",
-        "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 19,
+      "rank": 36,
       "song": {
-        "id": "jpop-1990-19",
-        "title": "記憶物語",
+        "id": "jpop-1990-36",
+        "title": "光の花",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
       "year": 1990
     },
     {
-      "rank": 22,
+      "rank": 61,
       "song": {
-        "id": "jpop-1990-22",
-        "title": "夜の光",
+        "id": "jpop-1990-61",
+        "title": "桜フォーエバー",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-1990-70",
+        "title": "夢の月",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
+        },
+        "genre": "jpop"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "jpop-1990-88",
+        "title": "旅の光",
+        "artist": {
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },
@@ -890,10 +1358,10 @@
       "rank": 98,
       "song": {
         "id": "jpop-1990-98",
-        "title": "最後の波",
+        "title": "永遠の影",
         "artist": {
-          "id": "a-elt",
-          "name": "Every Little Thing"
+          "id": "a-mrchildren",
+          "name": "Mr.Children"
         },
         "genre": "jpop"
       },

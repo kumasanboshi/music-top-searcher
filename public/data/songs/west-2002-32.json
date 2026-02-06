@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2002-32",
-    "title": "Lost in Bridge",
+    "title": "Sky Heart",
     "artist": {
-      "id": "a-nelly-furtado",
-      "name": "Nelly Furtado"
+      "id": "a-maroon-5",
+      "name": "Maroon 5"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 32,
   "cdInfo": [
     {
-      "title": "Lost in Bridge",
+      "title": "Sky Heart",
       "type": "single",
-      "releaseDate": "2002-10-18"
+      "releaseDate": "2002-01-06"
     },
     {
-      "title": "Best of Sun",
+      "title": "Star Anthology",
       "type": "album",
-      "releaseDate": "2002-12-27"
+      "releaseDate": "2002-03-22"
     }
   ],
   "externalLinks": {
@@ -29,143 +29,169 @@
   },
   "artistSongs": [
     {
-      "rank": 15,
+      "rank": 10,
       "song": {
-        "id": "west-2009-15",
-        "title": "River Dreams",
+        "id": "west-2018-10",
+        "title": "Girls Like You",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5 ft. Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 9,
+      "song": {
+        "id": "west-2015-09",
+        "title": "Sugar",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 4,
+      "song": {
+        "id": "west-2012-04",
+        "title": "Payphone",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 10,
+      "song": {
+        "id": "west-2011-10",
+        "title": "Moves Like Jagger",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2009-32",
+        "title": "Last Rain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 18,
+      "rank": 57,
       "song": {
-        "id": "west-2009-18",
-        "title": "Silver Rain",
+        "id": "west-2009-57",
+        "title": "Bridge Love",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 38,
+      "rank": 79,
       "song": {
-        "id": "west-2009-38",
-        "title": "Mountain Soul",
+        "id": "west-2009-79",
+        "title": "Wild City",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 39,
+      "rank": 89,
       "song": {
-        "id": "west-2009-39",
-        "title": "Chasing Rain",
+        "id": "west-2009-89",
+        "title": "Golden Crystal",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2009
     },
     {
-      "rank": 44,
+      "rank": 25,
       "song": {
-        "id": "west-2009-44",
-        "title": "Flame Dreams",
+        "id": "west-2008-25",
+        "title": "Bridge Night",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2009-46",
-        "title": "Broken Star",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-2009-54",
-        "title": "Last Snow",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2009-67",
-        "title": "River Way",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-2009-72",
-        "title": "Lost in Storm",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2009
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2008-24",
-        "title": "Last Mountain",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 52,
+      "rank": 37,
       "song": {
-        "id": "west-2008-52",
-        "title": "Thunder Fire",
+        "id": "west-2008-37",
+        "title": "Lost in Mountain",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2008-54",
+        "title": "Chasing Wind",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-2008-61",
+        "title": "Shadow Forever",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2008
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2008-67",
+        "title": "Wind Fire",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -175,270 +201,309 @@
       "rank": 68,
       "song": {
         "id": "west-2008-68",
-        "title": "Under the Wave",
+        "title": "Sweet Ocean",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 79,
+      "rank": 100,
       "song": {
-        "id": "west-2008-79",
-        "title": "Sweet Dawn",
+        "id": "west-2008-100",
+        "title": "River Sky",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2008
     },
     {
-      "rank": 93,
+      "rank": 7,
       "song": {
-        "id": "west-2008-93",
-        "title": "Storm Fire",
+        "id": "west-2007-07",
+        "title": "Makes Me Wonder",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2008
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2007-15",
-        "title": "Never Road",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 17,
+      "rank": 11,
       "song": {
-        "id": "west-2007-17",
-        "title": "Wild City",
+        "id": "west-2007-11",
+        "title": "Dawn Sky",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 22,
+      "rank": 14,
       "song": {
-        "id": "west-2007-22",
-        "title": "Into the City",
+        "id": "west-2007-14",
+        "title": "Lost in Fire",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 31,
+      "rank": 32,
       "song": {
-        "id": "west-2007-31",
-        "title": "Golden Flame",
+        "id": "west-2007-32",
+        "title": "Gold Sky",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 53,
+      "rank": 58,
       "song": {
-        "id": "west-2007-53",
-        "title": "Into the Wave",
+        "id": "west-2007-58",
+        "title": "Rose Rain",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 74,
+      "rank": 60,
       "song": {
-        "id": "west-2007-74",
-        "title": "Fading Bridge",
+        "id": "west-2007-60",
+        "title": "Wild Star",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
     },
     {
-      "rank": 90,
+      "rank": 67,
       "song": {
-        "id": "west-2007-90",
-        "title": "Thunder Lights",
+        "id": "west-2007-67",
+        "title": "Star Rain",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2007
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-2006-03",
-        "title": "Promiscuous",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2006-13",
-        "title": "Diamond Heart",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2006-28",
-        "title": "Thunder Love",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2006-46",
-        "title": "Midnight Rose",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2006-95",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2006
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2005-31",
-        "title": "Shining Storm",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-2005-49",
-        "title": "Never Summer",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2005
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2005-55",
-        "title": "Running Crystal",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2005
     },
     {
       "rank": 69,
       "song": {
-        "id": "west-2005-69",
-        "title": "Diamond Dreams",
+        "id": "west-2007-69",
+        "title": "Electric Moon",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2007
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-2006-37",
+        "title": "Electric Gold",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2006-44",
+        "title": "Sun Dreams",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-2006-54",
+        "title": "Golden Star",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 58,
+      "song": {
+        "id": "west-2006-58",
+        "title": "Electric Ocean",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-2006-65",
+        "title": "Under the Ocean",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2006-76",
+        "title": "Shadow Soul",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2006-91",
+        "title": "Chasing Mountain",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2006
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2005-16",
+        "title": "Mountain Tears",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 71,
+      "rank": 18,
       "song": {
-        "id": "west-2005-71",
-        "title": "Never Moon",
+        "id": "west-2005-18",
+        "title": "Electric City",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 86,
+      "rank": 34,
       "song": {
-        "id": "west-2005-86",
-        "title": "Midnight Gold",
+        "id": "west-2005-34",
+        "title": "Chasing Moon",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2005-45",
+        "title": "Sky Fire",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2005-73",
+        "title": "Falling Bridge",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-2005-75",
+        "title": "Rain Way",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2005
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-2005-85",
+        "title": "Chasing Snow",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -448,49 +513,23 @@
       "rank": 100,
       "song": {
         "id": "west-2005-100",
-        "title": "Chasing Road",
+        "title": "Sweet Snow",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2005
     },
     {
-      "rank": 32,
+      "rank": 3,
       "song": {
-        "id": "west-2004-32",
-        "title": "Star Heart",
+        "id": "west-2004-03",
+        "title": "This Love",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-2004-75",
-        "title": "Midnight Rose",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2004
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2004-95",
-        "title": "Never Sun",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -499,115 +538,89 @@
     {
       "rank": 25,
       "song": {
-        "id": "west-2003-25",
-        "title": "Storm Heart",
+        "id": "west-2004-25",
+        "title": "Rain Love",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 28,
+      "rank": 32,
       "song": {
-        "id": "west-2003-28",
-        "title": "Snow Tears",
+        "id": "west-2004-32",
+        "title": "Winter Forever",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 37,
+      "rank": 41,
       "song": {
-        "id": "west-2003-37",
-        "title": "Rose Fire",
+        "id": "west-2004-41",
+        "title": "Dusk Rain",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 40,
+      "rank": 70,
       "song": {
-        "id": "west-2003-40",
-        "title": "Flame Lights",
+        "id": "west-2004-70",
+        "title": "River Soul",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 44,
+      "rank": 88,
       "song": {
-        "id": "west-2003-44",
-        "title": "Running Storm",
+        "id": "west-2004-88",
+        "title": "Wild Diamond",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 53,
+      "rank": 91,
       "song": {
-        "id": "west-2003-53",
-        "title": "Dancing Fire",
+        "id": "west-2004-91",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2003
+      "year": 2004
     },
     {
-      "rank": 57,
+      "rank": 15,
       "song": {
-        "id": "west-2003-57",
-        "title": "Golden City",
+        "id": "west-2003-15",
+        "title": "Road Rain",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2003-80",
-        "title": "Chasing Road",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2003
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2003-89",
-        "title": "Lost in Mountain",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
@@ -616,245 +629,284 @@
     {
       "rank": 16,
       "song": {
-        "id": "west-2002-16",
-        "title": "Running Silver",
+        "id": "west-2003-16",
+        "title": "Golden Gold",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2002
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-2002-22",
-        "title": "Dancing Crystal",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-2002-27",
-        "title": "Star Way",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2002
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-2002-29",
-        "title": "Rain Night",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2002
+      "year": 2003
     },
     {
       "rank": 45,
       "song": {
-        "id": "west-2002-45",
-        "title": "Running Summer",
+        "id": "west-2003-45",
+        "title": "Sweet Ocean",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2003-47",
+        "title": "Lost in Gold",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2003-69",
+        "title": "Shining Shadow",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2003-81",
+        "title": "Never Road",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2003-100",
+        "title": "Last Moon",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2003
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-2002-13",
+        "title": "Sweet Diamond",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 86,
+      "rank": 26,
       "song": {
-        "id": "west-2002-86",
-        "title": "Shining Gold",
+        "id": "west-2002-26",
+        "title": "Snow Night",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2002
     },
     {
-      "rank": 49,
+      "rank": 37,
       "song": {
-        "id": "west-2001-49",
-        "title": "Lost in Crystal",
+        "id": "west-2002-37",
+        "title": "Broken Bridge",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
-      "year": 2001
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-2001-56",
-        "title": "Golden Road",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2001-62",
-        "title": "Light Way",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2001
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-2001-67",
-        "title": "Midnight Summer",
-        "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
-        },
-        "genre": "western"
-      },
-      "year": 2001
+      "year": 2002
     },
     {
       "rank": 77,
       "song": {
-        "id": "west-2001-77",
-        "title": "Winter Rain",
+        "id": "west-2002-77",
+        "title": "Moon Dreams",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2002
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2001-50",
+        "title": "Sweet Star",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 91,
+      "rank": 74,
       "song": {
-        "id": "west-2001-91",
-        "title": "Chasing City",
+        "id": "west-2001-74",
+        "title": "Fading Dawn",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2001
     },
     {
-      "rank": 38,
+      "rank": 76,
       "song": {
-        "id": "west-2000-38",
-        "title": "Ocean Lights",
+        "id": "west-2001-76",
+        "title": "Dusk Dreams",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2001
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2000-16",
+        "title": "Silver Night",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 43,
+      "rank": 17,
       "song": {
-        "id": "west-2000-43",
-        "title": "Sky Fire",
+        "id": "west-2000-17",
+        "title": "Dusk Moonlight",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 54,
+      "rank": 37,
       "song": {
-        "id": "west-2000-54",
-        "title": "Electric Sun",
+        "id": "west-2000-37",
+        "title": "Dancing Light",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 67,
+      "rank": 39,
       "song": {
-        "id": "west-2000-67",
-        "title": "Under the Mountain",
+        "id": "west-2000-39",
+        "title": "Crystal Dreams",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 77,
+      "rank": 40,
       "song": {
-        "id": "west-2000-77",
-        "title": "Fire Lights",
+        "id": "west-2000-40",
+        "title": "Diamond Forever",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 79,
+      "rank": 63,
       "song": {
-        "id": "west-2000-79",
-        "title": "Electric Shadow",
+        "id": "west-2000-63",
+        "title": "River Heart",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },
       "year": 2000
     },
     {
-      "rank": 94,
+      "rank": 68,
       "song": {
-        "id": "west-2000-94",
-        "title": "Midnight Wind",
+        "id": "west-2000-68",
+        "title": "Lost in Silver",
         "artist": {
-          "id": "a-nelly-furtado",
-          "name": "Nelly Furtado"
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2000-74",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
+        },
+        "genre": "western"
+      },
+      "year": 2000
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-2000-90",
+        "title": "Electric Light",
+        "artist": {
+          "id": "a-maroon-5",
+          "name": "Maroon 5"
         },
         "genre": "western"
       },

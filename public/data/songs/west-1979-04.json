@@ -29,10 +29,10 @@
   },
   "artistSongs": [
     {
-      "rank": 55,
+      "rank": 20,
       "song": {
-        "id": "west-1979-55",
-        "title": "Last Wind",
+        "id": "west-1979-20",
+        "title": "Summer Soul",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -42,10 +42,10 @@
       "year": 1979
     },
     {
-      "rank": 61,
+      "rank": 52,
       "song": {
-        "id": "west-1979-61",
-        "title": "Broken Light",
+        "id": "west-1979-52",
+        "title": "Shining Dawn",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -55,10 +55,10 @@
       "year": 1979
     },
     {
-      "rank": 99,
+      "rank": 81,
       "song": {
-        "id": "west-1979-99",
-        "title": "Dancing Rain",
+        "id": "west-1979-81",
+        "title": "Storm Forever",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -68,10 +68,36 @@
       "year": 1979
     },
     {
-      "rank": 46,
+      "rank": 87,
       "song": {
-        "id": "west-1978-46",
-        "title": "Dancing Winter",
+        "id": "west-1979-87",
+        "title": "Chasing City",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1979-100",
+        "title": "Into the Moon",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-1978-26",
+        "title": "Electric Wave",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -81,10 +107,10 @@
       "year": 1978
     },
     {
-      "rank": 47,
+      "rank": 53,
       "song": {
-        "id": "west-1978-47",
-        "title": "Flame Tears",
+        "id": "west-1978-53",
+        "title": "Under the Mountain",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -94,10 +120,10 @@
       "year": 1978
     },
     {
-      "rank": 55,
+      "rank": 56,
       "song": {
-        "id": "west-1978-55",
-        "title": "Bridge Love",
+        "id": "west-1978-56",
+        "title": "Shining Thunder",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -107,10 +133,23 @@
       "year": 1978
     },
     {
-      "rank": 72,
+      "rank": 74,
       "song": {
-        "id": "west-1978-72",
-        "title": "Rain Moonlight",
+        "id": "west-1978-74",
+        "title": "River Way",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-1978-81",
+        "title": "Running Sun",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -123,6 +162,19 @@
       "rank": 92,
       "song": {
         "id": "west-1978-92",
+        "title": "Fading Bridge",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-1978-100",
         "title": "Never Flame",
         "artist": {
           "id": "a-rod-stewart",
@@ -133,9 +185,9 @@
       "year": 1978
     },
     {
-      "rank": 31,
+      "rank": 33,
       "song": {
-        "id": "west-1977-31",
+        "id": "west-1977-33",
         "title": "Last Fire",
         "artist": {
           "id": "a-rod-stewart",
@@ -146,10 +198,10 @@
       "year": 1977
     },
     {
-      "rank": 56,
+      "rank": 45,
       "song": {
-        "id": "west-1977-56",
-        "title": "Shining Sun",
+        "id": "west-1977-45",
+        "title": "Bridge Lights",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -159,10 +211,10 @@
       "year": 1977
     },
     {
-      "rank": 72,
+      "rank": 51,
       "song": {
-        "id": "west-1977-72",
-        "title": "Dancing Fire",
+        "id": "west-1977-51",
+        "title": "Light Night",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -172,10 +224,10 @@
       "year": 1977
     },
     {
-      "rank": 83,
+      "rank": 86,
       "song": {
-        "id": "west-1977-83",
-        "title": "Sweet Flame",
+        "id": "west-1977-86",
+        "title": "Golden Fire",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -183,89 +235,76 @@
         "genre": "western"
       },
       "year": 1977
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1977-96",
+        "title": "Sweet Wave",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "west-1976-55",
+        "title": "Lost in Light",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1976-70",
+        "title": "Rose Way",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1976-86",
+        "title": "Winter Rain",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-1975-27",
+        "title": "Fading Bridge",
+        "artist": {
+          "id": "a-rod-stewart",
+          "name": "Rod Stewart"
+        },
+        "genre": "western"
+      },
+      "year": 1975
     },
     {
       "rank": 38,
       "song": {
-        "id": "west-1976-38",
-        "title": "Running Gold",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1976-52",
-        "title": "Lost in Sky",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1976-60",
-        "title": "Shining Star",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1976-66",
-        "title": "Wild Ocean",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1976-79",
-        "title": "Fading Wave",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1976-88",
-        "title": "Summer Forever",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1975-34",
+        "id": "west-1975-38",
         "title": "Dawn Night",
         "artist": {
           "id": "a-rod-stewart",
@@ -276,10 +315,10 @@
       "year": 1975
     },
     {
-      "rank": 60,
+      "rank": 62,
       "song": {
-        "id": "west-1975-60",
-        "title": "Wave Soul",
+        "id": "west-1975-62",
+        "title": "Running Ocean",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -289,10 +328,10 @@
       "year": 1975
     },
     {
-      "rank": 61,
+      "rank": 75,
       "song": {
-        "id": "west-1975-61",
-        "title": "Bridge Forever",
+        "id": "west-1975-75",
+        "title": "Running Ice",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"
@@ -302,49 +341,10 @@
       "year": 1975
     },
     {
-      "rank": 64,
+      "rank": 97,
       "song": {
-        "id": "west-1975-64",
-        "title": "Lost in City",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1975-80",
-        "title": "Electric Rose",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1975-82",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-rod-stewart",
-          "name": "Rod Stewart"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1975-88",
-        "title": "Under the Diamond",
+        "id": "west-1975-97",
+        "title": "Fire Heart",
         "artist": {
           "id": "a-rod-stewart",
           "name": "Rod Stewart"

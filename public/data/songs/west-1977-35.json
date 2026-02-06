@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1977-35",
-    "title": "Never Bridge",
+    "title": "Fire Fire",
     "artist": {
-      "id": "a-wings",
-      "name": "Paul McCartney & Wings"
+      "id": "a-ewf",
+      "name": "Earth, Wind & Fire"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 35,
   "cdInfo": [
     {
-      "title": "Never Bridge",
+      "title": "Fire Fire",
       "type": "single",
-      "releaseDate": "1977-11-04"
+      "releaseDate": "1977-09-23"
     },
     {
-      "title": "Rain Stories",
+      "title": "Moon Stories",
       "type": "album",
-      "releaseDate": "1977-03-15"
+      "releaseDate": "1977-01-28"
     }
   ],
   "externalLinks": {
@@ -29,260 +29,286 @@
   },
   "artistSongs": [
     {
+      "rank": 15,
+      "song": {
+        "id": "west-1979-15",
+        "title": "Under the Dawn",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1979-50",
+        "title": "Midnight Mountain",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-1979-82",
+        "title": "Storm Way",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "west-1979-94",
+        "title": "Running Shadow",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 15,
+      "song": {
+        "id": "west-1978-15",
+        "title": "Never Dusk",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
       "rank": 38,
       "song": {
-        "id": "west-1979-38",
-        "title": "Chasing Fire",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1979-44",
-        "title": "Sweet Winter",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1979-59",
-        "title": "Moon Tears",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1979-89",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1979-92",
-        "title": "Never Shadow",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1978-25",
-        "title": "Never Ice",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1978-43",
-        "title": "Gold Rain",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1978-48",
-        "title": "Lost in Wave",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1978-54",
-        "title": "Midnight Moon",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1978-93",
-        "title": "Under the City",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1977-25",
-        "title": "Chasing Thunder",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1977-34",
-        "title": "Into the Bridge",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1977-76",
-        "title": "Wild Summer",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-1976-01",
-        "title": "Silly Love Songs",
-        "artist": {
-          "id": "a-wings",
-          "name": "Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1976-19",
-        "title": "Rain Way",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1976-20",
-        "title": "Rose Sky",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1976-27",
+        "id": "west-1978-38",
         "title": "Running Diamond",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
-      "year": 1976
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1976-36",
-        "title": "Rain Forever",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1976
+      "year": 1978
     },
     {
       "rank": 63,
       "song": {
-        "id": "west-1976-63",
-        "title": "Shining Moon",
+        "id": "west-1978-63",
+        "title": "Rose Way",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1978-79",
+        "title": "Golden Wind",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1978-84",
+        "title": "Wind Dreams",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1977-24",
+        "title": "Flame Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 37,
+      "song": {
+        "id": "west-1977-37",
+        "title": "Silver Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-1977-44",
+        "title": "Silver Tears",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1977-72",
+        "title": "Falling Fire",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1977-73",
+        "title": "Last Dawn",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1977-75",
+        "title": "Midnight Ice",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1977-85",
+        "title": "Sky Night",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1977-92",
+        "title": "Wind Moonlight",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1976-25",
+        "title": "Lost in Summer",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 68,
+      "rank": 30,
       "song": {
-        "id": "west-1976-68",
-        "title": "Golden City",
+        "id": "west-1976-30",
+        "title": "Ocean Heart",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 33,
+      "song": {
+        "id": "west-1976-33",
+        "title": "Mountain Way",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1976-41",
+        "title": "Dawn Forever",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 65,
+      "song": {
+        "id": "west-1976-65",
+        "title": "Sun Way",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
@@ -292,75 +318,88 @@
       "rank": 83,
       "song": {
         "id": "west-1976-83",
-        "title": "Storm Love",
+        "title": "Shining Sky",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 13,
+      "rank": 89,
       "song": {
-        "id": "west-1975-13",
-        "title": "Fading Mountain",
+        "id": "west-1976-89",
+        "title": "Summer Forever",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1976-96",
+        "title": "Last Thunder",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1975-61",
+        "title": "Ocean Forever",
+        "artist": {
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 37,
+      "rank": 79,
       "song": {
-        "id": "west-1975-37",
-        "title": "Wild Sun",
+        "id": "west-1975-79",
+        "title": "Rose Dreams",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 57,
+      "rank": 84,
       "song": {
-        "id": "west-1975-57",
-        "title": "Fading City",
+        "id": "west-1975-84",
+        "title": "Midnight City",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 66,
+      "rank": 85,
       "song": {
-        "id": "west-1975-66",
-        "title": "Ice Love",
+        "id": "west-1975-85",
+        "title": "Fading Thunder",
         "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1975-100",
-        "title": "Electric Light",
-        "artist": {
-          "id": "a-wings",
-          "name": "Paul McCartney & Wings"
+          "id": "a-ewf",
+          "name": "Earth, Wind & Fire"
         },
         "genre": "western"
       },

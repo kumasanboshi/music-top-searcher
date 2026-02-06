@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-2015-70",
-    "title": "Golden Wind",
+    "title": "Broken Light",
     "artist": {
-      "id": "a-billie",
-      "name": "Billie Eilish"
+      "id": "a-cardi-b",
+      "name": "Cardi B"
     },
     "genre": "western"
   },
@@ -12,12 +12,12 @@
   "rank": 70,
   "cdInfo": [
     {
-      "title": "Golden Wind",
+      "title": "Broken Light",
       "type": "single",
-      "releaseDate": "2015-08-22"
+      "releaseDate": "2015-07-24"
     },
     {
-      "title": "Wind Unplugged",
+      "title": "Rain Sessions",
       "type": "album",
       "releaseDate": "2015-01-27"
     }
@@ -29,676 +29,494 @@
   },
   "artistSongs": [
     {
-      "rank": 29,
+      "rank": 19,
       "song": {
-        "id": "west-2025-29",
-        "title": "Crystal Tears",
+        "id": "west-2019-19",
+        "title": "Into the Ice",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
-      "year": 2025
+      "year": 2019
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2019-22",
+        "title": "Under the Gold",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 26,
+      "song": {
+        "id": "west-2019-26",
+        "title": "Gold Heart",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2019
     },
     {
       "rank": 32,
       "song": {
-        "id": "west-2025-32",
-        "title": "Golden Moon",
+        "id": "west-2019-32",
+        "title": "Never Silver",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
-      "year": 2025
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2025-37",
-        "title": "Diamond Forever",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-2025-51",
-        "title": "Rain Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2025-62",
-        "title": "Last Gold",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-2025-73",
-        "title": "Wild Sky",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2025-78",
-        "title": "Rain Lights",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-2025-87",
-        "title": "Last City",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2025
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-2023-15",
-        "title": "Dancing Summer",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-2023-37",
-        "title": "Falling Wave",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2023-44",
-        "title": "Dancing City",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2023-52",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2023-53",
-        "title": "Into the Shadow",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2023-65",
-        "title": "Ice Forever",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2022-52",
-        "title": "Running Rose",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-2022-63",
-        "title": "Under the Dusk",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2022-74",
-        "title": "Wild Road",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2022-92",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-2022-95",
-        "title": "Falling Dawn",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2022-98",
-        "title": "Wild Silver",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-2022-99",
-        "title": "Into the Wind",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2022
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2021-19",
-        "title": "Under the Shadow",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-2021-24",
-        "title": "Under the Light",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2021
+      "year": 2019
     },
     {
       "rank": 57,
       "song": {
-        "id": "west-2021-57",
-        "title": "Sweet Silver",
+        "id": "west-2019-57",
+        "title": "Mountain Sky",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2019
     },
     {
-      "rank": 62,
+      "rank": 64,
       "song": {
-        "id": "west-2021-62",
-        "title": "Shining Bridge",
+        "id": "west-2019-64",
+        "title": "Rose Rain",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
-      "year": 2021
+      "year": 2019
     },
     {
       "rank": 66,
       "song": {
-        "id": "west-2021-66",
-        "title": "Sun Heart",
+        "id": "west-2019-66",
+        "title": "Flame Soul",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-2021-86",
-        "title": "Shining Dusk",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2021
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-2020-28",
-        "title": "Into the Rain",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-2020-53",
-        "title": "Star Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-2020-55",
-        "title": "Shadow Way",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-2020-62",
-        "title": "Winter Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2020-78",
-        "title": "Road Lights",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-2020-84",
-        "title": "Light Soul",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-2020-92",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2019-16",
-        "title": "Fading Moon",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 43,
+      "rank": 95,
       "song": {
-        "id": "west-2019-43",
-        "title": "Road Moonlight",
+        "id": "west-2019-95",
+        "title": "Into the Rose",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2019
     },
     {
-      "rank": 75,
+      "rank": 9,
       "song": {
-        "id": "west-2019-75",
-        "title": "Rose Love",
+        "id": "west-2018-09",
+        "title": "I Like It",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2019-83",
-        "title": "Electric Star",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2019-89",
-        "title": "Broken Crystal",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-2018-17",
-        "title": "Shadow Tears",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B, Bad Bunny & J Balvin"
         },
         "genre": "western"
       },
       "year": 2018
     },
     {
-      "rank": 24,
+      "rank": 14,
       "song": {
-        "id": "west-2017-24",
-        "title": "Sky Dreams",
+        "id": "west-2018-14",
+        "title": "Broken Road",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2018-27",
+        "title": "Rose Sky",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "west-2018-47",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "west-2018-56",
+        "title": "Storm Rain",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-2018-63",
+        "title": "Snow Fire",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-2018-74",
+        "title": "City Night",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2018-81",
+        "title": "Mountain Dreams",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2018-82",
+        "title": "Falling Rain",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2018-88",
+        "title": "Into the River",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-2017-20",
+        "title": "Running Dawn",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 36,
+      "rank": 38,
       "song": {
-        "id": "west-2017-36",
-        "title": "Dawn Forever",
+        "id": "west-2017-38",
+        "title": "Golden Diamond",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 54,
+      "rank": 49,
       "song": {
-        "id": "west-2017-54",
-        "title": "Last Wind",
+        "id": "west-2017-49",
+        "title": "Last Sun",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 95,
+      "rank": 53,
       "song": {
-        "id": "west-2017-95",
-        "title": "Running Wind",
+        "id": "west-2017-53",
+        "title": "Lost in Star",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2017
     },
     {
-      "rank": 11,
+      "rank": 75,
       "song": {
-        "id": "west-2016-11",
-        "title": "Rain Dreams",
+        "id": "west-2017-75",
+        "title": "Dancing Dusk",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2017-92",
+        "title": "Into the Summer",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2016-30",
+        "title": "Lost in Flame",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 26,
+      "rank": 31,
       "song": {
-        "id": "west-2016-26",
-        "title": "River Love",
+        "id": "west-2016-31",
+        "title": "Falling Bridge",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 44,
+      "rank": 34,
       "song": {
-        "id": "west-2016-44",
-        "title": "Sweet Fire",
+        "id": "west-2016-34",
+        "title": "Crystal Love",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 89,
+      "rank": 73,
       "song": {
-        "id": "west-2016-89",
-        "title": "Rose Heart",
+        "id": "west-2016-73",
+        "title": "Electric Sky",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 93,
+      "rank": 80,
       "song": {
-        "id": "west-2016-93",
-        "title": "Into the Rain",
+        "id": "west-2016-80",
+        "title": "Sweet Road",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 99,
+      "rank": 98,
       "song": {
-        "id": "west-2016-99",
-        "title": "Shining Light",
+        "id": "west-2016-98",
+        "title": "Lost in Gold",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2016
     },
     {
-      "rank": 25,
+      "rank": 13,
       "song": {
-        "id": "west-2015-25",
-        "title": "Lost in Summer",
+        "id": "west-2015-13",
+        "title": "Electric Star",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 79,
+      "rank": 14,
       "song": {
-        "id": "west-2015-79",
-        "title": "Golden Flame",
+        "id": "west-2015-14",
+        "title": "Moon Soul",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-2015-16",
+        "title": "Chasing Rain",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-2015-23",
+        "title": "Last Storm",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-2015-29",
+        "title": "City Forever",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 34,
+      "song": {
+        "id": "west-2015-34",
+        "title": "Crystal Night",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-2015-59",
+        "title": "City Way",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2015
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-2015-67",
+        "title": "Lost in Shadow",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
@@ -708,348 +526,530 @@
       "rank": 80,
       "song": {
         "id": "west-2015-80",
-        "title": "Crystal Soul",
+        "title": "Gold Night",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 93,
+      "rank": 97,
       "song": {
-        "id": "west-2015-93",
-        "title": "Rose Love",
+        "id": "west-2015-97",
+        "title": "Broken Ice",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2015
     },
     {
-      "rank": 99,
+      "rank": 11,
       "song": {
-        "id": "west-2015-99",
-        "title": "Midnight Moon",
+        "id": "west-2014-11",
+        "title": "Electric Thunder",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2014-13",
-        "title": "Broken Mountain",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 24,
+      "rank": 47,
       "song": {
-        "id": "west-2014-24",
-        "title": "Midnight Dusk",
+        "id": "west-2014-47",
+        "title": "Golden Rain",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 30,
+      "rank": 49,
       "song": {
-        "id": "west-2014-30",
-        "title": "Broken Snow",
+        "id": "west-2014-49",
+        "title": "Rain Moonlight",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 61,
+      "rank": 75,
       "song": {
-        "id": "west-2014-61",
-        "title": "Fire Tears",
+        "id": "west-2014-75",
+        "title": "City Fire",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 72,
+      "rank": 79,
       "song": {
-        "id": "west-2014-72",
-        "title": "Chasing Moon",
+        "id": "west-2014-79",
+        "title": "Into the Dusk",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
     },
     {
-      "rank": 74,
+      "rank": 82,
       "song": {
-        "id": "west-2014-74",
-        "title": "Into the Silver",
+        "id": "west-2014-82",
+        "title": "Shining Flame",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2014
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-2013-30",
-        "title": "Dancing Winter",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2013-40",
-        "title": "Rose Sky",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-2013-90",
-        "title": "Ocean Soul",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2013-94",
-        "title": "Golden Flame",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2013
     },
     {
       "rank": 95,
       "song": {
-        "id": "west-2013-95",
-        "title": "Shadow Sky",
+        "id": "west-2014-95",
+        "title": "Sweet Sun",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-2013-45",
+        "title": "Sweet Silver",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 99,
+      "rank": 52,
       "song": {
-        "id": "west-2013-99",
-        "title": "Electric Wave",
+        "id": "west-2013-52",
+        "title": "Electric Snow",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 100,
+      "rank": 72,
       "song": {
-        "id": "west-2013-100",
-        "title": "Running Wave",
+        "id": "west-2013-72",
+        "title": "Silver Love",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2013
     },
     {
-      "rank": 15,
+      "rank": 85,
       "song": {
-        "id": "west-2012-15",
-        "title": "Dancing Shadow",
+        "id": "west-2013-85",
+        "title": "Dawn Way",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-2013-88",
+        "title": "Thunder Fire",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2013
+    },
+    {
+      "rank": 18,
+      "song": {
+        "id": "west-2012-18",
+        "title": "Sweet City",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2012
     },
     {
-      "rank": 60,
+      "rank": 19,
       "song": {
-        "id": "west-2012-60",
-        "title": "Star Tears",
+        "id": "west-2012-19",
+        "title": "Winter Way",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2012
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-2012-65",
-        "title": "Flame Heart",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-2012-74",
-        "title": "Last Dawn",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2012-80",
-        "title": "Last City",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-2011-26",
-        "title": "Road Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2011-31",
-        "title": "Summer Moonlight",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2011-91",
-        "title": "Wild Gold",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2011-98",
-        "title": "Shadow Love",
-        "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
-        },
-        "genre": "western"
-      },
-      "year": 2011
     },
     {
       "rank": 29,
       "song": {
-        "id": "west-2010-29",
-        "title": "Broken Summer",
+        "id": "west-2012-29",
+        "title": "Sun Way",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-2012-35",
+        "title": "Running Crystal",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 43,
+      "song": {
+        "id": "west-2012-43",
+        "title": "Golden Diamond",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2012-48",
+        "title": "Wild Silver",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-2012-57",
+        "title": "Sweet Moon",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2012-95",
+        "title": "Running Shadow",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-2012-98",
+        "title": "Dancing Rose",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-2011-12",
+        "title": "Gold Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-2011-25",
+        "title": "Star Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 27,
+      "song": {
+        "id": "west-2011-27",
+        "title": "Moon Heart",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "west-2011-32",
+        "title": "Sweet Crystal",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-2011-50",
+        "title": "Rose Way",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-2011-69",
+        "title": "Flame Moonlight",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "west-2011-76",
+        "title": "Winter Soul",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2011-80",
+        "title": "Electric Light",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2011-100",
+        "title": "Falling Silver",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 22,
+      "song": {
+        "id": "west-2010-22",
+        "title": "Thunder Forever",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },
       "year": 2010
     },
     {
-      "rank": 45,
+      "rank": 32,
       "song": {
-        "id": "west-2010-45",
-        "title": "Electric Rose",
+        "id": "west-2010-32",
+        "title": "Dawn Way",
         "artist": {
-          "id": "a-billie",
-          "name": "Billie Eilish"
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-2010-36",
+        "title": "Snow Fire",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 38,
+      "song": {
+        "id": "west-2010-38",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "west-2010-82",
+        "title": "Wild Gold",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-2010-83",
+        "title": "Shadow Tears",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-2010-91",
+        "title": "Rose Rain",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-2010-93",
+        "title": "Electric Flame",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
+        },
+        "genre": "western"
+      },
+      "year": 2010
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-2010-95",
+        "title": "Never Storm",
+        "artist": {
+          "id": "a-cardi-b",
+          "name": "Cardi B"
         },
         "genre": "western"
       },

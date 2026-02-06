@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1979-68",
-    "title": "Dusk Moonlight",
+    "title": "Bridge Way",
     "artist": {
-      "id": "a-bee-gees",
-      "name": "Bee Gees"
+      "id": "a-queen",
+      "name": "Queen"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 68,
   "cdInfo": [
     {
-      "title": "Dusk Moonlight",
+      "title": "Bridge Way",
       "type": "single",
-      "releaseDate": "1979-05-17"
+      "releaseDate": "1979-04-14"
     },
     {
-      "title": "Diamond Collection",
+      "title": "The Rain Album",
       "type": "album",
-      "releaseDate": "1979-01-04"
+      "releaseDate": "1979-04-03"
     }
   ],
   "externalLinks": {
@@ -29,39 +29,65 @@
   },
   "artistSongs": [
     {
-      "rank": 8,
+      "rank": 6,
       "song": {
-        "id": "west-1979-08",
-        "title": "Too Much Heaven",
+        "id": "west-1980-06",
+        "title": "Crazy Little Thing Called Love",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1979-14",
+        "title": "Rain Sky",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 13,
+      "rank": 16,
       "song": {
-        "id": "west-1979-13",
-        "title": "Lost in Wave",
+        "id": "west-1979-16",
+        "title": "Dancing Mountain",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 29,
+      "rank": 23,
       "song": {
-        "id": "west-1979-29",
-        "title": "Bridge Forever",
+        "id": "west-1979-23",
+        "title": "Wind Dreams",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "west-1979-41",
+        "title": "Never Gold",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
@@ -71,400 +97,309 @@
       "rank": 42,
       "song": {
         "id": "west-1979-42",
-        "title": "Rain Soul",
+        "title": "Chasing Fire",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
     },
     {
-      "rank": 48,
+      "rank": 56,
       "song": {
-        "id": "west-1979-48",
-        "title": "Shining Light",
+        "id": "west-1979-56",
+        "title": "Sweet Rose",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1979
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1979-51",
-        "title": "Road Moonlight",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1979-70",
-        "title": "Fire Soul",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1979-72",
-        "title": "Midnight Dusk",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1979-79",
-        "title": "Sweet Dawn",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1979-80",
-        "title": "Light Way",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1979-98",
-        "title": "Chasing City",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1979
-    },
-    {
-      "rank": 2,
-      "song": {
-        "id": "west-1978-02",
-        "title": "Night Fever",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "west-1978-03",
-        "title": "Stayin' Alive",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 6,
-      "song": {
-        "id": "west-1978-06",
-        "title": "How Deep Is Your Love",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
     },
     {
       "rank": 84,
       "song": {
-        "id": "west-1978-84",
-        "title": "Star Dreams",
+        "id": "west-1979-84",
+        "title": "Thunder Way",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
-      "year": 1978
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1978-95",
-        "title": "Running Moon",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1978-100",
-        "title": "Fading Snow",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1978
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1977-14",
-        "title": "Ocean Sky",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1977-17",
-        "title": "Ice Heart",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 30,
-      "song": {
-        "id": "west-1977-30",
-        "title": "Running Snow",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1977-40",
-        "title": "Running Ice",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1977-42",
-        "title": "Shining Wave",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1977-53",
-        "title": "Shining Flame",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1977-60",
-        "title": "Golden Shadow",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1977-62",
-        "title": "Golden Diamond",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1977-65",
-        "title": "Dawn Way",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1977-85",
-        "title": "Chasing Dusk",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1977
+      "year": 1979
     },
     {
       "rank": 91,
       "song": {
-        "id": "west-1977-91",
-        "title": "City Rain",
+        "id": "west-1979-91",
+        "title": "Golden Gold",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1979
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1978-19",
+        "title": "Fire Way",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-1978-30",
+        "title": "Sky Lights",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 35,
+      "song": {
+        "id": "west-1978-35",
+        "title": "Electric Storm",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1978-73",
+        "title": "Silver Fire",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1978-88",
+        "title": "Gold Night",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1978
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1977-20",
+        "title": "Broken Light",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1977
     },
     {
-      "rank": 23,
+      "rank": 25,
       "song": {
-        "id": "west-1976-23",
-        "title": "Broken Dusk",
+        "id": "west-1977-25",
+        "title": "Crystal Way",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1977-64",
+        "title": "Rose Moonlight",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1977-68",
+        "title": "Bridge Love",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1977-74",
+        "title": "Sun Love",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1977-80",
+        "title": "Wave Rain",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 87,
+      "song": {
+        "id": "west-1977-87",
+        "title": "City Heart",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1977
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1976-12",
+        "title": "Dancing Ice",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 30,
+      "rank": 14,
       "song": {
-        "id": "west-1976-30",
-        "title": "Last Summer",
+        "id": "west-1976-14",
+        "title": "Sweet Sky",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 41,
+      "rank": 34,
       "song": {
-        "id": "west-1976-41",
-        "title": "Running Snow",
+        "id": "west-1976-34",
+        "title": "Chasing Road",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 53,
+      "rank": 36,
       "song": {
-        "id": "west-1976-53",
-        "title": "Star Forever",
+        "id": "west-1976-36",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 54,
+      "rank": 39,
       "song": {
-        "id": "west-1976-54",
-        "title": "Fading Rose",
+        "id": "west-1976-39",
+        "title": "Into the Rain",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 55,
+      "rank": 49,
       "song": {
-        "id": "west-1976-55",
-        "title": "Bridge Way",
+        "id": "west-1976-49",
+        "title": "Diamond Dreams",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1976-50",
+        "title": "Running Rose",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
+        },
+        "genre": "western"
+      },
+      "year": 1976
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1976-60",
+        "title": "Wild River",
+        "artist": {
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
@@ -474,114 +409,88 @@
       "rank": 84,
       "song": {
         "id": "west-1976-84",
-        "title": "Bridge Fire",
+        "title": "Silver Way",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1976
     },
     {
-      "rank": 11,
+      "rank": 98,
       "song": {
-        "id": "west-1975-11",
-        "title": "Sky Soul",
+        "id": "west-1976-98",
+        "title": "Gold Dreams",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
-      "year": 1975
+      "year": 1976
     },
     {
-      "rank": 20,
+      "rank": 23,
       "song": {
-        "id": "west-1975-20",
-        "title": "Last Ocean",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1975-21",
+        "id": "west-1975-23",
         "title": "Gold Night",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 25,
+      "rank": 74,
       "song": {
-        "id": "west-1975-25",
-        "title": "Sweet Rain",
+        "id": "west-1975-74",
+        "title": "Lost in Shadow",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 39,
+      "rank": 80,
       "song": {
-        "id": "west-1975-39",
-        "title": "Summer Fire",
+        "id": "west-1975-80",
+        "title": "Broken Winter",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 40,
+      "rank": 92,
       "song": {
-        "id": "west-1975-40",
-        "title": "Fire Way",
+        "id": "west-1975-92",
+        "title": "Star Tears",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },
       "year": 1975
     },
     {
-      "rank": 49,
+      "rank": 100,
       "song": {
-        "id": "west-1975-49",
-        "title": "Running Winter",
+        "id": "west-1975-100",
+        "title": "Wind Moonlight",
         "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
-        },
-        "genre": "western"
-      },
-      "year": 1975
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1975-51",
-        "title": "Sky Lights",
-        "artist": {
-          "id": "a-bee-gees",
-          "name": "Bee Gees"
+          "id": "a-queen",
+          "name": "Queen"
         },
         "genre": "western"
       },

@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "jpop-2014-14",
-    "title": "夜の海",
+    "title": "約束の時間",
     "artist": {
       "id": "a-back-number",
       "name": "back number"
@@ -12,14 +12,14 @@
   "rank": 14,
   "cdInfo": [
     {
-      "title": "夜の海",
+      "title": "約束の時間",
       "type": "single",
-      "releaseDate": "2014-06-27"
+      "releaseDate": "2014-01-09"
     },
     {
-      "title": "朝メモリーズ",
+      "title": "約束の旅",
       "type": "album",
-      "releaseDate": "2014-05-07"
+      "releaseDate": "2014-06-27"
     }
   ],
   "externalLinks": {
@@ -29,10 +29,10 @@
   },
   "artistSongs": [
     {
-      "rank": 14,
+      "rank": 33,
       "song": {
-        "id": "jpop-2025-14",
-        "title": "冬のリズム",
+        "id": "jpop-2025-33",
+        "title": "星の記憶",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -42,10 +42,10 @@
       "year": 2025
     },
     {
-      "rank": 20,
+      "rank": 38,
       "song": {
-        "id": "jpop-2025-20",
-        "title": "世界の海",
+        "id": "jpop-2025-38",
+        "title": "光の街",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -55,10 +55,10 @@
       "year": 2025
     },
     {
-      "rank": 53,
+      "rank": 49,
       "song": {
-        "id": "jpop-2025-53",
-        "title": "ミッドナイト夏",
+        "id": "jpop-2025-49",
+        "title": "夢の光",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -68,10 +68,10 @@
       "year": 2025
     },
     {
-      "rank": 56,
+      "rank": 60,
       "song": {
-        "id": "jpop-2025-56",
-        "title": "空物語",
+        "id": "jpop-2025-60",
+        "title": "夢の世界",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -81,10 +81,10 @@
       "year": 2025
     },
     {
-      "rank": 79,
+      "rank": 72,
       "song": {
-        "id": "jpop-2025-79",
-        "title": "虹の海",
+        "id": "jpop-2025-72",
+        "title": "虹の空",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -94,10 +94,10 @@
       "year": 2025
     },
     {
-      "rank": 85,
+      "rank": 74,
       "song": {
-        "id": "jpop-2025-85",
-        "title": "夢の波",
+        "id": "jpop-2025-74",
+        "title": "恋の海",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -107,9 +107,22 @@
       "year": 2025
     },
     {
-      "rank": 30,
+      "rank": 24,
       "song": {
-        "id": "jpop-2023-30",
+        "id": "jpop-2023-24",
+        "title": "星の朝",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2023
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-2023-32",
         "title": "街のかけら",
         "artist": {
           "id": "a-back-number",
@@ -120,10 +133,10 @@
       "year": 2023
     },
     {
-      "rank": 45,
+      "rank": 60,
       "song": {
-        "id": "jpop-2023-45",
-        "title": "星の海",
+        "id": "jpop-2023-60",
+        "title": "愛の夜",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -133,10 +146,10 @@
       "year": 2023
     },
     {
-      "rank": 61,
+      "rank": 77,
       "song": {
-        "id": "jpop-2023-61",
-        "title": "希望のかけら",
+        "id": "jpop-2023-77",
+        "title": "風の記憶",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -146,36 +159,10 @@
       "year": 2023
     },
     {
-      "rank": 64,
+      "rank": 36,
       "song": {
-        "id": "jpop-2023-64",
-        "title": "君の森",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "jpop-2023-81",
-        "title": "風の空",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2023
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "jpop-2022-21",
-        "title": "朝の海",
+        "id": "jpop-2022-36",
+        "title": "記憶の約束",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -185,10 +172,10 @@
       "year": 2022
     },
     {
-      "rank": 61,
+      "rank": 43,
       "song": {
-        "id": "jpop-2022-61",
-        "title": "最後の桜",
+        "id": "jpop-2022-43",
+        "title": "真夜中の雪",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -198,10 +185,23 @@
       "year": 2022
     },
     {
-      "rank": 16,
+      "rank": 73,
       "song": {
-        "id": "jpop-2021-16",
-        "title": "ミッドナイト夏",
+        "id": "jpop-2022-73",
+        "title": "月の記憶",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2022
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "jpop-2021-20",
+        "title": "花の約束",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -211,9 +211,9 @@
       "year": 2021
     },
     {
-      "rank": 48,
+      "rank": 52,
       "song": {
-        "id": "jpop-2021-48",
+        "id": "jpop-2021-52",
         "title": "ミッドナイト未来",
         "artist": {
           "id": "a-back-number",
@@ -224,10 +224,10 @@
       "year": 2021
     },
     {
-      "rank": 74,
+      "rank": 57,
       "song": {
-        "id": "jpop-2021-74",
-        "title": "星の街",
+        "id": "jpop-2021-57",
+        "title": "風の風",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -237,10 +237,49 @@
       "year": 2021
     },
     {
-      "rank": 17,
+      "rank": 77,
       "song": {
-        "id": "jpop-2020-17",
-        "title": "風物語",
+        "id": "jpop-2021-77",
+        "title": "星の季節",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "jpop-2021-89",
+        "title": "真夜中の雪",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "jpop-2021-100",
+        "title": "涙の街",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2021
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "jpop-2020-19",
+        "title": "君の虹",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -250,10 +289,10 @@
       "year": 2020
     },
     {
-      "rank": 40,
+      "rank": 34,
       "song": {
-        "id": "jpop-2020-40",
-        "title": "桜の道",
+        "id": "jpop-2020-34",
+        "title": "桜の記憶",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -263,10 +302,10 @@
       "year": 2020
     },
     {
-      "rank": 42,
+      "rank": 37,
       "song": {
-        "id": "jpop-2020-42",
-        "title": "未来の道",
+        "id": "jpop-2020-37",
+        "title": "月のリズム",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -276,10 +315,10 @@
       "year": 2020
     },
     {
-      "rank": 47,
+      "rank": 62,
       "song": {
-        "id": "jpop-2020-47",
-        "title": "最後の太陽",
+        "id": "jpop-2020-62",
+        "title": "愛のかけら",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -289,10 +328,10 @@
       "year": 2020
     },
     {
-      "rank": 53,
+      "rank": 70,
       "song": {
-        "id": "jpop-2020-53",
-        "title": "約束の月",
+        "id": "jpop-2020-70",
+        "title": "雨の季節",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -302,9 +341,9 @@
       "year": 2020
     },
     {
-      "rank": 68,
+      "rank": 74,
       "song": {
-        "id": "jpop-2020-68",
+        "id": "jpop-2020-74",
         "title": "虹の街",
         "artist": {
           "id": "a-back-number",
@@ -315,140 +354,205 @@
       "year": 2020
     },
     {
-      "rank": 87,
-      "song": {
-        "id": "jpop-2020-87",
-        "title": "雪ストーリー",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2020
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "jpop-2019-36",
-        "title": "時間ストーリー",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "jpop-2019-66",
-        "title": "街の花",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "jpop-2019-73",
-        "title": "桜物語",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "jpop-2019-99",
-        "title": "森のかけら",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-2018-52",
-        "title": "花ストーリー",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "jpop-2018-57",
-        "title": "空の記憶",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "jpop-2018-64",
-        "title": "朝のかけら",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "jpop-2018-92",
-        "title": "旅フォーエバー",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2018
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-2017-17",
-        "title": "世界の空",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2017
-    },
-    {
       "rank": 24,
       "song": {
-        "id": "jpop-2017-24",
-        "title": "街メロディ",
+        "id": "jpop-2019-24",
+        "title": "風の街",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 32,
+      "song": {
+        "id": "jpop-2019-32",
+        "title": "永遠の花",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 41,
+      "song": {
+        "id": "jpop-2019-41",
+        "title": "希望サンセット",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-2019-47",
+        "title": "ミッドナイト夢",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 49,
+      "song": {
+        "id": "jpop-2019-49",
+        "title": "桜の花",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "jpop-2019-68",
+        "title": "君の太陽",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "jpop-2019-71",
+        "title": "雪の記憶",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 94,
+      "song": {
+        "id": "jpop-2019-94",
+        "title": "桜の街",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "jpop-2018-29",
+        "title": "愛の歌",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 53,
+      "song": {
+        "id": "jpop-2018-53",
+        "title": "ミッドナイト影",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-2018-56",
+        "title": "波フォーエバー",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 76,
+      "song": {
+        "id": "jpop-2018-76",
+        "title": "旅の光",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "jpop-2018-78",
+        "title": "恋の道",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "jpop-2018-97",
+        "title": "太陽のリズム",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "jpop-2018-98",
+        "title": "真夜中の光",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 47,
+      "song": {
+        "id": "jpop-2017-47",
+        "title": "虹物語",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -458,10 +562,10 @@
       "year": 2017
     },
     {
-      "rank": 34,
+      "rank": 54,
       "song": {
-        "id": "jpop-2017-34",
-        "title": "約束の虹",
+        "id": "jpop-2017-54",
+        "title": "雪の街",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -471,10 +575,10 @@
       "year": 2017
     },
     {
-      "rank": 59,
+      "rank": 74,
       "song": {
-        "id": "jpop-2017-59",
-        "title": "永遠の朝",
+        "id": "jpop-2017-74",
+        "title": "雪の空",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -484,22 +588,9 @@
       "year": 2017
     },
     {
-      "rank": 66,
+      "rank": 97,
       "song": {
-        "id": "jpop-2017-66",
-        "title": "風の夜",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2017
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "jpop-2017-93",
+        "id": "jpop-2017-97",
         "title": "月の空",
         "artist": {
           "id": "a-back-number",
@@ -510,10 +601,10 @@
       "year": 2017
     },
     {
-      "rank": 23,
+      "rank": 25,
       "song": {
-        "id": "jpop-2016-23",
-        "title": "雨メロディ",
+        "id": "jpop-2016-25",
+        "title": "夢の旅",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -521,142 +612,64 @@
         "genre": "jpop"
       },
       "year": 2016
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "jpop-2016-41",
-        "title": "雪フォーエバー",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "jpop-2016-43",
-        "title": "未来のかけら",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "jpop-2016-53",
-        "title": "星フォーエバー",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-2016-78",
-        "title": "約束の光",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "jpop-2016-89",
-        "title": "ミッドナイト虹",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "jpop-2015-14",
-        "title": "永遠の夏",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "jpop-2015-18",
-        "title": "恋の約束",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "jpop-2015-20",
-        "title": "朝の街",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "jpop-2015-45",
-        "title": "ミッドナイト風",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-2015-46",
-        "title": "風のかけら",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2015
     },
     {
       "rank": 50,
       "song": {
-        "id": "jpop-2015-50",
-        "title": "波のリズム",
+        "id": "jpop-2016-50",
+        "title": "涙の雨",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 55,
+      "song": {
+        "id": "jpop-2016-55",
+        "title": "影のかけら",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 66,
+      "song": {
+        "id": "jpop-2016-66",
+        "title": "時間のリズム",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2016-82",
+        "title": "太陽の季節",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2016
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "jpop-2015-30",
+        "title": "最後の愛",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -666,10 +679,10 @@
       "year": 2015
     },
     {
-      "rank": 56,
+      "rank": 54,
       "song": {
-        "id": "jpop-2015-56",
-        "title": "真夜中の波",
+        "id": "jpop-2015-54",
+        "title": "夜の記憶",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -679,10 +692,10 @@
       "year": 2015
     },
     {
-      "rank": 63,
+      "rank": 82,
       "song": {
-        "id": "jpop-2015-63",
-        "title": "真夜中の森",
+        "id": "jpop-2015-82",
+        "title": "涙の冬",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -692,10 +705,10 @@
       "year": 2015
     },
     {
-      "rank": 64,
+      "rank": 86,
       "song": {
-        "id": "jpop-2015-64",
-        "title": "月の季節",
+        "id": "jpop-2015-86",
+        "title": "希望の街",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -705,10 +718,10 @@
       "year": 2015
     },
     {
-      "rank": 93,
+      "rank": 88,
       "song": {
-        "id": "jpop-2015-93",
-        "title": "冬のかけら",
+        "id": "jpop-2015-88",
+        "title": "夜の街",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -721,7 +734,7 @@
       "rank": 11,
       "song": {
         "id": "jpop-2014-11",
-        "title": "希望の光",
+        "title": "時間の約束",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -731,10 +744,10 @@
       "year": 2014
     },
     {
-      "rank": 28,
+      "rank": 21,
       "song": {
-        "id": "jpop-2014-28",
-        "title": "君の月",
+        "id": "jpop-2014-21",
+        "title": "青い海",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -744,9 +757,48 @@
       "year": 2014
     },
     {
-      "rank": 64,
+      "rank": 37,
       "song": {
-        "id": "jpop-2014-64",
+        "id": "jpop-2014-37",
+        "title": "涙の空",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "jpop-2014-50",
+        "title": "約束の記憶",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 56,
+      "song": {
+        "id": "jpop-2014-56",
+        "title": "虹の街",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "jpop-2014-70",
         "title": "風の海",
         "artist": {
           "id": "a-back-number",
@@ -757,9 +809,9 @@
       "year": 2014
     },
     {
-      "rank": 66,
+      "rank": 72,
       "song": {
-        "id": "jpop-2014-66",
+        "id": "jpop-2014-72",
         "title": "愛の空",
         "artist": {
           "id": "a-back-number",
@@ -770,101 +822,10 @@
       "year": 2014
     },
     {
-      "rank": 77,
+      "rank": 30,
       "song": {
-        "id": "jpop-2014-77",
-        "title": "波メロディ",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-2014-78",
-        "title": "太陽の道",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "jpop-2014-98",
-        "title": "時間の光",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "jpop-2013-17",
-        "title": "森の記憶",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "jpop-2013-37",
-        "title": "恋の季節",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "jpop-2013-44",
-        "title": "冬のかけら",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "jpop-2013-50",
-        "title": "最後の夜",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "jpop-2013-52",
-        "title": "森のリズム",
+        "id": "jpop-2013-30",
+        "title": "青い恋",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -877,7 +838,7 @@
       "rank": 54,
       "song": {
         "id": "jpop-2013-54",
-        "title": "夢の時間",
+        "title": "最後の夜",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -887,10 +848,10 @@
       "year": 2013
     },
     {
-      "rank": 78,
+      "rank": 64,
       "song": {
-        "id": "jpop-2013-78",
-        "title": "真夜中の森",
+        "id": "jpop-2013-64",
+        "title": "涙の夜",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -900,10 +861,10 @@
       "year": 2013
     },
     {
-      "rank": 79,
+      "rank": 73,
       "song": {
-        "id": "jpop-2013-79",
-        "title": "君の街",
+        "id": "jpop-2013-73",
+        "title": "光の記憶",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -913,10 +874,10 @@
       "year": 2013
     },
     {
-      "rank": 94,
+      "rank": 86,
       "song": {
-        "id": "jpop-2013-94",
-        "title": "最後の冬",
+        "id": "jpop-2013-86",
+        "title": "涙の街",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -926,10 +887,10 @@
       "year": 2013
     },
     {
-      "rank": 13,
+      "rank": 12,
       "song": {
-        "id": "jpop-2012-13",
-        "title": "波の光",
+        "id": "jpop-2012-12",
+        "title": "夢の花",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -939,10 +900,10 @@
       "year": 2012
     },
     {
-      "rank": 37,
+      "rank": 21,
       "song": {
-        "id": "jpop-2012-37",
-        "title": "約束の星",
+        "id": "jpop-2012-21",
+        "title": "星の光",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -952,10 +913,10 @@
       "year": 2012
     },
     {
-      "rank": 51,
+      "rank": 70,
       "song": {
-        "id": "jpop-2012-51",
-        "title": "夢の夜",
+        "id": "jpop-2012-70",
+        "title": "風の空",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -965,10 +926,49 @@
       "year": 2012
     },
     {
-      "rank": 87,
+      "rank": 77,
       "song": {
-        "id": "jpop-2012-87",
-        "title": "旅メロディ",
+        "id": "jpop-2012-77",
+        "title": "約束の冬",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 82,
+      "song": {
+        "id": "jpop-2012-82",
+        "title": "君の星",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2012-83",
+        "title": "夜フォーエバー",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "jpop-2012-90",
+        "title": "桜サンセット",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -981,7 +981,7 @@
       "rank": 16,
       "song": {
         "id": "jpop-2011-16",
-        "title": "夢の夢",
+        "title": "波の光",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -991,10 +991,10 @@
       "year": 2011
     },
     {
-      "rank": 17,
+      "rank": 54,
       "song": {
-        "id": "jpop-2011-17",
-        "title": "世界の空",
+        "id": "jpop-2011-54",
+        "title": "記憶メロディ",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -1002,77 +1002,38 @@
         "genre": "jpop"
       },
       "year": 2011
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "jpop-2011-83",
+        "title": "森メロディ",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "jpop-2010-31",
+        "title": "青い朝",
+        "artist": {
+          "id": "a-back-number",
+          "name": "back number"
+        },
+        "genre": "jpop"
+      },
+      "year": 2010
     },
     {
       "rank": 41,
       "song": {
-        "id": "jpop-2011-41",
-        "title": "冬物語",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-2011-48",
-        "title": "光の光",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "jpop-2011-76",
-        "title": "花物語",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "jpop-2011-95",
-        "title": "君の太陽",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "jpop-2011-100",
-        "title": "月の歌",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "jpop-2010-22",
-        "title": "希望の約束",
+        "id": "jpop-2010-41",
+        "title": "星の太陽",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -1082,10 +1043,10 @@
       "year": 2010
     },
     {
-      "rank": 36,
+      "rank": 57,
       "song": {
-        "id": "jpop-2010-36",
-        "title": "永遠の海",
+        "id": "jpop-2010-57",
+        "title": "夢の海",
         "artist": {
           "id": "a-back-number",
           "name": "back number"
@@ -1095,49 +1056,10 @@
       "year": 2010
     },
     {
-      "rank": 37,
+      "rank": 79,
       "song": {
-        "id": "jpop-2010-37",
-        "title": "希望の歌",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "jpop-2010-46",
-        "title": "街メロディ",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "jpop-2010-48",
-        "title": "太陽物語",
-        "artist": {
-          "id": "a-back-number",
-          "name": "back number"
-        },
-        "genre": "jpop"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "jpop-2010-78",
-        "title": "雨の記憶",
+        "id": "jpop-2010-79",
+        "title": "涙の時間",
         "artist": {
           "id": "a-back-number",
           "name": "back number"

@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-2013-44",
-    "title": "Lost in Fire",
+    "title": "Sun Soul",
     "artist": {
       "id": "a-ed-sheeran",
       "name": "Ed Sheeran"
@@ -12,14 +12,14 @@
   "rank": 44,
   "cdInfo": [
     {
-      "title": "Lost in Fire",
+      "title": "Sun Soul",
       "type": "single",
-      "releaseDate": "2013-05-07"
+      "releaseDate": "2013-01-05"
     },
     {
-      "title": "Shadow Unplugged",
+      "title": "Winter Unplugged",
       "type": "album",
-      "releaseDate": "2013-07-04"
+      "releaseDate": "2013-01-21"
     }
   ],
   "externalLinks": {
@@ -32,7 +32,7 @@
       "rank": 11,
       "song": {
         "id": "west-2019-11",
-        "title": "Midnight Shadow",
+        "title": "Golden Storm",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -45,7 +45,7 @@
       "rank": 13,
       "song": {
         "id": "west-2019-13",
-        "title": "Broken Winter",
+        "title": "Star Tears",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -55,35 +55,9 @@
       "year": 2019
     },
     {
-      "rank": 18,
+      "rank": 33,
       "song": {
-        "id": "west-2019-18",
-        "title": "Silver Soul",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-2019-21",
-        "title": "Sun Rain",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2019
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2019-31",
+        "id": "west-2019-33",
         "title": "Crystal Night",
         "artist": {
           "id": "a-ed-sheeran",
@@ -94,10 +68,10 @@
       "year": 2019
     },
     {
-      "rank": 34,
+      "rank": 41,
       "song": {
-        "id": "west-2019-34",
-        "title": "Shining Summer",
+        "id": "west-2019-41",
+        "title": "Dancing Rain",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -107,10 +81,10 @@
       "year": 2019
     },
     {
-      "rank": 36,
+      "rank": 48,
       "song": {
-        "id": "west-2019-36",
-        "title": "Golden Bridge",
+        "id": "west-2019-48",
+        "title": "Shining Diamond",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -120,10 +94,36 @@
       "year": 2019
     },
     {
-      "rank": 45,
+      "rank": 63,
       "song": {
-        "id": "west-2019-45",
-        "title": "Light Fire",
+        "id": "west-2019-63",
+        "title": "Shining Crystal",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2019-81",
+        "title": "Winter Dreams",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2019
+    },
+    {
+      "rank": 100,
+      "song": {
+        "id": "west-2019-100",
+        "title": "Ocean Way",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -146,10 +146,10 @@
       "year": 2018
     },
     {
-      "rank": 25,
+      "rank": 35,
       "song": {
-        "id": "west-2018-25",
-        "title": "Winter Soul",
+        "id": "west-2018-35",
+        "title": "Fading Mountain",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -159,10 +159,49 @@
       "year": 2018
     },
     {
-      "rank": 76,
+      "rank": 62,
       "song": {
-        "id": "west-2018-76",
-        "title": "Golden Shadow",
+        "id": "west-2018-62",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-2018-80",
+        "title": "Midnight Rose",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-2018-89",
+        "title": "Under the Snow",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2018
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-2018-92",
+        "title": "Golden Gold",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -185,9 +224,22 @@
       "year": 2017
     },
     {
-      "rank": 28,
+      "rank": 18,
       "song": {
-        "id": "west-2017-28",
+        "id": "west-2017-18",
+        "title": "Star Sky",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 30,
+      "song": {
+        "id": "west-2017-30",
         "title": "Never Flame",
         "artist": {
           "id": "a-ed-sheeran",
@@ -198,10 +250,10 @@
       "year": 2017
     },
     {
-      "rank": 46,
+      "rank": 36,
       "song": {
-        "id": "west-2017-46",
-        "title": "Snow Lights",
+        "id": "west-2017-36",
+        "title": "Gold Forever",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -211,10 +263,10 @@
       "year": 2017
     },
     {
-      "rank": 73,
+      "rank": 48,
       "song": {
-        "id": "west-2017-73",
-        "title": "Shining Diamond",
+        "id": "west-2017-48",
+        "title": "Sweet Star",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -224,10 +276,10 @@
       "year": 2017
     },
     {
-      "rank": 79,
+      "rank": 50,
       "song": {
-        "id": "west-2017-79",
-        "title": "Crystal Soul",
+        "id": "west-2017-50",
+        "title": "Falling Star",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -237,10 +289,10 @@
       "year": 2017
     },
     {
-      "rank": 84,
+      "rank": 56,
       "song": {
-        "id": "west-2017-84",
-        "title": "Never Dawn",
+        "id": "west-2017-56",
+        "title": "River Fire",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -250,10 +302,10 @@
       "year": 2017
     },
     {
-      "rank": 88,
+      "rank": 68,
       "song": {
-        "id": "west-2017-88",
-        "title": "Bridge Moonlight",
+        "id": "west-2017-68",
+        "title": "Shining Summer",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -263,10 +315,23 @@
       "year": 2017
     },
     {
-      "rank": 16,
+      "rank": 78,
       "song": {
-        "id": "west-2016-16",
-        "title": "Midnight Diamond",
+        "id": "west-2017-78",
+        "title": "Wind Tears",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2017
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2016-62",
+        "title": "Wave Soul",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -276,10 +341,10 @@
       "year": 2016
     },
     {
-      "rank": 30,
+      "rank": 78,
       "song": {
-        "id": "west-2016-30",
-        "title": "Summer Tears",
+        "id": "west-2016-78",
+        "title": "Midnight River",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -289,49 +354,10 @@
       "year": 2016
     },
     {
-      "rank": 51,
+      "rank": 94,
       "song": {
-        "id": "west-2016-51",
-        "title": "Sweet Ice",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-2016-61",
-        "title": "Running Sky",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2016-80",
-        "title": "Last Rain",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2016
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-2016-91",
-        "title": "Lost in Gold",
+        "id": "west-2016-94",
+        "title": "Under the Sky",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -354,10 +380,10 @@
       "year": 2015
     },
     {
-      "rank": 13,
+      "rank": 58,
       "song": {
-        "id": "west-2015-13",
-        "title": "Into the Sun",
+        "id": "west-2015-58",
+        "title": "Dawn Sky",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -367,10 +393,10 @@
       "year": 2015
     },
     {
-      "rank": 42,
+      "rank": 60,
       "song": {
-        "id": "west-2015-42",
-        "title": "Running Thunder",
+        "id": "west-2015-60",
+        "title": "Under the Moon",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -380,10 +406,10 @@
       "year": 2015
     },
     {
-      "rank": 50,
+      "rank": 75,
       "song": {
-        "id": "west-2015-50",
-        "title": "Fading Rain",
+        "id": "west-2015-75",
+        "title": "Sweet Silver",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -393,10 +419,10 @@
       "year": 2015
     },
     {
-      "rank": 54,
+      "rank": 83,
       "song": {
-        "id": "west-2015-54",
-        "title": "Dusk Love",
+        "id": "west-2015-83",
+        "title": "Golden Dusk",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -406,36 +432,10 @@
       "year": 2015
     },
     {
-      "rank": 73,
+      "rank": 93,
       "song": {
-        "id": "west-2015-73",
-        "title": "Storm Soul",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-2015-78",
-        "title": "Under the Fire",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2015
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-2015-89",
-        "title": "Sweet Storm",
+        "id": "west-2015-93",
+        "title": "Winter Forever",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -448,7 +448,7 @@
       "rank": 26,
       "song": {
         "id": "west-2014-26",
-        "title": "Into the Thunder",
+        "title": "Bridge Fire",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -461,7 +461,46 @@
       "rank": 37,
       "song": {
         "id": "west-2014-37",
-        "title": "Sky Rain",
+        "title": "Rose Moonlight",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-2014-62",
+        "title": "Silver Tears",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-2014-72",
+        "title": "Diamond Dreams",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2014
+    },
+    {
+      "rank": 81,
+      "song": {
+        "id": "west-2014-81",
+        "title": "Rain Soul",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -473,47 +512,8 @@
     {
       "rank": 39,
       "song": {
-        "id": "west-2014-39",
-        "title": "Shadow Night",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-2014-40",
-        "title": "Storm Love",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-2014-80",
-        "title": "Ocean Night",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2014
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-2013-19",
-        "title": "Wild Light",
+        "id": "west-2013-39",
+        "title": "Wave Way",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -523,49 +523,23 @@
       "year": 2013
     },
     {
-      "rank": 71,
+      "rank": 74,
       "song": {
-        "id": "west-2013-71",
-        "title": "Under the Moon",
+        "id": "west-2012-74",
+        "title": "Falling Ice",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
         },
         "genre": "western"
       },
-      "year": 2013
+      "year": 2012
     },
     {
       "rank": 93,
       "song": {
-        "id": "west-2013-93",
-        "title": "Under the Fire",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-2013-98",
-        "title": "Last Diamond",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2013
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-2012-16",
-        "title": "Diamond Forever",
+        "id": "west-2012-93",
+        "title": "Into the Road",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -573,194 +547,25 @@
         "genre": "western"
       },
       "year": 2012
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-2012-18",
-        "title": "Into the River",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-2012-23",
-        "title": "Fading Mountain",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-2012-31",
-        "title": "Broken Dusk",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-2012-38",
-        "title": "Under the Snow",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-2012-43",
-        "title": "Shining Sun",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-2012-44",
-        "title": "Falling Moon",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-2012-50",
-        "title": "Sun Sky",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-2012-94",
-        "title": "Ice Heart",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2012
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-2011-13",
-        "title": "Dancing Sky",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-2011-46",
-        "title": "Road Forever",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-2011-52",
-        "title": "Gold Moonlight",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-2011-58",
-        "title": "Fading Wind",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-2011-83",
-        "title": "Fire Moonlight",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2011
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-2011-93",
-        "title": "Golden Thunder",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2011
     },
     {
       "rank": 96,
       "song": {
-        "id": "west-2011-96",
-        "title": "Broken Bridge",
+        "id": "west-2012-96",
+        "title": "Dancing Snow",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2012
+    },
+    {
+      "rank": 44,
+      "song": {
+        "id": "west-2011-44",
+        "title": "Last Ocean",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -770,10 +575,36 @@
       "year": 2011
     },
     {
-      "rank": 30,
+      "rank": 49,
       "song": {
-        "id": "west-2010-30",
-        "title": "Electric Wind",
+        "id": "west-2011-49",
+        "title": "Under the Wave",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-2011-73",
+        "title": "Wave Fire",
+        "artist": {
+          "id": "a-ed-sheeran",
+          "name": "Ed Sheeran"
+        },
+        "genre": "western"
+      },
+      "year": 2011
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-2010-48",
+        "title": "Falling Wind",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -783,10 +614,10 @@
       "year": 2010
     },
     {
-      "rank": 31,
+      "rank": 65,
       "song": {
-        "id": "west-2010-31",
-        "title": "Road Rain",
+        "id": "west-2010-65",
+        "title": "Midnight Dusk",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -796,10 +627,10 @@
       "year": 2010
     },
     {
-      "rank": 32,
+      "rank": 76,
       "song": {
-        "id": "west-2010-32",
-        "title": "Golden Mountain",
+        "id": "west-2010-76",
+        "title": "Shining Diamond",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -809,10 +640,10 @@
       "year": 2010
     },
     {
-      "rank": 40,
+      "rank": 79,
       "song": {
-        "id": "west-2010-40",
-        "title": "Fire Love",
+        "id": "west-2010-79",
+        "title": "Wild Shadow",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"
@@ -822,49 +653,10 @@
       "year": 2010
     },
     {
-      "rank": 44,
+      "rank": 81,
       "song": {
-        "id": "west-2010-44",
-        "title": "Into the Diamond",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-2010-47",
-        "title": "Snow Lights",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-2010-70",
-        "title": "City Lights",
-        "artist": {
-          "id": "a-ed-sheeran",
-          "name": "Ed Sheeran"
-        },
-        "genre": "western"
-      },
-      "year": 2010
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-2010-85",
-        "title": "Golden Road",
+        "id": "west-2010-81",
+        "title": "Ocean Fire",
         "artist": {
           "id": "a-ed-sheeran",
           "name": "Ed Sheeran"

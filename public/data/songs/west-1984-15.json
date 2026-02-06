@@ -1,7 +1,7 @@
 {
   "song": {
     "id": "west-1984-15",
-    "title": "Ice Sky",
+    "title": "Electric Shadow",
     "artist": {
       "id": "a-lionel-richie",
       "name": "Lionel Richie"
@@ -12,14 +12,14 @@
   "rank": 15,
   "cdInfo": [
     {
-      "title": "Ice Sky",
+      "title": "Electric Shadow",
       "type": "single",
-      "releaseDate": "1984-06-19"
+      "releaseDate": "1984-07-21"
     },
     {
-      "title": "Shadow Chronicles",
+      "title": "Snow Stories",
       "type": "album",
-      "releaseDate": "1984-01-06"
+      "releaseDate": "1984-04-11"
     }
   ],
   "externalLinks": {
@@ -29,10 +29,10 @@
   },
   "artistSongs": [
     {
-      "rank": 75,
+      "rank": 43,
       "song": {
-        "id": "west-1989-75",
-        "title": "Thunder Love",
+        "id": "west-1989-43",
+        "title": "Thunder Heart",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -42,10 +42,10 @@
       "year": 1989
     },
     {
-      "rank": 78,
+      "rank": 64,
       "song": {
-        "id": "west-1989-78",
-        "title": "Dusk Soul",
+        "id": "west-1989-64",
+        "title": "Shining Ice",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -55,10 +55,10 @@
       "year": 1989
     },
     {
-      "rank": 95,
+      "rank": 66,
       "song": {
-        "id": "west-1989-95",
-        "title": "Under the Rose",
+        "id": "west-1989-66",
+        "title": "Midnight Sky",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -68,10 +68,36 @@
       "year": 1989
     },
     {
-      "rank": 14,
+      "rank": 76,
       "song": {
-        "id": "west-1988-14",
-        "title": "Diamond Heart",
+        "id": "west-1989-76",
+        "title": "Shadow Soul",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1989-86",
+        "title": "Sweet Road",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1988-40",
+        "title": "Falling Fire",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -81,10 +107,10 @@
       "year": 1988
     },
     {
-      "rank": 78,
+      "rank": 43,
       "song": {
-        "id": "west-1988-78",
-        "title": "Never Bridge",
+        "id": "west-1988-43",
+        "title": "Wind Forever",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -94,10 +120,10 @@
       "year": 1988
     },
     {
-      "rank": 81,
+      "rank": 44,
       "song": {
-        "id": "west-1988-81",
-        "title": "Midnight Fire",
+        "id": "west-1988-44",
+        "title": "Rain Sky",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -110,7 +136,7 @@
       "rank": 15,
       "song": {
         "id": "west-1987-15",
-        "title": "Chasing Thunder",
+        "title": "Dancing Moon",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -120,10 +146,10 @@
       "year": 1987
     },
     {
-      "rank": 35,
+      "rank": 19,
       "song": {
-        "id": "west-1987-35",
-        "title": "Fire Lights",
+        "id": "west-1987-19",
+        "title": "Golden Diamond",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -133,10 +159,75 @@
       "year": 1987
     },
     {
-      "rank": 69,
+      "rank": 21,
       "song": {
-        "id": "west-1987-69",
-        "title": "Never Wave",
+        "id": "west-1987-21",
+        "title": "Silver Forever",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1987-23",
+        "title": "Electric Rain",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1987-40",
+        "title": "Summer Heart",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1987-60",
+        "title": "Sweet Flame",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1987-84",
+        "title": "Chasing Star",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1987-89",
+        "title": "Sweet Light",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -159,10 +250,10 @@
       "year": 1986
     },
     {
-      "rank": 60,
+      "rank": 18,
       "song": {
-        "id": "west-1986-60",
-        "title": "Dancing Silver",
+        "id": "west-1986-18",
+        "title": "Into the Crystal",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -172,10 +263,10 @@
       "year": 1986
     },
     {
-      "rank": 62,
+      "rank": 24,
       "song": {
-        "id": "west-1986-62",
-        "title": "Light Tears",
+        "id": "west-1986-24",
+        "title": "Rose Tears",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -185,10 +276,10 @@
       "year": 1986
     },
     {
-      "rank": 70,
+      "rank": 61,
       "song": {
-        "id": "west-1986-70",
-        "title": "Ocean Fire",
+        "id": "west-1986-61",
+        "title": "Sun Heart",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -196,90 +287,38 @@
         "genre": "western"
       },
       "year": 1986
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1986-80",
-        "title": "Electric Dawn",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1986-95",
-        "title": "Falling Fire",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1985-31",
-        "title": "Wind Sky",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1985-50",
-        "title": "Into the River",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1985-53",
-        "title": "Never Dawn",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1985-68",
-        "title": "Golden Snow",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
     },
     {
       "rank": 73,
       "song": {
-        "id": "west-1985-73",
-        "title": "Storm Love",
+        "id": "west-1986-73",
+        "title": "Electric Moon",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 79,
+      "song": {
+        "id": "west-1986-79",
+        "title": "Dancing Wind",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1985-21",
+        "title": "Star Lights",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -289,10 +328,36 @@
       "year": 1985
     },
     {
-      "rank": 80,
+      "rank": 37,
       "song": {
-        "id": "west-1985-80",
-        "title": "Broken Mountain",
+        "id": "west-1985-37",
+        "title": "Broken Dusk",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1985-54",
+        "title": "Broken Road",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1985-72",
+        "title": "Golden Snow",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -305,33 +370,7 @@
       "rank": 87,
       "song": {
         "id": "west-1985-87",
-        "title": "Gold Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1985-88",
-        "title": "Last Moon",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1985-93",
-        "title": "Dancing Dusk",
+        "title": "Silver Fire",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -356,86 +395,8 @@
     {
       "rank": 16,
       "song": {
-        "id": "west-1984-16",
-        "title": "Dancing Summer",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1984-19",
-        "title": "Running Gold",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1984-33",
-        "title": "Moon Heart",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1984-50",
-        "title": "Flame Night",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1984-52",
-        "title": "Wind Heart",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1984-68",
-        "title": "Road Rain",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1983-12",
-        "title": "Winter Night",
+        "id": "west-1983-16",
+        "title": "Running Diamond",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -445,10 +406,10 @@
       "year": 1983
     },
     {
-      "rank": 45,
+      "rank": 39,
       "song": {
-        "id": "west-1983-45",
-        "title": "Golden Summer",
+        "id": "west-1983-39",
+        "title": "Running Ice",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -458,10 +419,10 @@
       "year": 1983
     },
     {
-      "rank": 50,
+      "rank": 56,
       "song": {
-        "id": "west-1983-50",
-        "title": "Wave Fire",
+        "id": "west-1983-56",
+        "title": "Golden Light",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -471,22 +432,9 @@
       "year": 1983
     },
     {
-      "rank": 51,
+      "rank": 58,
       "song": {
-        "id": "west-1983-51",
-        "title": "Sweet Sun",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1983-54",
+        "id": "west-1983-58",
         "title": "Storm Forever",
         "artist": {
           "id": "a-lionel-richie",
@@ -497,10 +445,10 @@
       "year": 1983
     },
     {
-      "rank": 72,
+      "rank": 61,
       "song": {
-        "id": "west-1983-72",
-        "title": "Broken Rose",
+        "id": "west-1983-61",
+        "title": "Winter Soul",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -510,10 +458,10 @@
       "year": 1983
     },
     {
-      "rank": 73,
+      "rank": 79,
       "song": {
-        "id": "west-1983-73",
-        "title": "Lost in Rose",
+        "id": "west-1983-79",
+        "title": "Fading Bridge",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -523,10 +471,10 @@
       "year": 1983
     },
     {
-      "rank": 81,
+      "rank": 92,
       "song": {
-        "id": "west-1983-81",
-        "title": "Never Rain",
+        "id": "west-1983-92",
+        "title": "Rose Fire",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -536,10 +484,10 @@
       "year": 1983
     },
     {
-      "rank": 27,
+      "rank": 62,
       "song": {
-        "id": "west-1982-27",
-        "title": "Wild Ice",
+        "id": "west-1982-62",
+        "title": "Dancing Light",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -549,100 +497,9 @@
       "year": 1982
     },
     {
-      "rank": 36,
+      "rank": 25,
       "song": {
-        "id": "west-1982-36",
-        "title": "Broken Crystal",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1982-45",
-        "title": "Bridge Lights",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1982-56",
-        "title": "Electric Wind",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1982-64",
-        "title": "Moon Moonlight",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1982-67",
-        "title": "Running Ice",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1982-95",
-        "title": "Thunder Dreams",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1981-22",
-        "title": "Fire Love",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1981-23",
+        "id": "west-1981-25",
         "title": "Never Rain",
         "artist": {
           "id": "a-lionel-richie",
@@ -653,10 +510,10 @@
       "year": 1981
     },
     {
-      "rank": 42,
+      "rank": 32,
       "song": {
-        "id": "west-1981-42",
-        "title": "Ocean Love",
+        "id": "west-1981-32",
+        "title": "Running Dusk",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -666,10 +523,10 @@
       "year": 1981
     },
     {
-      "rank": 68,
+      "rank": 38,
       "song": {
-        "id": "west-1981-68",
-        "title": "Broken Ice",
+        "id": "west-1981-38",
+        "title": "Running Snow",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -679,10 +536,10 @@
       "year": 1981
     },
     {
-      "rank": 87,
+      "rank": 54,
       "song": {
-        "id": "west-1981-87",
-        "title": "Ice Forever",
+        "id": "west-1981-54",
+        "title": "Dancing Ice",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -692,10 +549,10 @@
       "year": 1981
     },
     {
-      "rank": 93,
+      "rank": 55,
       "song": {
-        "id": "west-1981-93",
-        "title": "Diamond Love",
+        "id": "west-1981-55",
+        "title": "Fire Dreams",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -705,10 +562,49 @@
       "year": 1981
     },
     {
-      "rank": 14,
+      "rank": 57,
       "song": {
-        "id": "west-1980-14",
-        "title": "Sweet Thunder",
+        "id": "west-1981-57",
+        "title": "Under the River",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1981-61",
+        "title": "Flame Lights",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1981-62",
+        "title": "Chasing Dawn",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1980-12",
+        "title": "Moon Dreams",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -718,10 +614,10 @@
       "year": 1980
     },
     {
-      "rank": 24,
+      "rank": 30,
       "song": {
-        "id": "west-1980-24",
-        "title": "Last Snow",
+        "id": "west-1980-30",
+        "title": "Ice Night",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"
@@ -731,35 +627,9 @@
       "year": 1980
     },
     {
-      "rank": 42,
+      "rank": 65,
       "song": {
-        "id": "west-1980-42",
-        "title": "Fire Way",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1980-47",
-        "title": "Wave Rain",
-        "artist": {
-          "id": "a-lionel-richie",
-          "name": "Lionel Richie"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1980-59",
+        "id": "west-1980-65",
         "title": "Into the Moon",
         "artist": {
           "id": "a-lionel-richie",
@@ -770,10 +640,23 @@
       "year": 1980
     },
     {
-      "rank": 77,
+      "rank": 87,
       "song": {
-        "id": "west-1980-77",
-        "title": "Shadow Night",
+        "id": "west-1980-87",
+        "title": "Midnight City",
+        "artist": {
+          "id": "a-lionel-richie",
+          "name": "Lionel Richie"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1980-95",
+        "title": "Last Summer",
         "artist": {
           "id": "a-lionel-richie",
           "name": "Lionel Richie"

@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1983-99",
-    "title": "Falling Light",
+    "title": "Fading Rain",
     "artist": {
-      "id": "a-bon-jovi",
-      "name": "Bon Jovi"
+      "id": "a-phil-collins",
+      "name": "Phil Collins"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 99,
   "cdInfo": [
     {
-      "title": "Falling Light",
+      "title": "Fading Rain",
       "type": "single",
-      "releaseDate": "1983-04-22"
+      "releaseDate": "1983-10-18"
     },
     {
-      "title": "Rain Anthology",
+      "title": "Crystal Sessions",
       "type": "album",
-      "releaseDate": "1983-07-21"
+      "releaseDate": "1983-06-28"
     }
   ],
   "externalLinks": {
@@ -29,39 +29,65 @@
   },
   "artistSongs": [
     {
-      "rank": 12,
+      "rank": 6,
       "song": {
-        "id": "west-1989-12",
-        "title": "Fading Light",
+        "id": "west-1990-06",
+        "title": "Another Day in Paradise",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1989-16",
+        "title": "Fading Rose",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 15,
+      "rank": 24,
       "song": {
-        "id": "west-1989-15",
-        "title": "Shining Winter",
+        "id": "west-1989-24",
+        "title": "Electric Sun",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 22,
+      "rank": 35,
       "song": {
-        "id": "west-1989-22",
-        "title": "Golden Mountain",
+        "id": "west-1989-35",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1989
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1989-50",
+        "title": "Storm Night",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -70,63 +96,37 @@
     {
       "rank": 28,
       "song": {
-        "id": "west-1989-28",
-        "title": "Falling Gold",
+        "id": "west-1988-28",
+        "title": "Last Thunder",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1989
+      "year": 1988
     },
     {
-      "rank": 32,
+      "rank": 51,
       "song": {
-        "id": "west-1989-32",
-        "title": "Sky Way",
+        "id": "west-1988-51",
+        "title": "Broken Fire",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1989
+      "year": 1988
     },
     {
-      "rank": 67,
+      "rank": 52,
       "song": {
-        "id": "west-1989-67",
-        "title": "Dawn Love",
+        "id": "west-1988-52",
+        "title": "Shining Dusk",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1989-100",
-        "title": "Into the Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1988-29",
-        "title": "Storm Lights",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -136,36 +136,23 @@
       "rank": 54,
       "song": {
         "id": "west-1988-54",
-        "title": "Crystal Lights",
+        "title": "Dancing Rain",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 69,
+      "rank": 64,
       "song": {
-        "id": "west-1988-69",
-        "title": "Gold Fire",
+        "id": "west-1988-64",
+        "title": "Shining Rain",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1988-70",
-        "title": "Under the Diamond",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -175,166 +162,75 @@
       "rank": 73,
       "song": {
         "id": "west-1988-73",
-        "title": "Wild River",
+        "title": "Dancing Fire",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 83,
+      "rank": 80,
       "song": {
-        "id": "west-1988-83",
-        "title": "Rose Forever",
+        "id": "west-1988-80",
+        "title": "Silver Moonlight",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 97,
+      "rank": 84,
       "song": {
-        "id": "west-1988-97",
-        "title": "Storm Way",
+        "id": "west-1988-84",
+        "title": "Fading Star",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 4,
+      "rank": 25,
       "song": {
-        "id": "west-1987-04",
-        "title": "Livin' on a Prayer",
+        "id": "west-1987-25",
+        "title": "Dancing Wind",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1987
     },
     {
-      "rank": 18,
+      "rank": 13,
       "song": {
-        "id": "west-1987-18",
-        "title": "Shining Mountain",
+        "id": "west-1986-13",
+        "title": "Star Fire",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1987-32",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1987-61",
-        "title": "Snow Rain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1987-78",
-        "title": "Rose Way",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1987-86",
-        "title": "Dawn Heart",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1987-89",
-        "title": "Summer Dreams",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1986-49",
-        "title": "Midnight Thunder",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 91,
+      "rank": 17,
       "song": {
-        "id": "west-1986-91",
-        "title": "Into the Mountain",
+        "id": "west-1986-17",
+        "title": "Last River",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1986-98",
-        "title": "Fading Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -343,531 +239,648 @@
     {
       "rank": 19,
       "song": {
-        "id": "west-1985-19",
-        "title": "Sun Lights",
+        "id": "west-1986-19",
+        "title": "Last Snow",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1985
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1985-25",
-        "title": "Snow Soul",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 28,
-      "song": {
-        "id": "west-1985-28",
-        "title": "Running Storm",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 29,
-      "song": {
-        "id": "west-1985-29",
-        "title": "Sweet Wave",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1985-33",
-        "title": "Mountain Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1985-38",
-        "title": "Into the Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1985-42",
-        "title": "Moon Rain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1985-100",
-        "title": "Sun Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1984-34",
-        "title": "Sweet Light",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1984-72",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1984-78",
-        "title": "Last Moon",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1983-18",
-        "title": "Golden Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1983-20",
-        "title": "Running Ocean",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1983-27",
-        "title": "Falling Wave",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
+      "year": 1986
     },
     {
       "rank": 31,
       "song": {
-        "id": "west-1983-31",
-        "title": "Running Gold",
+        "id": "west-1986-31",
+        "title": "Shadow Fire",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1986
     },
     {
-      "rank": 33,
+      "rank": 51,
       "song": {
-        "id": "west-1983-33",
-        "title": "Bridge Tears",
+        "id": "west-1986-51",
+        "title": "Electric Star",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1986
     },
     {
-      "rank": 35,
+      "rank": 66,
       "song": {
-        "id": "west-1983-35",
-        "title": "Fading Rose",
+        "id": "west-1986-66",
+        "title": "Fading Road",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1983
+      "year": 1986
     },
     {
-      "rank": 61,
+      "rank": 18,
       "song": {
-        "id": "west-1983-61",
-        "title": "Silver Tears",
+        "id": "west-1985-18",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1983
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1983-62",
-        "title": "Dusk Night",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1983-80",
-        "title": "Last Mountain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1983-94",
-        "title": "Fading Sun",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1983-98",
-        "title": "Sweet City",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1982-20",
-        "title": "River Moonlight",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1982-25",
-        "title": "Shadow Forever",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1982-37",
-        "title": "Electric City",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1982-40",
-        "title": "Light Heart",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1982-49",
-        "title": "Shining Diamond",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1982-62",
-        "title": "Rain Rain",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1981-13",
-        "title": "Falling Crystal",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1981-25",
-        "title": "Sky Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1981-26",
-        "title": "Moon Heart",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1981-34",
-        "title": "Crystal Love",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1981-37",
-        "title": "Midnight Gold",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1981-81",
-        "title": "Summer Sky",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1981-89",
-        "title": "Shining Dawn",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1980-17",
-        "title": "City Way",
-        "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
-        },
-        "genre": "western"
-      },
-      "year": 1980
+      "year": 1985
     },
     {
       "rank": 30,
       "song": {
-        "id": "west-1980-30",
-        "title": "Last Ice",
+        "id": "west-1985-30",
+        "title": "Diamond Night",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1985
     },
     {
-      "rank": 38,
+      "rank": 41,
       "song": {
-        "id": "west-1980-38",
-        "title": "Last Winter",
+        "id": "west-1985-41",
+        "title": "Flame Rain",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1985
     },
     {
-      "rank": 39,
+      "rank": 51,
       "song": {
-        "id": "west-1980-39",
-        "title": "Gold Forever",
+        "id": "west-1985-51",
+        "title": "Dancing Shadow",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1980
+      "year": 1985
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1985-67",
+        "title": "Gold Way",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
     },
     {
       "rank": 68,
       "song": {
-        "id": "west-1980-68",
-        "title": "Ice Dreams",
+        "id": "west-1985-68",
+        "title": "Running Diamond",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1985-77",
+        "title": "Snow Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1985-78",
+        "title": "Sun Dreams",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1985-88",
+        "title": "Storm Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1985-89",
+        "title": "Into the Thunder",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 6,
+      "song": {
+        "id": "west-1984-06",
+        "title": "Against All Odds (Take a Look at Me Now)",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1984-19",
+        "title": "Crystal Soul",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1984-24",
+        "title": "Mountain Love",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1984-36",
+        "title": "Wild Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1984-40",
+        "title": "Into the Sun",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1984-75",
+        "title": "Light Forever",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1984-77",
+        "title": "Golden Mountain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 85,
+      "song": {
+        "id": "west-1984-85",
+        "title": "Into the Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1984-91",
+        "title": "Flame Heart",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1983-14",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1983-17",
+        "title": "Wild Crystal",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1983-23",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1983-51",
+        "title": "Under the River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1983-57",
+        "title": "Flame Night",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1983-64",
+        "title": "Diamond Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1983-88",
+        "title": "Wild Thunder",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1983-93",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1982-45",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1982-51",
+        "title": "Running Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1982-70",
+        "title": "Running Snow",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1982-83",
+        "title": "Last Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1982-95",
+        "title": "Under the Ice",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1981-12",
+        "title": "Lost in Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1981-31",
+        "title": "Moon Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1981-59",
+        "title": "Wind Forever",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1981-77",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1981-92",
+        "title": "Sky Love",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1981-99",
+        "title": "Storm Heart",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 48,
+      "song": {
+        "id": "west-1980-48",
+        "title": "Dancing Road",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 79,
+      "rank": 50,
       "song": {
-        "id": "west-1980-79",
-        "title": "Lost in Light",
+        "id": "west-1980-50",
+        "title": "Chasing Dawn",
         "artist": {
-          "id": "a-bon-jovi",
-          "name": "Bon Jovi"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 60,
+      "song": {
+        "id": "west-1980-60",
+        "title": "Last Dawn",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1980-71",
+        "title": "Midnight Sun",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1980-73",
+        "title": "Fading Moon",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1980-83",
+        "title": "Shining Wind",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 86,
+      "song": {
+        "id": "west-1980-86",
+        "title": "Dancing Diamond",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1980-96",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },

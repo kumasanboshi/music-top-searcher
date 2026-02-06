@@ -138,10 +138,10 @@
       "rank": 12,
       "song": {
         "id": "west-1994-12",
-        "title": "Diamond Moonlight",
+        "title": "Under the Rain",
         "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       }
@@ -150,10 +150,10 @@
       "rank": 13,
       "song": {
         "id": "west-1994-13",
-        "title": "Summer Dreams",
+        "title": "Snow Sky",
         "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
+          "id": "a-savage-garden",
+          "name": "Savage Garden"
         },
         "genre": "western"
       }
@@ -162,10 +162,10 @@
       "rank": 14,
       "song": {
         "id": "west-1994-14",
-        "title": "Road Rain",
+        "title": "Golden Gold",
         "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       }
@@ -174,7 +174,7 @@
       "rank": 15,
       "song": {
         "id": "west-1994-15",
-        "title": "Fire Way",
+        "title": "Flame Rain",
         "artist": {
           "id": "a-savage-garden",
           "name": "Savage Garden"
@@ -186,54 +186,6 @@
       "rank": 16,
       "song": {
         "id": "west-1994-16",
-        "title": "Last Rain",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1994-17",
-        "title": "Star Heart",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1994-18",
-        "title": "Wave Moonlight",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1994-19",
-        "title": "Star Night",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1994-20",
         "title": "Crystal Fire",
         "artist": {
           "id": "a-rkelly",
@@ -243,82 +195,10 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 17,
       "song": {
-        "id": "west-1994-21",
-        "title": "Never Diamond",
-        "artist": {
-          "id": "a-whitney",
-          "name": "Whitney Houston"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1994-22",
-        "title": "Shining Sun",
-        "artist": {
-          "id": "a-savage-garden",
-          "name": "Savage Garden"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1994-23",
-        "title": "Lost in Mountain",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 24,
-      "song": {
-        "id": "west-1994-24",
-        "title": "Electric Ice",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 25,
-      "song": {
-        "id": "west-1994-25",
-        "title": "Last Silver",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 26,
-      "song": {
-        "id": "west-1994-26",
-        "title": "Wind Tears",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 27,
-      "song": {
-        "id": "west-1994-27",
-        "title": "Gold Lights",
+        "id": "west-1994-17",
+        "title": "Wild Diamond",
         "artist": {
           "id": "a-celine",
           "name": "Celine Dion"
@@ -327,10 +207,10 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 18,
       "song": {
-        "id": "west-1994-28",
-        "title": "Summer Love",
+        "id": "west-1994-18",
+        "title": "Falling Storm",
         "artist": {
           "id": "a-bsb",
           "name": "Backstreet Boys"
@@ -339,9 +219,33 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 19,
       "song": {
-        "id": "west-1994-29",
+        "id": "west-1994-19",
+        "title": "Dancing Rose",
+        "artist": {
+          "id": "a-britney",
+          "name": "Britney Spears"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 20,
+      "song": {
+        "id": "west-1994-20",
+        "title": "River Lights",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 21,
+      "song": {
+        "id": "west-1994-21",
         "title": "Broken Star",
         "artist": {
           "id": "a-celine",
@@ -351,997 +255,13 @@
       }
     },
     {
-      "rank": 30,
-      "song": {
-        "id": "west-1994-30",
-        "title": "Rose Sky",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1994-31",
-        "title": "River Night",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1994-32",
-        "title": "Dusk Heart",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 33,
-      "song": {
-        "id": "west-1994-33",
-        "title": "Shadow Dreams",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 34,
-      "song": {
-        "id": "west-1994-34",
-        "title": "Last Wind",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 35,
-      "song": {
-        "id": "west-1994-35",
-        "title": "Dusk Tears",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1994-36",
-        "title": "Sweet Fire",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 37,
-      "song": {
-        "id": "west-1994-37",
-        "title": "Storm Fire",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 38,
-      "song": {
-        "id": "west-1994-38",
-        "title": "Running Dawn",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1994-39",
-        "title": "Sky Dreams",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1994-40",
-        "title": "Chasing Crystal",
-        "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 41,
-      "song": {
-        "id": "west-1994-41",
-        "title": "Broken Sun",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 42,
-      "song": {
-        "id": "west-1994-42",
-        "title": "Lost in Road",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 43,
-      "song": {
-        "id": "west-1994-43",
-        "title": "Into the Ice",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 44,
-      "song": {
-        "id": "west-1994-44",
-        "title": "Shining Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 45,
-      "song": {
-        "id": "west-1994-45",
-        "title": "Into the Snow",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 46,
-      "song": {
-        "id": "west-1994-46",
-        "title": "Shadow Sky",
-        "artist": {
-          "id": "a-whitney",
-          "name": "Whitney Houston"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 47,
-      "song": {
-        "id": "west-1994-47",
-        "title": "Golden Wave",
-        "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 48,
-      "song": {
-        "id": "west-1994-48",
-        "title": "Lost in Rose",
-        "artist": {
-          "id": "a-bsb",
-          "name": "Backstreet Boys"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 49,
-      "song": {
-        "id": "west-1994-49",
-        "title": "Thunder Fire",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 50,
-      "song": {
-        "id": "west-1994-50",
-        "title": "Midnight Wind",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 51,
-      "song": {
-        "id": "west-1994-51",
-        "title": "Dusk Fire",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 52,
-      "song": {
-        "id": "west-1994-52",
-        "title": "Sweet Snow",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1994-53",
-        "title": "Thunder Heart",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 54,
-      "song": {
-        "id": "west-1994-54",
-        "title": "Falling Diamond",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 55,
-      "song": {
-        "id": "west-1994-55",
-        "title": "Wild Dusk",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 56,
-      "song": {
-        "id": "west-1994-56",
-        "title": "Star Love",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 57,
-      "song": {
-        "id": "west-1994-57",
-        "title": "Fading Snow",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 58,
-      "song": {
-        "id": "west-1994-58",
-        "title": "Golden Rose",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 59,
-      "song": {
-        "id": "west-1994-59",
-        "title": "Thunder Dreams",
-        "artist": {
-          "id": "a-savage-garden",
-          "name": "Savage Garden"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1994-60",
-        "title": "Mountain Moonlight",
-        "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1994-61",
-        "title": "Rose Soul",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1994-62",
-        "title": "Sun Night",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1994-63",
-        "title": "Ice Tears",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1994-64",
-        "title": "Under the Dawn",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 65,
-      "song": {
-        "id": "west-1994-65",
-        "title": "Dancing City",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 66,
-      "song": {
-        "id": "west-1994-66",
-        "title": "Sweet Ocean",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 67,
-      "song": {
-        "id": "west-1994-67",
-        "title": "Golden Winter",
-        "artist": {
-          "id": "a-bsb",
-          "name": "Backstreet Boys"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1994-68",
-        "title": "Electric Flame",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1994-69",
-        "title": "Into the Wave",
-        "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1994-70",
-        "title": "Last Bridge",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1994-71",
-        "title": "Dancing Star",
-        "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1994-72",
-        "title": "Moon Forever",
-        "artist": {
-          "id": "a-savage-garden",
-          "name": "Savage Garden"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1994-73",
-        "title": "Moon Rain",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1994-74",
-        "title": "Falling Wind",
-        "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1994-75",
-        "title": "Falling Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1994-76",
-        "title": "Storm Heart",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1994-77",
-        "title": "Under the Mountain",
-        "artist": {
-          "id": "a-bsb",
-          "name": "Backstreet Boys"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 78,
-      "song": {
-        "id": "west-1994-78",
-        "title": "Shining Moon",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1994-79",
-        "title": "City Love",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 80,
-      "song": {
-        "id": "west-1994-80",
-        "title": "Shadow Soul",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1994-81",
-        "title": "Chasing Shadow",
-        "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 82,
-      "song": {
-        "id": "west-1994-82",
-        "title": "Wave Fire",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 83,
-      "song": {
-        "id": "west-1994-83",
-        "title": "Chasing Winter",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 84,
-      "song": {
-        "id": "west-1994-84",
-        "title": "River Heart",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 85,
-      "song": {
-        "id": "west-1994-85",
-        "title": "Silver Lights",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1994-86",
-        "title": "Moon Way",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1994-87",
-        "title": "Wild Ocean",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1994-88",
-        "title": "Fading Storm",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1994-89",
-        "title": "Lost in Wind",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1994-90",
-        "title": "Under the Ocean",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1994-91",
-        "title": "Summer Night",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1994-92",
-        "title": "Light Forever",
-        "artist": {
-          "id": "a-bsb",
-          "name": "Backstreet Boys"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1994-93",
-        "title": "Diamond Soul",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1994-94",
-        "title": "Mountain Rain",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1994-95",
-        "title": "Electric Road",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1994-96",
-        "title": "Under the Sky",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 97,
-      "song": {
-        "id": "west-1994-97",
-        "title": "Dawn Lights",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 98,
-      "song": {
-        "id": "west-1994-98",
-        "title": "Dawn Tears",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 99,
-      "song": {
-        "id": "west-1994-99",
-        "title": "Dancing Rain",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 100,
-      "song": {
-        "id": "west-1994-100",
-        "title": "Never Mountain",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 11,
-      "song": {
-        "id": "west-1994-11",
-        "title": "Wild Mountain",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1994-12",
-        "title": "Sweet Sun",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 13,
-      "song": {
-        "id": "west-1994-13",
-        "title": "Snow Lights",
-        "artist": {
-          "id": "a-savage-garden",
-          "name": "Savage Garden"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 14,
-      "song": {
-        "id": "west-1994-14",
-        "title": "Star Fire",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 15,
-      "song": {
-        "id": "west-1994-15",
-        "title": "Midnight Sky",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1994-16",
-        "title": "Shining River",
-        "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 17,
-      "song": {
-        "id": "west-1994-17",
-        "title": "Midnight Dawn",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 18,
-      "song": {
-        "id": "west-1994-18",
-        "title": "Into the Moon",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 19,
-      "song": {
-        "id": "west-1994-19",
-        "title": "Snow Way",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1994-20",
-        "title": "Gold Heart",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1994-21",
-        "title": "Wild Summer",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
       "rank": 22,
       "song": {
         "id": "west-1994-22",
-        "title": "Silver Sky",
+        "title": "Fading Ocean",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-oasis",
+          "name": "Oasis"
         },
         "genre": "western"
       }
@@ -1350,10 +270,10 @@
       "rank": 23,
       "song": {
         "id": "west-1994-23",
-        "title": "Into the Shadow",
+        "title": "Road Love",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-savage-garden",
+          "name": "Savage Garden"
         },
         "genre": "western"
       }
@@ -1362,10 +282,10 @@
       "rank": 24,
       "song": {
         "id": "west-1994-24",
-        "title": "Fading Ocean",
+        "title": "Into the Light",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-bsb",
+          "name": "Backstreet Boys"
         },
         "genre": "western"
       }
@@ -1374,7 +294,7 @@
       "rank": 25,
       "song": {
         "id": "west-1994-25",
-        "title": "Sky Moonlight",
+        "title": "Golden Moon",
         "artist": {
           "id": "a-green-day",
           "name": "Green Day"
@@ -1386,10 +306,10 @@
       "rank": 26,
       "song": {
         "id": "west-1994-26",
-        "title": "Shadow Love",
+        "title": "Running Dawn",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-britney",
+          "name": "Britney Spears"
         },
         "genre": "western"
       }
@@ -1398,6 +318,30 @@
       "rank": 27,
       "song": {
         "id": "west-1994-27",
+        "title": "Light Love",
+        "artist": {
+          "id": "a-bsb",
+          "name": "Backstreet Boys"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 28,
+      "song": {
+        "id": "west-1994-28",
+        "title": "Running Rain",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 29,
+      "song": {
+        "id": "west-1994-29",
         "title": "Winter Dreams",
         "artist": {
           "id": "a-tlc",
@@ -1407,9 +351,9 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 30,
       "song": {
-        "id": "west-1994-28",
+        "id": "west-1994-30",
         "title": "Rose Moonlight",
         "artist": {
           "id": "a-britney",
@@ -1419,10 +363,10 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 31,
       "song": {
-        "id": "west-1994-29",
-        "title": "Under the Snow",
+        "id": "west-1994-31",
+        "title": "Last Rain",
         "artist": {
           "id": "a-mariah",
           "name": "Mariah Carey"
@@ -1431,37 +375,13 @@
       }
     },
     {
-      "rank": 30,
-      "song": {
-        "id": "west-1994-30",
-        "title": "Electric Rain",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1994-31",
-        "title": "Snow Rain",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
       "rank": 32,
       "song": {
         "id": "west-1994-32",
-        "title": "Electric Mountain",
+        "title": "Fading Star",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       }
@@ -1470,7 +390,7 @@
       "rank": 33,
       "song": {
         "id": "west-1994-33",
-        "title": "Ice Soul",
+        "title": "Dawn Forever",
         "artist": {
           "id": "a-bsb",
           "name": "Backstreet Boys"
@@ -1482,10 +402,10 @@
       "rank": 34,
       "song": {
         "id": "west-1994-34",
-        "title": "Wild Silver",
+        "title": "Wind Tears",
         "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
+          "id": "a-no-doubt",
+          "name": "No Doubt"
         },
         "genre": "western"
       }
@@ -1494,7 +414,7 @@
       "rank": 35,
       "song": {
         "id": "west-1994-35",
-        "title": "Fading Thunder",
+        "title": "Lost in Fire",
         "artist": {
           "id": "a-alanis",
           "name": "Alanis Morissette"
@@ -1506,10 +426,10 @@
       "rank": 36,
       "song": {
         "id": "west-1994-36",
-        "title": "Summer Fire",
+        "title": "Lost in Flame",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-savage-garden",
+          "name": "Savage Garden"
         },
         "genre": "western"
       }
@@ -1518,10 +438,10 @@
       "rank": 37,
       "song": {
         "id": "west-1994-37",
-        "title": "Bridge Forever",
+        "title": "Never Rose",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
         },
         "genre": "western"
       }
@@ -1530,10 +450,10 @@
       "rank": 38,
       "song": {
         "id": "west-1994-38",
-        "title": "Sky Heart",
+        "title": "Fading Dawn",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-celine",
+          "name": "Celine Dion"
         },
         "genre": "western"
       }
@@ -1542,10 +462,10 @@
       "rank": 39,
       "song": {
         "id": "west-1994-39",
-        "title": "Electric Summer",
+        "title": "Lost in Ocean",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-savage-garden",
+          "name": "Savage Garden"
         },
         "genre": "western"
       }
@@ -1554,10 +474,10 @@
       "rank": 40,
       "song": {
         "id": "west-1994-40",
-        "title": "City Lights",
+        "title": "Dusk Tears",
         "artist": {
-          "id": "a-bsb",
-          "name": "Backstreet Boys"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       }
@@ -1566,10 +486,10 @@
       "rank": 41,
       "song": {
         "id": "west-1994-41",
-        "title": "Diamond Night",
+        "title": "Ice Tears",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       }
@@ -1578,10 +498,10 @@
       "rank": 42,
       "song": {
         "id": "west-1994-42",
-        "title": "Road Heart",
+        "title": "Sky Night",
         "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
+          "id": "a-bsb",
+          "name": "Backstreet Boys"
         },
         "genre": "western"
       }
@@ -1590,10 +510,10 @@
       "rank": 43,
       "song": {
         "id": "west-1994-43",
-        "title": "Under the Storm",
+        "title": "Light Night",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       }
@@ -1602,10 +522,10 @@
       "rank": 44,
       "song": {
         "id": "west-1994-44",
-        "title": "Midnight Sun",
+        "title": "Electric Flame",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-boyz-ii-men",
+          "name": "Boyz II Men"
         },
         "genre": "western"
       }
@@ -1614,7 +534,7 @@
       "rank": 45,
       "song": {
         "id": "west-1994-45",
-        "title": "Dancing Diamond",
+        "title": "Winter Rain",
         "artist": {
           "id": "a-whitney",
           "name": "Whitney Houston"
@@ -1626,10 +546,10 @@
       "rank": 46,
       "song": {
         "id": "west-1994-46",
-        "title": "Winter Tears",
+        "title": "Snow Heart",
         "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       }
@@ -1638,10 +558,10 @@
       "rank": 47,
       "song": {
         "id": "west-1994-47",
-        "title": "Sweet Ice",
+        "title": "Under the Storm",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-mariah",
+          "name": "Mariah Carey"
         },
         "genre": "western"
       }
@@ -1650,10 +570,10 @@
       "rank": 48,
       "song": {
         "id": "west-1994-48",
-        "title": "Thunder Sky",
+        "title": "Midnight Dawn",
         "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
+          "id": "a-no-doubt",
+          "name": "No Doubt"
         },
         "genre": "western"
       }
@@ -1662,10 +582,10 @@
       "rank": 49,
       "song": {
         "id": "west-1994-49",
-        "title": "Falling River",
+        "title": "Under the Mountain",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-bsb",
+          "name": "Backstreet Boys"
         },
         "genre": "western"
       }
@@ -1674,7 +594,7 @@
       "rank": 50,
       "song": {
         "id": "west-1994-50",
-        "title": "Rain Night",
+        "title": "Sun Way",
         "artist": {
           "id": "a-savage-garden",
           "name": "Savage Garden"
@@ -1686,10 +606,10 @@
       "rank": 51,
       "song": {
         "id": "west-1994-51",
-        "title": "Falling Winter",
+        "title": "Last Sun",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       }
@@ -1698,19 +618,7 @@
       "rank": 52,
       "song": {
         "id": "west-1994-52",
-        "title": "Sweet Mountain",
-        "artist": {
-          "id": "a-nirvana",
-          "name": "Nirvana"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 53,
-      "song": {
-        "id": "west-1994-53",
-        "title": "Diamond Tears",
+        "title": "Wave Fire",
         "artist": {
           "id": "a-green-day",
           "name": "Green Day"
@@ -1719,13 +627,25 @@
       }
     },
     {
+      "rank": 53,
+      "song": {
+        "id": "west-1994-53",
+        "title": "Electric Star",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 54,
       "song": {
         "id": "west-1994-54",
-        "title": "Under the Winter",
+        "title": "Sweet Dawn",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       }
@@ -1734,7 +654,7 @@
       "rank": 55,
       "song": {
         "id": "west-1994-55",
-        "title": "Fading Bridge",
+        "title": "Wild Ocean",
         "artist": {
           "id": "a-no-doubt",
           "name": "No Doubt"
@@ -1746,10 +666,10 @@
       "rank": 56,
       "song": {
         "id": "west-1994-56",
-        "title": "Star Dreams",
+        "title": "Sweet Mountain",
         "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       }
@@ -1758,10 +678,10 @@
       "rank": 57,
       "song": {
         "id": "west-1994-57",
-        "title": "Last Ice",
+        "title": "Sweet Light",
         "artist": {
-          "id": "a-bsb",
-          "name": "Backstreet Boys"
+          "id": "a-nirvana",
+          "name": "Nirvana"
         },
         "genre": "western"
       }
@@ -1770,7 +690,7 @@
       "rank": 58,
       "song": {
         "id": "west-1994-58",
-        "title": "Electric Ocean",
+        "title": "Winter Tears",
         "artist": {
           "id": "a-oasis",
           "name": "Oasis"
@@ -1782,67 +702,7 @@
       "rank": 59,
       "song": {
         "id": "west-1994-59",
-        "title": "Ocean Forever",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 60,
-      "song": {
-        "id": "west-1994-60",
-        "title": "Rain Dreams",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1994-61",
-        "title": "Dawn Way",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 62,
-      "song": {
-        "id": "west-1994-62",
-        "title": "Fading Silver",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 63,
-      "song": {
-        "id": "west-1994-63",
-        "title": "Broken Crystal",
-        "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 64,
-      "song": {
-        "id": "west-1994-64",
-        "title": "Chasing River",
+        "title": "Lost in Sun",
         "artist": {
           "id": "a-alanis",
           "name": "Alanis Morissette"
@@ -1851,13 +711,73 @@
       }
     },
     {
+      "rank": 60,
+      "song": {
+        "id": "west-1994-60",
+        "title": "Under the Sky",
+        "artist": {
+          "id": "a-green-day",
+          "name": "Green Day"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 61,
+      "song": {
+        "id": "west-1994-61",
+        "title": "Electric Road",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 62,
+      "song": {
+        "id": "west-1994-62",
+        "title": "Under the Silver",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 63,
+      "song": {
+        "id": "west-1994-63",
+        "title": "Shining Wind",
+        "artist": {
+          "id": "a-nirvana",
+          "name": "Nirvana"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1994-64",
+        "title": "Running Shadow",
+        "artist": {
+          "id": "a-whitney",
+          "name": "Whitney Houston"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 65,
       "song": {
         "id": "west-1994-65",
-        "title": "Under the Star",
+        "title": "Fire Love",
         "artist": {
-          "id": "a-mariah",
-          "name": "Mariah Carey"
+          "id": "a-green-day",
+          "name": "Green Day"
         },
         "genre": "western"
       }
@@ -1866,6 +786,102 @@
       "rank": 66,
       "song": {
         "id": "west-1994-66",
+        "title": "Shining Wave",
+        "artist": {
+          "id": "a-britney",
+          "name": "Britney Spears"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1994-67",
+        "title": "Diamond Forever",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1994-68",
+        "title": "Rain Sky",
+        "artist": {
+          "id": "a-savage-garden",
+          "name": "Savage Garden"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 69,
+      "song": {
+        "id": "west-1994-69",
+        "title": "Silver Tears",
+        "artist": {
+          "id": "a-bsb",
+          "name": "Backstreet Boys"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1994-70",
+        "title": "Bridge Soul",
+        "artist": {
+          "id": "a-rkelly",
+          "name": "R. Kelly"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 71,
+      "song": {
+        "id": "west-1994-71",
+        "title": "Fire Way",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 72,
+      "song": {
+        "id": "west-1994-72",
+        "title": "Moon Heart",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1994-73",
+        "title": "Winter Night",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 74,
+      "song": {
+        "id": "west-1994-74",
         "title": "Ocean Way",
         "artist": {
           "id": "a-nirvana",
@@ -1875,58 +891,10 @@
       }
     },
     {
-      "rank": 67,
+      "rank": 75,
       "song": {
-        "id": "west-1994-67",
-        "title": "River Dreams",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 68,
-      "song": {
-        "id": "west-1994-68",
-        "title": "Gold Night",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 69,
-      "song": {
-        "id": "west-1994-69",
-        "title": "Dancing Flame",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 70,
-      "song": {
-        "id": "west-1994-70",
-        "title": "Lost in Thunder",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 71,
-      "song": {
-        "id": "west-1994-71",
-        "title": "River Rain",
+        "id": "west-1994-75",
+        "title": "Storm Lights",
         "artist": {
           "id": "a-nirvana",
           "name": "Nirvana"
@@ -1935,10 +903,10 @@
       }
     },
     {
-      "rank": 72,
+      "rank": 76,
       "song": {
-        "id": "west-1994-72",
-        "title": "Mountain Love",
+        "id": "west-1994-76",
+        "title": "Wild Moon",
         "artist": {
           "id": "a-mariah",
           "name": "Mariah Carey"
@@ -1947,61 +915,13 @@
       }
     },
     {
-      "rank": 73,
-      "song": {
-        "id": "west-1994-73",
-        "title": "Lost in Summer",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1994-74",
-        "title": "Lost in Diamond",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1994-75",
-        "title": "Lost in City",
-        "artist": {
-          "id": "a-oasis",
-          "name": "Oasis"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 76,
-      "song": {
-        "id": "west-1994-76",
-        "title": "Broken Light",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
       "rank": 77,
       "song": {
         "id": "west-1994-77",
-        "title": "Wild Crystal",
+        "title": "Electric Crystal",
         "artist": {
-          "id": "a-green-day",
-          "name": "Green Day"
+          "id": "a-boyz-ii-men",
+          "name": "Boyz II Men"
         },
         "genre": "western"
       }
@@ -2010,10 +930,10 @@
       "rank": 78,
       "song": {
         "id": "west-1994-78",
-        "title": "Golden Sky",
+        "title": "Dusk Way",
         "artist": {
-          "id": "a-savage-garden",
-          "name": "Savage Garden"
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
         },
         "genre": "western"
       }
@@ -2022,10 +942,10 @@
       "rank": 79,
       "song": {
         "id": "west-1994-79",
-        "title": "Falling Thunder",
+        "title": "Lost in Dawn",
         "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
+          "id": "a-mariah",
+          "name": "Mariah Carey"
         },
         "genre": "western"
       }
@@ -2034,10 +954,10 @@
       "rank": 80,
       "song": {
         "id": "west-1994-80",
-        "title": "Light Lights",
+        "title": "Sweet Ice",
         "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
+          "id": "a-boyz-ii-men",
+          "name": "Boyz II Men"
         },
         "genre": "western"
       }
@@ -2046,10 +966,10 @@
       "rank": 81,
       "song": {
         "id": "west-1994-81",
-        "title": "Dusk Love",
+        "title": "Shining Dusk",
         "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
+          "id": "a-boyz-ii-men",
+          "name": "Boyz II Men"
         },
         "genre": "western"
       }
@@ -2058,7 +978,7 @@
       "rank": 82,
       "song": {
         "id": "west-1994-82",
-        "title": "Lost in Ocean",
+        "title": "Running Crystal",
         "artist": {
           "id": "a-boyz-ii-men",
           "name": "Boyz II Men"
@@ -2070,10 +990,10 @@
       "rank": 83,
       "song": {
         "id": "west-1994-83",
-        "title": "Lost in Dusk",
+        "title": "Chasing Wind",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       }
@@ -2082,10 +1002,10 @@
       "rank": 84,
       "song": {
         "id": "west-1994-84",
-        "title": "Bridge Lights",
+        "title": "Dawn Soul",
         "artist": {
-          "id": "a-bsb",
-          "name": "Backstreet Boys"
+          "id": "a-savage-garden",
+          "name": "Savage Garden"
         },
         "genre": "western"
       }
@@ -2094,10 +1014,10 @@
       "rank": 85,
       "song": {
         "id": "west-1994-85",
-        "title": "Sweet Moon",
+        "title": "Midnight River",
         "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
+          "id": "a-rkelly",
+          "name": "R. Kelly"
         },
         "genre": "western"
       }
@@ -2106,127 +1026,7 @@
       "rank": 86,
       "song": {
         "id": "west-1994-86",
-        "title": "Last Storm",
-        "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1994-87",
-        "title": "Rain Soul",
-        "artist": {
-          "id": "a-spice-girls",
-          "name": "Spice Girls"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 88,
-      "song": {
-        "id": "west-1994-88",
-        "title": "Diamond Love",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 89,
-      "song": {
-        "id": "west-1994-89",
-        "title": "Winter Love",
-        "artist": {
-          "id": "a-celine",
-          "name": "Celine Dion"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 90,
-      "song": {
-        "id": "west-1994-90",
-        "title": "Wild Rose",
-        "artist": {
-          "id": "a-britney",
-          "name": "Britney Spears"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 91,
-      "song": {
-        "id": "west-1994-91",
-        "title": "Broken Sky",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1994-92",
-        "title": "Dancing Bridge",
-        "artist": {
-          "id": "a-boyz-ii-men",
-          "name": "Boyz II Men"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1994-93",
-        "title": "Summer Sky",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1994-94",
-        "title": "Falling Star",
-        "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 95,
-      "song": {
-        "id": "west-1994-95",
-        "title": "Lost in Rain",
-        "artist": {
-          "id": "a-tlc",
-          "name": "TLC"
-        },
-        "genre": "western"
-      }
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1994-96",
-        "title": "Into the City",
+        "title": "Electric Ocean",
         "artist": {
           "id": "a-mariah",
           "name": "Mariah Carey"
@@ -2235,22 +1035,82 @@
       }
     },
     {
-      "rank": 97,
+      "rank": 87,
       "song": {
-        "id": "west-1994-97",
-        "title": "Broken Silver",
+        "id": "west-1994-87",
+        "title": "Chasing Flame",
         "artist": {
-          "id": "a-rkelly",
-          "name": "R. Kelly"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       }
     },
     {
-      "rank": 98,
+      "rank": 88,
       "song": {
-        "id": "west-1994-98",
-        "title": "Dancing Light",
+        "id": "west-1994-88",
+        "title": "Dancing Sun",
+        "artist": {
+          "id": "a-bsb",
+          "name": "Backstreet Boys"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 89,
+      "song": {
+        "id": "west-1994-89",
+        "title": "Lost in Mountain",
+        "artist": {
+          "id": "a-alanis",
+          "name": "Alanis Morissette"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 90,
+      "song": {
+        "id": "west-1994-90",
+        "title": "Never Mountain",
+        "artist": {
+          "id": "a-tlc",
+          "name": "TLC"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 91,
+      "song": {
+        "id": "west-1994-91",
+        "title": "Gold Forever",
+        "artist": {
+          "id": "a-britney",
+          "name": "Britney Spears"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1994-92",
+        "title": "Midnight Summer",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1994-93",
+        "title": "Broken Winter",
         "artist": {
           "id": "a-boyz-ii-men",
           "name": "Boyz II Men"
@@ -2259,13 +1119,73 @@
       }
     },
     {
+      "rank": 94,
+      "song": {
+        "id": "west-1994-94",
+        "title": "Fading Crystal",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1994-95",
+        "title": "Sun Heart",
+        "artist": {
+          "id": "a-savage-garden",
+          "name": "Savage Garden"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1994-96",
+        "title": "Under the Sun",
+        "artist": {
+          "id": "a-celine",
+          "name": "Celine Dion"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 97,
+      "song": {
+        "id": "west-1994-97",
+        "title": "Flame Soul",
+        "artist": {
+          "id": "a-spice-girls",
+          "name": "Spice Girls"
+        },
+        "genre": "western"
+      }
+    },
+    {
+      "rank": 98,
+      "song": {
+        "id": "west-1994-98",
+        "title": "Bridge Rain",
+        "artist": {
+          "id": "a-oasis",
+          "name": "Oasis"
+        },
+        "genre": "western"
+      }
+    },
+    {
       "rank": 99,
       "song": {
         "id": "west-1994-99",
-        "title": "Fading Star",
+        "title": "Lost in Moon",
         "artist": {
-          "id": "a-no-doubt",
-          "name": "No Doubt"
+          "id": "a-whitney",
+          "name": "Whitney Houston"
         },
         "genre": "western"
       }
@@ -2274,10 +1194,10 @@
       "rank": 100,
       "song": {
         "id": "west-1994-100",
-        "title": "Wave Lights",
+        "title": "Golden Shadow",
         "artist": {
-          "id": "a-alanis",
-          "name": "Alanis Morissette"
+          "id": "a-oasis",
+          "name": "Oasis"
         },
         "genre": "western"
       }

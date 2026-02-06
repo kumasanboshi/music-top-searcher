@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "west-1980-48",
-    "title": "Shadow Love",
+    "title": "Dancing Road",
     "artist": {
-      "id": "a-wham",
-      "name": "Wham!"
+      "id": "a-phil-collins",
+      "name": "Phil Collins"
     },
     "genre": "western"
   },
@@ -12,14 +12,14 @@
   "rank": 48,
   "cdInfo": [
     {
-      "title": "Shadow Love",
+      "title": "Dancing Road",
       "type": "single",
-      "releaseDate": "1980-04-24"
+      "releaseDate": "1980-02-22"
     },
     {
-      "title": "Best of Sky",
+      "title": "Bridge Unplugged",
       "type": "album",
-      "releaseDate": "1980-07-23"
+      "releaseDate": "1980-02-14"
     }
   ],
   "externalLinks": {
@@ -29,65 +29,65 @@
   },
   "artistSongs": [
     {
-      "rank": 31,
+      "rank": 6,
       "song": {
-        "id": "west-1989-31",
-        "title": "Last Storm",
+        "id": "west-1990-06",
+        "title": "Another Day in Paradise",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1990
+    },
+    {
+      "rank": 16,
+      "song": {
+        "id": "west-1989-16",
+        "title": "Fading Rose",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 68,
+      "rank": 24,
       "song": {
-        "id": "west-1989-68",
-        "title": "Last Dusk",
+        "id": "west-1989-24",
+        "title": "Electric Sun",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 76,
+      "rank": 35,
       "song": {
-        "id": "west-1989-76",
-        "title": "Lost in City",
+        "id": "west-1989-35",
+        "title": "Under the Flame",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1989
     },
     {
-      "rank": 85,
+      "rank": 50,
       "song": {
-        "id": "west-1989-85",
-        "title": "Into the Bridge",
+        "id": "west-1989-50",
+        "title": "Storm Night",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1989
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1989-86",
-        "title": "Diamond Love",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -97,296 +97,413 @@
       "rank": 28,
       "song": {
         "id": "west-1988-28",
-        "title": "Last Mountain",
+        "title": "Last Thunder",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 37,
+      "rank": 51,
       "song": {
-        "id": "west-1988-37",
-        "title": "River Sky",
+        "id": "west-1988-51",
+        "title": "Broken Fire",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
     },
     {
-      "rank": 40,
+      "rank": 52,
       "song": {
-        "id": "west-1988-40",
-        "title": "City Forever",
+        "id": "west-1988-52",
+        "title": "Shining Dusk",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1988
+    },
+    {
+      "rank": 54,
+      "song": {
+        "id": "west-1988-54",
+        "title": "Dancing Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1988-64",
+        "title": "Shining Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 73,
+      "song": {
+        "id": "west-1988-73",
+        "title": "Dancing Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 80,
+      "song": {
+        "id": "west-1988-80",
+        "title": "Silver Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 84,
+      "song": {
+        "id": "west-1988-84",
+        "title": "Fading Star",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1988
+    },
+    {
+      "rank": 25,
+      "song": {
+        "id": "west-1987-25",
+        "title": "Dancing Wind",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1987
+    },
+    {
+      "rank": 13,
+      "song": {
+        "id": "west-1986-13",
+        "title": "Star Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1986-17",
+        "title": "Last River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 19,
+      "song": {
+        "id": "west-1986-19",
+        "title": "Last Snow",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 31,
+      "song": {
+        "id": "west-1986-31",
+        "title": "Shadow Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1986
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1986-51",
+        "title": "Electric Star",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1986
     },
     {
       "rank": 66,
       "song": {
-        "id": "west-1988-66",
-        "title": "Thunder Rain",
+        "id": "west-1986-66",
+        "title": "Fading Road",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1988-75",
-        "title": "Never Ocean",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1988
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1987-12",
-        "title": "Snow Moonlight",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 72,
-      "song": {
-        "id": "west-1987-72",
-        "title": "Wind Love",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1987-75",
-        "title": "Fading Winter",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1987
-    },
-    {
-      "rank": 23,
-      "song": {
-        "id": "west-1986-23",
-        "title": "Fire Heart",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1986
     },
     {
-      "rank": 59,
+      "rank": 18,
       "song": {
-        "id": "west-1986-59",
-        "title": "Dusk Love",
+        "id": "west-1985-18",
+        "title": "Bridge Soul",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1985
     },
     {
-      "rank": 71,
+      "rank": 30,
       "song": {
-        "id": "west-1986-71",
-        "title": "Ocean Night",
+        "id": "west-1985-30",
+        "title": "Diamond Night",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1985
     },
     {
-      "rank": 76,
+      "rank": 41,
       "song": {
-        "id": "west-1986-76",
-        "title": "Golden Diamond",
+        "id": "west-1985-41",
+        "title": "Flame Rain",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
-      "year": 1986
+      "year": 1985
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1985-51",
+        "title": "Dancing Shadow",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 67,
+      "song": {
+        "id": "west-1985-67",
+        "title": "Gold Way",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 68,
+      "song": {
+        "id": "west-1985-68",
+        "title": "Running Diamond",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1985-77",
+        "title": "Snow Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 78,
+      "song": {
+        "id": "west-1985-78",
+        "title": "Sun Dreams",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1985-88",
+        "title": "Storm Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1985
     },
     {
       "rank": 89,
       "song": {
-        "id": "west-1986-89",
-        "title": "Shining Light",
+        "id": "west-1985-89",
+        "title": "Into the Thunder",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 93,
-      "song": {
-        "id": "west-1986-93",
-        "title": "Sweet Diamond",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1986
-    },
-    {
-      "rank": 1,
-      "song": {
-        "id": "west-1985-01",
-        "title": "Careless Whisper",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1985
     },
     {
-      "rank": 9,
+      "rank": 6,
       "song": {
-        "id": "west-1985-09",
-        "title": "Everything She Wants",
+        "id": "west-1984-06",
+        "title": "Against All Odds (Take a Look at Me Now)",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 20,
-      "song": {
-        "id": "west-1985-20",
-        "title": "Fading Dawn",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 61,
-      "song": {
-        "id": "west-1985-61",
-        "title": "Chasing Gold",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 81,
-      "song": {
-        "id": "west-1985-81",
-        "title": "Wild Rain",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 92,
-      "song": {
-        "id": "west-1985-92",
-        "title": "Gold Lights",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 94,
-      "song": {
-        "id": "west-1985-94",
-        "title": "Under the Ocean",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1985
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1984-12",
-        "title": "Sky Tears",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1984
     },
     {
-      "rank": 39,
+      "rank": 19,
       "song": {
-        "id": "west-1984-39",
-        "title": "River Forever",
+        "id": "west-1984-19",
+        "title": "Crystal Soul",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 24,
+      "song": {
+        "id": "west-1984-24",
+        "title": "Mountain Love",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 36,
+      "song": {
+        "id": "west-1984-36",
+        "title": "Wild Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 40,
+      "song": {
+        "id": "west-1984-40",
+        "title": "Into the Sun",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 75,
+      "song": {
+        "id": "west-1984-75",
+        "title": "Light Forever",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1984-77",
+        "title": "Golden Mountain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -396,309 +513,335 @@
       "rank": 85,
       "song": {
         "id": "west-1984-85",
-        "title": "Electric River",
+        "title": "Into the Wave",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1984
-    },
-    {
-      "rank": 87,
-      "song": {
-        "id": "west-1984-87",
-        "title": "Wild Sun",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 96,
-      "song": {
-        "id": "west-1984-96",
-        "title": "Sun Love",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1984
-    },
-    {
-      "rank": 16,
-      "song": {
-        "id": "west-1983-16",
-        "title": "Flame Way",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 22,
-      "song": {
-        "id": "west-1983-22",
-        "title": "River Rain",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 32,
-      "song": {
-        "id": "west-1983-32",
-        "title": "Gold Soul",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 39,
-      "song": {
-        "id": "west-1983-39",
-        "title": "Ocean Fire",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 86,
-      "song": {
-        "id": "west-1983-86",
-        "title": "Broken Light",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 12,
-      "song": {
-        "id": "west-1982-12",
-        "title": "Midnight Gold",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 21,
-      "song": {
-        "id": "west-1982-21",
-        "title": "Lost in Dusk",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 31,
-      "song": {
-        "id": "west-1982-31",
-        "title": "Crystal Sky",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 74,
-      "song": {
-        "id": "west-1982-74",
-        "title": "Running City",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 77,
-      "song": {
-        "id": "west-1982-77",
-        "title": "Chasing Rain",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1982
-    },
-    {
-      "rank": 36,
-      "song": {
-        "id": "west-1981-36",
-        "title": "Shining Crystal",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 40,
-      "song": {
-        "id": "west-1981-40",
-        "title": "Running Summer",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 73,
-      "song": {
-        "id": "west-1981-73",
-        "title": "Into the Light",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 75,
-      "song": {
-        "id": "west-1981-75",
-        "title": "Wild Sky",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1981
-    },
-    {
-      "rank": 79,
-      "song": {
-        "id": "west-1981-79",
-        "title": "Shining City",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1981
     },
     {
       "rank": 91,
       "song": {
-        "id": "west-1981-91",
-        "title": "Sky Dreams",
+        "id": "west-1984-91",
+        "title": "Flame Heart",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1984
+    },
+    {
+      "rank": 14,
+      "song": {
+        "id": "west-1983-14",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 17,
+      "song": {
+        "id": "west-1983-17",
+        "title": "Wild Crystal",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 23,
+      "song": {
+        "id": "west-1983-23",
+        "title": "Broken Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1983-51",
+        "title": "Under the River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 57,
+      "song": {
+        "id": "west-1983-57",
+        "title": "Flame Night",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 64,
+      "song": {
+        "id": "west-1983-64",
+        "title": "Diamond Moonlight",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 88,
+      "song": {
+        "id": "west-1983-88",
+        "title": "Wild Thunder",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 93,
+      "song": {
+        "id": "west-1983-93",
+        "title": "Lost in Fire",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1983-99",
+        "title": "Fading Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1983
+    },
+    {
+      "rank": 45,
+      "song": {
+        "id": "west-1982-45",
+        "title": "Electric River",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 51,
+      "song": {
+        "id": "west-1982-51",
+        "title": "Running Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 70,
+      "song": {
+        "id": "west-1982-70",
+        "title": "Running Snow",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 83,
+      "song": {
+        "id": "west-1982-83",
+        "title": "Last Wave",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 95,
+      "song": {
+        "id": "west-1982-95",
+        "title": "Under the Ice",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1982
+    },
+    {
+      "rank": 12,
+      "song": {
+        "id": "west-1981-12",
+        "title": "Lost in Rain",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1981
     },
     {
-      "rank": 25,
-      "song": {
-        "id": "west-1980-25",
-        "title": "Snow Night",
-        "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
-        },
-        "genre": "western"
-      },
-      "year": 1980
-    },
-    {
       "rank": 31,
       "song": {
-        "id": "west-1980-31",
-        "title": "Midnight Sky",
+        "id": "west-1981-31",
+        "title": "Moon Rain",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 59,
+      "song": {
+        "id": "west-1981-59",
+        "title": "Wind Forever",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 77,
+      "song": {
+        "id": "west-1981-77",
+        "title": "Lost in Thunder",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 92,
+      "song": {
+        "id": "west-1981-92",
+        "title": "Sky Love",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 99,
+      "song": {
+        "id": "west-1981-99",
+        "title": "Storm Heart",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1981
+    },
+    {
+      "rank": 50,
+      "song": {
+        "id": "west-1980-50",
+        "title": "Chasing Dawn",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 56,
+      "rank": 60,
       "song": {
-        "id": "west-1980-56",
-        "title": "Chasing Summer",
+        "id": "west-1980-60",
+        "title": "Last Dawn",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 61,
+      "rank": 71,
       "song": {
-        "id": "west-1980-61",
-        "title": "Sweet Silver",
+        "id": "west-1980-71",
+        "title": "Midnight Sun",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
       "year": 1980
     },
     {
-      "rank": 81,
+      "rank": 73,
       "song": {
-        "id": "west-1980-81",
-        "title": "Bridge Night",
+        "id": "west-1980-73",
+        "title": "Fading Moon",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -708,10 +851,10 @@
       "rank": 83,
       "song": {
         "id": "west-1980-83",
-        "title": "Silver Rain",
+        "title": "Shining Wind",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
@@ -721,10 +864,23 @@
       "rank": 86,
       "song": {
         "id": "west-1980-86",
-        "title": "Running Ocean",
+        "title": "Dancing Diamond",
         "artist": {
-          "id": "a-wham",
-          "name": "Wham!"
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
+        },
+        "genre": "western"
+      },
+      "year": 1980
+    },
+    {
+      "rank": 96,
+      "song": {
+        "id": "west-1980-96",
+        "title": "Chasing Road",
+        "artist": {
+          "id": "a-phil-collins",
+          "name": "Phil Collins"
         },
         "genre": "western"
       },
