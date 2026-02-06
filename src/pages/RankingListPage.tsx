@@ -4,6 +4,8 @@ import { fetchRankingByYear, fetchRankingsByDecade } from '../services/rankingSe
 import type { Genre, Ranking } from '../types'
 import Card from '../components/Card/Card'
 import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './RankingListPage.module.css'
 
 const GENRE_LABELS: Record<string, string> = {
@@ -20,6 +22,7 @@ function RankingListPage() {
   const [rankings, setRankings] = useState<Ranking[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
+  const breadcrumbs = useBreadcrumb()
 
   const genreLabel = GENRE_LABELS[genre ?? ''] ?? genre
   const titleSuffix = decade ?? year ?? ''
@@ -57,6 +60,7 @@ function RankingListPage() {
   if (loading) {
     return (
       <div className={styles.container}>
+        <Breadcrumb items={breadcrumbs} />
         <div className={styles.loadingWrapper}>
           <LoadingSpinner text="ランキングを読み込み中..." />
         </div>
@@ -67,6 +71,7 @@ function RankingListPage() {
   if (error) {
     return (
       <div className={styles.container}>
+        <Breadcrumb items={breadcrumbs} />
         <Card variant="outlined" className={styles.errorCard}>
           <p className={styles.error}>ランキングデータが見つかりませんでした</p>
         </Card>
@@ -78,6 +83,7 @@ function RankingListPage() {
 
   return (
     <div className={styles.container} data-genre={genre}>
+      <Breadcrumb items={breadcrumbs} />
       <div className={styles.header}>
         <h1 className={styles.title}>
           {genreLabel} TOP100

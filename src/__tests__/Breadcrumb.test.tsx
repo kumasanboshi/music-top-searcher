@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react'
 import { BrowserRouter } from 'react-router-dom'
-import Breadcrumb from './Breadcrumb'
-import type { BreadcrumbItem } from '../../types'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import type { BreadcrumbItem } from '../types'
 
 function renderWithRouter(ui: React.ReactElement) {
   return render(<BrowserRouter>{ui}</BrowserRouter>)

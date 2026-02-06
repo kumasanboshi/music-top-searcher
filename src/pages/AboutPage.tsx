@@ -1,9 +1,14 @@
 import { Link } from 'react-router-dom'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './AboutPage.module.css'
 
 function AboutPage() {
+  const breadcrumbs = useBreadcrumb()
+
   return (
     <div className={styles.container}>
+      <Breadcrumb items={breadcrumbs} />
       <h1 className={styles.title}>About</h1>
 
       <section className={styles.section}>

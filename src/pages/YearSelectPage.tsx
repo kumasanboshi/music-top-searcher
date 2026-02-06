@@ -1,5 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 import Card from '../components/Card/Card'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './YearSelectPage.module.css'
 
 const GENRE_LABELS: Record<string, string> = {
@@ -22,9 +24,11 @@ const END_YEAR = 2025
 function YearSelectPage() {
   const { genre } = useParams<{ genre: string }>()
   const genreLabel = GENRE_LABELS[genre ?? ''] ?? genre
+  const breadcrumbs = useBreadcrumb()
 
   return (
     <div className={styles.container} data-genre={genre}>
+      <Breadcrumb items={breadcrumbs} />
       <div className={styles.header}>
         <h1 className={styles.title}>{genreLabel}</h1>
         <p className={styles.subtitle}>年代または年を選択してください</p>
