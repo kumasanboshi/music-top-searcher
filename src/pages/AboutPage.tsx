@@ -17,8 +17,8 @@ function AboutPage() {
       <section className={styles.section}>
         <h2 className={styles.sectionTitle}>データについて</h2>
         <p className={styles.text}>
-          本サイトで提供しているランキングデータは、デモンストレーション用に作成された架空のサンプルデータです。
-          実際のランキングデータとは異なりますのでご了承ください。
+          本サイトで提供しているランキングデータは、独自の調査をもとに作成しています。
+          データの正確性には十分注意を払っていますが、すべての情報が最新・正確であることを保証するものではありません。
         </p>
       </section>
 
