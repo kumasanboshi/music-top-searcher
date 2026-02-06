@@ -8,6 +8,7 @@ import SongDetailPage from './pages/SongDetailPage'
 import SearchPage from './pages/SearchPage'
 import AboutPage from './pages/AboutPage'
 import PrivacyPolicyPage from './pages/PrivacyPolicyPage'
+import TermsPage from './pages/TermsPage'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path="/search" element={<SearchPage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/privacy" element={<PrivacyPolicyPage />} />
+          <Route path="/terms" element={<TermsPage />} />
         </Routes>
       </Layout>
     </BrowserRouter>
