@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import type { BreadcrumbItem } from '../../types'
 import styles from './Breadcrumb.module.css'
 
@@ -13,6 +13,8 @@ function Breadcrumb({
   className = '',
   includeJsonLd = true,
 }: BreadcrumbProps) {
+  const location = useLocation()
+
   if (items.length === 0) {
     return null
   }
@@ -21,6 +23,13 @@ function Breadcrumb({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: items.map((item, index) => {
+      const isLast = index === items.length - 1
+      const itemUrl = item.path
+        ? `${window.location.origin}${item.path}`
+        : isLast
+          ? `${window.location.origin}${location.pathname}`
+          : undefined
+
       const element: {
         '@type': string
         position: number
@@ -31,8 +40,8 @@ function Breadcrumb({
         position: index + 1,
         name: item.label,
       }
-      if (item.path) {
-        element.item = `${window.location.origin}${item.path}`
+      if (itemUrl) {
+        element.item = itemUrl
       }
       return element
     }),

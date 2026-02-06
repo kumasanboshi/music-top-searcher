@@ -207,6 +207,8 @@ describe('Breadcrumb', () => {
         position: 3,
         name: '1990年',
       })
+      // 最後の項目にも現在のパスでitem URLが設定される
+      expect(jsonLd.itemListElement[2].item).toBeDefined()
     })
   })
 
