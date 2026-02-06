@@ -133,9 +133,11 @@ describe('RankingListPage', () => {
 
   describe('年代別ランキング', () => {
     it('年代別タイトルを表示する', async () => {
-      vi.mocked(rankingService.fetchRankingsByDecade).mockResolvedValue([
-        mockRanking,
-      ])
+      vi.mocked(rankingService.fetchRankingsByDecade).mockResolvedValue({
+        year: 0,
+        genre: 'jpop',
+        entries: mockRanking.entries.map((e) => ({ ...e, year: 2024 })),
+      })
 
       renderDecadePage('jpop', '2020s')
 
@@ -145,9 +147,10 @@ describe('RankingListPage', () => {
       expect(screen.getByText('2020s')).toBeInTheDocument()
     })
 
-    it('複数年のデータを統合リストで表示する', async () => {
-      const ranking2020: Ranking = {
-        year: 2020,
+    it('総合ランキング100曲を表示する', async () => {
+      // 年代別総合ランキングは、各年のポイントを集計した上位100曲
+      const decadeRanking: Ranking = {
+        year: 0,
         genre: 'jpop',
         entries: [
           {
@@ -158,39 +161,27 @@ describe('RankingListPage', () => {
               artist: { id: 'a1', name: 'Artist A' },
               genre: 'jpop',
             },
+            year: 2020,
           },
-        ],
-      }
-      const ranking2021: Ranking = {
-        year: 2021,
-        genre: 'jpop',
-        entries: [
           {
-            rank: 1,
+            rank: 2,
             song: {
               id: 's2',
               title: 'Song B',
               artist: { id: 'a2', name: 'Artist B' },
               genre: 'jpop',
             },
+            year: 2021,
           },
-        ],
+        ] as (typeof mockRanking.entries[0] & { year: number })[],
       }
-      vi.mocked(rankingService.fetchRankingsByDecade).mockResolvedValue([
-        ranking2020,
-        ranking2021,
-      ])
+      vi.mocked(rankingService.fetchRankingsByDecade).mockResolvedValue(
+        decadeRanking,
+      )
 
       renderDecadePage('jpop', '2020s')
 
       await screen.findByText('Song A')
-
-      // 年見出し（h2）が表示されないことを検証
-      const headings = screen.getAllByRole('heading')
-      const yearHeadings = headings.filter(
-        (h) => h.textContent === '2020' || h.textContent === '2021',
-      )
-      expect(yearHeadings).toHaveLength(0)
 
       // 各エントリに年情報が表示されることを検証
       expect(screen.getByText('Song A')).toBeInTheDocument()
@@ -200,7 +191,7 @@ describe('RankingListPage', () => {
     })
 
     it('データがない場合メッセージを表示する', async () => {
-      vi.mocked(rankingService.fetchRankingsByDecade).mockResolvedValue([])
+      vi.mocked(rankingService.fetchRankingsByDecade).mockResolvedValue(null)
 
       renderDecadePage('jpop', '2020s')
 

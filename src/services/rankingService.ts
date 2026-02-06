@@ -1,6 +1,10 @@
-import type { Genre, Ranking } from '../types'
+import type { Genre, Ranking, RankingEntry } from '../types'
 
 const MAX_RANKING_ENTRIES = 100
+
+interface DecadeRankingEntry extends RankingEntry {
+  year: number
+}
 
 export async function fetchRankingByYear(
   year: number,
@@ -39,10 +43,59 @@ const DECADE_YEARS: Record<string, number[]> = {
 export async function fetchRankingsByDecade(
   decade: string,
   genre: Genre,
-): Promise<Ranking[]> {
+): Promise<Ranking | null> {
   const years = DECADE_YEARS[decade] ?? []
   const results = await Promise.all(
     years.map((year) => fetchRankingByYear(year, genre)),
   )
-  return results.filter((r): r is Ranking => r !== null)
+  const rankings = results.filter((r): r is Ranking => r !== null)
+
+  if (rankings.length === 0) return null
+
+  // 各年のエントリにポイントを付与して集約
+  // ポイント: 1位=100pt, 2位=99pt, ..., 100位=1pt
+  const allEntries: (DecadeRankingEntry & { points: number })[] = rankings.flatMap((ranking) =>
+    ranking.entries.map((entry) => ({
+      ...entry,
+      year: ranking.year,
+      points: MAX_RANKING_ENTRIES + 1 - entry.rank,
+    }))
+  )
+
+  // 曲ごとにポイントを集計（同じ曲が複数年に登場する場合）
+  const songMap = new Map<string, { entry: DecadeRankingEntry; totalPoints: number }>()
+
+  for (const entry of allEntries) {
+    const songId = entry.song.id
+    const existing = songMap.get(songId)
+
+    if (existing) {
+      existing.totalPoints += entry.points
+      // より良い順位（より高いポイント）の年を保持
+      if (entry.points > (MAX_RANKING_ENTRIES + 1 - existing.entry.rank)) {
+        existing.entry = { ...entry }
+      }
+    } else {
+      songMap.set(songId, {
+        entry: { rank: entry.rank, song: entry.song, year: entry.year },
+        totalPoints: entry.points,
+      })
+    }
+  }
+
+  // ポイント順でソートして上位100曲を取得
+  const sortedEntries = Array.from(songMap.values())
+    .sort((a, b) => b.totalPoints - a.totalPoints)
+    .slice(0, MAX_RANKING_ENTRIES)
+    .map((item, index) => ({
+      rank: index + 1,
+      song: item.entry.song,
+      year: item.entry.year,
+    }))
+
+  return {
+    year: 0, // 年代別なのでyearは0
+    genre: rankings[0].genre,
+    entries: sortedEntries,
+  }
 }
