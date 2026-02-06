@@ -184,6 +184,52 @@ describe('validateRanking', () => {
     })
   })
 
+  describe('エントリ数の上限チェック', () => {
+    const createMockEntries = (count: number) =>
+      Array.from({ length: count }, (_, i) => ({
+        rank: i + 1,
+        song: {
+          id: `s${i + 1}`,
+          title: `Song ${i + 1}`,
+          artist: { id: `a${i + 1}`, name: `Artist ${i + 1}` },
+          genre: 'jpop' as const,
+        },
+      }))
+
+    it('エントリ数が100件ちょうどの場合は有効', () => {
+      const data: Ranking = {
+        year: 2024,
+        genre: 'jpop',
+        entries: createMockEntries(100),
+      }
+      const result = validateRanking(data)
+      expect(result.valid).toBe(true)
+      expect(result.errors).toHaveLength(0)
+    })
+
+    it('エントリ数が100件を超える場合はエラー', () => {
+      const data: Ranking = {
+        year: 2024,
+        genre: 'jpop',
+        entries: createMockEntries(101),
+      }
+      const result = validateRanking(data)
+      expect(result.valid).toBe(false)
+      expect(result.errors).toContain('entries exceeds maximum of 100')
+    })
+
+    it('エントリ数が0件の場合は有効', () => {
+      const data: Ranking = {
+        year: 2024,
+        genre: 'jpop',
+        entries: [],
+      }
+      const result = validateRanking(data)
+      expect(result.valid).toBe(true)
+      expect(result.errors).toHaveLength(0)
+    })
+  })
+
   describe('サンプルデータの検証', () => {
     const dataDir = resolve(__dirname, '../../public/data/rankings')
 

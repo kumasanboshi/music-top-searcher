@@ -6,6 +6,7 @@ export interface ValidationResult {
 }
 
 const VALID_GENRES = ['jpop', 'western']
+const MAX_RANKING_ENTRIES = 100
 
 export function validateRanking(data: Ranking): ValidationResult {
   const errors: string[] = []
@@ -23,6 +24,11 @@ export function validateRanking(data: Ranking): ValidationResult {
   if (data.entries == null) {
     errors.push('entries is required')
     return { valid: false, errors }
+  }
+
+  // エントリ数の上限チェック
+  if (data.entries.length > MAX_RANKING_ENTRIES) {
+    errors.push(`entries exceeds maximum of ${MAX_RANKING_ENTRIES}`)
   }
 
   // エントリの必須フィールド検証

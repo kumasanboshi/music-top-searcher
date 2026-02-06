@@ -1,5 +1,7 @@
 import type { Genre, Ranking } from '../types'
 
+const MAX_RANKING_ENTRIES = 100
+
 export async function fetchRankingByYear(
   year: number,
   genre: Genre,
@@ -7,7 +9,19 @@ export async function fetchRankingByYear(
   try {
     const response = await fetch(`/data/rankings/${year}-${genre}.json`)
     if (!response.ok) return null
-    return (await response.json()) as Ranking
+    const data = (await response.json()) as Ranking
+
+    // 100件制限（防御的実装）
+    if (data.entries.length > MAX_RANKING_ENTRIES) {
+      return {
+        ...data,
+        entries: data.entries
+          .sort((a, b) => a.rank - b.rank)
+          .slice(0, MAX_RANKING_ENTRIES),
+      }
+    }
+
+    return data
   } catch {
     return null
   }
