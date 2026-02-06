@@ -5,6 +5,8 @@ import { useOnlineStatus } from '../hooks/useOnlineStatus'
 import type { SongDetail } from '../types'
 import Card from '../components/Card/Card'
 import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './SongDetailPage.module.css'
 
 function SongDetailPage() {
@@ -13,6 +15,7 @@ function SongDetailPage() {
   const [detail, setDetail] = useState<SongDetail | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
+  const breadcrumbs = useBreadcrumb({ songTitle: detail?.song.title })
 
   useEffect(() => {
     let cancelled = false
@@ -38,6 +41,7 @@ function SongDetailPage() {
   if (loading) {
     return (
       <div className={styles.container}>
+        <Breadcrumb items={breadcrumbs} />
         <div className={styles.loadingWrapper}>
           <LoadingSpinner text="曲情報を読み込み中..." />
         </div>
@@ -48,6 +52,7 @@ function SongDetailPage() {
   if (error || !detail) {
     return (
       <div className={styles.container}>
+        <Breadcrumb items={breadcrumbs} />
         <Card variant="outlined" className={styles.errorCard}>
           <p className={styles.error}>曲の詳細データが見つかりませんでした</p>
         </Card>
@@ -59,6 +64,7 @@ function SongDetailPage() {
 
   return (
     <div className={styles.container} data-genre={genre}>
+      <Breadcrumb items={breadcrumbs} />
       <div className={styles.hero}>
         <h1 className={styles.songTitle}>{song.title}</h1>
         <p className={styles.artistName}>{song.artist.name}</p>

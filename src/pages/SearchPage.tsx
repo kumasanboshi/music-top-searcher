@@ -4,6 +4,8 @@ import { fetchAllSongs, searchSongs } from '../services/searchService'
 import type { RankingEntry } from '../types'
 import Card from '../components/Card/Card'
 import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './SearchPage.module.css'
 
 function SearchPage() {
@@ -12,6 +14,7 @@ function SearchPage() {
   const [query, setQuery] = useState('')
   const [debouncedQuery, setDebouncedQuery] = useState('')
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const breadcrumbs = useBreadcrumb()
 
   useEffect(() => {
     let cancelled = false
@@ -58,6 +61,7 @@ function SearchPage() {
   if (loading) {
     return (
       <div className={styles.container}>
+        <Breadcrumb items={breadcrumbs} />
         <div className={styles.loadingWrapper}>
           <LoadingSpinner text="曲データを読み込み中..." />
         </div>
@@ -67,6 +71,7 @@ function SearchPage() {
 
   return (
     <div className={styles.container}>
+      <Breadcrumb items={breadcrumbs} />
       <div className={styles.header}>
         <h1 className={styles.title}>曲を検索</h1>
         <p className={styles.subtitle}>曲名やアーティスト名で検索できます</p>

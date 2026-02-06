@@ -1,9 +1,14 @@
 import { Link } from 'react-router-dom'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './TermsPage.module.css'
 
 function TermsPage() {
+  const breadcrumbs = useBreadcrumb()
+
   return (
     <div className={styles.container}>
+      <Breadcrumb items={breadcrumbs} />
       <h1 className={styles.title}>利用規約</h1>
 
       <p className={styles.intro}>

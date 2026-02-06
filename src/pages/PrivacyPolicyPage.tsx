@@ -1,9 +1,14 @@
 import { Link } from 'react-router-dom'
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './PrivacyPolicyPage.module.css'
 
 function PrivacyPolicyPage() {
+  const breadcrumbs = useBreadcrumb()
+
   return (
     <div className={styles.container}>
+      <Breadcrumb items={breadcrumbs} />
       <h1 className={styles.title}>プライバシーポリシー</h1>
 
       <p className={styles.intro}>

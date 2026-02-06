@@ -1,5 +1,10 @@
 export type Genre = 'jpop' | 'western'
 
+export interface BreadcrumbItem {
+  label: string
+  path?: string
+}
+
 export interface ExternalLinks {
   amazonMusic?: string
   amazonCD?: string
