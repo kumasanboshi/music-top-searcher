@@ -32,10 +32,10 @@ function RankingListPage() {
       setError(false)
 
       if (decade) {
-        const results = await fetchRankingsByDecade(decade, genre as Genre)
+        const result = await fetchRankingsByDecade(decade, genre as Genre)
         if (!cancelled) {
-          setRankings(results)
-          setError(results.length === 0)
+          setRankings(result ? [result] : [])
+          setError(!result)
           setLoading(false)
         }
       } else if (year) {
@@ -74,11 +74,7 @@ function RankingListPage() {
     )
   }
 
-  const entries = decade
-    ? rankings.flatMap((ranking) =>
-        ranking.entries.map((entry) => ({ ...entry, year: ranking.year }))
-      )
-    : rankings.flatMap((ranking) => ranking.entries)
+  const entries = rankings.flatMap((ranking) => ranking.entries)
 
   return (
     <div className={styles.container} data-genre={genre}>

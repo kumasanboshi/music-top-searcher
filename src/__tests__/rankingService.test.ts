@@ -158,7 +158,7 @@ describe('rankingService', () => {
       }
     })
 
-    it('複数年のデータを結合して返す', async () => {
+    it('複数年のデータを集約して総合ランキング100曲を返す', async () => {
       const ranking2020: Ranking = {
         year: 2020,
         genre: 'jpop',
@@ -169,6 +169,15 @@ describe('rankingService', () => {
               id: 's1',
               title: 'Song A',
               artist: { id: 'a1', name: 'Artist A' },
+              genre: 'jpop',
+            },
+          },
+          {
+            rank: 2,
+            song: {
+              id: 's3',
+              title: 'Song C',
+              artist: { id: 'a3', name: 'Artist C' },
               genre: 'jpop',
             },
           },
@@ -206,19 +215,69 @@ describe('rankingService', () => {
 
       const result = await fetchRankingsByDecade('2020s', 'jpop')
 
-      expect(result).toHaveLength(2)
-      expect(result[0]).toEqual(ranking2020)
-      expect(result[1]).toEqual(ranking2021)
+      expect(result).not.toBeNull()
+      // 各エントリにyearが含まれる
+      expect(result!.entries[0]).toHaveProperty('year')
+      // ポイント順でソート（1位=100pt, 2位=99pt）
+      // Song A: 100pt, Song B: 100pt, Song C: 99pt
+      expect(result!.entries).toHaveLength(3)
+      expect(result!.entries[0].rank).toBe(1)
+      expect(result!.entries[1].rank).toBe(2)
+      expect(result!.entries[2].rank).toBe(3)
     })
 
-    it('データがない年はスキップする', async () => {
+    it('データがない年代はnullを返す', async () => {
       vi.spyOn(globalThis, 'fetch').mockResolvedValue(
         new Response('Not Found', { status: 404 }),
       )
 
       const result = await fetchRankingsByDecade('1980s', 'jpop')
 
-      expect(result).toHaveLength(0)
+      expect(result).toBeNull()
+    })
+
+    it('年代別総合ランキングは100曲に制限される', async () => {
+      // 3年分のデータ（各年100曲）を作成
+      const createYearRanking = (year: number): Ranking => ({
+        year,
+        genre: 'jpop',
+        entries: Array.from({ length: 100 }, (_, i) => ({
+          rank: i + 1,
+          song: {
+            id: `s-${year}-${i + 1}`,
+            title: `Song ${year}-${i + 1}`,
+            artist: { id: `a-${i + 1}`, name: `Artist ${i + 1}` },
+            genre: 'jpop' as const,
+          },
+        })),
+      })
+
+      vi.spyOn(globalThis, 'fetch').mockImplementation((url) => {
+        if (url === '/data/rankings/2020-jpop.json') {
+          return Promise.resolve(
+            new Response(JSON.stringify(createYearRanking(2020)), { status: 200 }),
+          )
+        }
+        if (url === '/data/rankings/2021-jpop.json') {
+          return Promise.resolve(
+            new Response(JSON.stringify(createYearRanking(2021)), { status: 200 }),
+          )
+        }
+        if (url === '/data/rankings/2022-jpop.json') {
+          return Promise.resolve(
+            new Response(JSON.stringify(createYearRanking(2022)), { status: 200 }),
+          )
+        }
+        return Promise.resolve(new Response('Not Found', { status: 404 }))
+      })
+
+      const result = await fetchRankingsByDecade('2020s', 'jpop')
+
+      expect(result).not.toBeNull()
+      expect(result!.entries).toHaveLength(100)
+      // 新しい順位が1から100まで振られている
+      expect(result!.entries[0].rank).toBe(1)
+      expect(result!.entries[99].rank).toBe(100)
     })
   })
 })
