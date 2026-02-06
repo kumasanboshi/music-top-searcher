@@ -6,7 +6,7 @@
 
 .header {
   height: var(--header-height);
-  background-color: var(--color-bg-primary);
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
   border-bottom: 1px solid var(--color-border);
   display: flex;
   align-items: center;
@@ -19,13 +19,13 @@
 .logo {
   font-size: var(--font-size-xl);
   font-weight: var(--font-weight-bold);
-  color: var(--color-text-primary);
+  color: #f1f5f9;
   text-decoration: none;
   transition: color var(--transition-fast);
 }
 
 .logo:hover {
-  color: var(--color-primary);
+  color: var(--color-primary-hover);
 }
 
 .body {

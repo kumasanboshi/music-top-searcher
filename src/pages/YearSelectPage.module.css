@@ -31,6 +31,14 @@
   border-bottom: 2px solid var(--color-border);
 }
 
+.container[data-genre='jpop'] .sectionTitle {
+  border-bottom-color: var(--color-genre-jpop-border);
+}
+
+.container[data-genre='western'] .sectionTitle {
+  border-bottom-color: var(--color-genre-western-border);
+}
+
 .decadeGrid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -79,6 +87,18 @@
   background-color: var(--color-primary-light);
   border-color: var(--color-primary);
   color: var(--color-primary);
+}
+
+.container[data-genre='jpop'] .yearLink:hover {
+  background-color: var(--color-genre-jpop-bg);
+  border-color: var(--color-genre-jpop);
+  color: var(--color-genre-jpop);
+}
+
+.container[data-genre='western'] .yearLink:hover {
+  background-color: var(--color-genre-western-bg);
+  border-color: var(--color-genre-western);
+  color: var(--color-genre-western);
 }
 
 @media (max-width: 767px) {

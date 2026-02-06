@@ -8,7 +8,7 @@ import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
 import styles from './SongDetailPage.module.css'
 
 function SongDetailPage() {
-  const { songId } = useParams<{ genre: string; songId: string }>()
+  const { genre, songId } = useParams<{ genre: string; songId: string }>()
   const isOnline = useOnlineStatus()
   const [detail, setDetail] = useState<SongDetail | null>(null)
   const [loading, setLoading] = useState(true)
@@ -58,7 +58,7 @@ function SongDetailPage() {
   const { song, rankingYear, rank, cdInfo, externalLinks, artistSongs } = detail
 
   return (
-    <div className={styles.container}>
+    <div className={styles.container} data-genre={genre}>
       <div className={styles.hero}>
         <h1 className={styles.songTitle}>{song.title}</h1>
         <p className={styles.artistName}>{song.artist.name}</p>

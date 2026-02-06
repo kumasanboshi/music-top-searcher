@@ -24,7 +24,7 @@ function YearSelectPage() {
   const genreLabel = GENRE_LABELS[genre ?? ''] ?? genre
 
   return (
-    <div className={styles.container}>
+    <div className={styles.container} data-genre={genre}>
       <div className={styles.header}>
         <h1 className={styles.title}>{genreLabel}</h1>
         <p className={styles.subtitle}>年代または年を選択してください</p>

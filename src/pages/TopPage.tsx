@@ -14,13 +14,13 @@ function TopPage() {
         <h2 className={styles.sectionTitle}>ジャンルを選択</h2>
         <div className={styles.genreButtons}>
           <Link to="/rankings/jpop" className={styles.genreLink}>
-            <Card variant="elevated" padding="lg" className={styles.genreCard}>
+            <Card variant="elevated" padding="lg" className={styles.genreCard} data-genre="jpop">
               <span className={styles.genreLabel}>邦楽</span>
               <span className={styles.genreDescription}>J-POP</span>
             </Card>
           </Link>
           <Link to="/rankings/western" className={styles.genreLink}>
-            <Card variant="elevated" padding="lg" className={styles.genreCard}>
+            <Card variant="elevated" padding="lg" className={styles.genreCard} data-genre="western">
               <span className={styles.genreLabel}>洋楽</span>
               <span className={styles.genreDescription}>Western</span>
             </Card>
