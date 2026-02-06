@@ -667,3 +667,47 @@
 ### 備考
 
 - React Routerのcatch-allルート（`*`）を使用して未定義パスをキャッチ
+
+## Issue #43: パンくずリストの実装 ✅
+
+### 実施内容
+
+- `src/hooks/useBreadcrumb.ts`: 現在のパスからパンくずを自動生成するフック
+- `src/components/Breadcrumb/Breadcrumb.tsx`: パンくずUIコンポーネント
+  - JSON-LD構造化データ対応（BreadcrumbList）
+  - アクセシビリティ対応（aria-label, aria-current）
+  - セパレータ（>）表示
+- `src/components/Breadcrumb/Breadcrumb.module.css`: スタイル
+- `src/types/index.ts`: BreadcrumbItem型追加
+- 全ページにパンくずリスト追加:
+  - YearSelectPage, RankingListPage, SongDetailPage
+  - SearchPage, AboutPage, PrivacyPolicyPage, TermsPage
+- `src/__tests__/useBreadcrumb.test.tsx`: 17テストケース
+- `src/__tests__/Breadcrumb.test.tsx`: 16テストケース
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 191 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `d7741ae5` | test: パンくずリストのテストを追加 |
+| `592aa29a` | feat: パンくずリストを実装 (#43) |
+| `c731aff8` | fix: JSON-LDの最後のパンくずにitem URLを追加 |
+
+### レビュー対応
+
+- **Codex + Claude Code ダブルチェック**
+  - 指摘: JSON-LDの最後のパンくず項目にitem URLが欠落
+  - 対応: 最後の項目にも現在のパス名でitem URLを設定するよう修正
+
+### 備考
+
+- Schema.org BreadcrumbList仕様に準拠
+- SSR環境では`window.location`を使用しているため追加対応が必要な場合あり
