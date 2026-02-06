@@ -1,5 +1,39 @@
 # 進捗記録
 
+## Issue #35: 各年のランキングページに100曲以上表示されてしまう ✅
+
+### 実施内容
+
+- `src/utils/validateRanking.ts` - 100件超過のバリデーションエラーを追加
+- `src/services/rankingService.ts` - `fetchRankingByYear()`で100件に制限（防御的実装）
+- `src/__tests__/validateRanking.test.ts` - 100件上限チェックのテスト3件を追加
+- `src/__tests__/rankingService.test.ts` - 100件制限のテスト3件を追加
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 125 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `3e2fa7f1` | test: validateRankingに100件上限チェックのテストを追加 |
+| `cfddf095` | feat: validateRankingに100件上限チェックを実装 |
+| `41d9db58` | test: rankingServiceに100件制限のテストを追加 |
+| `41aca9ef` | feat: fetchRankingByYearに100件制限を実装 |
+| `c271b80b` | Merge pull request #36 |
+
+### 備考
+
+- 根本原因: JSONデータファイルに190件のエントリが含まれていた
+- 対策: サービス層で100件に制限する防御的実装を追加
+- `fetchRankingsByDecade`は内部で`fetchRankingByYear`を使用するため、自動的に100件制限が適用される
+- 将来的な改善候補: `MAX_RANKING_ENTRIES`定数の共通化（現在は2箇所で重複定義）
+
 ## Issue #28: AmazonリンクをAmazon MusicとCD商品で分離する ✅
 
 ### 実施内容
