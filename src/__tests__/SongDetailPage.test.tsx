@@ -97,33 +97,41 @@ describe('SongDetailPage', () => {
   })
 
   it('Amazon Musicリンクを表示する（アフィリエイトタグ付き）', async () => {
+    // ダミーURL（example含む）の場合は検索リンクが生成される
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
 
     renderPage('jpop', 'jpop-2024-01')
 
     const link = await screen.findByRole('link', { name: 'Amazon Music' })
-    expect(link.getAttribute('href')).toContain('https://music.amazon.co.jp/example')
+    // exampleを含むダミーURLは検索リンクに置換される
+    expect(link.getAttribute('href')).toContain('amazon.co.jp/s')
+    expect(link.getAttribute('href')).toContain('Creepy%20Nuts')
     expect(link.getAttribute('href')).toContain('tag=')
   })
 
   it('Amazon CDリンクを表示する（アフィリエイトタグ付き）', async () => {
+    // ダミーURL（example含む）の場合は検索リンクが生成される
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
 
     renderPage('jpop', 'jpop-2024-01')
 
     const link = await screen.findByRole('link', { name: 'Amazon CD' })
-    expect(link.getAttribute('href')).toContain('https://amazon.co.jp/dp/example')
+    // exampleを含むダミーURLは検索リンクに置換される
+    expect(link.getAttribute('href')).toContain('amazon.co.jp/s')
+    expect(link.getAttribute('href')).toContain('Creepy%20Nuts')
     expect(link.getAttribute('href')).toContain('tag=')
   })
 
   it('Apple Musicリンクを表示する', async () => {
+    // ダミーURL（example含む）の場合は検索リンクが生成される
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
 
     renderPage('jpop', 'jpop-2024-01')
 
     const link = await screen.findByRole('link', { name: /Apple Music/ })
-    // Apple Musicのアフィリエイトトークンが設定されていない場合は元のURLのまま
-    expect(link.getAttribute('href')).toContain('https://music.apple.com/example')
+    // exampleを含むダミーURLは検索リンクに置換される
+    expect(link.getAttribute('href')).toContain('music.apple.com/jp/search')
+    expect(link.getAttribute('href')).toContain('Creepy%20Nuts')
   })
 
   it('同アーティストの他のランクイン曲を表示する', async () => {

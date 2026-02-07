@@ -44,6 +44,10 @@ function getAffiliateUrl(service: AffiliateService, url: string): string {
   }
 }
 
+function isDummyUrl(url: string): boolean {
+  return url.toLowerCase().includes('example')
+}
+
 function AffiliateLink({
   service,
   url,
@@ -52,9 +56,10 @@ function AffiliateLink({
   className,
   children,
 }: AffiliateLinkProps) {
-  const href = url
-    ? getAffiliateUrl(service, url)
-    : generateSearchUrl(service, songTitle, artistName)
+  const href =
+    url && !isDummyUrl(url)
+      ? getAffiliateUrl(service, url)
+      : generateSearchUrl(service, songTitle, artistName)
 
   return (
     <a
