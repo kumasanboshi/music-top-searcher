@@ -166,4 +166,92 @@ describe('AffiliateLink', () => {
       expect(link.getAttribute('href')).toContain(encodeURIComponent('テストアーティスト テスト曲'))
     })
   })
+
+  describe('ダミーURL検出', () => {
+    it('Amazon Music + exampleを含むURLの場合は検索リンクを生成する', () => {
+      render(
+        <AffiliateLink
+          service="amazon-music"
+          url="https://example.com/music/123"
+          songTitle="テスト曲"
+          artistName="テストアーティスト"
+        >
+          Amazon Music
+        </AffiliateLink>
+      )
+
+      const link = screen.getByRole('link')
+      expect(link.getAttribute('href')).toContain('amazon.co.jp')
+      expect(link.getAttribute('href')).toContain('digital-music')
+      expect(link.getAttribute('href')).toContain(encodeURIComponent('テストアーティスト テスト曲'))
+    })
+
+    it('Amazon CD + exampleを含むURLの場合は検索リンクを生成する', () => {
+      render(
+        <AffiliateLink
+          service="amazon-cd"
+          url="https://www.example.com/dp/B001234567"
+          songTitle="テスト曲"
+          artistName="テストアーティスト"
+        >
+          Amazon CD
+        </AffiliateLink>
+      )
+
+      const link = screen.getByRole('link')
+      expect(link.getAttribute('href')).toContain('amazon.co.jp')
+      expect(link.getAttribute('href')).toContain('i=music')
+      expect(link.getAttribute('href')).toContain(encodeURIComponent('テストアーティスト テスト曲'))
+    })
+
+    it('Apple Music + exampleを含むURLの場合は検索リンクを生成する', () => {
+      render(
+        <AffiliateLink
+          service="apple-music"
+          url="https://example.apple.com/jp/album/123"
+          songTitle="テスト曲"
+          artistName="テストアーティスト"
+        >
+          Apple Music
+        </AffiliateLink>
+      )
+
+      const link = screen.getByRole('link')
+      expect(link.getAttribute('href')).toContain('music.apple.com')
+      expect(link.getAttribute('href')).toContain(encodeURIComponent('テストアーティスト テスト曲'))
+    })
+
+    it('大文字EXAMPLEを含むURLの場合も検索リンクを生成する', () => {
+      render(
+        <AffiliateLink
+          service="amazon-music"
+          url="https://www.EXAMPLE.com/music/123"
+          songTitle="テスト曲"
+          artistName="テストアーティスト"
+        >
+          Amazon Music
+        </AffiliateLink>
+      )
+
+      const link = screen.getByRole('link')
+      expect(link.getAttribute('href')).toContain('amazon.co.jp')
+      expect(link.getAttribute('href')).toContain(encodeURIComponent('テストアーティスト テスト曲'))
+    })
+
+    it('有効なURL（example無し）の場合はアフィリエイトタグを付与する', () => {
+      render(
+        <AffiliateLink
+          service="amazon-music"
+          url="https://music.amazon.co.jp/albums/123"
+          songTitle="テスト曲"
+          artistName="テストアーティスト"
+        >
+          Amazon Music
+        </AffiliateLink>
+      )
+
+      const link = screen.getByRole('link')
+      expect(link).toHaveAttribute('href', 'https://music.amazon.co.jp/albums/123?tag=mock-22')
+    })
+  })
 })
