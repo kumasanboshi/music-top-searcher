@@ -89,6 +89,15 @@ function SongDetailPage() {
                   {cd.releaseDate && (
                     <span className={styles.cdDate}>{cd.releaseDate}</span>
                   )}
+                  <AffiliateLink
+                    service="amazon-cd"
+                    url=""
+                    songTitle={cd.title}
+                    artistName={song.artist.name}
+                    className={styles.cdAmazonLink}
+                  >
+                    Amazon
+                  </AffiliateLink>
                 </div>
               </Card>
             ))}
@@ -108,15 +117,6 @@ function SongDetailPage() {
               className={styles.externalLink}
             >
               Amazon Music
-            </AffiliateLink>
-            <AffiliateLink
-              service="amazon-cd"
-              url={externalLinks?.amazonCD || ''}
-              songTitle={song.title}
-              artistName={song.artist.name}
-              className={styles.externalLink}
-            >
-              Amazon CD
             </AffiliateLink>
             <AffiliateLink
               service="apple-music"

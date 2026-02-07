@@ -109,17 +109,38 @@ describe('SongDetailPage', () => {
     expect(link.getAttribute('href')).toContain('tag=')
   })
 
-  it('Amazon CDリンクを表示する（アフィリエイトタグ付き）', async () => {
-    // ダミーURL（example含む）の場合は検索リンクが生成される
+  it('CD情報セクションに各CD用のAmazonリンクを表示する', async () => {
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
 
     renderPage('jpop', 'jpop-2024-01')
 
-    const link = await screen.findByRole('link', { name: 'Amazon CD' })
-    // exampleを含むダミーURLは検索リンクに置換される
-    expect(link.getAttribute('href')).toContain('amazon.co.jp/s')
-    expect(link.getAttribute('href')).toContain('Creepy%20Nuts')
-    expect(link.getAttribute('href')).toContain('tag=')
+    await screen.findByText('CD情報')
+    // CD情報セクション内にAmazonリンクが表示される
+    const amazonLinks = screen.getAllByRole('link', { name: 'Amazon' })
+    expect(amazonLinks).toHaveLength(2) // シングルとアルバム
+
+    // シングル用リンク: CD名 + アーティスト名で検索
+    expect(amazonLinks[0].getAttribute('href')).toContain('amazon.co.jp/s')
+    expect(amazonLinks[0].getAttribute('href')).toContain('Bling-Bang-Bang-Born')
+    expect(amazonLinks[0].getAttribute('href')).toContain('Creepy%20Nuts')
+    expect(amazonLinks[0].getAttribute('href')).toContain('tag=')
+
+    // アルバム用リンク: CD名 + アーティスト名で検索
+    expect(amazonLinks[1].getAttribute('href')).toContain('amazon.co.jp/s')
+    expect(amazonLinks[1].getAttribute('href')).toContain('Creepy%20Nuts%20Best%20Album')
+    expect(amazonLinks[1].getAttribute('href')).toContain('tag=')
+  })
+
+  it('外部リンクセクションにAmazon CDが表示されない', async () => {
+    vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
+
+    renderPage('jpop', 'jpop-2024-01')
+
+    await screen.findByText('外部リンク')
+    // 外部リンクセクションにAmazon CDは表示されない
+    expect(screen.queryByRole('link', { name: 'Amazon CD' })).not.toBeInTheDocument()
+    // Amazon Musicは引き続き表示される
+    expect(screen.getByRole('link', { name: 'Amazon Music' })).toBeInTheDocument()
   })
 
   it('Apple Musicリンクを表示する', async () => {
@@ -194,9 +215,9 @@ describe('SongDetailPage', () => {
 
     const link = await screen.findByRole('link', { name: /YouTube/ })
     expect(link).toBeInTheDocument()
-    // Amazon/Apple Musicは検索リンクとして表示される
+    // Amazon Music/Apple Musicは検索リンクとして表示される
     expect(screen.getByRole('link', { name: 'Amazon Music' })).toBeInTheDocument()
-    expect(screen.getByRole('link', { name: 'Amazon CD' })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Apple Music' })).toBeInTheDocument()
   })
 
   it('エラー時にメッセージを表示する', async () => {
