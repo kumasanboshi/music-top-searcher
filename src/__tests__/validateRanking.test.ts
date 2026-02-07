@@ -239,7 +239,7 @@ describe('validateRanking', () => {
       const result = validateRanking(data)
       expect(result.valid).toBe(true)
       expect(result.errors).toHaveLength(0)
-      expect(data.entries).toHaveLength(10)
+      expect(data.entries).toHaveLength(100)
     })
 
     it('2024年洋楽データが有効', () => {
@@ -248,7 +248,7 @@ describe('validateRanking', () => {
       const result = validateRanking(data)
       expect(result.valid).toBe(true)
       expect(result.errors).toHaveLength(0)
-      expect(data.entries).toHaveLength(10)
+      expect(data.entries).toHaveLength(100)
     })
   })
 })

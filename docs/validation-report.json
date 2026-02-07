@@ -1,0 +1,197 @@
+{
+  "errors": [],
+  "warnings": [
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-elton-john",
+      "names": [
+        "Elton John",
+        "Elton John & Dua Lipa"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-wings",
+      "names": [
+        "Paul McCartney & Wings",
+        "Wings"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-usher",
+      "names": [
+        "Usher",
+        "Usher ft. Lil Jon & Ludacris"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-santana",
+      "names": [
+        "Santana ft. Rob Thomas",
+        "Santana ft. The Product G&B"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-maroon-5",
+      "names": [
+        "Maroon 5",
+        "Maroon 5 ft. Cardi B"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-beyonce",
+      "names": [
+        "Beyoncé",
+        "Beyonce ft. Jay-Z",
+        "Beyonce ft. Sean Paul",
+        "Beyonce"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-rihanna",
+      "names": [
+        "Rihanna",
+        "Rihanna ft. Drake"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-eminem",
+      "names": [
+        "Eminem",
+        "Eminem ft. Rihanna"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-nelly",
+      "names": [
+        "Nelly",
+        "Nelly ft. Kelly Rowland"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-50-cent",
+      "names": [
+        "50 Cent",
+        "50 Cent ft. Nate Dogg"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-outkast",
+      "names": [
+        "OutKast ft. Sleepy Brown",
+        "OutKast"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-bob",
+      "names": [
+        "B.o.B ft. Hayley Williams",
+        "B.o.B ft. Bruno Mars"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-shawn-mendes",
+      "names": [
+        "Shawn Mendes",
+        "Shawn Mendes & Camila Cabello"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-taylor",
+      "names": [
+        "Taylor Swift",
+        "Taylor Swift ft. Post Malone"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-cardi-b",
+      "names": [
+        "Cardi B",
+        "Cardi B, Bad Bunny & J Balvin"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-post-malone",
+      "names": [
+        "Post Malone",
+        "Post Malone ft. 21 Savage",
+        "Post Malone ft. Ty Dolla $ign",
+        "Post Malone & Swae Lee"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-justin-bieber",
+      "names": [
+        "Justin Bieber",
+        "Justin Bieber ft. Daniel Caesar & Giveon"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-the-chainsmokers",
+      "names": [
+        "The Chainsmokers ft. Daya",
+        "The Chainsmokers ft. Halsey",
+        "The Chainsmokers & Coldplay"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-lil-nas-x",
+      "names": [
+        "Lil Nas X",
+        "Lil Nas X & Jack Harlow"
+      ]
+    },
+    {
+      "category": "ARTIST_NAME_VARIATION",
+      "message": "同一IDで表記揺れあり",
+      "artistId": "a-doja-cat",
+      "names": [
+        "Doja Cat",
+        "Doja Cat ft. SZA"
+      ]
+    }
+  ],
+  "summary": {
+    "totalRankingFiles": 102,
+    "totalSongFiles": 10200,
+    "totalEntries": 10200,
+    "errorCount": 0,
+    "warningCount": 20
+  }
+}
