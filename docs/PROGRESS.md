@@ -757,3 +757,34 @@
 
 - ft./コラボによる表記揺れ20件は許容（同一アーティストの別名義として扱う）
 - 継続的なデータ品質管理用に`validate-data.mjs`スクリプトを追加
+
+## Issue #65: CD情報セクションにAmazon検索リンクを追加 ✅
+
+### 実施内容
+
+- `src/pages/SongDetailPage.tsx`: CD情報セクションの各カードにAmazonリンクを追加、外部リンクセクションから「Amazon CD」を削除
+- `src/pages/SongDetailPage.module.css`: CDカード内Amazonリンク用スタイル追加
+- `src/__tests__/SongDetailPage.test.tsx`: CD情報セクションのAmazonリンク表示テスト追加
+- `src/__tests__/SongDetailPage.offline.test.tsx`: Amazon CD削除に伴うテスト更新
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 223 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `3a5cbccf` | test: CD情報セクションにAmazonリンク表示のテストを追加 |
+| `6fa66d17` | feat: CD情報セクションにAmazon検索リンクを追加 |
+| `16ecfb2b` | test: オフラインテストからAmazon CDリンクの確認を削除 |
+| `adef1eb9` | Merge pull request #67 |
+
+### 備考
+
+- シングル/アルバムそれぞれのCD名 + アーティスト名で検索するリンクを生成
+- 外部リンクセクションは「Amazon Music」「Apple Music」「YouTube」の3つに整理
