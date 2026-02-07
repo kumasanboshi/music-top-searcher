@@ -6,6 +6,7 @@ import type { SongDetail } from '../types'
 import Card from '../components/Card/Card'
 import LoadingSpinner from '../components/LoadingSpinner/LoadingSpinner'
 import Breadcrumb from '../components/Breadcrumb/Breadcrumb'
+import AffiliateLink from '../components/AffiliateLink'
 import { useBreadcrumb } from '../hooks/useBreadcrumb'
 import styles from './SongDetailPage.module.css'
 
@@ -99,36 +100,33 @@ function SongDetailPage() {
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>外部リンク</h2>
           <div className={styles.linkGrid}>
-            {externalLinks?.amazonMusic && (
-              <a
-                href={externalLinks.amazonMusic}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.externalLink}
-              >
-                Amazon Music
-              </a>
-            )}
-            {externalLinks?.amazonCD && (
-              <a
-                href={externalLinks.amazonCD}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.externalLink}
-              >
-                Amazon CD
-              </a>
-            )}
-            {externalLinks?.appleMusic && (
-              <a
-                href={externalLinks.appleMusic}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.externalLink}
-              >
-                Apple Music
-              </a>
-            )}
+            <AffiliateLink
+              service="amazon-music"
+              url={externalLinks?.amazonMusic || ''}
+              songTitle={song.title}
+              artistName={song.artist.name}
+              className={styles.externalLink}
+            >
+              Amazon Music
+            </AffiliateLink>
+            <AffiliateLink
+              service="amazon-cd"
+              url={externalLinks?.amazonCD || ''}
+              songTitle={song.title}
+              artistName={song.artist.name}
+              className={styles.externalLink}
+            >
+              Amazon CD
+            </AffiliateLink>
+            <AffiliateLink
+              service="apple-music"
+              url={externalLinks?.appleMusic || ''}
+              songTitle={song.title}
+              artistName={song.artist.name}
+              className={styles.externalLink}
+            >
+              Apple Music
+            </AffiliateLink>
             <a
               href={`https://www.youtube.com/results?search_query=${encodeURIComponent(song.artist.name + ' ' + song.title)}`}
               target="_blank"

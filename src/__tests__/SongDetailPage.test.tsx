@@ -96,22 +96,24 @@ describe('SongDetailPage', () => {
     expect(screen.getByText(/2024-03-15/)).toBeInTheDocument()
   })
 
-  it('Amazon Musicリンクを表示する', async () => {
+  it('Amazon Musicリンクを表示する（アフィリエイトタグ付き）', async () => {
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
 
     renderPage('jpop', 'jpop-2024-01')
 
     const link = await screen.findByRole('link', { name: 'Amazon Music' })
-    expect(link).toHaveAttribute('href', 'https://music.amazon.co.jp/example')
+    expect(link.getAttribute('href')).toContain('https://music.amazon.co.jp/example')
+    expect(link.getAttribute('href')).toContain('tag=')
   })
 
-  it('Amazon CDリンクを表示する', async () => {
+  it('Amazon CDリンクを表示する（アフィリエイトタグ付き）', async () => {
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(mockSongDetail)
 
     renderPage('jpop', 'jpop-2024-01')
 
     const link = await screen.findByRole('link', { name: 'Amazon CD' })
-    expect(link).toHaveAttribute('href', 'https://amazon.co.jp/dp/example')
+    expect(link.getAttribute('href')).toContain('https://amazon.co.jp/dp/example')
+    expect(link.getAttribute('href')).toContain('tag=')
   })
 
   it('Apple Musicリンクを表示する', async () => {
@@ -120,7 +122,8 @@ describe('SongDetailPage', () => {
     renderPage('jpop', 'jpop-2024-01')
 
     const link = await screen.findByRole('link', { name: /Apple Music/ })
-    expect(link).toHaveAttribute('href', 'https://music.apple.com/example')
+    // Apple Musicのアフィリエイトトークンが設定されていない場合は元のURLのまま
+    expect(link.getAttribute('href')).toContain('https://music.apple.com/example')
   })
 
   it('同アーティストの他のランクイン曲を表示する', async () => {
@@ -131,16 +134,17 @@ describe('SongDetailPage', () => {
     expect(await screen.findByText('二度寝')).toBeInTheDocument()
   })
 
-  it('外部リンクがない場合はリンクセクションを表示しない', async () => {
+  it('外部リンクがない場合は検索リンクを表示する', async () => {
     const noLinks = { ...mockSongDetail, externalLinks: undefined }
     vi.mocked(songService.fetchSongDetail).mockResolvedValue(noLinks)
 
     renderPage('jpop', 'jpop-2024-01')
 
     await screen.findByRole('heading', { level: 1, name: 'Bling-Bang-Bang-Born' })
-    expect(screen.queryByRole('link', { name: 'Amazon Music' })).not.toBeInTheDocument()
-    expect(screen.queryByRole('link', { name: 'Amazon CD' })).not.toBeInTheDocument()
-    expect(screen.queryByRole('link', { name: /Apple Music/ })).not.toBeInTheDocument()
+    // URLがない場合は検索リンクが生成される
+    const amazonMusicLink = screen.getByRole('link', { name: 'Amazon Music' })
+    expect(amazonMusicLink.getAttribute('href')).toContain('amazon.co.jp/s')
+    expect(amazonMusicLink.getAttribute('href')).toContain('Creepy%20Nuts')
   })
 
   it('CD情報がない場合はCDセクションを表示しない', async () => {
@@ -182,8 +186,9 @@ describe('SongDetailPage', () => {
 
     const link = await screen.findByRole('link', { name: /YouTube/ })
     expect(link).toBeInTheDocument()
-    expect(screen.queryByRole('link', { name: 'Amazon Music' })).not.toBeInTheDocument()
-    expect(screen.queryByRole('link', { name: 'Amazon CD' })).not.toBeInTheDocument()
+    // Amazon/Apple Musicは検索リンクとして表示される
+    expect(screen.getByRole('link', { name: 'Amazon Music' })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Amazon CD' })).toBeInTheDocument()
   })
 
   it('エラー時にメッセージを表示する', async () => {
