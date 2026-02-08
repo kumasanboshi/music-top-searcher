@@ -788,3 +788,44 @@
 
 - シングル/アルバムそれぞれのCD名 + アーティスト名で検索するリンクを生成
 - 外部リンクセクションは「Amazon Music」「Apple Music」「YouTube」の3つに整理
+
+## Issue #70: 一時的にTOP10のみ表示に変更 ✅
+
+### 実施内容
+
+- `src/services/rankingService.ts`: MAX_RANKING_ENTRIES を 100 → 10 に変更
+- `src/pages/RankingListPage.tsx`: ページタイトルを TOP100 → TOP10 に変更
+- `src/__tests__/rankingService.test.ts`: 100件制限 → 10件制限のテストに変更
+- `src/__tests__/RankingListPage.test.tsx`: TOP100 → TOP10 のテストに変更
+- `docs/PROJECT.md`: 一時的な変更を注記
+
+### 検証結果
+
+| コマンド | 結果 |
+|---------|------|
+| `npm test` | ✅ 223 tests passed |
+| `npm run lint` | ✅ エラーなし |
+| `npm run typecheck` | ✅ エラーなし |
+
+### コミット履歴
+
+| ハッシュ | メッセージ |
+|---------|-----------|
+| `4721e32d` | test: ランキング表示を10件に制限するテストを追加 |
+| `1b5477a6` | feat: ランキング表示を一時的にTOP10に制限 |
+| `dbb5758f` | docs: TOP10制限の一時的な変更をPROJECT.mdに反映 |
+| `d9c6a12f` | Merge pull request #71 |
+
+### 背景
+
+11〜100位のデータは以下の問題がある：
+- 楽曲タイトルが架空（テンプレート生成）
+- CD情報（アルバム名等）が架空
+- リリース日がランダム生成
+
+### 今後の対応
+
+年ごとにデータを検証し、段階的にTOP100まで拡張予定：
+1. 1975年の11〜100位を検証・修正 → 1975年をTOP100表示に
+2. 1976年の11〜100位を検証・修正 → 1976年をTOP100表示に
+3. ... 以降、順次対応
