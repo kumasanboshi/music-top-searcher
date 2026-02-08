@@ -52,7 +52,7 @@ describe('rankingService', () => {
       expect(result).toBeNull()
     })
 
-    describe('100件制限', () => {
+    describe('10件制限', () => {
       const createMockEntries = (count: number) =>
         Array.from({ length: count }, (_, i) => ({
           rank: i + 1,
@@ -64,41 +64,41 @@ describe('rankingService', () => {
           },
         }))
 
-      it('取得したランキングが100件を超える場合、100件に制限する', async () => {
-        const mockRankingWith150 = {
+      it('取得したランキングが10件を超える場合、10件に制限する', async () => {
+        const mockRankingWith15 = {
           year: 2024,
           genre: 'jpop',
-          entries: createMockEntries(150),
+          entries: createMockEntries(15),
         }
         vi.spyOn(globalThis, 'fetch').mockResolvedValue(
-          new Response(JSON.stringify(mockRankingWith150), { status: 200 }),
+          new Response(JSON.stringify(mockRankingWith15), { status: 200 }),
         )
 
         const result = await fetchRankingByYear(2024, 'jpop')
 
         expect(result).not.toBeNull()
-        expect(result!.entries).toHaveLength(100)
+        expect(result!.entries).toHaveLength(10)
       })
 
-      it('取得したランキングが100件以下の場合、そのまま返す', async () => {
-        const mockRankingWith50 = {
+      it('取得したランキングが10件以下の場合、そのまま返す', async () => {
+        const mockRankingWith5 = {
           year: 2024,
           genre: 'jpop',
-          entries: createMockEntries(50),
+          entries: createMockEntries(5),
         }
         vi.spyOn(globalThis, 'fetch').mockResolvedValue(
-          new Response(JSON.stringify(mockRankingWith50), { status: 200 }),
+          new Response(JSON.stringify(mockRankingWith5), { status: 200 }),
         )
 
         const result = await fetchRankingByYear(2024, 'jpop')
 
         expect(result).not.toBeNull()
-        expect(result!.entries).toHaveLength(50)
+        expect(result!.entries).toHaveLength(5)
       })
 
-      it('100件に制限する際、rank順（昇順）で先頭100件を取得する', async () => {
-        // シャッフルされた150件のエントリを作成
-        const shuffledEntries = createMockEntries(150).sort(() => Math.random() - 0.5)
+      it('10件に制限する際、rank順（昇順）で先頭10件を取得する', async () => {
+        // シャッフルされた15件のエントリを作成
+        const shuffledEntries = createMockEntries(15).sort(() => Math.random() - 0.5)
         const mockRankingShuffled = {
           year: 2024,
           genre: 'jpop',
@@ -111,11 +111,11 @@ describe('rankingService', () => {
         const result = await fetchRankingByYear(2024, 'jpop')
 
         expect(result).not.toBeNull()
-        expect(result!.entries).toHaveLength(100)
-        // rank 1-100 のエントリのみが含まれていることを検証
+        expect(result!.entries).toHaveLength(10)
+        // rank 1-10 のエントリのみが含まれていることを検証
         const ranks = result!.entries.map((e) => e.rank).sort((a, b) => a - b)
         expect(ranks[0]).toBe(1)
-        expect(ranks[99]).toBe(100)
+        expect(ranks[9]).toBe(10)
       })
     })
   })
@@ -158,7 +158,7 @@ describe('rankingService', () => {
       }
     })
 
-    it('複数年のデータを集約して総合ランキング100曲を返す', async () => {
+    it('複数年のデータを集約して総合ランキングを返す', async () => {
       const ranking2020: Ranking = {
         year: 2020,
         genre: 'jpop',
@@ -236,12 +236,12 @@ describe('rankingService', () => {
       expect(result).toBeNull()
     })
 
-    it('年代別総合ランキングは100曲に制限される', async () => {
-      // 3年分のデータ（各年100曲）を作成
+    it('年代別総合ランキングは10曲に制限される', async () => {
+      // 3年分のデータ（各年10曲）を作成
       const createYearRanking = (year: number): Ranking => ({
         year,
         genre: 'jpop',
-        entries: Array.from({ length: 100 }, (_, i) => ({
+        entries: Array.from({ length: 10 }, (_, i) => ({
           rank: i + 1,
           song: {
             id: `s-${year}-${i + 1}`,
@@ -274,10 +274,10 @@ describe('rankingService', () => {
       const result = await fetchRankingsByDecade('2020s', 'jpop')
 
       expect(result).not.toBeNull()
-      expect(result!.entries).toHaveLength(100)
-      // 新しい順位が1から100まで振られている
+      expect(result!.entries).toHaveLength(10)
+      // 新しい順位が1から10まで振られている
       expect(result!.entries[0].rank).toBe(1)
-      expect(result!.entries[99].rank).toBe(100)
+      expect(result!.entries[9].rank).toBe(10)
     })
   })
 })
