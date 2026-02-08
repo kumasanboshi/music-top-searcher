@@ -1,6 +1,8 @@
 import type { Genre, Ranking, RankingEntry } from '../types'
 
-const MAX_RANKING_ENTRIES = 100
+// 一時的にTOP10のみ表示（Issue #70）
+// 年ごとにデータ検証が完了次第、段階的にTOP100まで拡張予定
+const MAX_RANKING_ENTRIES = 10
 
 interface DecadeRankingEntry extends RankingEntry {
   year: number
