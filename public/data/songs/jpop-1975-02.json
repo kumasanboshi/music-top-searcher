@@ -1,10 +1,10 @@
 {
   "song": {
     "id": "jpop-1975-02",
-    "title": "心のこり",
+    "title": "シクラメンのかほり",
     "artist": {
-      "id": "a-hosokawa-takashi",
-      "name": "細川たかし"
+      "id": "a-fuse-akira",
+      "name": "布施明"
     },
     "genre": "jpop"
   },
@@ -12,47 +12,14 @@
   "rank": 2,
   "cdInfo": [
     {
-      "title": "心のこり",
+      "title": "シクラメンのかほり",
       "type": "single",
-      "releaseDate": "1975-01-01"
-    },
-    {
-      "title": "ALL TIME 空",
-      "type": "album",
-      "releaseDate": "1975-06-10"
+      "releaseDate": "1975-04-10"
     }
   ],
   "externalLinks": {
     "amazonMusic": "https://music.amazon.co.jp/albums/example1",
-    "amazonCD": "https://amazon.co.jp/dp/example1",
     "appleMusic": "https://music.apple.com/jp/album/example1"
   },
-  "artistSongs": [
-    {
-      "rank": 2,
-      "song": {
-        "id": "jpop-1983-02",
-        "title": "矢切の渡し",
-        "artist": {
-          "id": "a-hosokawa-takashi",
-          "name": "細川たかし"
-        },
-        "genre": "jpop"
-      },
-      "year": 1983
-    },
-    {
-      "rank": 3,
-      "song": {
-        "id": "jpop-1982-03",
-        "title": "北酒場",
-        "artist": {
-          "id": "a-hosokawa-takashi",
-          "name": "細川たかし"
-        },
-        "genre": "jpop"
-      },
-      "year": 1982
-    }
-  ]
+  "artistSongs": []
 }
