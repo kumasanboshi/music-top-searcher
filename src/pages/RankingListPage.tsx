@@ -86,7 +86,7 @@ function RankingListPage() {
       <Breadcrumb items={breadcrumbs} />
       <div className={styles.header}>
         <h1 className={styles.title}>
-          {genreLabel} TOP100
+          {genreLabel} TOP10
         </h1>
         <span className={styles.period}>{titleSuffix}</span>
       </div>

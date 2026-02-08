@@ -64,7 +64,7 @@ describe('RankingListPage', () => {
       renderYearPage('jpop', '2024')
 
       expect(
-        await screen.findByRole('heading', { name: /邦楽 TOP100/i }),
+        await screen.findByRole('heading', { name: /邦楽 TOP10/i }),
       ).toBeInTheDocument()
       expect(screen.getByText('2024')).toBeInTheDocument()
     })
@@ -78,7 +78,7 @@ describe('RankingListPage', () => {
       renderYearPage('western', '2024')
 
       expect(
-        await screen.findByRole('heading', { name: /洋楽 TOP100/i }),
+        await screen.findByRole('heading', { name: /洋楽 TOP10/i }),
       ).toBeInTheDocument()
       expect(screen.getByText('2024')).toBeInTheDocument()
     })
@@ -142,13 +142,13 @@ describe('RankingListPage', () => {
       renderDecadePage('jpop', '2020s')
 
       expect(
-        await screen.findByRole('heading', { name: /邦楽 TOP100/i }),
+        await screen.findByRole('heading', { name: /邦楽 TOP10/i }),
       ).toBeInTheDocument()
       expect(screen.getByText('2020s')).toBeInTheDocument()
     })
 
-    it('総合ランキング100曲を表示する', async () => {
-      // 年代別総合ランキングは、各年のポイントを集計した上位100曲
+    it('総合ランキングを表示する', async () => {
+      // 年代別総合ランキングは、各年のポイントを集計した上位曲
       const decadeRanking: Ranking = {
         year: 0,
         genre: 'jpop',
